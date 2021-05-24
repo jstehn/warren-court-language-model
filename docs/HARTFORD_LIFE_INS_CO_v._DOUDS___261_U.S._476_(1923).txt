@@ -1,0 +1,44 @@
+Description: HARTFORD LIFE INS CO v. DOUDS , 261 U.S. 476 (1923)
+Date: 1923-04-09 00:00:00
+Docket: 265
+Opinion
+
+
+United States Supreme Court
+HARTFORD LIFE INS. CO. v. DOUDS(1923)
+No. 265
+Argued: Decided: April 9, 1923
+
+
+
+
+[261 U.S. 476, 477]
+ 
+ Messrs. H. B. Arnold, of Columbus, Ohio, and James C. Jones, Frank H. Sullivan, and James C. Jones, Jr., all of St. Louis, Mo., for petitioners.
+ Mr. Smith W. Bennett, of Columbus, Ohio, for respondents.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ These are separate causes, but the facts are similar and both present the same essential question. A statement based upon record No. 271 will suffice.
+ Petitioner is a Connecticut corporation with home office at Hartford. For many years it has carried on the business of insurance upon the assessment or mutual plan within the state of Ohio. May 4, 1882, it issued to respondent Langdale, aged 40, a certificate of membership, Safety Fund Department, for $3,000. This recites that in consideration of representations, etc., and 'the further payment in accordance with the conditions hereof of all mortuary assessments' the company agrees (among other things) to assess holders of certificates 'according to the table of graduated assessment rates given hereon, as determined by their respective ages and the number of such certificates in force,' and pay the amount so collected to the assured's legal representatives.
+ The 'Table of Graduated Assessment Rates for Death Losses for Every $ 1,000 of a Total Indemnity of $1,000,000' is printed upon the certificate and shows increasing rates for ages from 15 to 60. The highest specified rate 
+
+[261 U.S. 476, 478]
+ 
+ is at 60-$2.68. Immediately after the table this statement appears:
+'These rates decrease in proportion as the total indemnity in force increases above one million dollars in amount, and are calculated so as to cover the usual expense for collecting.'
+
+ During the years 1903 to 1914 the company made and the insured paid assessments on account of death losses at rates varying from $2.86 to $4 per thousand. To recover all above $2.68 per thousand so paid, with interest, respondent brought suit in the common pleas court, Franklin county, Ohio. The company appeared, demurred, and later answered, saving at all times the question of jurisdiction. A judgment against it was affirmed by the Supreme Court. 103 Ohio St. 398, 136 N. E. 274; 103 Ohio St. 433, 138 N. E. 96.
+ Petitioner now insists that the trial court lacked jurisdiction of the subject-matter; that the suit involved the management of its internal affairs and the validity of action relative to the Safety Fund Department; that the courts of Connecticut have exclusive jurisdiction over such matters; and that enforcement of the Ohio judgment will deprive it of property without due process of law.
+ The court below confined its ruling concerning jurisdiction to the trial court's power to render the above-mentioned money judgment, and it held that to determine the issue did not require exercise of visitorial power over the foreign corporation; that the judgment did not interfere with the discretion of petitioner's officers or the management of its internal affairs. This conclusion, we think, is plainly right.
+ By a written contract petitioner had agreed that no mortuary assessment should exceed $2.68 per thousand. It de anded and received more, and respondent sued to recover the excess. All parties came before the court; the necessary facts were established; and he obtained judgment for a definite sum of money. This cannot interfere with the management of the company's internal affairs. 
+
+[261 U.S. 476, 479]
+ 
+ In the recent cause of Frick v. Hartford Life Insurance Co. (November 27, 1922) 98 Conn. 251, 119 Atl. 229, instituted to enforce an Iowa judgment (179 Iowa, 149, 159 N. W. 247) against petitioner based upon facts essentially like those here disclosed, the Supreme Court of Connecticut considered the precise point now urged upon us. In harmony with Dresser v. Hartford Life Insurance Co., 80 Conn. 681, 709, 70 Atl. 39, it held that the membership certificate constituted a contract not to demand of the assured more than $2.68 per thousand for any mortuary assessment, and also that the jurisdiction of the Iowa court to render judgment for excess payments was clear.
+ Hartford Life Insurance Co. v. Ibs, 
+237 U.S. 662
+, 35 Sup. Ct. 692, L. R. A. 1916A, 765, is not in point. That controversy related to the effect of the decree in Dresser v. Hartford Life Insurance Co., supra, a class suit instituted to determine the status and proper use of the mortuary fund. The causes now under consideration present no such problem.
+ The judgments below are affirmed. 
+
+
+

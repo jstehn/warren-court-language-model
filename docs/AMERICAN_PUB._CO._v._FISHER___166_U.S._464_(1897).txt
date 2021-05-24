@@ -1,0 +1,65 @@
+Description: AMERICAN PUB. CO. v. FISHER , 166 U.S. 464 (1897)
+Date: 1897-04-12 00:00:00
+Docket: 242
+Opinion
+
+
+United States Supreme Court
+AMERICAN PUB. CO. v. FISHER(1897)
+No. 242
+Argued: Decided: April 12, 1897
+
+
+ This action of the trial and supreme courts in sustaining a verdict returned by only nine of the jurors was under the authority of an act of the legislature of Utah approved March 10, 1892 (Laws Utah 1892, p. 46), which provides as follows:
+'Section 1. That section 3371 of the Compiled Laws of 1888 of Utah is hereby amended so as to read as follows:
+
+"Sec. 3371. In all civil cases a verdict may be rendered on the concurrence therein of nine or more members of the jury."
+
+ The bill of exceptions contains this recital in respect to an instruction and the verdict:
+'The court further charges you that the concurrence of nine or more members of the jury is essential to your verdict, and that all who agree to it should sign it.
+
+'(To which last charge the plaintiff duly excepted.)
+
+'The jury, having retired and deliberated, returned a written verdict into court on the 12th day of December, 1892, 'finding the issues for the defendant,' signed by nine (9) of its members,-the others refusing to concur therein. Which verdict the court then and there received, and caused to be entered upon the record.
+
+'To which action of the court the plaintiff excepted.' 
+
+[166 U.S. 464, 466]
+ 
+ J. M. Wilson, for plaintiff in error.
+
+ J. L. Rawlins, for defendants in error.
+
+ Mr. Justice BREWER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ As the amount in controversy is over $5,000, this court, in any view, has jurisdiction of the case, and may inquire into all matters properly preserved in the record. The recital in the bill of exceptions shows that proper exceptions were taken to the charge of the court in respect to the number of jurors whose concurrence was essential to the verdict, and also to its action in receiving and entering of record such verdict.
+ The territorial statute was relied upon as authority for this action. Its validity, therefore, must be determined. Whether the seventh amendment to the constitution of the United States, which provides that 'in suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved,' operates ex proprio vigore to invalidate this statute, may be a matter of dispute. In Webster v. Reid, 11 How. 437, an act of the legislature of the territory of Iowa dispensing with a jury in a certain class of common-law actions was held void. While in the opinion, on page 460, the seventh amendment was quoted, it was also said, 'The organic law of the territory of Iowa, by express provision and by reference, extended the laws of the United States, including the ordinance of 1787, over the territory, so far as they are applicable;' and the ordinance of 1787 (article 2), in terms, provided that 'the inhabitants of the said territory shall always be entitled to the benefits of the writ of habeas corpus, and of the trial by jury.' So the invalidity may have been adjudged by reason of the conflict with congressional legislation. In Reynolds v. U. S., 
+98 U.S. 145
+, 154, it was said, in reference to a criminal case coming from the territory of Utah, that 'by the constitution of the United States, Amend. 6, the accused was entitled to a trial by 
+
+[166 U.S. 464, 467]
+ 
+ an impartial jury.' Both of these cases were quoted in Callan v. Wilson, 
+127 U.S. 540
+, 8 Sup. Ct. 1301, as authorities to sustain the ruling that the provisions in the constitution of the United States relating to trial by jury are in force in the District of Columbia. On the other hand, in Late Corporation of Church of Jesus Christ of Latter-Day Saints v. U. S., 
+136 
+U.S. 1, 44
+, 10 S. Sup. Ct. 792, 803, it was said by Mr. Justice Bradley, speaking for the court: 'Doubtless, congress, in legislating for the territories, would be subject to those fundamental limitations in favor of personal rights which are formulated in the constitution and its amendment; but these limitations would exist rather by inference and the general spirit of the constitution, from which congress derives all its powers, than by any express and direct application of its provisions.' And in McAllister v. U. S., 
+141 U.S. 174
+, 11 Sup. Ct. 949, it was held that the constitutional provision in respect to the tenure of judicial offices did not apply to territorial judges.
+ But if the seventh amendment does not operate, in and of itself, to invalidate this territorial statute, then congress has full control over the territories, irrespective of any express constitutional limitations, and it has legislated in respect to this matter. In the first place, in the act to establish a territorial government for Utah (9 Stat. 458,  17) it enacted 'that the constitution and laws of the United States are hereby extended over and declared to be in force in said territory of Utah, so far as the same, or any provision thereof, may be applicable.' A subsequent statute has more specific reference to jury trials. 18 Stat. 27, c. 80. The first section of this act, after confirming the statutes of the various territories so far as they authorize a uniform course of proceeding in all cases whether legal or equitable, closes with this proviso: 'Provided, that no party has been or shall be deprived of the right of trial by jury in cases cognizable at common law.' This, of course, implies, not merely that the form of a jury trial be preserved, but also all its substantial elements. Walker v. Railroad Co., 
+165 U.S. 593
+, 17 Sup . Ct. 421.
+ Therefore, either the seventh amendment to the constitution, or these acts of congress, or all together, secured to 
+
+[166 U.S. 464, 468]
+ 
+ every litigant in a common-law action in the courts of the territory of Utah the right to a trial by jury, and nullified any act of its legislature which attempted to take from him anything which is of the substance of that right. Now, unanimity was one of the peculiar and essential features of trial by jury at the common law. No authorities are needed to sustain this proposition. Whatever may be true as to legislation which changes any mere details of a jury trial, it is clear that a statute which destroys this substantial and essential feature thereof is one abridging the right. It follows, therefore, that the court erred in receiving a verdict returned by only nine jurors, the others not concurring.
+ In order to guard against any misapprehension, it may be proper to say that the power of a state to change the rule in respect to unanimity of juries is not before us for consideration. Walker v. Sauvinet, 
+92 U.S. 90
+; Hurtado v. People, 
+110 U.S. 516
+, 4 Sup. Ct. 111, 292.
+ The judgment will be reversed, and as the questions involved in the case are not of a federal nature, and diverse citizenship is not alleged, the case must be remanded to the supreme court of the state for further proceedings. 
+
+
+

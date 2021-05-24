@@ -1,0 +1,39 @@
+Description: NORFOLK & W.R. CO. v. DIXIE TOBACCO CO. , 228 U.S. 593 (1913)
+Date: 1913-05-12 00:00:00
+Docket: 265
+Opinion
+
+
+United States Supreme Court
+NORFOLK & W.R. CO. v. DIXIE TOBACCO CO.(1913)
+No. 265
+Argued: April 28, 1913Decided: May 12, 1913
+
+
+
+ Mr. Francis Markoe Rivinus, by special leave, and Messrs. Samuel Griffin, Thomas Reath, and Theodore W. Reath for plaintiff in error. 
+
+[228 U.S. 593, 594]
+ 
+ No appearance for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action brought by the defendant in error to recover for damage to tobacco shipped by it on the railroad at Bedfore City, Virginia, to Marshall, Texas. The plaintiff got a verdict and judgment, which was affirmed by the supreme court of appeals (111 Va. 813, 69 S. E. 1106), the case having been taken there on the ground that the act of June 29, 1906, chap. 3591,  7, 34 Stat. at L. 584, 595, U. S. Comp. Stat. Supp. 1911, pp. 1288, 1304, amending  20 of the act to regulate commerce, of February 4, 1887, chap. 104, 24 Stat. at L. 379, 386, is unconstitutional. This section requires any common carrier receiving property for trans- 
+
+[228 U.S. 593, 595]
+ 
+ portation from a point in one state to a point in another to issue a receipt or bill of lading for the same; makes the receiving carrier liable for loss caused by any common carrier in transitu; and provides that no contract shall exempt it from the liability thus imposed.
+ The bill of lading stipulated that no carrier should be liable for damages not occurring on its portion of the through route. There was evidence that the tobacco was damaged after it left the railroad company's hands; and the defendant asked an instruction that if the jury believe that it delivered the tobacco in good order to the next carrier the verdict should be in its favor. This instruction was refused and the defendant excepted. There was evidence also that the plaintiff chose the route for the tobacco, being partly by sea, and a different one from that which the railroad would have adopted, which would have been all rail. The railroad had no through route or rate established with the line of steamers by which the tobacco went. Instructions were asked and refused, subject to exception, that the bill of lading controlled, and that the above statute, so far as it attempts to invalidate limitations or liabilities like that quoted above, is void.
+ The supreme court of appeals followed the ruling in Atlantic Coast Line R. Co. v. Riverside Mills, 
+219 U.S. 186
+, 55 L. ed. 167, 31 L.R.A.(N. S.) 7, 31 Sup. Ct. Rep. 164 (to which may be added Galveston, H. & S. A. R. Co. v. Wallace, 
+223 U.S. 481
+, 56 L. ed. 516, 32 Sup. Ct. Rep. 205), as conclusive. The plaintiff in error contends that these cases may be distinguished on the ground that in both of them it was to be presumed that the carrier was a voluntary party to a through route and rate, whereas here the stipulation against liability beyond its line, and the fact that it had no through route with the steamship company, exclude that presumption. It argues that as it was bound to accept goods destined beyond its line for delivery to the next carrier, and was required by the statute to give a through bill of lading, if, on such compulsory acceptance, 
+
+[228 U.S. 593, 596]
+ 
+ it is made answerable for damages done by others, its property is taken without due process of law. But in the former case there was the same stipulation in the bill of lading, and the supposed through routes were only presumed. In the second case the carrier is spoken of as voluntarily accepting goods for a point beyond its line; but there, too, there was the same attempt to limit liability, and in the present case the acceptance was voluntary in the same degree as in that. There is no substantial distinction between the earlier decisions and this.
+ Judgment affirmed. 
+
+
+

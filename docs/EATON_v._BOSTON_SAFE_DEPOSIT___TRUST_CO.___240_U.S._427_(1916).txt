@@ -1,0 +1,40 @@
+Description: EATON v. BOSTON SAFE DEPOSIT & TRUST CO. , 240 U.S. 427 (1916)
+Date: 1916-03-13 00:00:00
+Docket: 466
+Opinion
+
+
+United States Supreme Court
+EATON v. BOSTON SAFE DEPOSIT & TRUST CO.(1916)
+No. 466
+Argued: Decided: March 13, 1916
+
+
+
+ Mr. Gilbert E. Kemp for plaintiff in error.
+ Messrs. Raymond H. Oveson, Alexander Kendall, and Matthew Hale for defendants in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a bill for instructions, brought by the Trust Company, the principal defendant in error, to ascertain whether a fund bequeathed to it in trust for Mrs. Luke, 
+
+[240 U.S. 427, 428]
+ 
+ codefendant in error, passed to her trustee in bankruptcy. The bequest was of $75,000, 'The whole of the net income thereof to be paid my adopted daughter, Fannie Leighton Luke, wife of Otis H. Luke, of said Brookline, during her life quarterly in each and every year together with such portion of the principal of said trust fund as shall maks the amount to be paid her at least three thousand dollars a year during her life, said income to be free from the interference or control of her creditors.' It is established law in Massachusetts that such trusts are valid and effective against creditors (Broadway Nat. Bank v. Adams, 133 Mass. 170, 43 Am. Rep. 504), and subject to what we are about to say, against assignees in insolvency or trustees in bankruptcy (Billings v. Marsh, 153 Mass. 311, 10 L.R.A. 764, 25 Am. St. Rep. 635, 26 N. E. 1000; Munroe v. Dewey, 176 Mass. 184, 79 Am. St. Rep. 304, 57 N. E. 340). The trustee in bankruptcy seeks to avoid the effect of these decisions on the ground that Mrs. Luke's equitable life interest was held by the supreme court of the state to be assignable, and that therefore it passed under  70 a (5) of the bankruptcy act, vesting in the trustee all property that the bankrupt 'could by any means have transferred.' [30 Stat. at L. 566, chap. 541, Comp. Stat. 1913,  9654.] The supreme judicial court, however, held that the above-cited cases governed, and that the property did not pass. 220 Mass. 484, L.R.A. --, --, 108 N. E. 64.
+ If it be true without qualification that the banrupt could have assigned her interest and by so doing could have freed from the trust both the fund and any proceeds received by her, the argument would be very strong that the statute intended the fund to pass. There would be an analogy at least with the provision giving the trustee all powers that the bankrupt might have exercised for her own benefit,  70 a (3), and there would be difficulty in admitting that a person could have property over which he could exercise all the powers of ownership except to make it liable for his debts. The conclusion that the 
+
+[240 U.S. 427, 429]
+ 
+ fund was assignable was based on two cases, and we presume was meant to go no farther than their authority required. The first of these simply held that an executor was not liable on his bond for paying over an annuity to an assignee as it fell due, when the assignor to whom it was bequeathed free from creditors had not attempted to avoid his act. Ames v. Clarke, 106 Mass. 573. The other case does not go beyond a dictum that carries the principle no farther. Huntress v. Allen, 195 Mass. 226, 122 Am. St. Rep. 243, 80 N. E. 949. It is true that where the restriction has been enforced there generally has been a clause against anticipation, but the present decision in following them holds the restricting clause paramount, and therefore we feel warranted in assuming that the power of alienation will not be pressed to a point inconsistent with the dominant intent of the will. Whether, if that power were absolute, the restriction still should be upheld, as in case of a statutory exemption that leaves the bankrupt free to convey his rights, it is unnecessary to decide.
+ The law of Massachusetts treats such restrictions as limiting the character of the equitable property and inherent in it. Dunn v. Dobson, 198 Mass. 142, 146, 84 N. E. 327; Lathrop v. Merrill, 207 Mass. 6, 9, 22 N. E. 1019. Whatever may have been the criticisms upon the policy and soundness of the doctrine, and whatever may be the power of this court to weigh the reasoning upon which it has been established by the Massachusetts cases (Page v. Edmunds, 
+187 
+U.S. 596, 602
+, 47 S. L. ed. 318, 321, 23 Sup. Ct. Rep. 200), it has been established too long and is too nearly sanctioned by the decisions of this court to be overthrown here ( Nichols v. Eaton, 
+91 U.S. 716
+, 23 L. ed. 254; Shelton v. King, 
+229 
+U.S. 90, 99
+, 57 S. L. ed. 1086, 1089, 33 Sup. Ct. Rep. 686). The policy of the bankruptcy act is to respect state exemptions, and until the Massachusetts decisions shall have gone farther than they yet have we are not prepared to say that the present bequest is not protected by the Massachusetts rule.
+ Decree affirmed. 
+
+
+

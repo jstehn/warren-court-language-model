@@ -1,0 +1,132 @@
+Description: SCHOENAMSGRUBER v. HAMBURG AMERICAN LINE , 294 U.S. 454 (1935)
+Date: 1935-03-04 00:00:00
+Docket: 424
+Opinion
+
+
+United States Supreme Court
+SCHOENAMSGRUBER v. HAMBURG AMERICAN LINE(1935)
+No. 424
+Argued: Decided: March 4, 1935
+
+
+
+
+[294 U.S. 454, 455]
+ 
+ Mr. Harry H. Semmes, of Washington, D.C., for petitioners.
+ Mr. Joseph C. Sharp, of San Francisco, Cal., for respondent.
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ Petitioner in No. 424 is the minor daughter of petitioner in No. 425. Each filed a libel in admiralty in the district court for Northern California against respondents claiming damages on account of personal injuries alleged to have been inflicted upon the child while she was a passenger on the Oakland. The libels assert that the wrongful act constituted a breach of respondents' contract to carry the child safely from Hamburg, Germany, to San Francisco. The answers, in addition to denying material allegations of the libels, alleged that the contract contained the following provision: 'Complaints based on failure to fulfill the terms of this contract, claims for damages, etc., on the part of the passenger must be filed with the representative (agent) of the Hamburg- American Line at the port of destination immediately after the arrival of the ship. In the event that an agreement cannot be reached, both parties agree to refer the matter to the German Consul at the port of destination whose decision will be acceptable to both parties, subject to the laws applicable thereto.' 
+
+[294 U.S. 454, 456]
+ 
+ Respondents applied to the court for arbitration under the United States Arbitration Act, 9 U.S.C.  1-15 (9 USCA  1-15). Opposing the application, petitioners maintained that the child was carried as a passenger not in pursuance of the contract alleged in the answers but upon one that contained no provision for arbitration. After hearing and upon consideration of the evidence, the court ordered the parties to proceed to arbitration, stayed trial of the action pending the filing of the award, and retained jurisdiction to make orders and enter decrees contemplated by the act or otherwise permitted or required by law. 9 U.S.C.  8 (9 USCA  8). Petitioners appealed; the Circuit Court of Appeals held the orders to be interlocutory and nonappealable and dismissed the appeals. The Oakland, 70 F. (2d) 234.
+ Claiming that decision to be in conflict with Krauss Bros. Lumber Co. v. Louis Bossert & Sons (C.C.A. 2) 62 F.(2d) 1004, and that the orders are final, petitioners applied for, and this court granted, writs of certiorari. Later, but before argument of these cases, we announced decisions in Enelow v. New York Life Insurance Co., 
+293 
+U.S. 379
+, 55 S.Ct. 310, and Shanferoke Coal & Supply Corp. v. Westchester Service Corp., 
+293 
+U.S. 449
+, 55 S.Ct. 313, which definitely show that the orders are not final and therefore not appealable under section 128, Judicial Code, as amended, 28 U.S.C.  225 (28 USCA  225).1
+ Abandoning their claims that the orders are final, petitioners by supplemental brief argue that they are appealable under section 129, as amended, 28 U.S.C.  227 (28 USCA  227). They rely on the Shanferoke Case. That decision was based on the Enelow 
+
+[294 U.S. 454, 457]
+ 
+ Case. Each of these was an action at law in which the defendant by answer sought equitable relief. In each the order held appealable stayed proceedings on the law side and operated as an injunction, within the meaning of that section, against proceedings in another court. The cases now before us are in admiralty. The orders appealed from merely stay action in the court pending arbitration and filing of the award. As shown by the Enelow Case, they are not interlocutory injunctions within the meaning of section 129. And plainly, so far as concerns appealability, they are not to be distinguished from an order postponing trial of an action at law to await the report of an auditor.
+ Save as therein otherwise specified, section 129 extends only to suits in equity. Its provisions relating to injunctions and receivers were put in present form by the Act of February 13, 1925, 43 Stat. 937 (28 USCA  227). Before that act, appealability was expressly confined to suits 'in equity.' 2 Its legislative history shows the omission of the phrase was not intended to remove that limitation. 
+3
+ While courts of admiralty have capacity to apply equitable principles in order the better to attain justice, they do not have general equitable jurisdiction4 and, except in limitation of lia- 
+
+[294 U.S. 454, 458]
+ 
+ bility proceedings,5 they do not issue injunctions. 
+6
+ The Act of April 3, 1926, 44 Stat. 233 (28 USCA  227), added to section 129 a provision granting appeal 'from an interlocutory decree in admiralty determining the rights and liabilities of the parties.' This specification, taken in connection with the other parts of the section, indicates that Congress did not intend to make appealable any other interlocutory decrees in admiralty. Moreover, there is nothing to indicate that Congress intended to allow repeated appeals in the class of cases to which these belong. That would be contrary to its long-established policy. 
+7
+ The orders under consideration may be reviewed on appeal from the final decrees. Section 128, Judicial Code. Petitioners' contention that they are interlocutory injunctions under section 129 is without merit. 
+
+Footnotes
+
+[
+Footnote *
+] Rehearing denied 
+294 
+U.S. 734
+, 55 S.Ct. 635, 79 L.Ed. --. 
+
+[
+Footnote 1
+] And see General Elec. Co. v. Marvel Rare Metals Co., 
+287 
+U.S. 430, 432
+, 53 S.Ct. 202; Arnold v. U.S., for Use of W. B. Guimarin & Co., 
+263 
+U.S. 427, 434
+, 44 S.Ct. 144; Los Angeles Brush Mfg. Corp. v. James, 
+272 
+U.S. 701
+, 47 S.Ct. 286; In re Peterson, 
+253 
+U.S. 300, 305
+, 40 S.Ct. 543; In re Simons, 
+247 
+U.S. 231, 239
+, 38 S.Ct. 497; Rexford v. Brunswick-Balke- Collender Co., 
+228 
+U.S. 339, 345
+, 33 S.Ct. 515; Latta v. Kilbourn, 
+150 
+U.S. 524, 539
+, 14 S.Ct. 201; McGourkey v. Toledo & O.C.R. Co., 
+146 U.S. 536
+, 545, et seq., 13 S.Ct. 170; De Liano v. Gaines, 131 U.S. Appendix, page ccxiv, and 25 L.Ed. 928; Craighead v. Wilson, 18 How. 199, 201. 
+
+[
+Footnote 2
+] Section 7, Act of March 3, 1891, 26 Stat. 828, as amended February 18, 1895, 28 Stat. 666, June 6, 1900, 31 Stat. 660, April 14, 1906, 34 Stat. 116, March 3, 1911,  129, 36 Stat. 1134 (28 USCA  227 note). And see The Transfer No. 21 (C.C.A.) 218 F. 636. 
+[
+Footnote 3
+] See 'A General Review of H.R. 10479, Sixty-seventh Congress, to amend the Judicial Code, further to define the jurisdiction of the Circuit Courts of Appeals and of the Supreme Court, and for other purposes, by the Chief Justice of the United States' (Senate Committee Print, 68th Congress, 1st Session, p. 4). 'An analysis of S. 2060, to amend the Judicial Code, further to define the jurisdiction of the Circuit Courts of Appeals and of the Supreme Court, and for other purposes.' Senate Committee Print, 68th Congress, 1st Session, p. 10. 
+[
+Footnote 4
+] Watts v. Camors, 
+115 
+U.S. 353, 361
+, 6 S.Ct. 91; The Eclipse, 
+135 
+U.S. 599, 608
+, 10 S.Ct. 873; United States v. Cornell Steamboat Co., 
+202 
+U.S. 184, 194
+, 26 S.Ct. 648. 
+
+[
+Footnote 5
+] Providence & N.Y.S.S. Co. v. Hill Mfg. Co., 
+109 
+U.S. 578
+, 3 S.Ct. 379, 617; The San Pedro (Metropolitan Redwood Lumber Co. v. Doe), 
+223 
+U.S. 365
+, 32 S.Ct. 275, Ann. Cas. 1913D, 1221; Hartford Accident & Ind. Co. v. Sou. Pacific Co., 
+273 
+U.S. 207, 218
+, 47 S. Ct. 357; Marine Transit Co. v. Dreyfus, 
+284 
+U.S. 263, 278
+, 52 S.Ct. 166. 
+[
+Footnote 6
+] Benedict on Admiralty (5th Ed.),  70. Paterson v. Dakin (D.C.) 31 F. 682. 
+[
+Footnote 7
+] Forgay v. Conrad, 6 How. 201, 205; McLish v. Roff, 
+141 
+U.S. 661, 665
+, 12 S.Ct. 118. 
+
+
+
+

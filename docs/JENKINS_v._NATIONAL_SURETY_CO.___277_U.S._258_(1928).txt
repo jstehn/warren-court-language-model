@@ -1,0 +1,76 @@
+Description: JENKINS v. NATIONAL SURETY CO. , 277 U.S. 258 (1928)
+Date: 1928-05-14 00:00:00
+Docket: 424
+Opinion
+
+
+United States Supreme Court
+JENKINS v. NATIONAL SURETY CO.(1928)
+No. 424
+Argued: Decided: May 14, 1928
+
+
+
+
+[277 U.S. 258, 259]
+ 
+ Messrs. Paul H. Ray, John Jensen, E. M. Bagley, and Harold M. Stephens, all of Salt Lake City, Utah, for petitioners.
+
+
+
+[277 U.S. 258, 260]
+ 
+ Mr. Bynum E. Hinton, of Washington, D. C., for respondent.
+
+
+
+[277 U.S. 258, 263]
+ 
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ The petitioner Jenkins was appointed receiver of the National City Bank of Salt Lake City, an insolvent national bank, by the Comptroller of the Currency, under the provisions of section 5234, R. S. (12 USCA  192). The respondent National Surety Company brought this action against the receiver to compel the allowance of and payment of dividends on its claim upon an indemnity agreement executed by the bank. The agreement was contained in the bank's application for a bond by which the bank as principal and the respondent company as surety undertook that the official deposits of the treasurer of Salt Lake county, Utah, up to a named sum, would be repaid on demand. The deposits at the time of the insolvency exceeded the amount of the bond. The District Court directed that dividends on the claim for indemnity be postponed until the county treasurer should have been repaid the full balance of his deposit. The Circuit Court of Appeals for the Eighth Circuit reversed the decree, with instructions that the respondent 
+
+[277 U.S. 258, 264]
+ 
+ be paid dividends on an equal basis with other creditors, including the treasurer. National Surety Co. v. Jenkins, 18 F.(2d) 707. This court granted certiorari (
+275 
+U.S. 515
+, 48 S. Ct. 85, 72 L. Ed. -) to remove a conflict alleged to exist between the decision below and rulings by the Circuit Courts of Appeals in other circuits. Maryland Casualty Co. v. Fouts, 11 F.(2d) 71, 46 A. L. R. 852; Springfield National Bank v. American Surety Co., 7 F.(2d) 44.
+ In his answer the receiver prayed that Groesbeck, the county treasurer, and the American Surety Company be required to interplead. An order issued, and they filed a joint answer, from which it appeared that Groesbeck, as principal, and the American Surety Company, as surety, had given to Salt Lake county an official fidelity bond in the sum of $200,000. The treasurer deposited the county funds in his custody in the bank and took as security the respondent's bond in the sum of $125,000, bonds of other surety companies, executed to him as obligee, in the total sum of $ 100,000, and from the bank a certain amount of apparently doubtful collateral.
+ When the bank failed his official deposit amounted to $643,094.29. Salt Lake county was paid in full-$200,000 by the American Surety Company as surety of the treasurer's fidelity bond; $125,000 by the respondent National Surety Company; the balance by the other surety companies and by dividends paid by the receiver. When the second dividend was paid, it was sufficient to pay the final balance due from the treasurer to the county and leave a surplus of over $9,000; but there remained an unpaid balance of the deposit due from the bank to the treasurer.
+ The claim of the respondent company is for its pro rata share of this surplus and of all dividends paid or to be paid by the receiver as well as of the collateral given to the treasurer by the bank. The claim is resisted by the interpleaded petitioners, the treasurer and the American Surety Company, on two grounds: First, that the right of the 
+
+[277 U.S. 258, 265]
+ 
+ treasurer and his surety to full repayment of his deposits before any dividends and paid the respondent is in this case res judicata; second, that the respondent is not entitled to share in the estate of the insolvent debtor until the balance of the creditors' claims have been fully satisfied. On both grounds the Circuit Court of Appeals ruled against the petitioners.
+ The plea of res judicata was based on the decree in an earlier suit brought in the District Court by the county treasurer and the American Surety Company against the receiver to determine their right to the excess of the second divided over the county's claim, to all future dividends and to the collateral. The National Surety Company, the respondent here, was interpleaded and answered. A decree in favor of the American Surety Company was affirmed by the Circuit Court of Appeals for the Eighth Circuit. National Surety Co. v. Salt Lake County, 5 F.(2d) 34. We think the court below was right in holding that the earlier litigation had determined only that the National Surety Company was not entitled to be subrogated to the treasurer's claim and remedies against the insolvent bank until he had been paid in full, and in no way involved the National Surety Company's present separate claim on its contract of indemnity, and that the plea of res judicata was consequently ineffective. But as the certiorari was granted to review the other branch of the case, and as the view we take of it makes unnecessary an extensive consideration of the first question, we pass at once to the second.
+ The right now asserted by the respondent arises, not from subrogation to the rights of the treasurer but upon its independent agreement with the bank for indemnity. The bank's undertaking was to indemnify respondent for liability which it might 'sustain or incur' by reason of its having given its surety bond, which was conditioned on the bank's keeping its deposits 'subject at all times to the check and order of the treasurer.' So long as the bank 
+
+[277 U.S. 258, 266]
+ 
+ remained solvent respondent would have been entitled to immediate indemnity from the bank, even though that payment neither satisfied the treasurer's claim nor exhausted the surety's own liability. Davies v. Humphreys, 6 M. & W. 153; Ex parte Snowden, 17 Ch. D. 44. As between itself and its principal the surety should not have been required to make any payment at all, and to allow it prompt reimbursement would in no way impede the creditor so long as the principal remained solvent. But if, as here, the principal is insolvent, any dividends paid the surety on its claim for indemnity before the creditor's whole claim has been satisfied would decrease the creditor's dividends by his proportionate share of the payments to the surety. They would also result in a species of double proof, detrimental to the principal's other creditors, for the secured creditor would, under the applicable 'chancery rule,' still be entitled to dividends on his entire original claim. Compare Merrill v. National Bank of Jacksonville, 
+173 
+U.S. 131
+, 19 S. Ct. 360.
+ Respondent, in insisting on the letter of its agreement, takes a position in effect inconsistent with its obligation it undertook to secure to the treasurer the repayment of his deposits to the extent of $125,000. If after paying that amount to the treasurer it may then compete with him in the distribution of the insolvent's assets, the treasurer recovering on the balance of his claim is reduced accordingly and the benefit of the surety bond to the treasurer is diminished pro tanto. By the expedient of taking a separate indemnity agreement from the debtor the surety would be enabled to deprive the creditor of the full benefit of the security he had demanded.
+ The established rule that the surety may not claim subrogation against an insolvent debtor until the creditor is paid in full is a recognition of the inconsistency of that position. United States v. National Surety Co., 
+254 
+U.S. 73, 76
+, 41 S. Ct. 29, 65 L. ed. 143; Peoples v. Peoples Bros. (D. C.) 254 F. 489; United 
+
+[277 U.S. 258, 267]
+ 
+ States Fidelity & Guaranty Co. v. Union Bank & Trust Co. (C. C. A.) 228 F. 448, 455. The rule would go for naught if, by claiming indemnity instead of subrogation, the surety could achieve the same result. The same policy against permitting a surety to compete with the creditor for the insolvent debtor's assets requires that the surety be denied subrogation to security given to a creditor for several debts for only one of which the surety is obligated. National Bank of Commerce v. Rockefeller (C. C. A.) 174 F. 22. Similar reasoning underlies the requirement of equity that the surety who holds the security of an insolvent debtor must give the benefit of it to the creditor for whom he is surety, until the debt is fully paid. See Keller v. Ashford, 
+133 
+U.S. 610
+, 10 S. Ct. 494; Hampton v. Phipps, 
+108 
+U.S. 260
+, 2 S. Ct. 622; Chamberlain v. St. Paul & S. C. R. Co., 
+92 U.S. 299
+, 306; 2 Pomeroy, Equitable Remedies (2d Ed.)  925.
+ Wherever equitable principles are called in play, as they pre- eminently are in determining the rights and liabilities or sureties and in the distribution of insolvents' estates, they likewise forbid the surety to secure by independent contract with the debtor indemnity at the expense of the creditor whose claim he has undertaken to secure.
+ Reversed. 
+
+
+

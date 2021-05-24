@@ -1,0 +1,78 @@
+Description: GREAT NORTHERN RY. CO. v. GALBEREATH CATTLE CO. , 271 U.S. 99 (1926)
+Date: 1926-04-19 00:00:00
+Docket: 138
+Opinion
+
+
+United States Supreme Court
+GREAT NORTHERN RY. CO. v. GALBEREATH CATTLE CO.(1926)
+No. 138
+Argued: January 15, 1926Decided: April 19, 1926
+
+
+
+ Under Judicial Code,  28, 29 (Comp. St.  1010, 1011), if any ground of petition for removal to federal court is well taken, it is error for state court to deny petition and proceed further with case.
+ Whether case is one arising under the laws of United States, as affects right of removal to federal court, is determinable from statement of cause of action in complaint.
+ Where cattle were shipped in interstate commerce under bills of lading issued under Carmack Amendment (Comp. St.  8604a, 8604aa), and allegedly injured through carrier's unreasonable delay and failure to unload, as required by Act June 29, 1906,  (Comp. St.  8651), held, action for damages was one arising under the laws of the United States, as affected right of removal to federal court, under Judicial Code,  28 ( Comp. St.  1010).
+ Action between citizens of different states, within Judicial Code,  24 (Comp. St.  991), was removable to federal court under section 28 ( Comp. St.  1010), though, as matter of venue, action could not have been brought originally in court to which removal was sought. 
+
+[271 U.S. 99, 100]
+ 
+ Mr. J. Parker Veazey, Jr., of Great Falls, Mont., for petitioner.
+ Mr. Samuel Herrick, of Washington, D. C., for respondents.
+
+ Mr. Justice VAN DEVANTER delivered the opinion of the Court.
+ This was an action begun in a state court in Montana to recover for injuries to cattle shipped by railroad in interstate commerce. In due time the defendant presented a verified petition, accompanied by a proper bond with good and sufficient surety, for the removal of the case into the federal District Court for Montana; but the state court denied the petition, accorded the defendant an exception, and proceeded to the disposal of the case on the merits. After a trial it gave judgment for the plaintiffs, which the Supreme Court of the state affirmed after a part of the damages awarded was remitted. 213 P. 610, 66 Mont. 198; 227 P. 65, 71 Mont. 56; Rev. Code Mont. 1921,  9748. The case is here on writ of certiorari.
+ One of the rulings assigned for error in the Supreme Court of the state was the denial of the petition for removal; but that court held that the case was not removable and sustained the ruling. It was to review the decision on this point that certiorari was granted. 
+
+[271 U.S. 99, 101]
+ 
+ The material allegations of the plaintiffs' complaint were to the following effect: One of the plaintiffs is a corporate citizen of Montana and the other is an individual citizen of Wyoming; while the defendant is a corporate citizen of Minnesota. The cattle were shipped from Cody, Wyo., to Seville, Mont., on a through bill of lading over two connecting lines of railroad, the second being owned and operated by the defendant. The plaintiffs owned the cattle, were both consignors and consignees of the shipment, and were the lawful holders of the bill of lading. The cattle were injured while in transit over the defendant's road by the defendant's action in unreasonably delaying and carelessly handling them, and wrongfully omitting to unload them, when necessary, in a humane manner into properly equipped pens for rest, water, and feeding-the resulting damages to the plaintiffs being upwards of $30,000.
+ The petition for removal, besides showing the presence of the requisite jurisdictional amount and the defendant's nonresidence in the state where sued, asserted a right of removal on two grounds: First, that the case was one arising under the laws of the United States, particularly those applying to the shipment of cattle by railroad in interstate commerce; and, secondly, that the case was between citizens of different states.
+ If either ground was well taken, the case was removable (Judicial Code,  28 (Comp. St.  1010); General Investment Co. v. Lake Shore & Michigan Southern Ry. Co., 43 S. Ct. 106, 
+260 U.S. 261
+, 271, et seq.; Lee v. Chesapeake & Ohio Ry. Co., 43 S. Ct. 230, 
+260 U.S. 653
+), and the state court erred in denying the petition and proceeding further with the case (Judicial Code,  29 (Comp. St.  1011); New Orleans, Mobile & Texas R. R. Co. v. Mississippi, 
+102 U.S. 135
+, 141; National Steamship Co. v. Tugman, 1 S. Ct. 58, 
+106 U.S. 118
+, 122.
+ Whether the first ground was well taken is to be determined from the plaintiffs' statement in the complaint 
+
+[271 U.S. 99, 102]
+ 
+ of their cause of action. According to that statement the cause of action was for injuries to cattle resulting from the defendant's negligent and wrongful nonperformance of duties devolving on it as a second and connecting carrier while the cattle were being transported over its road on a through bill of lading, including the duty to unload them for needed rest, water, and feeding. The bill of lading was issued under a law of Congress (Carmack Amendment, c. 3591,  7, 34 Stat. 593, 595 (Comp. St.  8604a, 8604aa), and governed the entire transportation-that over the defendant's line as well as that over the line of the initial carrier ( Missouri, Kansas & Texas Ry. Co. v. Ward, 37 S. Ct. 617, 
+244 U.S. 383
+, 387). And the carriers' duties in respect of unloading the cattle 'in a humane manner into properly equipped pens for rest, water and feeding' were prescribed by a law of Congress (chapter 3594, 34 Stat. 607 ( Comp. St.  8651)). So it is apparent that the case stated in the complaint was one arising under the laws of the United States. Cincinnati, etc., Ry. Co. v. Rankin, 36 S. Ct. 555, 
+241 U.S. 319
+, 326, L. R. A. 1917A, 265; St. Louis, etc., Ry. Co. v. Starbird, 37 S. Ct. 462, 
+243 U.S. 592
+, 595; Southern Pacific Co. v. Stewart, 38 S. Ct. 130, 
+245 U.S. 359
+; Id., 38 S. Ct. 203, 
+245 U.S. 562
+; same case, 39 S. Ct. 138, 
+248 U.S. 446
+. And see Macon Grocery Co. v. Atlantic Coast Line R. R. Co., 30 S. Ct. 184, 
+215 U.S. 501
+, 507.
+ It also is apparent, from the complaint and the petition for removal, that the case was one between citizens of different states in the sense of the statute defining the general jurisdiction of the federal District Courts. Judicial Code,  24 (Comp. St.  991). The words of that statute are:
+'Shall have original jurisdiction ... of all suits of a civil nature ... where the matter in controversy exceeds, exclusive of interests and costs, the sum or value of three thousand dollars, and ... is between citizens of different states.'
+
+ This was such a case. The amount in controversy exceeded the requirement, and the plaintiffs were citizens of states other than the one of which the defendant was a citizen. Sweeney v. Carter Oil Co., 26 S. Ct. 55, 
+199 U.S. 252
+, 256. 
+
+[271 U.S. 99, 103]
+ 
+ And as the case was begun in a court of a state of which the defendant was a nonresident, it came plainly within the provision for the removal of cases on the ground of diverse citizenship. Judical Code,  28. In concluding otherwise the state cours conceived that they were following Smith v. Lyon, 10 S. Ct. 303, 
+133 U.S. 315
+, and Camp v. Gress, 39 S. Ct. 478, 
+250 U.S. 308
+. But they misapprehended the question involved in theose cases. Both were begun in a federal court, and both were recognized as falling within the general jurisdiction of those courts. The question in each was one of venue- whether the case could be maintained in the court of a particular district against the defendant's objection. That question was answered in the negative. In Camp v. Gress the court was careful to point out the difference in purpose and operation between the statutory provision defining the general jurisdiction of the federal District Courts and the provision dealing with venue. And in General Investment Co. v. Lake Shore & Michigan Southern Ry. Co., supra, and Lee v. Chesapeake & Ohio Ry. Co., supra, this court again pointed out that difference, and also that the venue provision respecting suits begun in those courts has no application to suits removed into them from state courts. The difference between the original removal statute of 1789 (chapter 20,  12, 1 Stat. 79), to which the state courts gave some attention, and the present statute was shown in the last paragraph of the opinion in Lee v. Chesapeake & Ohio Ry. Co., supra, and does not call for further comment here.
+ We are of opinion that the state court of first instance should have given effect to the petition for removal, and had declined to proceed further in the case, and that the appellate court should have reversed the judgment, with a direction that that be done.
+ Judgment reversed. 
+
+
+

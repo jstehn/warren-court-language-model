@@ -1,0 +1,89 @@
+Description: CARLISLE PACKING CO. v. SANDANGER , 259 U.S. 255 (1922)
+Date: 1922-05-29 00:00:00
+Docket: 195
+Opinion
+
+
+United States Supreme Court
+CARLISLE PACKING CO. v. SANDANGER(1922)
+No. 195
+Argued: March 24, 1922Decided: May 29, 1922
+
+
+
+
+[259 U.S. 255, 256]
+ 
+ Messrs. J. Harry Covington, of Washingto, D. C., and James A. Kerr and Evan S. McCord, both of Seattle, Wash., for petitioner.
+
+
+[259 U.S. 255, 257]
+ 
+ Mr. Maurice McMicken, of Seattle, Wash., for respondent.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ The Supreme Court of Washington affirmed a judgment against petitioner Packing Company rendered by the trial court upon a verdict for damages on account of injuries which respondent suffered while employed upon petitioner's motorboat afloat in navigable Alaskan waters.
+ Respondent claimed that prior to the departure of the boat upon a trip intended to occupy perhaps six or eight hours, petitioner or its agents negligently filled with gasoline and placed thereon a can which ordinarily contained coal oil (and was so labeled) for use according to the prevailing custom in those waters to start fires in the small stove where meals were cooked and water heated. Without knowledge of the substitution, respondent poured the gasoline upon the firewood, applied a match, an explosion resulted, and he was badly burned. He further 
+
+[259 U.S. 255, 258]
+ 
+ claimed that no life preservers had been placed on board, and that his injuries were aggravated by delay attending search for one before he jumped into the water to extinguish his flaming clothes.
+ The trial court held 'the basis of the action is negligence,' and instructed by jury according to the common-law rules in respect thereto. It said that if petitioner or its authorized agents negligently filled the can with gasoline and placed it upon the boat, and if by reason of such negligence respondent suffered injury, he was entitled to recover compensatory damages therefor, provided he himself had not been guilty of contributory negligence. Further, that if the injuries resulting directly from the explosion were aggravated because no life preservers had been placed on board, then additional compensation could be awarded for such aggravation. Also that if the explosion occurred without petitioner's negligence, but the absence of life preservers caused aggravation of respondent's injuries, he would be entitled to recover for such injuries as resulted directly from the negligence in respect of the life preservers, but not for those caused solely by the explosion.
+ We have heretofore announced the general doctrine concerning rights and liabilities of the parties when one of a crew sustains injuries while on a vessel in navigable waters:
+'The vessel and her owners are liable, in case a seaman falls sick, or is wounded, in the service of the ship, to the extent of his maintenance and cure, and to his wages, at least so long as the voyage is continued. ...
+
+'The vessel and her owner are, both a by English and American law, liable to an indemnity for injuries received by seamen in consequence of the unseaworthiness of the ship, or a failure to supply and keep in order the proper appliances appurtenant to the ship. ...
+
+'All the members of the crew, except perhaps the master, are, as between themselves, fellow servants, and hence 
+
+[259 U.S. 255, 259]
+ 
+ seamen cannot recover for injuries sustained through the negligence of another member of the crew beyond the expense of their maintenance and cure.
+
+'The seaman is not allowed to recover an indemnity for the negligence of the master, or any member of the crew, but is entitled to maintenance and cure, whether the injuries were received by negligence or accident.'
+
+ The Osceola, 
+189 
+U.S. 158, 175
+, 23 S. Sup. Ct. 483, 487; Chelentis v. Luckenbach Steamship Co., 
+247 
+U.S. 372, 380
+, 381 S., 38 Sup. Ct. 501
+
+
+ The general rules of the maritime law apply whether the proceeding be instituted in an admiralty or common-law court. Chelentis v. Luckenbach Steamship Co., supra; Knickerbocker Ice Co. v. Stewart, 
+253 
+U.S. 149, 159
+, 40 S. Sup. Ct. 438, 11 A. L. R. 1145.
+ Here the trial court did not instruct the jury in consonance with these rules, and by failing so to do fell into error.
+ But mere error, without more, is not enough to upset the judgment, if the record discloses that no injury could have resulted therefrom. West v. Camden, 
+135 
+U.S. 507, 521
+, 10 S. Sup. Ct. 838.
+ Considering the custom prevailing in those waters and other clearly established facts, in the present cause, we think the trial court might have told the jury that without regard to negligence the vessel was unseaworthy when she left the dock if the can marked 'coal oil' contained gasoline; also that she was unseaworthy if no life preservers were then on board; and that if thus unseaworthy and one of the crew received damage as the direct result thereof, he was entitled to recover compensatory damages. The Silvia, 
+171 
+U.S. 462, 464
+, 19 S. Sup. Ct. 7. The Southwark, 
+191 
+U.S. 1, 8
+, 24 S. Sup. Ct. 1. The verdict shows that the jury found gasoline had been negligently placed in the can or that through negligence no life preservers were put on board, or that both of these defaults existed, and that as a result of one or both respondent suffered injury without contributory negligence on his part. In effect the charge was more favorable to the petitioner than it could have demanded, 
+
+[259 U.S. 255, 260]
+ 
+ and we think no damage could have resulted from the erroneous theory adopted by the trial court. The Caledonia, 
+157 
+U.S. 124, 131
+, 15 S. Sup. Ct. 537; Thompson Towing & Wrecking Ass'n v. McGregor, 207 Fed. 209, 211, 124 C. C. A. 479.
+ Petitioner asked an instruction that section 4283 of the Revised Statutes (Comp. St.  8021)1 applied, and that under it the verdict could not exceed the value of the vessel. In a state court, when there is only one possible claimant and one owner, the advantage of this section may be obtained by proper pleading. The Lotta (D. C.) 150 Fed. 219, 222; Delaware River Ferry Co. v. Amos (D. C.) 179 Fed. 756. Here the privelege was not set up or claimed in the answer, and it could not be first presented upon request for a charge to the jury.
+ The judgment below must be affirmed.
+ Mr. Justice CLARKE concurs in the result. 
+
+Footnotes
+
+[
+Footnote 1
+] Sec. 4283. The liability of the owner of any vessel, for any embezzlement, loss, or destruction, by any person, of any property, goods, or merchandise, shipped or put on board of such vessel, or for any loss, damage, or injury by collision, or for any act, matter, or thing, lost, damage, or forfeiture, done, occasioned, or incurred, without the privity, or knowledge of such owner or owners, shall in no case exceed the amount or value of the interest of such owner in such vessel, and her freight then pending. 
+
+
+
+

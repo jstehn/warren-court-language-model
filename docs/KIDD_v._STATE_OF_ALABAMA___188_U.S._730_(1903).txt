@@ -1,0 +1,70 @@
+Description: KIDD v. STATE OF ALABAMA , 188 U.S. 730 (1903)
+Date: 1903-02-23 00:00:00
+Docket: 158
+Opinion
+
+
+United States Supreme Court
+KIDD v. STATE OF ALABAMA(1903)
+No. 158
+Argued: Decided: February 23, 1903
+
+
+
+ Mr. W. A. Gunter for plaintiff in error.
+ Messrs. Francis G. Caffey, John C. Breckinridge, A. A. Wiley, Gordon Macdonald, and John G. McNeel for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action for taxes brought by the state of Alabama against the executrix of the will of a citizen of Alabama. It appears on the record that the property in dispute is stock in 
+
+[188 U.S. 730, 731]
+ 
+ railroads incorporated in other states than Alabama, and that the objection was taken seasonably by plea and by requests for instructions to the jury that the tax was unconstitutional under the 14th Amendment, because no similar tax was levied on the stock of domestic railroads or of foreign railroads doing business in that state. Demurrers to the pleas were sustained, there was a verdict for the plaintiff, and judgment, which latter was affirmed by the supreme court of the state without discussion, on the authority of its decision at an earlier stage (State v. Kidd, 125 Ala. 413, 28 So. 418), and the case is brought here by writ of error.
+ The statutes levying the tax in question are the Code of 1886,  453, cl. 13, and the Code of 1896,  3911, cl. 14. They are general clauses, which need not be set forth, as their effect is not disputed under the construction given to them by the supreme court of the state. The exemption by the Code of 1886 of stock in domestic railroads, and in others that list substantially all their property for taxation (Sturges v. Carter, 
+114 
+U.S. 511, 522
+, 29 S. L. ed. 240, 244, 5 Sup. Ct. Rep. 1014), is not denied, and while it is denied by the defendant in error that there is a similar exemption by the Code of 1896, for the purposes of decision we shall assume, without examination, that it is granted. State v. Kidd, 125 Ala. 413, 422, 28 So. 418. On this assumption the argument for the plaintiff in error is that if foreign stock is treated for purposes of taxation as present by fiction in the domicil, it must be treated as present also for purposes of protection; that the tax is a tax on values, and that net values of similar articles must be treated alike. It is said that you cannot look further back.
+ If the argument went further and denied the right to tax on fiction at all, and therefore denied the right to tax foreign stocks, it would seem to us to have more logical force, although we are far from implying that it would be unanswerable, or that it can be regarded as open. Very likely such taxes can be justified without the help of fiction. Sturges v. Carter, 
+114 U.S. 511
+, 29 L. ed. 240, 5 Sup. Ct. Rep. 1014; Dwight v. Boston, 12 Allen, 316; Dyer v. Osborne, 11 R. I. 321, 23 Am. Rep. 460. But the argument does not go to that extent, and, limited as it is, the proposition that the plaintiff in error is denied the equal protection of the laws for the reason which we have stated 
+
+[188 U.S. 730, 732]
+ 
+ strikes us as wholly without force. We see nothing to prevent a state from taxing stock in some domestic corporations and leaving stock in others untaxed on the ground that it taxes the property and franchises of the latter to an amount that imposes indirectly a proportional burden on the stock. When we come to corporations formed and having their property and business elsewhere, the state must tax the stock held within the state if it is to tax anything, and we now are assuming the right to tax stock in foreign corporations to be conceded. If it does tax that stock, it may take into account that the property and franchise of the corporation are untaxed, on the same ground that it might do the same thing with a domestic corporation. There is no rule that the state cannot look behind the present net values of different stocks. See American Sugar Ref. Co. v. Louisiana, 
+179 U.S. 89
+, 45 L. ed. 102, 21 Sup. Ct. Rep. 43.
+ We say that the state in taxing stock may take into account the fact that the property and franchises of the corporation are untaxed, whereas in other cases they are taxed; and we say untaxed, because they are not taxed by the state in question. The real grievance in a case like the present is that, more than probably, they are taxed elsewhere. But with that the state of Alabama is not concerned. No doubt it would be a great advantage to the country and to the individual states if principles of taxation could be agreed upon which did not conflict with each other, and a common scheme could be adopted by which taxation of substantially the same property in two jurisdictions could be avoided. But the Constitution of the United States does not go so far. Coe v. Errol, 
+116 
+U.S. 517, 524
+, 29 S. L. ed. 715, 718, 6 Sup. Ct. Rep. 475; Knowlton v. Moore, 
+178 U.S. 41
+, 44 L. ed. 969, 20 Sup. Ct. Rep. 747; Dyer v. Osborne, 11 R. I. 321, 327, 23 Am. Rep. 460; Cooley, Taxn. 2d ed. 221n. One aspect of the problem was touched in the case of Blackstone v. Miller, at the present term, 
+188 U.S. 189
+, ante, p. 277, 23 Sup. Ct. Rep. 277. The state of Alabama is not bound to make its laws harmonize in principle with those of other states. If property is untaxed by its laws, then for the purpose of its laws the property is not taxed at all.
+ It is said that the state may not tax a man because by fiction his property is within the jurisdiction, and then discriminate against him upon the fact that it is without. The state does 
+
+[188 U.S. 730, 733]
+ 
+ nothing of the kind. It adheres throughout to the fiction, if it be one, that the stock, the property of the plaintiff in error, is within the jurisdiction. There is no inconsistency in the state's recognizing at the same time that the property of the corporation, that which gives the plaintiff's stock its value, is taxed or untaxed, as the case may be. There is no inconsistency in recognizing that it is untaxed because it cannot be reached. Shares of stock may be within a state, and the property of the corporation outside it.
+ We need not repeat the commonplaces as to the large latitude allowed to the states for classification upon any reasonable basis. Pacific Exp. Co. v. Seibert, 
+142 
+U.S. 339, 351
+, 352 S., 35 L. ed. 1035, 1039, 3 Inters. Com. Rep. 810, 12 Sup. Ct. Rep. 250; Gulf, C. & S. F. R. Co. v. Ellis, 
+165 
+U.S. 150, 155
+, 41 S. L. ed. 666, 668, 17 Sup. Ct. Rep. 255; Nicol v. Ames, 
+173 
+U.S. 509, 521
+, 43 S. L. ed. 786, 793, 19 Sup. Ct. Rep. 522; Atchison, T . & S. F. R. Co. v. Matthews, 
+174 U.S. 96
+, 43 L. ed. 909, 19 Sup. Ct. Rep. 609; American Sugar Ref. Co. v. Louisiana, 
+179 U.S. 89
+, 45 L. ed. 102, 21 Sup. Ct. Rep. 43. What is reasonable is a question of practical details, into which fiction cannot enter.
+ Practically, the law before us, in the broad aspect in which alone we are asked to consider it, seems to us to work out substantial justice and equality, if we leave on one side the probable taxation by other states, which does not affect the state of Alabama's rights.
+ Judgment affirmed.
+ Justices Harlan and White dissented.
+ NOTE.-No. 157. Kidd v. Alabama. This case was to abide the result of the foregoing.
+ Judgment affirmed. 
+
+
+

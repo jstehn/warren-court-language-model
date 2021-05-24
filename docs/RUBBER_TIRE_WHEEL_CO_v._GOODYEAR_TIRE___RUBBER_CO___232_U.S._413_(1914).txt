@@ -1,0 +1,64 @@
+Description: RUBBER TIRE WHEEL CO v. GOODYEAR TIRE & RUBBER CO , 232 U.S. 413 (1914)
+Date: 1914-02-24 00:00:00
+Docket: 37
+Opinion
+
+
+United States Supreme Court
+RUBBER TIRE WHEEL CO. v. GOODYEAR TIRE & RUBBER CO(1914)
+No. 37
+Argued: May 7, 1913Decided: February 24, 1914
+
+
+
+
+[232 U.S. 413, 414]
+ 
+ Messrs. Frederick P. Fish and J. L. Stackpole for petitioners.
+ Mr. H. A. Toulmin for respondent.
+
+ Mr. Justice Hughes delivered the opinion of the court:
+ The petitioners are the owners of the Grant patent (No. 554,675) issued February 18, 1896, for an improvement in rubber-tired wheels. In a suit for infringement brought by the petitioners against the Goodyear Tire & Rubber Company (the respondent) it was held by the circuit court of appeals for the sixth circuit that the patent was void for want of novelty. Goodyear Tire & Rubber Co. v. Rubber Tire Wheel Co. 53 C. C. A. 583, 116 Fed. 363. Upon the basis of the decree entered upon that decision, the respondent instituted the present suit in the southern district of Ohio, to restrain the petitioners from prosecuting suits for infringement against the respondent's customers. The circuit court granted a preliminary injunction. Upon appeal, the circuit court of appeals for the sixth circuit sustained the injunction so far as it applied to the prosecution of a suit which the petitioners had brought against John Doherty in the circuit court for the southern district of New York. 106 C. C. A. 318, 183 Fed. 978. This writ of certiorari was then granted. 
+
+[232 U.S. 413, 415]
+ 
+ The Grant tire is composed of three elements: (1) a channel or groove with tapered or inclined sides, (2) a rubber tire with a described shape, adapted to fit into the channel, and (3) a fastening device consisting of independent retaining wires, which pass through the rubber tire and are placed in a particular position. It was held in the sixth circuit that both the elements and the results were old, and hence patentability was denied. Goodyear Tire & Rubber Co. v. Rubber Tire Wheel Co. supra; Rubber- Tire Wheel Co. v. Victor Rubber-Tire Co. 59 C. C. A. 215, 123 Fed. 85. In the second circuit, and in the circuit court for the northern district of Georgia, the patent was sustained. Rubber Tire Wheel Co. v. Columbia Pneumatic Wagon Wheel Co. 91 Fed. 978; Consolidated Rubber Tire Co. v. Finley Rubber Tire Co. 116 Fed. 629; Consolidated Rubber Tire Co. v. Firestone Tire & Rubber Co. 147 Fed. 739, 80 C. C. A. 589, 151 Fed. 237; Consolidated Rubber Tire Co. v. Diamond Rubber Co. 85 C. C. A. 349, 157 Fed. 677, 89 C. C. A. 582, 162 Fed. 892. The controversy came to this court upon certiorari to review the decision of the circuit court of appeals for the second circuit in the case last mentioned, and it was finally determined that the patent was valid. Diamond Rubber Co. v. Consolidated Rubber Tire Co. 
+220 U.S. 428
+, 55 L. ed. 527, 31 Sup. Ct. Rep. 444. The patented structure was held to be not a mere aggregation of elements, but a new combination of parts, co-acting so as to produce a new and useful result. It was found that the Grant tire possessed a distinctive characteristic; that is, a 'tipping and reseating power.' This, said this court, 'is the result of something more than each element acting separately. It is not the result alone of the iron channel, with diverging sides, nor alone of the retaining bands or the rubber. They each have uses and perform them to an end different from the effect of either, and they must have been designed to such end,-contrived to exactly produce it. There can be no other deduction from their careful relation. The adaptation of the rubber to 
+
+[232 U.S. 413, 416]
+ 
+ the flaring channel, the shape of that permitting lateral movement and compression, the retaining band, holding and yielding, placed in such precise adjustment and correlation with the other parts, producing a tire that 'when compressed and bent sidewise shall not escape from the channel, and shall not be cut on the flange of the channel,' and yet shall 'be mobile in the channel." 220 U. S. p. 443. There was thus a patentable combination, the patentability of which did not depend on the novelty of any of the elements entering into it, whether rubber, iron, or wires.
+ Doherty, against whom suit was enjoined, had a shop in New York city, where he was engaged in the business of applying rubber tires to vehicle wheels. It appeared that having purchased the rubber from the respondent, and the wire and channel from other parties, he combined these elements and fitted them to a carriage wheel, thus constructing a complete tire. This we may assume to be a typical case.
+ It is at once apparent that the decree in favor of the Goodyear Company in the former suit does not work an estoppel in favor of Doherty, so as to afford him a defense against the charge of infringement in making the patented structure. He was not a party to the suit in which that decree was rendered; nor, at least with respect to tires made by him, can he be regarded as a privy to that decree. We may lay on one side the question as to the rights of one purchasing from the respondent the completed article. Doherty did not purchase it; he made it himself, assembling its various elements for that purpose and effecting the combination. On no possible theory can it be said that, if the tire thus constructed was covered by the patent, Doherty was entitled to immunity simply because he bought one element of the time from the Goodyear Company.
+ The respondent, however, is asserting its own right, and not that of Doherty. It insists that, by virtue of the 
+
+[232 U.S. 413, 417]
+ 
+ decree in its favor in the infringement suit, it should have the injunction in order to protect its trade. It contends that it has an equitable right to this protection by restraining suits not only against those who buy from it the structure which is the subject of the patent, but also against those who buy its rubber and themselves make the patented tire. In urging this contention the respondent relies upon the doctrine of Kessler v. Eldred, 
+206 U.S. 285
+, 51 L. ed. 1065, 27 Sup. Ct. Rep. 611. There, Kessler and Eldred were rival manufacturers of electric cigar lighters. Eldred, being the owner of the Chambers patent, sued Kessler in the northern distirict of Indiana for infringement. The circuit court, finding noninfringement, dismissed the bill; and this decree was affirmed by the circuit court of appeals for the seventh circuit. 45 C. C. A. 454, 106 Fed. 509. Subsequently, Eldred brought suit on the same patent in the northern district of New York against Kirkland, who was selling a similar cigar lighter, but not of Kessler's make. The circuit court of appeals for the second circuit held the Kirkland lighter to be an infringement. 64 C. C. A. 588, 130 Fed. 342. Eldred then began a suit for infringement in the western district of New York against Breitwieser, a user of Kessler's lighters. Thereupon Kessler filed his bill in the circuit court for the northern district of Illinois to enjoin Eldred from prosecuting suit against anyone for alleged infringement of the Chambers patent by purchase, use, or sale of any electric cigar lighter manufactured by Kessler, and identical with the lighter before the court in the suit of Eldred v. Kessler. Kessler, being defeated in the circuit court, appealed to the circuit court of appeals for the seventh circuit. Answering questions certified by that court, this court held that the decree in the suit of Eldred v. Kessler had the effect of entitling Kessler to continue the business of manufacturing and selling throughout the United States, the same lighter he had theretofore been manufacturing and selling, without molestation by Eldred 
+
+[232 U.S. 413, 418]
+ 
+ through the patent which he held; and that the decrea also had the effect of making a suit by Eldred against any customer of Kessler for the alleged infringement of the patent by use or sale of Kessler's lighters a wrongful interference with Kessler's business, with respect to which he was without adequate remedy at law. 206 U. S. pp. 287, 290.
+ It will be observed that the equity thus sustained sprang from the decree in the former suit between the parties, and that the decision went no further than to hold it to be a wrongful interference with Kessler's business to sue his customers for using and selling the lighter which Kessler had made and sold to them, and which was the same as that passed upon by the court in the previous suit. His right to make and sell the particular article, the making of which Eldred had unsuccessfully challenged as an infringement, was deemed to include the right to have others secure in buying that article, and in its use and resale. But the present question was in no way involved. It was not held that Kessler would have been entitled to restrain Eldred from suing other manufacturers of lighters who might buy from Kessler some of the materials used in such manufacture.
+ The distinction is controlling. Under the doctrine of Kessler v. Eldred, the respondent-by reason of the final adjudication in its favor- was entitled to make and sell the Grant structure, and to have those who bought that structure from it unmolested in taking title and in enjoying the rights of ownership. It may also be assumed that the respondent had the right to make and sell its rubber without hindrance by the petitioners claiming under the patent. The trade right of the respondent, however, whether with respect to the complete structure or its separate parts, is merely the right to have that which it lawfully produces freely bought and sold without restraint or interference. It is a right which attaches to its product-to a particular thing-as an article of lawful com- 
+
+[232 U.S. 413, 419]
+ 
+ merce, and it continues only so long as the commodity to which the right applies retains its separate identity. If that commodity is combined with other things in the process of the manufacture of a new commodity, the trade right in the original part as an article of commerce is necessarily gone. So that when other persons become manufacturers on their own behalf, assembling the various elements and uniting them so as to produce the patented device,-a new article,-it is manifest that the respondent cannot insist upon their being protected from suit for infringement by reason merely of its right to make and sell, and the fact of its having made and sold, some component part of that article. It must be able to go beyond a mere trade right in that element, and to show itself to be entitled to have its customers manufacture the patented structure. Thus the fallacy in the respondent's contention becomes apparent. The decree gave the respondent no right to have others make Grant tires. It could make and sell them, and it could make and sell rubber; it could demand protection for its trade rights in the commodities it produced. But it had no transferable immunity in manufacture. The decree gave it no privilege to demand that others should be allowed to make and sell the patented structure in order that it might have a market for its rubber.
+ The suit against Doherty was based upon his conduct in constructing Grant tires. The fact that the respondent could not be charged with liability as a participant in the infringement thus alleged did not excuse him; and the petitioners, in bringing the suit, did not violate any right of the respondent.
+ It is not necessary to consider the evidence bearing upon the question whether Doherty had authority from the petitioners, as that is a matter between him and them; and if the facts afford him a defense, he is free to urge it.
+ The decree of the Circuit Court of Appeals, in so far 
+
+[232 U.S. 413, 420]
+ 
+ as it affirmed the order of injunction granted by the Circuit Court, is reversed, and the cause is remanded to the District Court, with instructions to enter an order denying the application for injunction.
+ It is so ordered.
+ Mr. Justice Day states that in his view the suit against Doherty was properly enjoined upon the principles established in this court in Kessler v. Eldred, 
+206 U.S. 285
+, 51 L. ed. 1065, 27 Sup. Ct. Rep. 611; and, without repeating, agrees with the reasoning by which that conclusion was reached in the opinion of Judge Warrington, speaking for the circuit court of appeals in this case. 
+
+
+

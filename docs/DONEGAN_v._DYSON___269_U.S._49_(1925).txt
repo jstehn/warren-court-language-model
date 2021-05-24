@@ -1,0 +1,80 @@
+Description: DONEGAN v. DYSON , 269 U.S. 49 (1925)
+Date: 1925-11-16 00:00:00
+Docket: 185
+Opinion
+
+
+United States Supreme Court
+DONEGAN v. DYSON(1925)
+No. 185
+Argued: Decided: November 16, 1925
+
+
+
+
+[269 U.S. 49, 50]
+ 
+ Mr. W. M. Toomer, of Jacksonville, Fla., for appellant.
+ Messrs. W. D. Mitchell, Sol. Gen., and Assistant Attorney General Donovan, for appellee.
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ This is an appeal from a judgment in a habeas corpus case remanding the petitioner. It is brought under section 238 of the Judicial Code (Comp. St.  1215), on the ground that it involves the construction or application of the Constitution of the United States.
+ March 5, 1919, Donegan was indicted in the United States District Court for the Southern District of Florida, and in the Tampa Division, charged with the offense if misapplication and abstraction of funds of a national bank in violation of the banking laws of the United States. At a subsequent term he was tried, convicted, and sentenced to a term of three years' imprisonment in the Atlanta Penitentiary. On a writ of error his conviction was affirmed by the Circuit Court of Appeals for the Fifth Circuit. He applied for a writ of certiorari in this court, which was denied. 
+265 
+U.S. 585
+, 44 S. Ct. 459. While in the custody 
+
+[269 U.S. 49, 51]
+ 
+ of the United States marshal, after the coming down of the mandate of the Circuit Court of Appeals, he filed this petition for the writ of habeas corpus. The ground for the petition is that United States Circuit Judge Julian W. Mack, who presided in the cause in which the petitioner was convicted, had no power or jurisdiction to act as judge in the District Court for the Southern District of Florida. Judge Mack, as the petition avers, was one of the five additional United States Circuit Judges appointed at the time of the creation of the Court of Commerce, by virtue of the Act of June 18, 1910, 36 Stat. 539, c. 309. The petition sets out the designation in accord with which Judge Mack sat:
+'Honorable Julian W. Mack, United States Circuit Judge, New York, N. Y.-Sir:
+
+'The senior Circuit Judge of the Fifth Circuit having certified that, on account of the accumulation and urgency of business in the United States District Court for the Southern District of Florida, it would be a great public advantage if you could be assigned to service in said District Court, and your consent in writing to be designated and appointed to serve in said District Court having been duly signed and exhibited to me: Now, therefore, pursuant to the authority vested in me by section 201 of the Judicial Code of the United States as amended by the acts of Congress approved October 22, 1913, I do hereby designate and assign you for service in the District Court of the United States for the Southern District of Florida, during the period commencing January 20, 1923, and ending March 31, 1923, and for such further time as may be required to complete unfinished business.
+
+'Dated January 11, 1923, Washington, D. C.
+
+'Wm. H. Taft,
+
+'Chief Justice of the United States.' 
+
+[269 U.S. 49, 52]
+ 
+ It is said that this designation was without authority of law, and therefore that the proceeding in the District Court against the petitioner was coram non judice, and his conviction and present custody in pursuance thereof is without due process of law, in violation of the Fifth Amendment.
+
+ The original act creating the court had this provision (36 Stat. 541, c. 309,  1):
+'If, at any time, the business of the Commerce Court does not require the services of all the judges, the Chief Justice of the United States may, by writing, signed by him and filed in the Department of Justice, terminate the assignment of any of the judge or temporarily assign him for service in any Circuit Court or Circuit Court of Appeals.
+
+ When by the Judicial Code the Circuit Courts were abolished (36 Stat. 1087), and in chapter 13 the powers of the Circuit Courts were conferred upon the District Courts, sections 291 and 292 of that chapter (Comp. St .  1268, 1269) provided:
+'Sec. 291. Wherever, in any law not embraced within this act, any reference is made to, or any power or duty is conferred or imposed upon, the Circuit Courts, such reference shall, upon the taking effect of this act, be deemed and held to refer to, and to confer such power and impose such duty upon, the District Courts.
+
+'Sec. 292. Wherever, in any law not contained within this act, a reference is made to any law revised or embraced herein, such reference, upon the taking effect hereof, shall be construed to refer to the section of this act into which has been carried or revised the provision of law to which reference is so made.'
+
+ In addition to these provisions, section 201 of the Judicial Code provided expressly as follows (36 Stat. 1087, 1147 (Comp. St.  1110)):
+'Sec. 201. The five additional Circuit Judges authorized by the act to create a Commerce Court, and for other purposes, approved June eighteenth, nineteen hundred and ten, shall hold office during good behavior, and from 
+
+[269 U.S. 49, 53]
+ 
+ time to time shall be designated and assigned by the Chief Justice of the United States for service in the District Court of any district, or the Circuit Court of Appeals for any circuit, or in the Commerce Court, and when so designated and assigned for service in a District Court or Circuit Court of Appeals shall have the powers and jurisdiction in this act conferred upon a Circuit Judge in his circuit.'
+
+ The Commerce Court was abolished by the Act of October 22, 1913, c. 32 (38 Stat. 208, 219). While the court was abolished, no attempt was made to abolish the offices of the judges. More than that, there was this special saving clause in the act abolishing the Commerce Court (38 Stat. 219 (Comp. St.  992)):
+'Nothing herein contained shall be deemed to affect the tenure of any of the judges now acting as Circuit Judges by appointment under the terms of said act, but such judges shall continue to act under assignment, as in the said act provided, as judges of the District Courts and Circuit Courts of Appeals.'
+
+ The contention is, first, that sections 200 to 206 of the Judicial Code, which incorporated the provisions of the act establishing the Commerce Court, were necessarily repealed by the Act of October 22, 1913, taking effect December 31, 1913. In view of the saving clause of that act we think this view quite untenable, and that section 201 was entirely saved in its application.
+ It is then submitted that, even if section 201 was saved, the Circuit Judge surviving the Court of Commerce is a judge without a circuit, and that when assigned to the Fifth Circuit, or any other circuit, he goes to the circuit as pro tempore a judge of that circuit, and has only the powers and jurisdiction of such Circuit Judge provided in section 201, which are the powers and jurisdiction conferred in the Judicial Code 'upon a Circuit Judge in his circuit.' Now it is said that a regularly appointed Circuit Judge in a circuit can exercise power and jurisdiction in a District 
+
+[269 U.S. 49, 54]
+ 
+ Court of his circuit only after designation and assignment by the Circuit Justice of his judicial circuit, or by the senior Circuit Judge thereof, in accordance with the language of section 18, which is, as amended September 14, 1922 (42 Stat. 837, c. 306 (Comp. St. Ann. Supp. 1923,  985 )):
+'Sec. 5. The Chief Justice of the United States, or the Circuit Justice of any judicial circuit, or the senior Circuit Judge thereof, may, if the public interest requires, designate and assign any Circuit Judge of a judicial circuit to hold a District Court within such circuit.'
+
+ The reference to the Chief Justice, it is said, is to him only as a Circuit Justice in the circuit to which he is allocated by order of the court, and that at the time was the Fourth Circuit, not the Fifth. It is urged, therefore, that after the Chief Justice had under section 201 assigned this former Commerce Court Circuit Judge to the Fifth Circuit, it was, in addition, necessary that the Circuit Justice of the Fifth Circuit, or the senior Circuit Judge of that circuit, should then assign him as a pro tempore Circuit Judge of the Fifth Circuit to the particular District Court of that circuit in which he was to exercise the duties of a District Judge. We think such reasoning is making complex a very simple statute and going out of the way to create confusion. Section 201 gives to the Chief Justice full discretion, without further designation by any other judge, to vest in a Commerce Court Circuit Judge full authority directly to act as judge either in a particular District Court or in the Circuit Court of Appeals of any circuit, and the designation of Judge Mack in this case was ample for the purpose. We thus do not think it necessary to consider whether, even if the designation had not been valid, the sitting judge should be regarded as a judge de facto, whose authority could not be questioned in a collateral attack like a proceeding in habeas corpus.
+ No question has been made whether the appeal really involves the construction or application of the federal 
+
+[269 U.S. 49, 55]
+ 
+ Constitution, such that, if the construction contended for were correct, and the judge were sitting without warrant, the trial would be without due process of law. We have assumed that for the purposes of the decision, and also that the question could be raised on habeas corpus.
+ The action of the District Court in dismissing the petition and remanding the prisoner is
+ Affirmed. 
+
+
+

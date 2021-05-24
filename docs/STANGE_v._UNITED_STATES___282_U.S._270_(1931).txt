@@ -1,0 +1,113 @@
+Description: STANGE v. UNITED STATES , 282 U.S. 270 (1931)
+Date: 1931-01-05 00:00:00
+Docket: 23
+Opinion
+
+
+United States Supreme Court
+STANGE v. UNITED STATES(1931)
+No. 23
+Argued: Decided: January 5, 1931
+
+
+
+
+[282 U.S. 270, 271]
+ 
+ Mr. W. W. Spalding, of Washington, D. C., for petitioner.
+ The Attorney General and Mr. Chas. B. Rugg, Asst. Atty. Gen., for the United States.
+
+
+
+[282 U.S. 270, 272]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ In February, 1915, Stange made a return of taxable income for the year 1914, under the Revenue Act of October 3, 1913, c. 16, 38 Stat. 114, and paid the tax assessed thereon. In February, 1924, the Commissioner of Internal Revenue made a deficiency assessment. Proceedings for collection were instituted in March, 1925. In order to avoid distraint, Stange paid the amount assessed with interest, and duly made claim for a refund on the ground that the return made in 1915 had included all the income taxable. Upon the rejection of this claim, he filed a supplementary claim for a refund on the ground that the collection of the additional tax had been barred by the statute of limitations contained in section 250(d) of the Revenue Act of November 23, 1921, c. 136, 42 Stat. 227, 265. After the lapse of six months without a determination by the Commissioner, he brought this suit in the Court of Claims to recover the money so paid. There he urged both contentions. In answer to the latter, the Government insisted that the statute had been waived by a written agreement signed by Stange in November, 1922, and by the Commissioner in March, 1923. The trial court entered judgment for the United States. 68 Ct. Cl. 395. This court granted a writ of certiorari, limited 'to the questions involving the validity and effect of the waiver of the statute of limitations.' 
+281 
+U.S. 707
+, 50 S. Ct. 238, 239
+
+
+ No constitutional question is presented. Whether the petitioner is entitled to recover depends upon the construction and effect of section 250(d) and of the written agreement called the waiver. That section provides:
+'The amount of income, excess-profits, or war-profits taxes due ... under any return made ... under prior income, excess-profits, or war-proits tax Acts, 
+
+[282 U.S. 270, 273]
+ 
+ or under section 38 of the Act entitled 'An Act to provide revenue, equalize duties, and encourage the industries of the United States, and for other purposes,' approved August 5, 1909, shall be determined and assessed within five years after the return was filed, unless both the Commissioner and the taxpayer consent in writing to a later determination, assessment, and collection of the tax; and no suit or proceeding for the collection of any such taxes due under this Act or under prior income, excess-profits, or war-profits tax Acts, or of any taxes due under section 38 of such Act of August 5, 1909, shall be begun, after the expiration of five years after the date when such return was filed, but this shall not affect suits or proceedings begun at the time of the passage of this Act. ...' 42 Stat. 265.
+
+ The waiver provides:
+'C. H. Stange, of Merrill, Wisconsin, in consideration of the assurance given him by officials of the Income Tax Unit of the Bureau of Internal Revenue that his liability for all Federal taxes imposed by the act of Congress approved October 3, 1913, ... on his net income received from all sources in the year ended December 31, 1914 , ... shall not be determined except after deliberate, intensive, and thorough consideration, hereby waives any and all statutory limitations as to the time within which assessments based upon such liability may be entered. ...'
+
+ First. It is contended that the waiver was of no effect because executed more than five years after the filing of the return. 
+1
+ The argument is that to give effect to a 
+
+[282 U.S. 270, 274]
+ 
+ waiver executed after the expiration of the period of limitation would give to the statute a retroactive effect, which Congress cannot be presumed to have intended. There was no lack of power. Prior to the 1921 Act no legislation barred the enforcement of the liability for a tax under the Act of 1913 (38 Stat. 114). Taxes duly assessed could be collected at any time by suit. There was a three-year limitation on assessment2 ( section 2(E), 38 Stat. 169), which if duly made might be followed by distraint. But there was no limitation upon the time within which the tax liability could be enforced by suit without a prior assessment. 
+3
+ The 1921 Act was the first to interpose a limitation upon the right of the Government to enforce a tax liability already accrued. 
+4
+ It barred collection in 
+
+[282 U.S. 270, 275]
+ 
+ any manner after five years only in case no waiver was given. Congress must have intended that a waiver should be operative even though before the passage of the act, five years had elapsed from the time the return had been filed. Among the earlier Revenue Acts referred to in section 250( d) was that of 1909, the returns under which were required to be filed more than ten years prior to the passage of the 1921 Act. Section 38, Third, 36 Stat. 114. And returns under the Revenue Act of 1913 were required to be filed more than six years before the passage of the 1921 Act. Section 2(D), 38 Stat. 168. The consent clause in section 250(d) deals broadly with all assessments and collections under past and future acts, and there is no indication of an intention to confine it to those few cases under the early revenue acts in which no return had been filed or a socalled common law waiver had been given prior to 1921. Unless it is to be rendered practically meaningless as applied to tax returns under these earlier acts, it must be construed to permit the execution of waivers after the period of five years. Moreover, there is the analogy of the rule that private debts barred by the statute of limitations may be effectively revived, after the bar has fallen, by a new promise without new consideration. Williston, Contracts,  160-184.
+ Second. It is contended that the socalled waiver was inoperative because its provisions did not conform to section 250(d) of the Revenue Act of 1921 (42 Stat. 265), in that it waived 'any and all statutory limitations as to the time within which assessments based upon such liability way be entered,' but did not in terms refer to the 'determination' or 'collection' of the tax. 
+5
+ The argument is that Con- 
+
+[282 U.S. 270, 276]
+ 
+ gress had, in respect to a waiver, prescribed an exact and mandatory procedure under which the Commissioner was authorized to defer action only if the taxpayer expressly waived the limitations on all three steps, determination, assessment, and collection-reliance being had on the use of the conjunctive 'and' in the section; that the statutory authority given the Commissioner to consent to a later performance of these three steps did not imply a like authority as to any one of them; that under section 250(d) the periods within which both assessment and collection must be made run concurrently five years from the filing of the return; and that nothing was accomplished by consenting to the assessment, since the assent to a later collection was withheld.
+ We are of the opinion that the validity of a waiver under section 250( d) was not conditioned on the precise use of the three words therein mentioned.
+ As pointed out in Florsheim Bros., etc., v. United States, 
+280 
+U.S. 453, 466
+, 50 S. Ct. 215, a waiver is not a contract, and the provision requiring the Commissioner's signature was inserted for purely administrative purposes and not to convert into a contract what is essentially a voluntary, unilateral waiver of a defense by the taxpayer. The ambit of the Commissioner's authority may be in many respects limited by the statute, Florsheim Bros., etc., v. United States, supra, at page 464, of 280 U. S., 50 S. Ct. 215, but no reason appears why it was essential that specific reference be made to the period for collection, or why he could not, with the taxpayer's consent, employ one word instead of three to secure the desired result. The waiver, in terms, was executed by the taxpayer in order 'that his liability ... might be determined' only after intensive and thorough reconsideration by the Commis- 
+
+[282 U.S. 270, 277]
+ 
+ sioner. The parties cannot have intended to have the amount of the tax ascertained and to leave the taxpayer free to pay it or not. They clearly contemplated the entire procedure necessary to determination and collection of the tax. This does not mean that the distinctions between assessment and collection were to be disregarded, but merely that the employment of a single term comprehended both steps.
+ In November, 1922, both parties understood that the tax would be assessed and collected after a proper consideration of the taxpayer's objections to any additional assessment. To secure sufficient time for this purpose, the socalled waiver was executed. The failure to insert in the written consent words expressly waiving the statutory limitation upon collection is explained by the belief prevailing prior to the decision in Bowers v. N. Y. & Albany Lighterage Company, 
+273 
+U.S. 346
+, 47 S. Ct. 389, that distraint, the common method for coercing payment, was possible even when the statutory period for collection by suit had expired. That the parties at the time may have believed that collection was possible independent of any waiver, does not make less effective the instrument given for the purpose of tolling the limitation on the ultimate determination and collection of the tax. It must be assumed that an effective and not a futile act was intended.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] On this question, there has been conflict in the lower federal courts. See, sustaining the validity of such waivers, Stange v. United States, 68 Ct. Cl. 395; W. P. Brown & Sons Lumber Co. v. Commissioner (C. C. A. 6th) 38 F.(2d) 425; Sabin v. United States (Ct. Cl.) 44 F.(2d) 70. Denying valdit y; Joy Floral Co. v. Commissioner, 58 App. D. C. 277, 29 F.( 2d) 865 (same question under section 278(c) of the Act of 1924, c. 234, 43 Stat. 253, 300 (26 USCA  1061 note)); Spear & Co. v. Heiner (D. C.) 34 F.( 2d) 795; Pictorial Printing Co. v. Commissioner (C. C. A. 7th) 38 F.(2d) 563; Columbian Iron Works v. Brock (D. C.) 38 F.(2d) 816; Chicago Railway Equipment Co. v. Commissioner (C. C. A. 7th) 39 F.(2d) 378 (both under the 1924 Act); Wetherell Bros. Co. v. White (D. C. Mass.) 46 F.(2d) 83, decided December 3, 1930 (under section 278(e) of the 1926 Act, c. 27, 44 Stat. 9, 59 (26 USCA  1062)). 
+
+[
+Footnote 2
+] There was doubt whether this provision required the Commissioner both to discover the error in the return and to make an additional assessment, or merely to make discovery, within the three years. See Aiken v. Burnet, 
+282 
+U.S. 277
+, 51 S. Ct. 148, decided this day, note 2; Brown & Sons Lumber Co. v. Burnet, 
+282 
+U.S. 283
+, 51 S. Ct. 140, decided this day, note 2. 
+[
+Footnote 3
+] Compare United States v. Nashville, C. & St. L. Ry. (C. C. A.) 249 F. 678; United States v. Ayer (C. C. A.) 12 F.(2d) 194; United States v. Kelley (D. C.) 24 F.(2d) 234; United States v. Greenfield Tap & Die Corp. ( C. E.) 27 F.(2d) 933. 
+[
+Footnote 4
+] The provisions in section 250(d) of the Revenue Act of 1918 (40 Stat. 1057, 1083) were not in terms retroactive and applied only to taxes assessed under that Act. Compare Bowers v. N. Y. & Albany Lighterage Co., 
+273 
+U.S. 346, 350
+, 47 S. Ct. 389; Florsheim Bros. Co. v. United States, 
+280 
+U.S. 453, 459
+, 50 S. Ct. 215, note 5. Even after the Act of 1921 suit might be brought, within the limitation period, though no assessment had been made. See Revenue Act of 1924, c. 234,  278(d), 43 Stat. 253, 300 (26 USCA  1061 note). 
+
+[
+Footnote 5
+] On this question, the Government has uniformly prevailed below. Stange v. United States, 68 Ct. Cl. 395; Sabin v. United States (Ct. Cl.) 44 F.(2d) 70; Columbian Iron Works v. Brock (D. C.) 38 F.(2d) 816; Washington Coal & Coke Co. v. Heiner (D. C.) 42 F.(2d) 681; Solomon v. Heiner (D. C.) 43 F.(2d) 592; Crowell Elevator Co. v. Allen (D. C.) 43 F.( 2d) 772; see, also, Watt & Holmes Hardware Co. v. Commissioner, 8 B. T. A. 372; Sunshine Cloak & Suit Co. v. Commissioner, 10 B. T. A. 971 (under section 278(c) of Act 1924 (43 Stat. 300) and section 278(c) 1926 Act (26 USCA  1060 note)); Lutcher & Moore, etc., Co. v. Commissioner, 19 B. T. A. 887; cf. Roy & Titcomb, Inc., v. United States, 69 Ct. Cl. 614. 
+
+
+
+

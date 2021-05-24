@@ -1,0 +1,56 @@
+Description: KANSAS CITY STRUCTURAL STEEL CO. v. STATE OF ARKANSAS , 269 U.S. 148 (1925)
+Date: 1925-11-16 00:00:00
+Docket: 54
+Opinion
+
+
+United States Supreme Court
+KANSAS CITY STRUCTURAL STEEL CO. v. STATE OF ARKANSAS(1925)
+No. 54
+Argued: Decided: November 16, 1925
+
+
+
+
+[269 U.S. 148, 149]
+ 
+ Messrs. Armwell L. Cooper, or Kansas City, Mo., and Charles T. Coleman and J. W. House, Jr., both of Little Rock, Ark., for plaintiff in error.
+ Mr. J. R. Wilson, of El Dorado, Ark., for defendant in error.
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ Plaintiff in error, a corporation organized under the laws of Missouri, brings here for review (section 237, Judicial Code (Comp. St.  1214)) a judgment of the Supreme Court of Arkansas which affirmed a judgment of the circuit court of Shelby county imposing a fine of $1,000 on plaintiff in error for doing business in Arkansas without obtaining permission. The laws of the state require every corporation incorporated in any other state, doing business in Arkansas, to file in the office of the secretary of state certain evidence of its organization and a financial statement, to designate its general office and place of business in Arkansas, and to name an agent there and authorize process to be served upon him. It is provided that any corporation which shall do business in Arkansas without having complied with these requirements shall be subject to a fine of not less than $1,000. Sections 1825-1832, Crawford & Moses' Digest of Laws of Arkansas.
+ Plaintiff in error contends that, as applied in this case, the state enactments are repugnant to the commerce clause of the federal Constitution. 
+
+[269 U.S. 148, 150]
+ 
+ The material facts are these: May 3, 1921, plaintiff in error made a bid to the Wilmot road district for the construction of a steel bridge near Wilmot, in Ashley county, Ark. Its offer was accepted, and on that day a contract covering the work was signed in Arkansas by the representatives of the parties. The contract was not to become effective until a bond was given by the contractor to secure its faithful performance. The bond was executed in Missouri two days later. June 14, 1921, plaintiff in error sublet all the work except the erection of the steel superstructure to the Yancy Construction Company, a partnership whose members were residents of Kansas. August 17, 1921, plaintiff in error secured permission, as required by the laws of Arkansas, to do business in that state. Before such permission was obtained, the greater part of the work sublet had been completed; plaintiff in error had made certain shipments of steel, consisting of reinforcing rods, steel piers, tubes and angles from Kansas City, Mo., to itself at Wilmot, Ark., for use in the construction of the bridge; and these materials had been delivered to the subcontractor and used in the performance of the work done by it. The steel for the superstructure was fabricated by plaintiff in error in its plant in Kansas City, some before and some after the permission was obtained.
+ The Supreme Court of Arkansas held that the things done by plaintiff in error before August 17, 1921, constituted intrastate business in Arkansas. But the plaintiff in error contends that all was interstate commerce. We accept the decision of the Supreme Court of Arkansas as to what constitutes the doing of business in that state within the meaning of its own laws. Georgia v. Chattanooga, 
+264 
+U.S. 472, 483
+, 44 S. Ct. 369. But this court will determine for itself whether what was done by plaintiff in error was interstate commerce and whether the state enactments as applied are repugnant to the commerce clause. Plain- 
+
+[269 U.S. 148, 151]
+ 
+ tiff in error cites Dahnke-Walker Milling Co. v. Bondurant, 
+257 
+U.S. 282
+, 42 S. Ct. 106. It was there held that 'such commerce (among the states) is not confined to transportation from one state to another, but comprehends all commercial intercourse between different states and all the component parts of that intercourse' (page 290 (42 S. Ct. 108)), and that 'a corporation of one state may go into another, without obtaining the leave or license of the latter, for all the legitimate purposes of such commerce; and any statute of the latter state which obstructs or lays a burden on the exercise of this privilege is void under the commerce clause' (page 291 (42 S. Ct. 109)). In that case, a Tennessee corporation, in pursuance of its practice of purchasing grain in Kentucky, to be transported to and used in its Tennessee mill, made a contract for the purchase of wheat to be delivered in Kentucky on the cars of a public carrier, intending to forward it as soon as delivery was made. It was held that the transaction was interstate commerce, notwithstanding the contract was made and was to be performed in Kentucky. All the things done in Kentucky had reference to and were included in the interstate transaction.
+ But in the case now before the court the construction of the bridge necessarily involved some work and business in Arkansas, which were separate and district from any interstate commerce that might be involved in the performance of the contract. From the beginning, transactions local to Arkansas were contemplated. In fact, plaintiff in error obtained permission to do business in Arkansas in order to be authorized to erect the steel superstructure-the part of the work it had not sublet. But, before obtaining such permission, it made the bid and signed the contract in Arkansas; it shipped from Kansas City to itself at Wilmot the materials for the performance of the work it had sublet, and, after the interstate transit had ended, delivered them to the subcontractor who used them in the work. We need not 
+
+[269 U.S. 148, 152]
+ 
+ consider whether, under the circumstances shown, the making of the bid, the signing of the contract, and execution of the bond would be within the protection of the commerce clause, if these acts stood alone. But it is certain that, when all are taken together, the things done by plaintiff in error in Arkansas before obtaining the permission constitute or include intrastate business. The delivery of the materials to the subcontractor was essential to the building of the bridge, and that was an intrastate and not an interstate transaction. The fact that the materials had moved from Missouri into Arkansas did not make the delivery of them to the subcontractor interstate commerce. So far as concerns the question here involved, the situation is the equivalent of what it would have been if the materials had been shipped into the state and held for sale in a warehouse, and had been furnished to the subcontractor by a dealer. We think it plain that the plaintiff in error did business of a local and intrastate character in Arkansas before it obtained permission. General Railway Signal Co. v. Virginia, 
+246 
+U.S. 500
+, 38 S. Ct. 360; Browning v. Waycross, 
+233 
+U.S. 16
+, 34 S. Ct. 578; York Manufacturing Co. v. Colley, 
+247 
+U.S. 21
+, 38 S. Ct. 430, 11 A. L. R. 611.
+ Judgment affirmed.
+ Mr. Justice STONE dissents. 
+
+
+

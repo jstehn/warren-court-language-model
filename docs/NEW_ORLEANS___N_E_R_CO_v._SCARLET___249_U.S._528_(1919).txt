@@ -1,0 +1,38 @@
+Description: NEW ORLEANS & N E R CO v. SCARLET , 249 U.S. 528 (1919)
+Date: 1919-04-21 00:00:00
+Docket: 242
+Opinion
+
+
+United States Supreme Court
+NEW ORLEANS & N E R. CO. v. SCARLET(1919)
+No. 242
+Argued: Decided: April 21, 1919
+
+
+
+ Messrs. J. Blanc Monroe, of New Orleans, La., Albert S. Bozeman, of Meridian, Miss., Monte M. Lemann, of New Orleans, La., 
+
+[249 U.S. 528, 529]
+ 
+ and H. O'B. Cooper, of Washington, D. C., for plaintiff in error.
+ Mr. Thomas G. Fewell, of Meridian, Miss., for defendant in error.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Scarlet was a fireman on the New Orleans & Northeastern Railroad. While engaged in the performance of his duties he was injured by being thrown down between the engine and the tender. The accident was caused by the uncoupling of engine and tender; and this was apparently due to the breaking of the king pin, which fastened the drawbar to the tender, and the breaking of the coupling chains between engine and tender. He brought suit in a state court of Mississippi under the federal Employers' Liability Act of April 22, 1908, c. 149, 35 Stat. 65 (Comp. St.  8657- 8665), and the Boiler Inspection Act of February 17, 1911, c. 103, 36 Stat. 913 (Comp. St.  8630-8639), as amended by the Act of March 4, 1915, c. 169, 38 Stat. 1192 (Comp. St.  8639a-8639d), and recovered judgment which was affirmed by the Supreme Court of the state (115 Miss. 285, 76 South. 265). The case comes here by writ of error under section 237 of the Judicial Code (Act March 3, 1911, c. 231, 36 Stat. 1156), as amended by the Act of September 6, 1916, c. 448,  2, 39 Stat. 726 (Comp. St.  1214).
+ The railroad contends that the Supreme Court of Mississippi erred in sustaining the action of the trial court, which charged the jury that the so-called 'Prima Facie Act' of Mississippi (section 1985 of the Code of 1906, as amended by chapter 215, Laws 1912, p. 290) applied, and that it relieved the plaintiff of the burden of proof to establish negligence. Scarlet concedes now that the statute cannot constitutionally be applied to suits under the federal Employers' Liability Act, since this court has so decided in New Orleans & Northeastern Railroad Co. v. Harris, 247 
+
+[249 U.S. 528, 530]
+ 
+ U. S. 367, 38 Sup. Ct. 535, and that the judgment must be reversed if the rights of the railroad were prejudiced by this error. But he contends that the railroad was not prejudiced, because negligence on its part is not essential to recovery. He insists that the Boiler Inspection Act, as amended, imposes upon the railroad the absolute duty ( compare St. Louis & Iron Mountain Railway Co. v. Taylor, 
+210 U.S. 281
+, 28 Sup. Ct. 616) to have the 'locomotive and tender and all parts and appurtenances thereof' in 'proper condition and safe to operate'; that the mere breaking of the king pin and coupling chains shows conclusively that they were defective; that the evidence shows conclusively that this was the proximate cause of the injury; and that the plaintiff was therefore entitled, under the federal act, to have the jury peremptorily instructed to render a verdict in his favor. It does not appear that this contention was made before the Supreme Court of the state, and it was apparently not considered by that court. But whether Scarlet is now in a position to avail himself of the contention need not be determined (compare Yazoo & Mississippi Valley Railroad Co. v. Mullins, No. 273, 
+249 U.S. 531
+, 39 Sup. Ct. 368, decided this day); for it is clear that the evidence did not establish as a matter of law that the king pin or the chains were defective. At most it presented a question for the jury. Compare Minneapolis & St. Louis Railroad Co. v. Gotschall, 
+244 U.S. 66
+, 37 Sup. Ct. 598. We cannot say, therefore, that the railroad was not prejudiced by the error of the trial court in instructing the jury that the 'Prima Facie Act' was applicable.
+ The conflict of a state statute with a valid law of the United States being involved and the decision having been in favor of the validity of the statute, the case is properly here on a writ of error; and the petition for a writ of certiorari is denied.
+ Reversed. 
+
+
+

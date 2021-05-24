@@ -1,0 +1,66 @@
+Description: UNITED STATES v. TROY , 293 U.S. 58 (1934)
+Date: 1934-11-05 00:00:00
+Docket: 25
+Opinion
+
+
+United States Supreme Court
+UNITED STATES v. TROY(1934)
+No. 25
+Argued: Decided: November 5, 1934
+
+
+
+ On Appeal from the District Court of the United States for the Middle District of Pennsylvania. 
+
+[293 U.S. 58, 59]
+ 
+ The Attorney General and Mr. Frank J. Wideman, Asst. Atty. Gen., for the United States.
+ Mr. Joseph F. Gunster, of Scranton, Pa., for appellee.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ This cause is here under the Criminal Appeals Act, March 2, 1907, c. 2564, 34 Stat. 1246 (18 USCA  682), and section 238, Jud. Code (28 USCA  345). It necessitates consideration of certain provisions of the Revenue Act of 1928, c. 852, 45 Stat. 791 (26 USCA  2001 et seq.).
+ Section 52 of that act (26 USCA  2052) commands corporations to make tax returns sworn to by designated officers. Section 146, par. (a) declares that any person required to make return who willfully fails so to do shall be guilty of a misdemeanor; paragraph (b) that any person who willfully fails to collect or truthfully account for and pay over any tax, and any person who willfully attempts to evade or defeat any tax, shall be guilty of felony; and paragraph (c) that 'the term 'person' as used in this section includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to perform the act in respect of which the violation occurs.' 26 USCA  2146 (a-c).
+ Section 701 (26 USCA  2701) provides: 'When used in this chapter the term 'person' means an individual, a trust or estate, a part- 
+
+[293 U.S. 58, 60]
+ 
+ nership, or a corporation'; also 'the terms 'includes' and 'including' when used in a definition contained in this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined.'
+ Applicable portions of the act are copied in the margin. 
+1
+ 
+
+ An indictment, in the Middle District of Pennsylvania, charged appellee, Troy, with violating section 146, par. (b), of the act (26 USCA  2146(b), in that while president of the Troy Oil Company, Incorporated, he unlawfully, willfully, and knowingly attempted to defeat and evade a large part of the tax due from that corporation for 1929, by making a return for it which 
+
+[293 U.S. 58, 61]
+ 
+ falsely stated the gross income. The indictment was challenged because 'it fails to set forth that the defendant was under a duty to perform the act in respect of which the violation occurred and in the absence of this averment the indictment fails to set forth facts showing prima facie, a commission of the crime charged in the indictment.' The trial judge sustained the objection and quashed the indictment. In his view it was necessary that there should be allegation and proof that appellee, as president of the corporation, was under a duty to make the return.
+ This was error; the questioned judgment must be reversed.
+ Section 146, par. (a), penalizes any person required to make a return who willfully fails so to do; paragraph (b) any person under duty to collect, account for, and pay over any tax who willfully fails, also any person (without regard to duty) who willfully attempts to defeat the tax; and paragraph (c) declares that the term person as used in the section shall include an officer under duty to perform, etc.
+ Considering these paragraphs along with the definitions of section 701, it seems sufficiently clear Congress did not intend that paragraph (c) should exclude from paragraph (b) one who actually attempted to defeat. If the charge against appellee had been failure to make return, or pay over the tax of for the corporation, it might have been neces- 
+
+[293 U.S. 58, 62]
+ 
+ sary to allege and show some duty in respect thereto; but, when charged with willful effort to defeat the tax by presenting a false return, no allegation of duty to make the return was necessary. The alleged act sufficiently indicated appellee's criminal intent. Certainly we can find no legislative purpose to exempt from punishment one who actively endeavors to defeat a tax. And because some officers are said to be included in the term 'person,' all other individuals are not necessarily excluded.
+ Thus construed, all parts of the statute may have effect, and the manifest purpose of Congress will not be obstructed.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] Revenue Act 1928, c. 852, 45 Stat. 791, 808, 855, 878,  52, 146, 701 (26 USCA  2052, 2146, 2701).
+ Sec. 52. Corporation Returns.
+ (a) Requirement. Every corporation subject to taxation under this title shall make a return, stating specifically the items of its gross income and the deductions and credits allowed by this title. The return shall be sworn to by the president, vice president, or other principal officer and by the treasurer or assistant treasurer. ...
+ Sec. 146. Penalties.
+ (a) Any person required under this title to pay any tax, or required by law or regulations made under authority thereof to make a return, keep any records, or supply and information, for the purposes of the computation, assessment, or collection of any tax imposed by this title, who willfully fails to pay such tax, make such return, keep such records, or supply such information, at the time or times required by law or regulations, shall, in addition to other penalties provided by law, be guilty of a misdemeanor and, upon conviction thereof, be fined not more than $10,000, or imprisoned for not more than one year, or both, together with the costs of prosecution.
+ (b) Any person required under this title to collect, account for, and pay over any tax imposed by this title, who willfully fails to collect or truthfully account for and pay over such tax, and any person who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof, shall, in addition to other penalties provided by law, be guilty of a felony and, upon conviction thereof, be fined not more than $ 10,000, or imprisoned for not more than five years, or both, together with the costs of prosecution. 
+ (c) The term 'person' as used in this section includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to perform the act in respect of which the violation occurs.
+ Sec. 701. Definitions.
+ (a) When used in this chapter-
+ (1) The term 'person' means an individual, a trust or estate, a partnership, or a corporation. ...
+ (b) The terms 'includes' and 'including' when used in a definition contained in this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined. 
+
+
+
+

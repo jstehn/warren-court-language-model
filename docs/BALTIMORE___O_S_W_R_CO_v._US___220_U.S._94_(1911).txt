@@ -1,0 +1,79 @@
+Description: BALTIMORE & O S W R CO v. US , 220 U.S. 94 (1911)
+Date: 1911-03-20 00:00:00
+Docket: 98
+Opinion
+
+
+United States Supreme Court
+BALTIMORE & O S W R. CO. v. U S(1911)
+No. 98
+Argued: March 4, 1910Decided: March 20, 1911
+
+
+
+
+[220 U.S. 94, 94]
+ 
+ 'The act to prevent cruelty to animals while in transit,' approved June 29, 1906 (34 Stat. at L. 607, chap. 3594, U. S. Comp. Stat. Supp. 1909, p. 1178), provides:
+'Sec. 1. That no railroad . . . whose road forms 
+
+[220 U.S. 94, 95]
+ 
+ any part of a line of road over which cattle . . . or other animals shall be conveyed . . . [in interstate commerce] . . . shall confine the same in cars, boats, or vessels of any description for a period longer than twentyeight consecutive hours without unloading the same in a humane manner, into properly equipped pens, for rest, water, and feeding, for a period of at least five consecutive hours, unless prevented by . . . unavoidable causes . . . Provided, That upon the written request of the owner or person in custody of that particular shipment, which written request shall be separate and apart from any printed bill of lading, or other railroad form, the time of confinement may be extended to thirty-six hours. In estimating such confinement, the time consumed in loading and unloading shall not be considered, but the time during which the animals have been confined without such rest or food or water on connecting roads shall be included, it being the intent of this act to prohibit their continuous confinement beyond the period of twenty-eight hours, except upon the contingencies hereinbefore stated. . . .
+
+'Sec. 2. That animals so unloaded shall be properly fed and watered during such rest. . . .
+
+'Sec. 3. That any railroad . . . who knowingly and wilfully fails to comply with the provisions of the two preceding sections shall, for every such failure, be liable for and forfeit and pay a penalty of not less than one hundred nor more than five hundred dollars. . . .
+
+'Sec. 4. That the penalty created by the preceding section shall be recovered by civil action in the name of the United states. . . .'
+
+ Under this act eleven actions were instituted in the southern district of Ohio against the Baltimore & Ohio Southwestern Railroad Company.
+ The complaint in each case gave the name of the station in Illinois from which the animals were shipped to 
+
+[220 U.S. 94, 96]
+ 
+ Cincinnati, the marks of the cars in which they were shipped, the hour on February 2, 1907, when they were loaded, and the various periods of confinement, which varied from thirty-seven to forty-five hours. The separate shipments consisted of one, two, three, and four car-load lots, aggregating twenty-one cars, containing several hundred cattle and hogs. Most of the shipments were loaded at different times; but because one ( 1872) was forwarded under the thirty-six hour rule, the time for its unloading was the same as that of another shipment (1871), made eight hours later under the twenty-eight hour rule, from a different station. At another station there were three shipments of one car load each of cattle belonging to different owners, loaded at the same time, but two (1869, 1873) of the cars were forwarded under the twenty-eight hour rule, and the other (1874) under the thirty-six hour rule.
+ The railroad company filed a separate plea in each case, admitting the allegations of the complaint, but setting up that 'the shipment therein was forwarded to Cincinnati on its train No. 98, on which there were also loaded and forwarded other cattle, referred to in each of the other suits, and in the said several causes the said plaintiff is entitled to recover but one penalty, not to exceed $500, which it is ready and willing to pay, and it pleads the said separate suits in bar to the recovery of more than $500 for all of the same.'
+ The district attorney's motions for separate judgments on the admission in the several pleas were overruled. The court sustained the company's motion to consolidate the causes, entered judgment for a single penalty, and ordered 'that the within order in case 1866 shall apply to, operate upon, and be conclusive of, all the rights of the plaintiff in each of the several causes, to wit, 1867-1874, 1880 and 1884.' The government sued out a writ of error in case 1866, and, apparently out of abundant cau- 
+
+[220 U.S. 94, 97]
+ 
+ tion, another in 1867, later entering into a stipulation in the circuit court of appeals that the result in these two cases should control all the others.
+ The circuit court of appeals for the sixth circuit (86 C. C. A. 223, 159 Fed. 33) held that the order of consolidation was proper, but reversed the judgment on the ground that the United States were entitled to recover eleven penalties, or one for each of the eleven shipments.
+ Messrs. Edward Colston, Judson Harmon, A. W. Goldsmith, and George Hoadly for plaintiff in error.
+
+
+[220 U.S. 94, 100]
+ 
+ Solicitor General Bowers for defendant in error.
+ Assistant Attorney General Denison for defendant in error on reargument.
+
+
+[220 U.S. 94, 103]
+ 
+
+ Mr. Justice Lamar, after making the foregoing statement, delivered the opinion of the court:
+ The consolidated record of the eleven cases shows that several hundred cattle and hogs of eleven different owners, shipped in twenty-one cars, loaded at different stations at various hours on February 2, 1907, were in one train at the time of the expiration of the successive periods for the unloading required by the act of 1906, 'to prevent cruelty to animals in transit.' The question is as to the number of penalties for which, in such a case, the carrier is liable.
+ Under the nearly identical act of 1873 (Rev. Stat. 4386. U. S. Comp. Stat. 1901, p. 2996), it was held that the penalties were not to be measured by the number of cattle in the shipment, nor the number of cars in which they were transported. United States v. Boston & A. R. Co. 15 Fed. 209; United States v. St. Louis & S. F. R. Co. 107 Fed. 870. And the company contends that, as the cattle here were in one train, the failure to unload was one offense, punishable by one penalty. In support of its position it relies, among others, on authorities which hold that in larceny, if the goods stolen at one time belong to several persons, the offense is single; and that, on conviction for working on Sunday, there is only one breach of the statute, the penalty for which cannot be multiplied by the number of items of work done on the day of rest. 
+
+[220 U.S. 94, 104]
+ 
+ But this does not mean that if the thief should, at a different time, steal property from the same place, he could not be punished for the new transaction, nor that because a man had been convicted for working on one Sunday, he could not be convicted and punished for subsequently working on a different Sunday. For every penal statute must have relation to time and place, and corporations whose operations are conducted over a large territory, by many agents, may commit offenses at the same time in different places, or at the same place at different times.
+ Here the twenty-one cars, loaded at different periods, had been gathered into one train. As the period of lawful confinement of the cattle first loaded expired, there was a failure to unload. For that failure the statute imposed a penalty. But there was then no offense whatever as to the animals in the other twenty cars of the same train, which, up to that time, had not been confined for twenty-eight hours.
+ When, however, later in the day, at the same or a different place, the time for the lawful confinement of the animals in the other twenty cars successively expired, there were similar but distinct and separate failures then and there to unload. They were separately punishable, since the provision that 'for every such failure' the company shall be liable to a penalty prevented a merger. If the period of lawful confinement of several car loads of cattle expires at the same time and place, and the company fails to unload them, as required by the statute, and if these cattle all belong to one owner, it is conceded that there is only one offense. It is not different if the same cattle, at the same time and place, had belonged to various owners, or had been shipped under different consignments.
+ Several expressions in the statute, and particularly the provision that, in estimating the period of lawful confinement, 'the time consumed in loading and unloading shall not be considered,' recognize that the proper load- 
+
+[220 U.S. 94, 105]
+ 
+ ing or unloading of a number of animals may be treated as a single act, and there is nothing to indicate that it is to be treated as more than one act because the animals happen to belong to different persons. The loading of numerous cars might proceed concurrently; or, if not discontinuous or unduly prolonged, several cars of cattle of the same consignor might be loaded at the same time, within the meaning of the act, in which event the period of their lawful confinement on the same train would end at the same time and place. There would in this latter case be coincidence between the one shipment and the one offense.
+ But, in determining whether the number of penalties is always to be measured by the number of shipments on the same train, even when the animals were loaded at different times, it is to be remembered that the statute is general. It applies to the transportation of a train load of cattle belonging to one owner; to the more usual case where animals belonging to one or more owners are loaded into different cars at different times; and also to those instances where one or a few horses or other animals are shipped, and at a different time or farther on during the journey other animals are loaded into the same car. These differences in shipments do not affect the duty of the carrier to the animals, but only the time when the duty to unload is to be performed. The number of consignors, the consent of the owner or agent in charge of the particular shipment that the cattle might be confined for thirty-six hours, the number of bills of lading, and the particulars of the shipment, are immaterial, except as they serve to fix the limit of lawful confinement.
+ To illustrate: It appears in this record that several hundred animals belonging to one owner and consigned to one dealer were loaded into four cars at the same time. The twenty-eight hours of their lawful confinement necessarily expired at the same time. The simultaneous failure to unload these four cars was single, and punishable as a single 
+
+[220 U.S. 94, 106]
+ 
+ offense. But the duty and offense in this transaction would not have been quadrupled if the company had issued to the owner four bills of lading instead of one. Nor would there have been any increase of duty if these same cattle had been received from four consignors instead of one.
+ The statute was not primarily intended for the benefit of the owners. Indeed, it is restrictive of their rights. The penalty does not go to the consignor, but to the United States for each failure to unload cattle, regardless of who may own them, and even if the owner consented to their confinement beyond a period of thirty-six hours. The title of the act is 'to prevent cruelty to animals in transit,' its declared 'intent being to prohibit their continuous confinement beyond a period of twenty-eight hours, except upon the contingencies hereinbefore stated.' Regardless of the number of shipments, at any time and place where they are wilfully and knowingly confined beyond the lawful period, there is a violation of the statute as to the animal or animals then and there in custody for transit in interstate commerce.
+ The point is made in the brief that this court has no jurisdiction, because the amount involved in the cases embraced in these writs of error was only $1,000. The court, we think properly, consolidated all the cases ( Rev. Stat.  921, U. S. Comp. Stat. 1901, p. 685), and, as consolidated, the amount of the possible penalties sued for in the eleven actions was fifty-five hundred dollars. The company is liable of nine penalties, because nine times it failed to unload as required by the statute. One penalty should be imposed as to animals referred to in cases numbered 1871 and 1872, and one as to those in 1869 and 1873, where the time for the required nuloading respectively coincided. In other respects the judgment of the Circuit Court of Appeals, reversing the judgment of the District Court, is affirmed. 
+
+
+

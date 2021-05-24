@@ -1,0 +1,63 @@
+Description: JOHN v. PAULLIN , 231 U.S. 583 (1913)
+Date: 1913-12-22 00:00:00
+Docket: 105
+Opinion
+
+
+United States Supreme Court
+JOHN v. PAULLIN(1913)
+No. 105
+Argued: Decided: December 22, 1913
+
+
+
+
+[231 U.S. 583, 584]
+ 
+ Messrs. Edward F. Colladay and Napoleon B. Maxey for plaintiff in error.
+ Messrs. W. T. Sprowls, V. B. Hays, and Robert Crockett for defendants in error.
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ Our jurisdiction in this case is challenged by a motion to dismiss. The case was begun in the United States court for the central district of the Indian territory, and was pending in that court when the territory of Oklahoma and the Indian territory were admitted into the Union as the state of Oklahoma. Under the combined operation of the Oklahoma enabling act (34 Stat. at L. 267, chap. 3335; Id. 1286, chap. 2911) and the state constitution (see Benner v. Porter, 9 How. 235, 246, 13 L. ed. 119, 124), the case was then transferred to the district court of Bryan court, where a trial resulted in a judgment determining the matters in controversy, which turned in part upon the validity, under the laws of the United States, of certain deeds and leases executed by an Indian allottee, since deceased. The guardian of two minor heirs of the allottee had intervened in the cause, had asserted the invalidity of all the deeds and leases, and 
+
+[231 U.S. 583, 585]
+ 
+ had set up a claim to the property in question as against the other parties; but this claim was rejected, and the guardian sought to have the judgment reviewed and reversed by the supreme court of the state. That court held that some of the parties below, whose presence in the appellate proceeding was essential, had not been brought into that proceeding, or voluntarily appeared therein, in accordance with the law of the state, and upon that ground dismissed the proceeding, 24 Okla. 636, 104 Pac. 365, 106 Pac. 848. The guardian then sued out the present writ of error.
+ As the supreme court of the state did not pass upon the merits of the case or upon the correctness of any of the rulings below, but, on the contrary, held that it was powerless to do so because its appellate jurisdiction was not invoked in accordance with the laws of the state, we do not perceive any theory upon which its judgment of dismissal may be reviewed by us consistently with the familiar limitations upon our authority. See Rev. Stat.  709, U. S. Comp. Stat. 1901, p. 575; Judicial Code,  237 [36 Stat. at L. 1156, chap. 231, U. S. Comp. Stat. Supp. 1911, p. 227]. Certainly no Federal right was denied by that court, and if, as was held by it, its appellate jurisdiction was not properly invoked, no Federal question was before it for decision.
+ Without any doubt it rests with each state to prescribe the jurisdiction of its appellate courts, the mode and time of invoking that jurisdiction, and the rules of practice to be applied in its exercise; and the state law and practice in this regard are no less applicable when Federal rights are in controversy than when the case turns entirely upon questions of local or general law. Callan v. Bransford, 
+139 U.S. 197
+, 35 L. ed. 144, 11 Sup. Ct. Rep. 519; Brown v. Massachusetts, 
+144 U.S. 573
+, 36 L. ed. 546, 12 Sup. Ct. Rep. 757; Jacobi v. Alabama, 
+187 U.S. 133
+, 47 L. ed. 106, 23 Sup. Ct. Rep. 48; Hulbert v. Chicago, 
+202 
+U.S. 275, 281
+, 50 S. L. ed. 1026, 1028, 26 Sup. Ct. Rep. 617; Newman v. Gates, 
+204 U.S. 89
+, 51 L. ed. 385, 27 Sup. Ct. Rep. 220; Chesapeake & O. R. Co. v. McDonald, 
+214 
+U.S. 191, 195
+, 53 S. L. ed. 963, 965, 29 Sup. Ct. Rep. 546.
+ But it is said that the proceedings by which it was attempted to secure a review of the judgment of the trial court should have been tested by the act of Congress of 
+
+[231 U.S. 583, 586]
+ 
+ March 3, 1905, 33 Stat. at L. 1081, chap. 1479,  12, and that the supreme court of the state erred in holding otherwise. We cannot accede to the contention. The act of 1905,  12, related to the review of judgments rendered in the courts temporarily established by Congress in the Indian territory, and had no application to judgments rendered after statehood in the courts of the state. Besides, the mode of subjecting the judgments of the state's subordiinate courts to review in its supreme court was a matter of local concern only, and not within the control of Congress. See Coyle v. Smith, 
+221 U.S. 559
+, 55 L. ed. 853, 31 Sup. Ct. Rep. 688.
+ The state Constitution provided (art. 7,  8) that the appellate jurisdiction of the supreme court should be invoked in the manner prescribed by the laws of the territory of Oklahoma, until the state legislature should provide otherwise, and also (art. 25,  2) that the laws of the territory of Oklahoma, not repugnant to the state Constitution or locally inapplicable, should be extended over the new state, which embraced the Indian territory as well as the territory of Oklahoma. When the state was admitted into the Union the territory of Oklahoma had a full complement of laws regulating appellate proceedings. Wilson's Rev. & Anno. Stat. 1903,  4732 et seq. It was by these constitutional provisions and laws that the supreme court tested the appellate proceedings in this instance, with the result that they were adjudged inadequate because they had not brought before the court within the time prescribed (Wilson's Stat .  4736, 4748), parties whose presence was essential to enable it to review the judgment below.
+ Thus it appears that nothing was decided but the preliminary question of the court's jurisdiction to pass upon the controverted matters shown in the record, and that this question was resolved according to what the court deemed to be the true construction and effect of applicable provisions of the Constitution and laws of the state. In 
+
+[231 U.S. 583, 587]
+ 
+ short, the judgment of dismissal turned entirely upon a question of local law.
+ As particularly apposite, we quote the following from the opinion in Newman v. Gates, 
+204 U.S. 89
+, 51 L. ed. 385, 27 Sup. Ct. Rep. 220, a case in which this court declined to review a like judgment of dismissal by a state court:
+'Had the appeal been properly taken, it would have been the duty of the supreme court of Indiana to pass upon the questions presented by the record before it, including, it may be, a Federal question, based upon the due faith and credit clause of the Constitution, which, on various occasions, was pressed upon the attention of the trial court. In legal effect, however, the case stands as though no appeal had been prosecuted from the judgment rendered by the trial court. As the jurisdiction of this court to review the judgments or decrees of state courts when a Federal question is presented is limited to the review of a final judgment or decree, actually or constructively deciding such question, when rendered by the highest court of a state in which a decision in the suit could be had, and as for the want of a proper appeal, no final judgment or decree in such court has been rendered, it results that the statutory prerequisite for the exercise in this case of the reviewing power of this court is wanting.'
+
+ Writ of error dismissed. 
+
+
+

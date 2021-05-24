@@ -1,0 +1,61 @@
+Description: BAUGHAM v. NEW YORK, P & N R CO , 241 U.S. 237 (1916)
+Date: 1916-05-22 00:00:00
+Docket: 327
+Opinion
+
+
+United States Supreme Court
+BAUGHAM v. NEW YORK, P & N R. CO.(1916)
+No. 327
+Argued: April 27, 1916Decided: May 22, 1916
+
+
+
+
+[241 U.S. 237, 238]
+ 
+ Mr. Edward P. Buford for plaintiff in error.
+ Messrs. Thomas H. Willcox and Francis I. Gowen for defendant in error.
+
+ Mr. Justice McKenna delivered the opinion of the court:
+ Action for damages under the Federal employers' liability act [35 Stat. at L. 65, chap. 149, Comp. Stat. 1913,  8657, 36 Stat. at L. 291, chap. 143], brought in the circuit court of Norfolk county, state of Virginia, by plaintiff in error (we shall call him plaintiff), administrator of the estate of Richard T. Baugham.
+ The ground of action was that the railroad company, an interstate carrier, caused by its negligence the death of plaintiff's intestate while he was employed and engaged in such commerce.
+ Richard T. Baugham was between the ages of eighteen and twenty years, and was engaged by the railroad company to act as brakeman in its yard at Port Norfolk, Virginia. On the second day of his employment, while mounting a freight car that was being transferred from the wharf of the company to a barge moored at the wharf, 
+
+[241 U.S. 237, 239]
+ 
+ he was killed by being crushed between that car and other cars which were upon the barge.
+ There were four tracks on the barge. Between the outside and center tracks, of which there were two, there was sufficient space for an employee to mount in safety cars moving between those tracks. There was also sufficient space between the center tracks for some distance from where they entered the barge from the wharf. But these tracks gradually converged until the space between them so diminished that cars being moved on one center track would almost touch those standing on the other center track. The roofs of the cars would sometimes touch.
+ By reason of this proximity of the cars it is alleged that serious and deadly injury would be inflicted upon the servants and employees of the company if they should be caught between the cars. Plaintiff's intestate was so caught and received injuries from which he died.
+ It was the duty of the company, it was alleged, to have admonished and warned the deceased of the difficulties, dangers, and perils attendant upon his service and duties as brakeman, so that he might safely have performed them; but that the company wholly failed to do so, and that in consequence the deceased, in the performance of his duties as brakeman on trains being transferred from the wharf to the barge, and while ascending on of the cars, was caught and confined between the eaves of the roof of the car which he was ascending and the eaves of the roof or roofs on another car or cars and fatally injured.
+ Damages were prayed in the sum of $50,000.
+ The company pleaded not guilty, and, as special defenses, that the deceased was guilty of contributory negligence, and that he 'assumed, when he entered the employment of the company, the risk of being injured in the manner charged in the declaration.'
+ The case was tried to a jury. Upon the conclusion of 
+
+[241 U.S. 237, 240]
+ 
+ the testimony the company demurred to the evidence, and plaintiff joined in the demurrer; whereupon, the jury being required to say what damages the plaintiff sustained if judgment should be given for plaintiff upon the evidence, responded, 'that if, upon the demurrer to the evidence, the law be for the plaintiff, then we find for the plaintiff, and assess the damages which he ought to recover at $10,000.'
+ The demurrer to the evidence was sustained, and it was adjudged that plaintiff take nothing by his suit. The judgment was affirmed by the supreme court of appeals.
+ The tracks on the barge and the operation of the cars can easily be visualized. there were four tracks, two center ones and two outside ones, the former converging as they approached until they came so close together that any one caught between cars moving upon them would be crushed. The deceased, while ascending a moving car, was caught between it and a car standing on the barge and fatally injured. The inquiry is-and upon it resta the determination of the case-What knowledge had the deceased of this situation, and what was the effect of that knowledge upon the liability, if any, of the company?
+ Plaintiff makes two contentions: (1) That the company failed to warn deceased of the danger to which he was exposed, and that such failure was negligence on the part of the company. (2) That the convergence of the tracks on the barge was a defect or insufficiency due to the negligence of the company in its track, roadbed, barge, and equipment.
+ The railroad company opposes plaintiff's contentions and insists that the deceased assumed the risk of the danger which resulted in his injury and death. A detemination of these contentions depends upon the evidence, and, considering it, the state courts, trial and appellate, decided against the contentions of plaintiff, and in so doing in effect held that the conditions of the assumption 
+
+[241 U.S. 237, 241]
+ 
+ of risk by deceased were satisfied. Gila Valley, G. & N. R. Co. v. Hall, 
+232 
+U.S. 94, 102
+, 58 S. L. ed. 521, 524, 34 Sup. Ct. Rep. 229.
+ We have considered the evidence, and we cannot say that the conclusion was palpably erroneous, and following the rule expressed in Great Northern R. Co. v. Knapp, 
+240 
+U.S. 464, 466
+, 60 S. L. ed. --, 36 Sup. Ct. Rep. 399, and, as having analogy, Chicago Junction R. Co. v. King, 
+222 U.S. 222
+, 56 L. ed. 173, 32 Sup. Ct. Rep. 79, we announce our concurrence without discussion.
+ It is further contended 'that, as a matter of law, the common-law assumption of risk is not a defense in bar of an action under the act of Congress.' The contention is untenable. Jacobs v. Southern R. Co. 
+241 U.S. 229
+, 60 L. ed. --, 36 Sup. Ct. Rep. 588.
+ Judgment affirmed. 
+
+
+

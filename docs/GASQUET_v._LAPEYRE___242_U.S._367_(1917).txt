@@ -1,0 +1,88 @@
+Description: GASQUET v. LAPEYRE , 242 U.S. 367 (1917)
+Date: 1917-01-08 00:00:00
+Docket: 116
+Opinion
+
+
+United States Supreme Court
+GASQUET v. LAPEYRE(1917)
+No. 116
+Argued: Decided: January 8, 1917
+
+
+
+
+[242 U.S. 367, 368]
+ 
+ Messrs. William Winans Wall, Edward N. Pugh, J. C. Gilmore, and Thomas Gilmore for plaintiff in error.
+ Messrs. George Denegre, Victor Leovy, and Henry H. Chaffe for defendants in error.
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ In a proceeding against the plaintiff in error, wherein he was fully heard, the civil district court of the parish of his residence and domicil pronounced a judgment of interdiction against him. He appealed to the supreme court of the state, which affirmed the judgment (136 La. 957, 68 So. 89), and thereafter he sued out this writ of error. Our jurisdiction is challenged by a motion to dismiss.
+ There are three assignments of error, and the facts essential to an understanding of two of them are these: After the judgment of interdiction, and before the hearing upon the appeal, the plaintiff in error, who was in custody under an order of the criminal district court of the parish, committing him to an asylum as a dangerous insane person, secured his release from such custody through an 
+
+[242 U.S. 367, 369]
+ 
+ original proceeding in habeas corpus in the court of appeal of the parish, which adjudged that he had recovered his sanity. He then called the attention of the supreme court to this judgment and insisted that it was decisive of his sanity at a time subsequent to the judgment of interdiction, and was res judicata of the issue presented on the appeal. But the supreme court held that under the state Constitution and statutes the court of appeal was without jurisdiction, and therefore its judgment was not res judicata. In the assignments of error it is said of this ruling, first, that it practically suspended the privilege of the writ of habeas corpus, contrary to  9 of article 1 of the Constitution of the United States, and, second, that it denied the plaintiff in error the due process and equal protection guaranteed by the 14th Amendment, in that it did not give proper effect to certain provisions of the Constitution and statutes of the state, bearing upon the jurisdiction of the court of appeal and the supreme court. Both claims, in so far as the Federal Constitution is concerned, are so obviously ill founded and so certainly foreclosed by prior decisions that they afford no basis for invoking our jurisdiction. Section 9 of article 1, as has long been settled, is not restrictive of state, but only of national, action. Munn v. Illinois, 
+94 
+U.S. 113, 135
+, 24 S. L. ed. 77, 87; Morgan's L. & T. R. & S. S. Co. v. Board of Health, 
+118 
+U.S. 455, 467
+, 30 S. L. ed. 237, 242, 6 Sup. Ct. Rep. 1114; Johnson v. Chicago & P. Elevator Co. 
+119 
+U.S. 388, 400
+, 30 S. L. ed. 447, 451, 7 Sup. Ct. Rep. 254. This is also true of the 5th Amendment. Barron v. Baltimore, 7 Pet. 243, 8 L. ed. 672; Booth v. Indiana. 
+237 
+U.S. 391, 394
+, 59 S. L. ed. 1011, 1016, 35 Sup. Ct. Rep. 617; Hunter v. Pittsburgh, 
+207 
+U.S. 161, 176
+, 52 S. L. ed. 151, 158, 28 Sup. Ct. Rep. 40. And, as our decisions show, there is nothing in the clauses of the 14th Amendment guarantying due process and equal protection which converts an issue respecting the jurisdiction of a state court under the Constitution and statutes of the state into anything other than a question of state law, the decision of which by the state court of last resort is binding upon this court. Iowa C. R. Co. v. Iowa, 
+160 
+U.S. 389, 393
+, 40 S. L. ed. 467, 469, 16 Sup. Ct. Rep. 344 
+
+[242 U.S. 367, 370]
+ 
+ Castillo v. McConnico, 
+168 
+U.S. 674, 683
+, 42 S. L. ed. 622, 625, 18 Sup. Ct. Rep. 229; Rawlins v. Georgia, 
+201 U.S. 638
+, 50 L. ed. 899, 26 Sup. Ct. Rep. 560, 5 Ann. Cas. 783; Burt v. Smith, 
+203 
+U.S. 129, 135
+, 51 S. L. ed. 121, 126, 27 Sup. Ct. Rep. 37; Standard Oil Co. v. Missouri, 
+224 
+U.S. 270, 280
+, 281 S., 56 L. ed. 760, 767, 768, 32 Sup. Ct. Rep. 406, Ann. Cas. 1913D, 936; De Bearn v. Safe Deposit & T. Co. 
+233 
+U.S. 24, 34
+, 58 S. L. ed. 833, 837, 34 Sup. Ct. Rep. 584; McBonald v. Oregon R. & Nav. Co. 
+233 
+U.S. 665, 669
+, 670 S., 58 L. ed. 1145, 1148, 1149, 34 Sup. Ct. Rep. 772; Missouri v. Lewis (Bowman v. Lewis) 
+101 
+U.S. 22, 30
+, 25 S. L. ed. 989, 992.
+ The facts bearing upon the remaining assignment are as follows: After the judgment of affirmance by the supreme court, and during the pendency of a petition for rehearing, the plaintiff in error, claiming that upon his release from custody by habeas corpus he had removed to, and become a resident and citizen of, Shelby county, Tennessee, petitioned the probate court of that county for an inquisition respecting his sanity. The court entertained the petition and within a day or two rendered a judgment thereon finding that the plaintiff in error had become a resident and citizen of Tennessee, adjudging that he was sane and able to control his person and property, and declaring that any disability arising from the proceedings in Louisiana was thereby removed. He then brought the proceedings in Tennessee-all certified conformably to the law of Congress- to the attention of the Louisiana supreme court by a motion wherein he insisted that, under the Constitution of the United States, art. 4,  1, and the law passed by Congress to carry it into effect, Rev. Stat.  905, Comp. Stat. 1913,  1519, the judgment in Tennessee was conclusive of his residence and citizenship in that state and of his sanity and ability to care for his person and property, and that in consequence the interdiction proceeding should be abated. But the motion was denied, along with the petition for a rehearing, and in the assignments of error it is said that, in denying the motion, the court declined to give the judgment in Tennessee thr full faith and credit required by the Constitution and the law of Congress.
+ There are several reasons why this assignment affords 
+
+[242 U.S. 367, 371]
+ 
+ no basis for a review here, but the statement of one will suffice. What the Constitution and the congressional enactment require is that a judgment of a court of one state, if founded upon adequate jurisdiction of the parties and subject matter, shall be given the same faith and credit in a court of another state that it has by law or usage in the courts of the state of its rendition. This presupposes that the law or usage in the latter state will be brought to the attention of the court in the other state by appropriate allegation and proof, or in some other recognized mode; for the courts of one state are not presumed to know, and therefore not bound to take judicial notice of, the laws or usage of another state. Hanley v. Donoghue, 
+116 U.S. 1
+, 29 L. ed. 535, 6 Sup. Ct. Rep. 242; Chicago & A. R. Co. v. Wiggins Ferry Co. 
+119 U.S. 615
+, 30 L. ed. 519, 7 Sup. Ct. Rep. 398; Lloyd v. Matthews, 
+155 
+U.S. 222, 227
+, 39 S. L. ed. 128, 130, 15 Sup. Ct. Rep. 70; Western Life Indemnity Co. v. Rupp, 
+235 
+U.S. 261, 275
+, 59 S. L. ed. 220, 225, 35 Sup. Ct. Rep. 37. Here the law or usage in Tennessee, where the judgment was rendered, was not in any way brought to the attention of the Louisiana court, and therefore an essential step in invoking the full faith and credit clause was omitted. In this situation the claim that the Louisiana court refused to give effect to that clause is so devoid of merit as to be frivolous.
+ Writ of error dismissed. 
+
+
+

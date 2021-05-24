@@ -1,0 +1,73 @@
+Description: GILLIS v. STATE OF CALIFORNIA , 293 U.S. 62 (1934)
+Date: 1934-11-05 00:00:00
+Docket: 28
+Opinion
+
+
+United States Supreme Court
+GILLIS v. STATE OF CALIFORNIA(1934)
+No. 28
+Argued: Decided: November 5, 1934
+
+
+
+
+[293 U.S. 62, 63]
+ 
+ Mr. Ernest C. Carman, of Los Angeles, Cal., for petitioner.
+ Messrs. H. H. Linney and U.S. Webb, both of San Francisco, Cal., for the State of California.
+
+ Mr. Justice McREYNOLDS, delivered the opinion of the Court.
+ California laws make it unlawful for any person to act as a distributor of motor vehicle fuel without first obtaining a license from the board of equalization and executing bond conditioned to pay taxes and observe other requirements. St. 1923, p. 571 as amended by Id. 1931, c. 85, p. 105, c. 86, p. 119, c. 793, p. 1652, c. 997, p. 2001, c. 1082, 2288
+
+
+'Distributor' includes persons, firms, and corporations refining, manufacturing, or producing motor oil and distributing it within the state.
+
+ Section 65, Jud. Code, title 28 USCA  124 (Act of March 3, 1887, c. 373,  2, 24 Stat. 554; Aug. 13, 1888, c. 866,  3, 25 Stat. 436; Mar. 3, 1911, c. 231,  65, 36 Stat. 1104):
+'Whenever in any cause pending in any court of the United States there shall be a receiver or manager in possession of any property, such receiver or manager shall manage and operate such property according to the requirements of the valid laws of the state in which such property shall be situated, in the same manner that the owner or possessor thereof would be bound to do if in possession thereof. Any receiver or manager who shall 
+
+[293 U.S. 62, 64]
+ 
+ willfully violate any provision of this section shall be fined not more than $3,000, or imprisoned not more than one year, or both.'
+
+ The District Court, Southern District of California, in a cause instituted there for the purpose of conserving the assets of Western Oil & Refining Company and giving opportunity for reorganization, appointed petitioner, Gillis, receiver, April 4, 1931. Immediately after assuming the duties of the office, as required by the local statutes, he procured license and executed bond with the Fidelity & Deposit Company of Maryland as surety. Thereafter he carried on the business of the company- manufacturing, refining, producing, and distributing gasoline-and co- operated with creditors and stockholders concerning reorganization plans.
+ In 1933 the Fidelity & Deposit Company refused to continue upon the bond after a specified day. Petitioner endeavored to find another acceptable surety. Failing in this, he reported the circumstances to the court; pointed out his inability to comply with the local statutes; and stated that, unless the business could continue substantially as theretofore, the purpose of the receivership would be frustrated. He asked authority to proceed without bond or license; otherwise, he affirmed, final liquidation at material loss to all concerned would be necessary. The Attorney General, speaking for the state, objected. The court ordered and directed petitioner 'to continue his operations as such Receiver ( including the production, distribution and sale of gasoline or motor vehicle fuel in the State of California) after termination of the hereinbefore mentioned bond, or withdrawal therefrom of the surety thereon, for the payment of gasoline taxes ... without any such bond or the giving of security in any other manner for the payment of such gasoline taxes and without any license. ...' 
+
+[293 U.S. 62, 65]
+ 
+ The Circuit Court of Appeals held section 65 of Judicial Code (28 USCA  124) applicable and controlling, and reversed the challenged order. The result we think is correct; the judgment must be affirmed.
+ While the precise point now presented does not seem to have been definitely decided, the power of Congress to prescribe duties and obligations of receivers has been often recognized. United States v. Harris, 
+177 
+U.S. 305, 308
+, 20 S.Ct. 609; Erb v. Morasch, 
+177 
+U.S. 584, 585
+, 20 S.Ct. 819; Central Trust Co. of New York v. St. Louis, A. & T.R. Co. (C.C.) 40 F. 426, 427; Hornsby v. Eddy (C.C.A.) 56 F. 461, 462; Felton v. Ackerman (C.C.A.) 61 F. 225, 227; Peirce v. Van Dusen (C.C.A.) 78 F. 693, 701, 69 L.R.A. 705; Fidelity Title & Trust Co. v. Kansas Natural Gas Co. (D.C.) 219 F. 614, 616; Westinghouse, etc., Mfg. Co. v. Binghamton R. Co. (D.C.) 255 F. 378, 382; Mercantile Trust Co. v. Tennessee Cent. R. Co. (D.C.) 286 F. 425, 428; Crawford v. Duluth St. R. Co. (C.C.A.) 60 F.(2d) 212, 214.
+ There is no suggestion of repugnance between the state Constitution and the motor vehicle fuel statute. And the latter must be accepted as valid law of the state within the ambit of section 65, Judicial Code (28 USCA  124), unless its provisions conflict with the constitution or laws of the United States.
+ Petitioner insists that there is such disagreement, since the state statute diminishes the power of the United States District Court to direct its receiver to operate the business of the company. Also because, by requiring bond to secure taxes, the statute creates an unlawful preference of state over the United States in respect of collections. And finally because, in the circumstances here presented, it is impossible for the receiver to comply with the prescribed requirements; and, unless relieved from them, he 'must cease receivership operations that are essential to the conservation of assets and the general purposes of the receivership.' 
+
+[293 U.S. 62, 66]
+ 
+ Manifestly the diminution, if any, of powers possessed by District Courts prior to its enactment, results from section 65, Judicial Code. The ultimate inquiry is whether Congress can withhold from District Courts the power to authorize receivers in conservation proceedings to transact local business, contrary to state statutes obligatory upon all others.
+ That Congress has such power we think is clear, and the language of section 65 leaves no doubt of its exercise.
+ The accepted doctrine is that the lower federal courts were created by the acts of Congress, and their powers and duties depend upon the acts which called them into existence, or subsequent ones which extend or limit. Ex parte Robinson, 19 Wall. 505, 510; Bessette v. W. B. Conkey Co., 
+194 
+U.S. 324, 327
+, 24 S.Ct. 665. Whatever may be the inherent power of a court incident to a grant of jurisdiction, Michaelson v. United States, 
+266 
+U.S. 43, 66
+, 45 S.Ct. 18, 35 A.L.R. 451, there seems no ground whatever for saying that Congress cannot withhold or withdraw from courts of equity the right to empower receivers in conservation proceedings to disregard local statutes.
+ The suggestion that to require petitioner to observe local laws would give the state inequitable priority over the United States as to taxes lacks merit. If any such result should follow, it would accompany permissive action of Congress.
+ And, if the receiver cannot continue to carry on the Company's business according to the plain direction of Congress, he must pursue some other course permitted by law.
+ The same statute which required receivers to observe the laws of the state, gave permission to sue them in state courts under stated circumstances. It was enacted more than forty years ago, and seems to have been commonly regarded as within congressional authority. 
+
+[293 U.S. 62, 67]
+ 
+ We are not dealing here with the acknowledged power of courts to protect property in their custody. In re Tyler, 
+149 
+U.S. 164
+, 13 S.Ct. 785, and similar cases are not pertinent.
+ Affirmed. 
+
+
+

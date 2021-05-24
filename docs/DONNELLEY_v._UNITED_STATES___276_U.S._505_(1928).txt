@@ -1,0 +1,149 @@
+Description: DONNELLEY v. UNITED STATES , 276 U.S. 505 (1928)
+Date: 1928-04-09 00:00:00
+Docket: 110
+Opinion
+
+
+United States Supreme Court
+DONNELLEY v. UNITED STATES(1928)
+No. 110
+Argued: January 19, 1928Decided: April 9, 1928
+
+
+
+
+[276 U.S. 505, 506]
+ 
+ Messrs. Frank H. Norcross, of Reno, Nev., and Frank M. Hoyt, of Milwaukee, Wis., for Donnelley.
+
+
+
+[276 U.S. 505, 509]
+ 
+ The Attorney General and Mrs. Mabel Walker Willebrandt, Asst. Atty. Gen., for the United States. 
+
+[276 U.S. 505, 510]
+ 
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ Defendant was the prohibition director for Nevada. An information filed in the United States court for that district charged that he, having knowledge of the unlawful possession and transportation of intoxicating liquor by one Curran, did willfully and unlawfully fail to report such violations to the United States attorney. The jury found him guilty, and the court imposed a fine of $500. Alleging various grounds for reversal, he took the case to the Circuit Court of Appeals. That court, acting under section 239 of the Judicial Code (28 USCA  346), certified to this Court a question concerning which it desired instruction. Defendant submitted the question upon a brief. Later we required the entire record to be sent up, and so brought 
+
+[276 U.S. 505, 511]
+ 
+ the case here for decision. The United States filed additional briefs. Oral arguments were made for the respective parties. But defendant failed to submit any other brief or to file any statement of points or specification of errors intended to be urged here. Rule 25, par. 2(e), par. 4. And see rule 11, par. 9. We confine our consideration to the question argued in his brief. Southeastern Express Co. v. Robertson, 
+264 
+U.S. 541
+, 44 S. Ct. 424; Home Benefit Association v. Sargent, 
+142 
+U.S. 691, 694
+, 695 S., 12 S. Ct. 332. The substance of the contention is that intentional failure of a prohibition director or other enforcement officer, having knowledge of crimes and offenders against the act, to report them to the United States attorney, is not a punishable offense.
+ Section 2, title 2, of the National Prohibition Act (chapter 85, 41 Stat. 305, 308; U. S. C. Tit. 27,  11 (27 USCA  11)), provides:
+'The Commissioner of Internal Revenue, his assistants, agents, and inspectors shall investigate and report violations of this act to the United States attorney for the district in which committed. ...'
+
+ The act does not specifically fix punishment for a violation of that provision. But section 29 (27 USCA  46) provides that:
+'Any person ... who ... violates any of the provisons ... for which offense a special penalty is not prescribed, shall be fined for a first offense not more than $500. ...'
+
+ As there are no common-law crimes against the government (United States v. Eaton, 
+144 
+U.S. 677
+, 12 S. Ct. 764), each case involves the construction of a statute to determine whether the acts or omissions of the accused are denounced as punishable. And regard is always to be had to the familiar rule that one may not be punished for crime against the United States unless the facts shown plainly and unmistakably constitute an offense within the meaning of an act of Congress. United States v. Lacher, 
+134 
+U.S. 624, 628
+, 10 S. Ct. 625; Todd v. United States, 
+158 
+U.S. 278, 282
+, 15 S. Ct. 889; Fasulo v. United States, 
+272 
+U.S. 620, 629
+, 47 S. Ct. 200. 
+
+[276 U.S. 505, 512]
+ 
+ The evidence showed, and the verdict, when read in the light of the court's charge, means, that the jury found that Curran was discovered transporting ten barrels of intoxicating liquor, and that plaintiff in error, with actual knowledge of that violation, intentionally failed to report the crime and offender for prosecution. Plainly that was a violation of duty imposed on him by section 2. And section 29 declares that violators of any provision shall be punished. Taken according to their ordinary meaning, the words used are sufficient to make the facts alleged and found a punishable offense. The rule that penal statutes are to be strictly construed in favor of persons accused is not violated by allowing the language to have its full meaning where that construction is in harmony with the context and supports the policy and purposes of the enactment. United States v. Hartwell, 6 Wall. 385, 395; United States v. Wiltberger, 5 Wheat. 76, 95. Section 3 forbids a narrow or strict construction of the act, and directs that all its provisions 'shall be liberally construed to the end that the use of intoxicating liquor as a beverage may be prevented.'
+ Diligence and good faith on the part of enforcement officers are essential. The great difficulties always attendant upon efforts to suppress the liquor traffic have been noticed and cited in a number of decisions of this Court. Crane v. Campbell, 
+245 
+U.S. 304, 307
+, 38 S. Ct. 98; Jacob Ruppert v. Caffey, 
+251 
+U.S. 264, 282
+, 297 S., 40 S. Ct. 141; Everard's Breweries v. Day, 
+265 
+U.S. 545, 560
+, 44 S. Ct. 628; Lambert v. Yellowley, 
+272 
+U.S. 581, 595
+, 47 S. Ct. 210, 49 A. L. R. 575. The failure to enforce laws of the States passed to regulate or prohibit the sale of intoxicating liquor was one of the principal reasons for the adoption of the Eighteenth Amendment. Violations of such enactments were open and notorious. Connivance and co-operation between officers and offenders frequently existed. Those who drafted and passed the enforcement act knew that national prohibition would be assailed by 
+
+[276 U.S. 505, 513]
+ 
+ influences more powerful than those that had embarrassed earlier and less sweeping state laws. Experience had shown that it would not do to leave prohibition enforcement officers free to determine what cases should be prosecuted and what ignored, and that mere imposition of duty to report offenders would not be enough. The infliction of punishment for their intentional violations is an appropriate measure to hold them to the performance of their duties.
+ The act is comprehensive and discloses a legislative purpose fully to enforce the prohibition declared by the Eighteenth Amendment. National Prohibition Cases, 
+253 
+U.S. 350
+, 40 S. Ct. 486; Corneli v. Moore, 
+257 
+U.S. 491
+, 42 S. Ct. 176; Vigliotti v. Pennsylvania, 
+258 
+U.S. 403
+, 42 S. Ct. 330; Grogan v. Hiram Walker & Sons. 
+259 
+U.S. 80
+, 42 S. Ct. 423, 22 A. L. R. 116; Everard's Breweries v. Day, supra; Lambert v. Yellowley, supra. The forfeitures, fines and imprisonments unquestionably provided for show an intention to compel obedience. Congress was not content to impose duties and merely direct their performance; it diligently provided means for enforcement. An abridged reference to the things denounced as unlawful or expressly forbidden and those by the act commanded to be done will be sufficient to indicate how thoroughly Congress intended to enforce this article. The act prohibits beverages having as much as one-half of one per cent. of alcohol by volume. Section 1 (27 USCA  1). It declares that no person shall manufacture, sell, barter, transport, import, export, deliver, furnish or possess such liquor except as authorized by the act. Section 3 ( 27 USCA  12). Denatured alcohol, medicinal, toilet and other preparations unfit for beverage purposes are not forbidden, if they correspond with the descriptions and limitations specified. Purchase and possession of liquor to make such articles are allowed, but manufacturers are required to procure permits, give bonds, keep records and make reports. Section 4 (27 USCA  13). No person is allowed without a permit to manufacture, sell, purchase, transport 
+
+[276 U.S. 505, 514]
+ 
+ or prescribe liquor, but one may purchase and use it for medicinal purposes when prescribed by a physician. Section 6 (27 USCA  16). No one but a physician holding a permit may issue a prescription for liquor. And no physician is allowed to prescribe it unless, upon an examination or the best information obtainable, he believes its use as a medicine is necessary and will afford relief from some known ailment. No more than a pint of spirituous liquor shall be prescribed for the same person within ten days, and no prescription shall be filled more than once. Every physician is required to keep a record showing the date of every prescription, the amount prescribed, to whom issued, the purpose or ailment for which it is to be used, the amount and frequency of the dose. No physician may prescribe liquor, and no pharmacist may fill any such prescription, except on blanks furnished by the Commissioner, and pharmacists are required to keep records of prescriptions filled. Sections 7 and 8 (27 USCA  17, 19). No person is allowed to manufacture, purchase for sale, sell or transport liquor without making a permanent record showing prescribed details. Section 10 (27 USCA  22). Copies of permits to purchase must be preserved by the seller. Section 11 (27 USCA  23). Manufacturers are required to attach labels showing details concerning liquor made and sold by them. Section 12 (27 USCA  24). It is unlawful for any person to procure the transportation of liquor without giving the carrier notice of the character of the shipment. No carrier is permitted to transport and no person may receive liquor from a carrier unless there is shown upon the package specified information as to consignor and consignee, and also the number of the permit allowing the transportation. Section 14 (27 USCA  26). It is unlawful for any consignee to receive or any carrier to deliver any liquor in a container on which appears any statement known to be false. Section 15 (27 USCA  27). It is unlawful to advertise liquor or to permit a sign advertising it to remain on one's premises (section 17 (27 USCA  29)), or to advertise or to 
+
+[276 U.S. 505, 515]
+ 
+ possess for sale any utensil, substance or recipe intended for use in its unlawful manufacture (section 18 (27 USCA  30)), or to give any information as to how liquor may be obtained in violation of law (section 19 (27 USCA  31)). Every place where liquor is made, kept or sold in violation of the law is declared to be a nuisance, and the person who maintains it is liable to specified punishment. Section 21 (27 USCA  33). It is declared that any violation on leased premises by the lessee or occupant shall work a forfeiture of the lease at the option of the lessor. Section 23 (27 USCA  35). When an officer shall discover one transporting liquor in any vehicle in violation of law, it is his duty to seize the liquors, take possession of the vehicle, arrest and proceed against the person in charge of it. Section 26 (27 USCA  40).
+ A conservative analysis of the provisions of the title is contained in one of the briefs filed by the government. It shows eight provisions declaring specified things to be unlawful, eighteen prohibiting others and fifteen commanding the performance of various obligations imposed. Except for nuisance (sections 21-23 (27 USCA  33-37). Cf.  24, 25 (27 USCA  38, 39)), all punishments to be imposed on offenders are prescribed by section 29. Its substance follows:
+'Any person who manufactures or sells liquor in violation of this title shall for a first offense be fined ... or imprisoned. ...'
+
+ Second and subsequent offenses are more severely to be punished. 'Any person violating the provisions of any permit, or who makes any false record, report, or affidavit required by this title, or violates any of the provisions of this title, for which offense a special penalty is not prescribed, shall be fined for a first offense not more than $500;' and heavier penalties are prescribed for second and subsequent offenses. Obviously Congress intended to provide for the punishment of the things declared to be unlawful and those specifically prohibited. And it is plain that there was no failure to provide measures for the enforcement of its commands. Undoubtedly the general clause of this 
+
+[276 U.S. 505, 516]
+ 
+ section covers unauthorized transportation, importation, exportation, delivery, possession and the advertising or possession for sale of anything intended for use in its unlawful manufacture. The clause is broad enough-and it is the only one-to make punishable violations of the provisions governing manufacturers, pharmacists, shippers and carriers. Undoubtedly Congress intended to penalize their violation of the duties imposed on them. And, unless it is to be restricted by implication in favor of enforcement officers, the general language used also covers violations of the provisions enacted to govern their official conduct.
+ But there is no support for a construction so restrained. It always has been deemed necessary to enact laws to compel performance of duty and to prevent corruption on the part of public officers. They are not attended by any special presumption that general language in disciplinary measures does not extend to them. Neglect of official duty is a misdemeanor at common law. Russell Crimes and Misdemeanors (7th Ed.) p. 601; People v. Herlihy, 35 Misc. Rep. 711, 72 N. Y. S. 389, and cases cited. Intentional failure of enforcement officers to report violations is doubly injurious to the public. It encourages offenders and disgraces the law. Performance of duty by prohibition agents is quite as important as compliance with law by authorized manufacturers, physicians, pharmacists and carriers. The general clause in question applies to the latter. With equal reason it may be held to cover failures of enforcement officers to report for prosecution violations and offenders known to them. And that construction is consistent with the established policy of Congress. Similar neglect of duty has long been punishable. The Act of July 18, 1866, 1 imposes penalties upon collectors of customs and other officers for failure to make required 
+
+[276 U.S. 505, 517]
+ 
+ reports. An Act of July 20, 1868,2 provides that any revenue officer or agent who, having knowledge or information of the violation of the revenue laws, fails to report the same to his superior officer and the Commissioner of Internal Revenue, shall be punished by fine and imprisonment. The duties of prohibition officers and revenue officers overlap. They are in the same department and directed by the same head. They are under like duty to report. Cf. R. S.  3164, as amended; U. S. C. tit. 26,  26 (26 USCA  26); Comp. St.  5884. Treasury regulations require that the reports of prohibition agents shall include statements of infringements of internal revenue laws also involved. Regulations 12, art. 35. They are entitled to like protection against prosecution in state courts for acts done under color of their office. Maryland v. Soper (No. 1 ), 
+270 
+U.S. 19
+, 46 S. Ct. 185. And the policy of Congress is further shown by the Prohibition Act for the District of Columbia, which makes it an offense for any officer to fail to report violations to the corporation counsel. 
+3
+ These and other acts4 prescribing punishment for neglect of official duty strongly support the contention that Congress intended to make prohibition officers punishable for failure to make the reports required by section 2.
+ Defendant argues that, it the failure of enforcement officers to report violations be held punishable 'they cannot ... determine what classes or character of violators it is most advantageous, for the purpose of real enforcement, to investigate and report.' But there is 
+
+[276 U.S. 505, 518]
+ 
+ nothing to indicate that any such determinations are to be made. Congress intended that prohibition officers should not intentionally fail to report violations and that the law should be enforced against all offenders. The general clause covers all violations except the relatively few specifically dealt with. And it reasonably may be held to apply to violations of official duties and to safeguard against connivance between officers and offenders. He also argues that the imposition of heavier penalties for second and subsequent offenses shows that the clause was not intended to apply to offending officers because, as it was said they would not be in office after conviction. But that suggestion has little, if any, weight when it is remembered that the clause is aimed at so many violations and nonoffice-holding offenders. There is no rule requiring every part of the provision to apply to all classes covered by it. Cf. United States v. Union Supply Co., 
+215 
+U.S. 50, 55
+, 30 S. Ct. 15. Moreover, it is not impossible that an enforcement officer may be in office subsequent to a conviction for such an offense.
+ The construction contended for by defendant unduly restrains the language of the clause in question, is inconsistent with the context and contrary to the purposes of the act and the policy of Congress. It is without substantial support, and cannot be sustained.
+ Judgment affirmed.
+ Mr. Justice SUTHERLAND and Mr. Justice SANFORD dissent. 
+
+Footnotes
+
+[
+Footnote 1
+] Section 42, c. 201, 14 Stat. 178, 188; R. S.  1780; as amended by Act of March 4, 1909,  101, c. 321, 35 Stat. 1088, 1106; U. S. C. tit. 18 ,  188 (18 USCA  188). 
+
+[
+Footnote 2
+] Section 98, c. 186, 15 Stat. 125, 165; R. S.  3169; U. S. C. tit. 26,  64 (26 USCA  64; Comp. St.  5889). And see Act of February 8, 1875 ,  23, c. 36, 18 Stat. 307, 312; U. S. C. tit. 26,  68 (26 USCA  68; Comp. St.  5890). 
+[
+Footnote 3
+] Act of March 3, 1917,  21, c. 165, 39 Stat. 1123, 1129 (Comp. St.  3421 1/4 o). 
+[
+Footnote 4
+] Neglect of duty by employee in the census. Section 22, c. 2, 36 Stat. 1, 8 (Comp. St.  4408), re-enacted as  22, c. 97, 40 Stat. 1291, 1299; U. S. C. tit. 13,  44 (13 USCA  44). Neglect of duty imposed by Alaska Game Commission Act,  15, c. 75, 43 Stat. 739, 747; U. S. C. tit. 48,  202 (48 USCA  202). Failure of guide to report violation of Alaska Game Law,  5, c. 162, 35 Stat. 102, 104; U. S. C. tit. 48,  202 (48 USCA  202). 
+
+
+
+

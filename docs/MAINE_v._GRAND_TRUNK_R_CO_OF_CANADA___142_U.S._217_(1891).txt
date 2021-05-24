@@ -1,0 +1,109 @@
+Description: MAINE v. GRAND TRUNK R CO OF CANADA , 142 U.S. 217 (1891)
+Date: 1891-12-14 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+MAINE v. GRAND TRUNK R CO OF CANADA(1891)
+
+Argued: Decided: December 14, 1891
+
+
+
+
+ The defendant is a corporation created under the laws of Canada, and has its principal place of business at Montreal, in that province. Its railroad in Maine was constructed by the Atlantic & St. Lawrence Railroad Company under a charter from that state, which authorized it to construct and operate a railroad from the city of Portland to the boundary line of the state; and, with the permission of New Hampshire and Vermont, it constructed a railroad from that city to Island Pond, in Vermont, a distance of 149 1/2 miles, of which 82 1/2 miles are within the state of Maine. In March, 1853, that company leased its rights and privileges to the defendant, the Grand Trunk Railway Company, which had obtained legislative permission to take the same; and since then it has operated that road, and used its franchises. A statute of Maine, passed in 1881, enacted that every 
+
+[142 U.S. 217, 218]
+ 
+ corporation, person, or association operating a railroad in the state should pay to the state treasurer, for the use of the 
+
+[142 U.S. 217, 219]
+ 
+ state, 'an annual excise tax for the privilege of exercising its franchises' in the state; and it provided that the amount of such tax should be ascertained as follows: 'The amount of the gross transportation receipts, as returned to the railroad commissioners, for the year ending on the 30th of September next preceding the levying of such tax, shall be divided by the number of miles of railroad operated, to ascertain the average gross receipts per mile. When such average receipts per mile shall not exceed twenty-two hundred and fifty dollars, the tax 
+
+[142 U.S. 217, 220]
+ 
+ shall be equal to one-quarter of one per centum of the gross transportation receipts; when the average receipts per mile exceed twenty- two hundred and fifty dollars, and do not exceed three thousand dollars, the tax shall be equal to one-half of one per centum of the gross receipts; and so on, increasing the rate of the tax one-quarter of one per centum for each additional seven hundred and fifty dollars of average gross receipts per mile, or fractional part thereof: provided, the rate shall in no event exceed three and one-quarter per centum. When a railroad lies partly within and partly without this state, or is operated as a part of a line or system extending beyond this state, the tax shall be equal to the same proportion of the gross receipts in this state, as herein provided, and its amount determined as follows: The gross transportation receipts of such railroad, line, or system, as the case may be, over its whole extent, within and without the state, shall be divided by the total number of miles operated to obtain the average gross receipts per mile, and the gross receipts in this state shall be taken to be the average gross receipts per mile, multiplied by the number of miles operated within this state.' The act also provided that the governor and council, on or before the 1st of April in each year, should determine the amount of such tax and report the same to the state treasurer, who should forth with give notice thereof to the corporation, person, or association upon which the tax was levied, and that such tax should be due and payable, one-half on the 1st of July next after the levy, and the other half on the 1st of October following; and it declared that if any party should fail to pay the tax as required, the state treasurer might proceed to collect the same, with interest at the rate of 10 per centum per annum, by an action of debt in the name of the state. The defendant, the Grand Trunk Railway Company, made no returns as a corporation, but it furnished the data and caused the Atlantic & St. Lawrence Railroad Company to make a return of the gross transportation receipts over its road, 149 1/2 miles in length, including the 82 1/2 miles in Maine, for the years 1881 and 1882, and upon this return the governor and council, pursuant to the statute, ascertained the proportion of the gross 
+
+[142 U.S. 217, 221]
+ 
+ receipts in the state, and assessed the tax in controversy accordingly. The tax thus assessed for 1881 was $9,569.66, and for 1882, $12,095.56; and, to recover these amounts, as debts to the state, the present action was brought in the supreme judicial court of the state of Maine, and on application of the defendant it was transferred to the circuit court of the United States. The defendant pleaded nil debit, accompanied with a statement of special matters of defense. By stipulation of the parties, the case was tried by the court, which held that the imposition of the taxes in question was a regulation of interstate and foreign commerce, in conflict with the exclusive powers of congress under the constitution of the United States, and was therefore invalid. It accordingly gave judgment for the defendant, that the plaintiff take nothing by its writ, and that the defendant recover its costs. From that judgment the case is brought to this court on writ of error.
+ C. E. Littleficld, for plaintiff in error.
+
+
+[142 U.S. 217, 225]
+ 
+ A. A. Strout, for defendant in error. -
+
+
+[142 U.S. 217, 227]
+ 
+
+ Mr. Justice FIELD, after stating the facts as above, delivered the opinion of the court.
+ The tax, for the collection of which this action is brought, is an excise tax upon the defendant corporation for the privilege of exercising its franchises within the state of Maine. It is so declared in the statute which imposes it; and that a tax of this character is within the power of the state to levy, there can be no question. The designation does not always indicate merely an inland imposition or duty on the consumption of commodities, but often denotes an impost for a license to pursue certain callings, or to deal in special commodities, or to exercise particular franchises. It is used more frequently, in this country, in the latter sense than in any other. The 
+
+[142 U.S. 217, 228]
+ 
+ privilege of exercising the franchises of a corporation within a state is generally one of value, and often of great value, and the subject of earnest contention. It is natural, therefore, that the corporation should be made to bear some proportion of the burdens of government. As the granting of the privilege rests entirely in the discretion of the state, whether the corporation be of domestic or foreign origin, it may be conferred upon such conditions, pecuniary or otherwise, as the state, in its judgment, may deem most conducive to its interests or policy. It may require the payment into its treasury, each year, of a specific sum, or may apportion the amount exacted according to the value of the business permitted, as disclosed by its gains or receipts of the present or past years. The character of the tax, or its validity, is not determined by the mode adopted in fixing its amount of any specific period, or the times of its payment. The whole field of inquiry into the extent of revenue from sources at the command of the corporation is open to the consideration of the state in determining what may be justly exacted for the privilege. The rule of apportioning the charge to the receipts of the business would seem to be eminently reasonable, and likely to produce the most satisfactory results, both to the state and the corporation taxed.
+ The court below held that the imposition of the taxes was a regulation of commerce, interstate and foreign, and therefore in conflict with the exclusive power of congress in that respect; and on that ground alone it ordered judgment for the defendant. This ruling was founded upon the assumption that a reference by the statute to the transportation receipts, and to a certain percentage of the same, in determining the amount of the excise tax, was in effect the imposition of the tax upon such receipts, and therefore an interference with interstate and foreign commerce. But a resort to those receipts was simply to ascertain the value of the business done by the corporation, and thus obtain a guide to a reasonable conclusion as to the amount of the excise tax which should be levied; and we are unable to perceive in that resort any interference with transportation, domestic or foreign, over the road of the railroad 
+
+[142 U.S. 217, 229]
+ 
+ company, or any regulation of commerce which consists in such transportation. If the amount ascertained were specifically imposed as the tax, no objection to its validity would be pretended. And if the inquiry of the state as to the value of the privilege were limited to receipts of certain past years, instead of the year in which the tax is collected, it is conceded that the validity of the tax would not be affected; and if not, we do not see how a reference to the results of any other year could affect its character. There is no levy by the statute on the receipts themselves, either in form or fact. They constitute, as said above, simply the means of ascertaining the value of the privilege conferred.
+ This conclusion is sustained by the decision in Insurance Co. v. New York, 
+134 U.S. 594
+, 10 Sup. Ct. Rep. 593. The Home Insurance Company was a corporation created under the laws of New York, and a portion of its capital stock was invested in bonds of the United States. By an act of the legislature of that state, of 1881, it was declared that every corporation, joint-stock company, or association then or thereafter incorporated under any law of the state, or of any other state or country, and doing business in the state, with certain designated exceptions not material to the question involved, should be subject to a tax upon its corporate franchise or business, to be computed as follows: If its dividend or dividends made or declared during the year ending the 1st day of November amounted to 6 per centum or more upon the par value of its capital stock, then the tax was to be at the rate of 1/4 mill upon the capital stock for each 1 per cent. of the dividends. A less rate was provided where there was no dividend or a dividend less than 6 per cent. The purpose of the act was to fix the amount of the tax each year upon the franchise or business of the corporation by the extent of dividends upon its capital stock, or, where there were no dividends, according to the actual value of the capital stock during the year. The tax payable by the company, estimated according to its dividends, under that law, aggregated $7,500. The company resisted its payment, asserting that the tax was in fact levied upon the capital stock of the company, 
+
+[142 U.S. 217, 230]
+ 
+ contending that there should be deducted from it a sum bearing the same ratio thereto that the amount invested in bonds of the United States bore to its capital stock, and that the law requiring a tax without such reduction was unconstitutional and void. It was held that the tax was not upon the capital stock of the company, nor upon any bonds of the United States composing a part of that stock, but upon the corporate franchise or business of the company, and that reference was only made to its capital stock and dividends for the purpose of determining the amount of the tax to be exacted each year. And the court said: 'The validity of the tax can in no way be dependent upon the mode which the state may deem fit to adopt in fixing the amount for any year which it will exact for the franchise. No constitutional objection lies in the way of a legislative body prescribing any mode of measurement to determine the amount it will charge for the privileges it bestows.'
+ The case of Steam-Ship Co. v. Pennsylvania, 
+122 U.S. 326
+, 7 Sup. Ct. Rep. 1118, in no way conflicts with this decision. That was the case of a tax, in terms, upon the gross receipts of a steam-ship company, incorporated under the laws of the state, derived from the transportation of persons and property between different states and to and from foreign countries. Such tax was held, without any dissent, to be a regulation of interstate and foreign commerce, and therefore invalid. We do not question the correctness of that decision, nor do the views we hold in this case in any way qualify or impair it. It follows, from what we have said, that the judgment of the court below must be reversed, and the cause remanded, with directions to enter judgment in favor of the state for the amount of the taxes demanded; and it is so ordered.
+ Mr. Justice BRADLEY, Mr. Justice HARLAN, Mr. Justice LAMAR, and Mr. Justice BROWN, dissenting.
+ Justices HARLAN, LAMAR, BROWN, and myself dissent from the judgment of the court in this case. We do so both on 
+
+[142 U.S. 217, 231]
+ 
+ principle and authority. On principle, because, while the purpose of the law professes to be to lay a tax upon the foreign company for the privilege of exercising its franchise in the state of Maine, the mode of doing this is unconstitutional. The mode adopted is the laying of a tax on the gross receipts of the company, and these receipts of course include receipts for interstate and international transportation between other states and Maine, and between Canada and the United States. Now, if, after the previous legislation which has been adopted 
+
+[142 U.S. 217, 232]
+ 
+ with regard to admitting the company to carry on business within the state, the legislature has still the right to tax it for 
+
+[142 U.S. 217, 233]
+ 
+ the exercise of its franchises, it should do so in a constitutional manner, and not (as it has done) by a tax on the receipts derived from interstate and international transportation. The power to regulate commerce among the several states (except as to matters merely local) is just as exclusive a power in 
+
+[142 U.S. 217, 234]
+ 
+ congress as is the power to regulate commerce with foreign nations and with the Indian tribes. It is given in the same clause, and couched in the same phraseology; but if it may be exercised by the states it might as well be expunged from the constitution. We think it a power not only granted to be exercised, but that it is of first importance, being one of the principal moving causes of the adoption of the constitution. The disputes between the different states in reference to interstate state facilities of intercourse, and the discriminations adopted to favor each their own maritime cities, produced a state of things almost intolerable to be borne. But, passing this by, the decisions of this court for a number of years past have settled the principle that taxation (which is a mode of regulation) of interstate commerce, or of the revenues derived therefrom, (which is the same thing,) is contrary to the constitution. Going no further back than Pickard v. Car Co., 
+117 U.S. 34
+, 6 Sup. Ct. Rep. 635, we find that principle laid down. There a privilege tax was imposed upon Pullman's Palace Car Company, by general legislation, it is true, but applied to the company, of $50 per annum on every sleeping-car going through the state. It was well known, and appeared by the record, that every sleeping-car going through the state carried passengers from Ohio and other northern states to Alabama, and vice versa, and we held that Tennessee had no right to tax those cars. It was the same thing as if they had taxed the amount derived from the passengers in the cars. So, also, in the case of Leloup v. Port of Mobile, 
+127 U.S. 640
+, 8 Sup. Ct. Rep. 1380, we held that the receipts derived by the telegraph company from messages sent from one state to another could not be taxed. So in the case of Railroad Co. v. Pennsylvania, 
+136 U.S. 114
+, 10 Sup. Ct. Rep. 958, where the railroad was a link in a through line by which passengers and freight were carried into other states, the company was held to be engaged in the business of interstate commerce, and could not be taxed for the privilege of keeping an office in the state. And in the case of Crutcher v. Kentucky, 
+141 U.S. 47
+, 11 Sup. Ct. Rep. 851, we held that the taxation of an express company for doing an express business between different states was unconstitutional and void. And 
+
+[142 U.S. 217, 235]
+ 
+ in the case of Steam-Ship Co. v. Pennsylvania, 
+122 U.S. 326
+, 7 Sup. Ct. Rep. 1118, we held that a tax upon the gross receipts of the company was void, because they were derived from interstate and foreign commerce. A great many other cases might be referred to showing that in the decisions and opinions of this court this kind of taxation is unconstitutional and void. We think that the present decision is a departure from the line of these decisions. The tax, it is true, is called a 'tax on a franchise.' It is so called, but what is it in fact? It is a tax on the receipts of the company derived from international transportation. This court and some of the state courts have gone a great length in sustaining various forms of taxes upon corporations. The train of reasoning upon which it is founded may be questionable. A corporation, according to this class of decisions, may be taxed several times over. It may be taxed for its charter, for its franchises, for the privilege of carrying on its business; it may be taxed on its capital, and it may be taxed on its property. Each of these taxations may be carried to the full amount of the property of the company. I do not know that jealousy of corporate institutions could be carried much further. This court held that the taxation of the capital stock of the Western Union Telegraph Company in Massachusetts, graduated according to the mileage of lines in that state compared with the lines in all the states, was nothing but a taxation upon the property of the company; yet it was in terms a tax upon its capital stock, and might as well have been a tax upon its gross receipts. By the present decision it is held that taxation may be imposed upon the gross receipts of the company for the exercise of its franchise within the state, if graduated according to the number of miles that the road runs in the state. Then it comes to this: A state may tax a railroad company upon its gross receipts in proportion to the number of miles run within the state as a tax on its property, and may also lay a tax upon these same gross receipts in proportion to the same number of miles for the privilege of exercising its franchise in the state! I do not know what else it may 
+
+[142 U.S. 217, 236]
+ 
+ not tax the gross receipts for. If the interstate commerce of the country is not or will not be handicapped by this course of decision, I do not understand the ordinary principles which govern human conduct. We dissent from the opinion of the court. 
+
+Footnotes
+
+[
+Footnote 1
+] For dissenting opinion, see 12 Sup. Ct. Rep. 163. 
+
+
+
+

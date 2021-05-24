@@ -1,0 +1,77 @@
+Description: NORTHERN PAC. RY. CO. v. PUGET SOUND & W.H. RY. CO. , 250 U.S. 332 (1919)
+Date: 1919-06-02 00:00:00
+Docket: 327
+Opinion
+
+
+United States Supreme Court
+NORTHERN PAC. RY. CO. v. PUGET SOUND & W.H. RY. CO.(1919)
+No. 327
+Argued: April 28, 1919Decided: June 2, 1919
+
+
+
+
+[250 U.S. 332, 333]
+ 
+ Messrs. Lorenzo B. Da Ponte, of Tacoma, Wash., and C. W. Bunn and Charles Donnelly, both of St. Paul, Minn., for plaintiffs in error.
+ Mr. Heman H. Field, of Chicago, Ill., for defendant in error.
+
+ Mr. Justice CLARKE delivered the opinion of the Court.
+ The defendant in error, Puget Sound & Willapa Harbor Railway Company, hereinafter designated the Willapa Company, a railroad corporation organized under the laws of the state of Washington, in the construction of a new line of railroad in 1914, found it necessary to cross at grade, at two places, tracks which had been constructed in 1890-1892 by the plaintiff in error, Northern Pacific Railway Company, hereinafter designated the Pacific Company, a corporation organized under the laws of the state of Wisconsin.
+ In appropriate proceedings, provided for by the state law, the Public Service Commission of the state of Washington granted authority and permission to the Willapa Company to cross the tracks of the Pacific Company at grade at the two designated places. This permission was subject to the condition that suitable interlocking devices, of a type to be agreed upon between the two companies, should be installed at the crossings. The companies agreed upon all of the conditions involved in the crossing of their tracks, excepting as to the cost of installing and maintaining the required interlocking devices, 
+
+[250 U.S. 332, 334]
+ 
+ and upon due submission of this question to the commission it was decided that the entire expense should be borne by the junior, the Willapa Company. The superior court affirmed this holding by the commission, but on appeal the Supreme Court of the state, in the decision which we are reviewing, reversed the two lower tribunals and ruled that the expense should be divided equally between the two companies.
+ The decision of the Supreme Court of Washington is based upon the interpretation which it placed upon applicable state statutes enacted in 1913 (chapter 3, Laws of Washington 1913, p. 74), and the case is presented to this court on the single assignment of error:
+'That the state Supreme Court erred in holding and deciding that chapter 30 of the Laws of Washington of 1913, as construed and applied to the facts of this case, is not repugnant to the Fourteenth Amendment to the Constitution of the United States.'
+
+ Conceding that the construction placed upon the state statute by the state Supreme Court will be accepted by this court, the contention of the Pacific Company is that, when that company entered the state of Washington and constructed its line, an act of the Legislature, passed in 1888 (Laws 1887-88, p. 63) was in effect, which gave to railway companies formed under the act the right to cross any other railway theretofore constructed, but subject to conditions which the state Supreme Court held, in 1908, in State v. Northern Pacific Railway Co., 49 Wash. 78, 94 Pac. 907, required the junior company to pay the entire cost of the crossing, including the installing and maintaining of interlocking devices where necessary; that this constituted a vested right of property in the senior company, and that the later statute of 1913, which the Supreme Court held in this case required it to bear one-half of the cost of installing and maintaining the interlocker, deprived it of its property without due process of law. 
+
+[250 U.S. 332, 335]
+ 
+ It is admitted in argument that the act assailed would be validly applicable to apportioning the cost of crossings of highways and railroads, regardless of the dates of their construction (New York & New England Railroad v. Bristol, 
+151 U.S. 556
+, 14 Sup. Ct. 437; Chicago, etc., Railroad Co. v. Chicago, 
+166 U.S. 226
+, 17 Sup. Ct. 581), and that it would be valid as applied to crossings of railroad lines constructed prior to its enactment where no contract had been entered into with respect to the protection of the crossing (Detroit, etc., Railway v. Osborn, 
+189 U.S. 383
+, 23 Sup. Ct. 540). But it is contended that it is not a valid law as applied to the case at bar, where the road of the Pacific Company was constructed at a time when the state law imposed the entire cost of the construction and maintenance of the crossing upon the junior company.
+ Obviously this is a slender thread on which to hang a grave constitutional argument, and it is difficult to treat it seriously.
+ At most, the earlier statute, and the interpretation which the state Supreme Court placed upon it, was a rule of law applicable to the assessment of damages in a proceeding to appropriate a crossing to which a junior company was entitled by the statute. It was no part of the charter of the Pacific Company, which was organized under the Wisconsin law, and that company had no vested right to insist that the rule should not be changed by statute or by court decision. Pennsylvania R. R. Co. v. Miller, 
+132 
+U.S. 75, 83
+, 10 S. Sup. Ct. 34; Chicago & Alton R. R. Co. v. Tranbarger, 
+238 
+U.S. 67, 76
+, 35 S. Sup. Ct. 678; New York Central R. R. Co. v. White, 
+243 
+U.S. 188, 189
+, 37 S. Sup. Ct. 247, L. R. A. 1917D, 1, Ann. Cas. 1917D, 629; Chicago & Alton R. R. Co. v. McWhirt, 
+243 U.S. 422
+-425, 37 Sup. Ct. 392.
+ While this is sufficient to dispose of the case, it may be added that the act of 1913 was passed in an obviously legitimate and customary exercise of the police power of the state to protect travelers and employes from injury and death at such crossings, and also to protect property in 
+
+[250 U.S. 332, 336]
+ 
+ the custody of the carriers from damage. It has long been settled law that the imposing of uncompensated charges, involved in obeying a law, passed in a reasonable exercise of the police power, is not a taking of property without due process of law, within the meaning of the Fourteenth Amendment to the Constitution of the United States. Chicago, etc., R. R. Co. v. Nebraska, 
+170 
+U.S. 57, 73
+, 74 S., 18 Sup. Ct. 513; New Orleans Gaslight Co. v. Dran age Commission, 
+197 
+U.S. 453, 461
+, 462 S., 25 Sup. Ct. 471; Northern Pacific Ry. Co. v. Minnesota ex rel. Duluth, 
+208 
+U.S. 583, 594
+, 28 S. Sup. Ct. 341; Chicago & Alton R. R. Co. v. Tranbarger, 
+238 
+U.S. 67, 76
+, 35 S. Sup. Ct. 678
+
+
+ The judgment of the Supreme Court of Washington is
+ Affirmed. 
+
+
+

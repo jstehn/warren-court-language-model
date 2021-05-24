@@ -1,0 +1,85 @@
+Description: POSTAL TELEGRAPH CABLE CO. v. ADAMS , 155 U.S. 688 (1895)
+Date: 1895-01-21 00:00:00
+Docket: 649
+Opinion
+
+
+United States Supreme Court
+POSTAL TELEGRAPH CABLE CO. v. ADAMS(1895)
+No. 649
+Argued: Decided: January 21, 1895
+
+
+ Plaintiff demurred to the special pleas. The case came on to be heard upon these demurrers, and the circuit court sustained defendant's demurrer to the second count, and plaintiff's demurrer to defendant's pleas to the first count, with leave to defendant to plead over. This, defendant declined to do, and judgment was thereupon entered against the company for the amount of the so-called 'privilege taxes' for the years 1890 and 1891, with interest and costs. From this judgment an appeal was taken to the supreme court of Mississippi, and the judgment affirmed. The opinion of that court will be found reported in advance of the official series in 14 South. 36. A writ of error was then allowed to this court.
+ T. Moultrie Mordecal and P. H. Gadsden, for plaintiff in error.
+
+
+[155 U.S. 688, 695]
+ 
+ Marcellus Green, for defendant in error.
+
+ Mr. Chief Justice FULLER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ It is settled that where, by way of duties laid on the transportation of the subjects of interstate commerce, or on the 
+
+[155 U.S. 688, 696]
+ 
+ receipts derived therefrom, or on the occupation or business of carrying it on, a tax is levied by a state on interstate commerce, such taxation amounts to a regulation of such commerce, and cannot be sustained. But property in a state belonging to a corporation, whether foreign or domestic, engaged in foreign or interstate commerce, may be taxed, or a tax may be imposed on the corporation on account of its property within a state, and may take the form of a tax for the privilege of exercising its franchises within the state, if the ascertainment of the amount is made dependent in fact on the value of its property situated within the state ( the exaction, therefore, not being susceptible of exceeding the sum which might be leviable directly thereon), and if payment be not made a condition precedent to the right to carry on the business, but its enforcement left to the ordinary means devised for the collection of taxes The corporation is thus made to bear its proper proportion of the burdens of the government under whose protection it conducts its operations, while interstate commerce is not in itself subjected to restraint or impediment.
+ As pointed out by Mr. Justice Eield in Horn Silver Min. Co. v. New York, 
+143 U.S. 305
+, 12 Sup. Ct. 403, the right of a state to tax the franchise or privilege of being a corporation as personal property his been repeatedly recognized by this court, and this whether the corporation be domestic or a foreign corporation doing business by its permission within the state. But a state cannot exclude from its limits a corporation engaged in interstate or foreign commerce, or a corporation in the employment of the general government, either directly in terms or indirectly by the imposition of inadmissible conditions. Nevertheless the state may subject it to such property taxation as only incidentally affects its occupation, as all business, whether of individuals or corporations, is affected by common governmental burdens. Ashley v. Ryan, 
+153 U.S. 436
+, 14 Sup. Ct. 865, and cases cited.
+ Doubtless no state could add to the taxation of property according to the rule of ordinary property taxation the burden of a license or other tax on the privilege of using, con- 
+
+[155 U.S. 688, 697]
+ 
+ structing, or operating an instrumentality of interstate or international commerce, or for the carrying on of such commerce; but the value of property results from the use to which it is put, and varies with the profitableness of that use, and by whatever name the exaction may be called, if it amounts to no more than the ordinary tax upon property, or a just equivalent therefor, ascertained by reference thereto, it is not open to attack as inconsistent with the constitution. Railroad Co. v. Backus, 
+154 
+U.S. 439, 445
+, 14 S. Sup. Ct. 1122
+
+
+ The method of taxation by 'a tax on privileges' has been determined by the supreme court of Mississippi to be in harmony with the constitution of that state, and that, 'where the particular arrangement of taxation provided by legislative wisdom may be accounted for on the assumption of compounding or commuting for a just equivalent, according to the determination of the legislature, in the general scheme of taxation, it will not be condemned by the courts as violative of the [state] constitution.' Bank v. Worrell, 67 Miss. 47, 7 South. 219. In that case privilege taxes imposed on banks of deposit or discount, which varied with the amount of capital stock or assets, and were declared to the 'in lieu of all other taxes, state, county, or municipal, upon the shares and assets of said banks,' came under review, and it was decided that the privilege tax, to be effectual as a release from liability for all other taxes, must be measured by the capital stock and entire assets or wealth of the bank, and that real estate bought with funds of the bank was exempt from the ordinary ad valorem taxes, but was part of the assets of the bank to be considered in fixing the basis of its privilege tax.
+ And in the case at bar the supreme court, in its examination of the liability of plaintiff in error for the taxes in question, said: 'It will be thus seen at once this is a tax imposed upon a telegraph company, in lieu of all others, as a privilege tax, and its amount is graduated according to the amount and value of the property measured by miles. It is to be noticed that it is in lieu of all other taxes, state, county, municipal. The reasonableness of the imposition appears in 
+
+[155 U.S. 688, 698]
+ 
+ the record, as shown by the second count of the declaration and its exhibits, whereby the appellant seems to be burdened in this way with a tax much less than that which would be produced if its property had been subjected to a single ad valorem tax.' This exposition of the statute brings it within the rule where ad valorem taxes are compounded or commuted for a just equivalent, determined by reference to the amount and value of the property. Being thus brought within the rule, the tax becomes substantially a mere tax on property, and not one imposed on the privilege of doing interstate business. The substance, and not the shadow, determines the validity of the exercise of the power.
+ The act, in prescribing the ascertainment of the charge as to telegraph companies operating less than 1,000 miles of wire, was directed to reach a reasonable commutation of the amount which the company would be compelled to pay if the taxation were ad valorem. The taxation was neither arbitrary nor discriminating, nor, so far as we are advised, was payment made a condition precedent to doint business, but collection was enforceable by suit, and the remedies pertaining thereto, and not otherwise. Code Miss. 1880,  585, 587-589, 594.
+ We concur with the view of the act thus expressed by the supreme court of the state, and, accepting it as correct, it is obvious that the case does not fall within the line of decisions in which state laws have been held inoperative because in conflict with, or amounting to the exercise of, or the assertion of control over, a power vested exclusively in the United States. In those decisions the interference with the commercial power was found to be direct, and not the mere incidental effect of the requirement of the usual proportional contribution to public maintenance.
+ They need not be re-examined here, as the taxation in question, according to the proper interpretation of the statute, is in principle such as was sustained in W. U. Tel. Co. v. Attorney General of Massachusetts, 
+125 U.S. 530
+, 8 Sup. Ct. 961; Ratterman v. Telegraph Co., 
+127 U.S. 411
+, 8 Sup. Ct. 1127; Pullman's Palace-Car Co. v. Pennsylvania, 
+141 U.S. 18
+, 11 Sup. Ct. 876; Massachusetts v. W. U. 
+
+[155 U.S. 688, 699]
+ 
+ Tel. Co., 
+141 U.S. 40
+, 11 Sup. Ct. 889; Maine v. Grand Trunk Ry. Co., 
+142 U.S. 217
+, 12 Sup. Ct. 121, 163.
+ In Massachusetts v. W. U. Tel. Co., it was held that the tax imposed by the statutes of Massachusetts requiring every telegraph company owning a line of telegraph within the state to pay to the state treasurer 'a tax upon its corporate franchise at a valuation thereof equal to the aggregate value of the shares in its capital stock,' deducting such portion of that valuation as is proportional to the length of its lines without the state, and deducting also an amount equal to the value of its real estate and machinery, subject to local taxation within the state, was in effect a tax upon the corporation on account of property used by it within the state; and was constitutional and valid as applied to a telegraph company incorporated by another state, and which had accepted the rights conferred by congress by section 5263 of the Revised Statutes. In arriving at this conclusion, W. U. Tel. Co. v. Massachusetts, 
+125 U.S. 530
+, 8 Sup. Ct. 961, was followed, and the following propositions affirmed in that case were reiterated by Mr. Justice Gray, delivering the opinion of the court: 'The franchise of the company to be a corporation, and to carry on the business of telegraphing, was derived not from the act of congress, but from the laws of the state of New York, under which it was organized; and it never could have been intended by the congress of the United States, in conferring upon a corporation of one state the authority to enter the territory of any other state, and to erect its poles and lines therein, to establish the proposition that such a company owed no obedience to the laws of the state into which it thus entered, and was under no obligation to pay its fair proportion of the taxes necessary to the support of the government of that state. 
+125 
+U.S. 547, 548
+, 8 S. Sup. Ct. 962, 963. By whatever name the tax may be called, as described in the laws of Massachusetts, it is essentially an excise upon the capital of the corporation; and those laws attempt to ascertain the just amount which any corporation engaged in business within its limits shall pay as a contribution to the support of its government upon the amount and value of the 
+
+[155 U.S. 688, 700]
+ 
+ capital so employed by it therein. 
+125 U.S. 547
+, 8 Sup. Ct. 962. The tax, though nominally upon the shares of the capital stock of the company, is in effect a tax upon that organization on account of property owned and used by it in the state of Massachusetts; and the proportion of the length of its lines in that state to their entire length throughout the whole country is made the basis for ascertaining the value of that property. Such a tax is not forbidden by the acceptance on the part of the telegraph company of the rights conferred by section 5263 of the Revised Statutes, or by the commerce clause of the constitution. 
+125 U.S. 552
+, 8 Sup. Ct. 965. The statute of Massachusetts is intended to govern the taxation of all corporations doing business within its territory, whether organized under its own laws or under those of some other state; and the rule adopted to ascertain the amount of the value of the capital engaged in that business within its boundaries, on which the tax should be assessed, is not an unfair or unjust one; and the details of the method by which this was determined have not exceeded the fair range of legislative discretion. 
+125 U.S. 553
+, 8 Sup. Ct. 965.'
+ In the case before us, the tax was graduated according to the amount and value of the property measured by miles, and was in lieu of taxes levied directly on the property. In marking the distinction between the power over commerce and municipal power, literal adherence to particular nomenclature should not be allowed to control construction in arriving at the true intention and effect of state legislation. We are of opinion that it was within the power of the state to levy a charge upon this company in the form of a franchise tax, but arrived at with reference to the value of its property within the state and in lieu of all other taxes, and that the exercise of that power by this statute, as expounded by the highest judicial tribunal of the state in the language we have quoted, did not amount to a regulation of interstate commerce or put an unconstitutional restraint thereon.
+ Judgment affirmed. 
+
+
+

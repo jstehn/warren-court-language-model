@@ -1,0 +1,33 @@
+Description: SOUTH COAST S S CO v. RUDBACH , 251 U.S. 519 (1920)
+Date: 1920-03-01 00:00:00
+Docket: 68
+Opinion
+
+
+United States Supreme Court
+SOUTH COAST S S CO. v. RUDBACH(1920)
+No. 68
+Argued: Decided: March 1, 1920
+
+
+
+ Mr. Oliver Dibble, of San Francisco, Cal., for petitioner.[ South Coast S S Co v. Rudbach 
+251 U.S. 519
+ (1920) ]
+
+
+[251 U.S. 519, 522]
+ 
+ Mr. S. Hasket Derby, of San Francisco, Cal., for respondent.
+
+ Mr. Justice HOLMES delivered the opinion of the Court.
+ This is a libel against the Steamer South Coast, belonging to the claimant, a California corporation, and registered in San Francisco, for necessary supplies furnished in San Pedro, California. The answer denies the authority of the master to bind the steamer. The bare vessel at the time was under charter to one Levick, the contract stipulating that Levick was to pay all charges and to save the owner harmless from all liens or expenses that it might be put to in consequence of such liens. There was also a provision that the owner might retake the vessel in case of failure of Levick to discharge within thirty days any debts which were liens upon it, and another for surrender of the vessel free of all liens upon Levick's failure to make certain payments. When the supplies were ordered representatives of the owner in San Pedro warned the libelant that the steamer was under charter and that he must not furnish the supplies on the credit of the vessel. He replied that he would not furnish them in any other way, but the reply does not affect the case because by the terms of the charter the master who ordered them, although appointed by the owner, was under the orders of Levick. It is agreed by both courts below that if the owner had power to prevent the attaching of a lien by its warning it had done so. Both courts however held that the charter gave the master power to create the lien. 233 Fed. 327; 247 Fed. 84, 159 C. C. A. 302. 
+
+[251 U.S. 519, 523]
+ 
+ By the Act of June 23, 1910, c. 373,  1, 36 Stat. 604 (Comp. St.  7783), a maritime lien is given for such supplies and by section 3 (Comp. St.  7785) a presumption is declared that a master appointed by a charterer has authority from the owner to procure them. It is true that the act goes on that nothing in it shall be considered to give a lien where the furnisher knew, or by the exercise of reasonable diligence could have ascertained, that because of the terms of a charter party, or for any other reason, the person ordering the necessaries was without authority to bind the vessel. But the authority of the owner to prohibit or to speak was displaced, so far as the charter went, by that conferred upon the charterers, who became owners prohac vice, and therefore, unless the charter excluded the master's power, the owner could not forbid its use. The charter party recognizes that liens may be imposed by the charterers and allowed to stand for less than a month and there seems to be no sufficient reason for supposing the words not to refer to all the ordinary maritime liens recognized by the law. The statute had given a lien for supplies in a domestic port and therefore had made that one of these ordinary liens. Therefore the charterer was assumed to have power to authorize the master to impose a lien in a domestic port, and if the assumption expressed in words was not equivalent to a grant of power, at least it cannot be taken to have excluded it. There was nothing from which the furnisher could have ascertained that the master did not have power to bind the ship.
+ Decree affirmed.
+ Mr. Justice McKENNA, Mr. Justice PITNEY, and Mr. Justice CLARKE dissent. 
+
+
+

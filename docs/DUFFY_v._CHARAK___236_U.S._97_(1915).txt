@@ -1,0 +1,44 @@
+Description: DUFFY v. CHARAK , 236 U.S. 97 (1915)
+Date: 1915-01-25 00:00:00
+Docket: 120
+Opinion
+
+
+United States Supreme Court
+DUFFY v. CHARAK(1915)
+No. 120
+Argued: January 14, 1915Decided: January 25, 1915
+
+
+
+
+[236 U.S. 97, 98]
+ 
+ Mr. James H. Duffy, in propria persona, for appellant.
+ Mr. William Charak, in propria persona, for appellee.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a proceeding by a trustee in bankruptcy to obtain the surrender of the proceeds of goods in possession of the appellant, and sold by him under an agreement with the trustee, without prejudice to the rights of the parties in the property. The petition in bankruptcy was filed on May 26, 1909. The appellant claims under a mortgage to him for $5, 675, made on March 2, 1909, but admits that $4,175 of this sum was a pre- existing debt, and claims only $1,500, lent on the day when the mortgage was given. The mortgage was not recorded, and on May 24, 1909, the goods were attached by a third person, the shop where they were was closed, and no more business was done. Afterwards on the same day the mortgagee put in a keeper, subject to the possession of the sheriff's officer. On May 25 he notified the deputy sheriff of his claim, and also gave notice to the bankrupt that the property was in his possession, and that he intended to foreclose. The latter notice was recorded on May 26, after the filing of the petition in bankruptcy on that day. Under the Massachusetts laws the unrecorded mortgage was invalid 
+
+[236 U.S. 97, 99]
+ 
+ against others than the parties unless the property was delivered to and retained by the mortgagee (Rev. Laws, chap. 198,  1). The district court and the circuit court of appeals held the mortgage void on the ground that the deputy sheriff's possession was exclusive, and that therefore what was done by the mortgagee on May 24 and 25 had no effect. 193 Fed. 533, 119 C. C. A. 191, 200 Fed. 747. The main question before us is whether this ruling is right.
+ We may assume that the trustee in bankruptcy is not a party within the meaning of the Massachusetts act. For although there have been decisions by the courts of the United States that the assignee under former acts is the bankrupt, that is to say, that he is a universal successor, who, like the executor, represents the person of him to whom he succeeds, the supreme court of the state has established the construction of the Massachusetts statute. Humphrey v. Tatman, 
+198 
+U.S. 91, 93
+, 49 S. L. ed. 956, 958, 25 Sup. Ct. Rep. 567; Haskell v. Merrill, 179 Mass. 120, 124, 60 N. E. 485; Clark v. Williams, 190 Mass. 219, 223, 76 N. E. 723. We assume, on the other hand, that if possession was delivered and retained, within the meaning of the act, at any time before the bankruptcy, the title of the mortgagee will be good. Blanchard v. Cooke, 144 Mass. 207, 227, 11 N. E. 83; Keepers v. Fleitmann, 213 Mass. 210, 211, 100 N. E. 333; Humphrey v. Tatman, supra. Moreover, a taking possession under the power in the mortgage is a delivery that satisfies the statute. Keepers v. Fleitmann, supra. So the issue is narrowed to the precise point of the ruling below.
+ We agree that the possession of the deputy sheriff was exclusive, and that there cannot be two possessions properly so called at the same time. But that which would be deemed a delivery sufficient to make a sale good as against attaching creditors also satisfies the statute. Clark v. Williams, 190 Mass. 219, 222, 76 N. E. 723; Wright v. Tetlow, 99 Mass. 397, 400. And it is familiar that what 
+
+[236 U.S. 97, 100]
+ 
+ is called a change of possession may be accomplished when the goods are in the hands of a third person claiming a lien. Hallgarten v. Oldham, 135 Mass. 1, 9, 10, 46 Am. Rep. 433; Union Trust Co. v. Wilson, 
+198 
+U.S. 530, 536
+, 49 S. L. ed. 1154, 1155, 25 Sup. Ct. Rep. 766. Accordingly, goods under attachment may be sold or mortgaged upon notice to the officer, as effectively as if a true delivery took place. Grant v. Lyman, 4 Met. 470, 477; Mann v. Huston, 1 Gray, 250, 253; Clark v. Williams, supra. The acts of the appellant had the same effect as if the mortgagor had been present and assenting (Keepers v. Fleitmann, 213 Mass. 210, 100 N. E. 333), and we see in the attachment no sufficient ground for denying him his security. The mortgage embraced after-acquired property, with power of sale and substitution in the mortgagor, but we assume that it was good under Massachusetts law. Blanchard v. Cooke, 144 Mass. 207, 11 N. E. 83; Thompson v. Fairbanks, 
+196 U.S. 516
+, 49 L. ed. 577, 25 Sup. Ct. Rep. 306.
+ Whether or not the lien of the attachment should be preserved for the benefit of the estate, and whether it still is open to the Bankruptcy Court to make an order to that effect if, on due notice, it should seem just, is not before us. No such order has been made. The decree will be reversed without prejudice to further action upon that point.
+ Decree reversed. 
+
+
+

@@ -1,0 +1,130 @@
+Description: SCOTT v. ARMSTRONG , 146 U.S. 499 (1892)
+Date: 1892-12-12 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+SCOTT v. ARMSTRONG(1892)
+
+Argued: Decided: December 12, 1892
+
+
+ Statement by Mr. Chief Justice FULLER: 
+
+[146 U.S. 499, 500]
+ 
+ No. 53 was an action brought by David Armstrong, receiver of the Fidelity National Bank of Cincinnati, Ohio, against Levi Scott and the Farmers' & Merchants' State Bank, in the circuit court of the United States for she southern district of Ohio, upon a promissory note for $10,000, dated at Cincinnati on June 6, 1887, payable 90 days after date, at said Fidelity Bank, with interest after maturity at the rate of 8 per cent. per annum, signed by Scott and indorsed by the Farmers' Bank to the order of the Fidelity Bank.
+ The defendant Scott was the cashier of his codefendant, and pleaded that he signed the note for the accommodation of the banks under an agreement that he should not be looked to for its payment. The Farmers' Bank made the same averments as to Scott, and pleaded a set-off to the amount of $8,809.94 as arising on certain facts, in substance as follows: That the Fidelity Bank lent the Farmers' Bank the $10,000 at a discount at the rate of 7 per cent. per annum, for 90 days, under an agreement that the money so borrowed, less the discount, should be placed to the credit of the Farmers' Bank on the books of the Fidelity Bank; that the note in suit was executed accordingly, dated and discounted on June 6, 1887, and the proceeds, $9,819.17, were placed to the credit of the Farmers' Bank upon the books of the Fidelity Bank, to meet any checks or drafts of the Farmers' Bank, and to pay the note when it became due; that afterwards, and before June 20th, the Farmers' Bank drew against the deposit the sum of $1,009.23, and the balance, $8,809.94, remained to the credit of the defendant to meet the note, and was so to its credit at the time the receiver was appointed; that upon the maturity of the note, and before suit was brought, defendant tendered to the receiver the sum of $1,190.06, the balance due on the note; and that the tender had since that time been kept good, and the money was now brought into court.
+ Demurrers to the pleas were sustained, and judgment was entered for the plaintiff for $10,833.33, with interest and costs. The judgment, as provided by section 5419 of the Revised Statutes of Ohio, contained a certificate that the Farmers' Bank was liable as principal and Scott as surety. 
+
+[146 U.S. 499, 501]
+ 
+ The opinion of the circuit court, by the district judge, will be found in 36 Fed. Rep. 63, and states that the circuit judge concurred in its conclusions as being in accord with his opinion in Bung Co. v. Armstrong, reported in 34 Fed. Rep. 94. The case being brought here by writ of error, it was assigned for error that the court erred in sustaining the demurrers and in rendering judgment against the defendants below.
+ While the writ of error was pending a bill in equity was filed in the circuit court in behalf of the Farmers' Bank and Scott against Armstrong, as receiver, praying for an injunction against the judgment and for the enforcement of the set-off. Armstrong demurred, his demurrer was sustained, the bill dismissed, and an appeal taken to the circuit court of appeals for the sixth circuit. That court certified to this court for instructions as to the proper decision seven questions, accompanied by a brief statement of the contents of the bill and proceedings thereon.
+ The bill, as summarized by the court, rehearsed the facts set forth in the answers in the suit at law somewhat more in detail, and among other things stated that 'on the 20th day of June, 1887, said Fidelity Bank was closed by order of the bank examiner of the United States, and thereafter remained closed;' that 'on June 27, 1887, the comptroller of the currency of the United States, having become satisfied that said Fidelity Bank was insolvent, appointed the appellee, David Armstrong, receiver of said bank to wind up its affairs, as provided under the authority given by the laws of the United States in such case made and provided, and said receiver qualified and entered upon the performance of his duties as such. On July 12, 1887, the charter of said Fidelity Bank was forfeited and said banking association dissolved by decree of the circuit court of the United States for the southern district of Ohio;' and that 'said Fidelity Bank was in good credit at the time said discount was made, and was then thought by said Scott and said State Bank, with good reason for so thinking, to be solvent, but was in fact insolvent, and known so to be by said Harper,' its managing officer, with whom the transaction had been had. 
+
+[146 U.S. 499, 502]
+ 
+ The recovery of the judgment and pendency of the writ of error were also set forth, and it was averred 'that said Scott and said State Bank were advised said circuit court sitting as a court of law had not jurisdiction to entertain and adjudge upon the set-off pleaded as aforesaid, and that relief should be sought in a court of equity.' The tender was reiterated, and it was prayed, among other things, 'that the collection of the judgment at law might be enjoined, and that the set-off might be established and allowed.' The grounds of demurrer were:
+'(1) That it appeared from the bill that the complainants were not entitled to the relief sought.
+
+'(2) That the complainants had an adequate remedy at law for the relief sought, which had been already adjudicated.'
+
+ The case on certificate is No. 1,025. The first, second, and fourth questions are as follows:
+'(1) Where a national bank becomes insolvent, and its assets pass into the hands of a receiver appointed by the comptroller of the currency, can a debtor of the bank set off against his indebtedness the amount of a claim he holds against the bank, supposing the debt due from the bank to have been payable at the time of its suspension, but that due to it to have been payable at a time subsequent thereto?
+
+'(2) Has a circuit court of the United States sitting in Ohio as a court of law jurisdiction to entertain a defense of set-off as against an action brought by a receiver appointed by the comptroller of the currency to wind up the affairs of a national bank doing business in Ohio because of its insolvency, upon a note held by said bank, which note matured and became payable after the appointment of such receiver?'
+
+'(4) Where a national bank doing business in Ohio in 1887 discounts a promissory note with the understanding that the proceeds of the discount are to remain on deposit with it subject to the checks of the borrower, and any balance of such deposit remaining undrawn at the maturity of the note is to be applied as a credit thereon, and where at the time such discount was made said bank was in fact insolvent, and known so to be by the officer through whom it acted in making such 
+
+[146 U.S. 499, 503]
+ 
+ discount and agreement, but such bank was then in good credit, and thought by the borrower to be solvent, with good reason for so thinking, and where afterwards, the insolvency of said bank becoming known to the comptroller of the currency, that officer assumed charge of said bank, and afterwards, in June, 1887, but before the maturity of the note so discounted, appointed a receiver to close up the affairs of said bank, can such borrower, by suit in equity against such receiver, compel a set-off of the balance of said deposit account at the time of the suspension of said bank against the amount due upon such note at its maturity?'
+
+ The third, fifth, sixth, and seventh related to the effect of the judgment at law as a bar to the bill in equity.
+ Wm. Worthington and J. W. Warrington, for plaintiffs in error. 
+
+[146 U.S. 499, 504]
+ 
+ John W. Herron, for defendant in error.
+
+
+
+[146 U.S. 499, 506]
+ 
+
+ Mr. Chief Justice FULLER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ The Fidelity National Bank was closed by order of the bank examiner June 20th, the receiver was appointed June 27th, 
+
+[146 U.S. 499, 507]
+ 
+ , and the charter of the bank was forfeited and the bank dissolved by the decree of the circuit court, July 12, 1887. Title to its assets was necessarily thereby transferred to the receiver. Bank v. Colby, 21 Wall. 609.
+ The note in controversy did not mature until September 7, 1887, but the deposit to the credit of the Farmers' Bank was due for the purposes of suit upon the closing of the Fidelity Bank, as under such circumstances no demand was necessary. The receiver took the assets of the Fidelity Bank as a mere trustee for creditors, and not for value and without notice, and, in the absence of statute to the contrary, subject to all claims and defenses that might have been interposed as against the insolvent corporation before the liens of the United States and of the general creditors attached.
+ The right to assert set-off at law is of statutory creation, but courts of equity from a very early day were accustomed to grant relief in that regard independently as well as in aid of statutes upon the subject.
+ In equity, relief was usually accorded, says Mr. Justice Story, (Eq. Jur.  1435,) 'where, although there are mutual and independent debts, yet there is a mutual credit between the parties, founded at the time upon the existence of some debts due by the crediting party to the other. By 'mutual credit,' in the sense in which the terms are here used, we are to understand a knowledge on both sides of an existing debt due to one party, and a credit by the other party, founded on and trusting to such debt, as a means of discharging it.'
+ This definition is hardly broad enough to cover all the cases where, as the learned commentator concedes, there being a 'connection between the demands, equity acts upon it, and allows a set-off under particular circumstances.' Section 1434. Courts of equity frequently deviate from the strict rule of mutuality when the justice of the particular case requires it, and the ordinary rule is that, where the mutual obligations have grown out of the same transaction, insolvency on the one hand justifies the set- off of the debt due upon the other. Blount v. Windley, 
+95 U.S. 173
+, 177.
+ In Carr v. Hamilton, 
+129 
+U.S. 252, 262
+, 9 S. Sup. Ct. Rep. 295, it was decided 
+
+[146 U.S. 499, 508]
+ 
+ that, when a life insurance company becomes insolvent and goes into liquidation, the amount due on an endowment policy, payable in any event at a fixed time, may, in settling the company's affairs, be set off against the amount due on the mortgage deed from the holder or the policy to the company by way of compensation; and Mr. Justice Bradley, delivering the opinion of the court, said: 'We are inclined to the view that where the holder of a life insurance policy borrows money of his insurer, it will be presumed, prima facie, that he does so on the faith of the insurance and in the expectation of possibly meeting his own obligation to the company by that of the company to him, and that the case is one of mutual credits, and entitled to the privilege of compensation or set-off whenever the mutual liquidation of the demands is judicially decreed on the insolvency of the company.' And the case of Scammon v. Kimball, 
+92 U.S. 362
+, was referred to, where it was held that a bank, having insurance in a company which was rendered insolvent by the Chicago fire of 1871, had a right to set off the amount of his insurance on property consumed against money of the company in his hands on deposit, although the insurance was not a debt due at the time of the insolvency.
+ Indeed, natural justice would seem to require that where the transaction is such as to raise the presumption of an agreement for a set- off, it should be held that the equity that this should be done is superior to any subsequent equity not arising out of a purchase for value without notice.
+ In the case at bar the credits between the banks were reciprocal, and were parts of the same transaction, in which each gave credit to the other on the faith of the simultaneous credit, and the principle applicable to mutual credits applied. It was, therefore, the balance upon an adjustment of the accounts which was the debt, and the Farmers' Bank had the right, as against the receiver of the Fidelity Bank, although the note matured after the suspension of that bank, to set off the balance due upon its deposit account, unless the provisions of the national banking law were to the contrary. Whether this was so or not is the question on which the opinion of the 
+
+[146 U.S. 499, 509]
+ 
+ district judge turned, and which was chiefly urged in argument upon our attention.
+ Sections 5234, 5236, and 5242 are the sections relied on. Section 5234 provides for the appointment of a receiver by the comptroller of the currency, and defines his duties as follows:
+'Such receiver, under the direction of the comptroller, shall take possession of the books, records, and assets of every description of such association, collect all debts, dues, and claims belonging to it, and, upon the order of a court of record of competent jurisdiction, may sell or compound all bad or doubtful debts, and, on a like order, may sell all the real and personal property of such association, on such terms as the court shall direct; and may, if necessary to pay the debts of such association, enforce the individual liability of the stockholders. Such receiver shall pay over all money so made to the treasurer of the United States, subject to the order of the comptroller, and also make report to the comptroller of all his acts and proceedings.'
+
+ Section 5236 provides:
+'From time to time, after full provision has been first made for refunding to the United States any deficiency in redeeming the notes of such association, the comptroller shall make a ratable dividend of the money so paid over to him by such receiver on all such claims as may have been proved to his satisfaction or adjudicated in a court of competent jurisdiction, and, as the proceeds of the assets of such association are paid over to him, shall make further dividends on all claims previously proved or adjudicated; and the remainder of the proceeds, if any, shall be paid over to the shareholders of such association, or their legal representatives, in proportion to the stock by them respectively held.'
+
+ Section 5242 reads:
+'All transfers of the notes, bonds, bills of exchange, or other evidences of debt owing to any national banking association, or of deposits to its credir; all assignments of mortgages, sureties on real estate, or of judgments or decrees in its favor; all deposits of money, bullion, or other valuable thing for its use, or for the use of any of its shareholders or creditors; and 
+
+[146 U.S. 499, 510]
+ 
+ all payments of money to either, made after the commission of an act of insolvency, or in contemplation thereof, made with a view to prevent the application of its assets in the manner prescribed by this chapter, or with a view to the preference of one creditor to another, except in payment of its circulating notes,-shall be utterly null and void; and no attachment, injunction, or execution shall be issued against such association or its property before final judgment in any suit, action, or proceeding in any state, county, or municipal court.'
+
+ The argument is that these sections by implication forbid this set- off, because they require that after the redemption of the circulating notes has been fully provided for, the assets shall be ratably distributed among the creditors, and that no preferences given or suffered, in contemplation of or after committing the act of insolvency, shall stand. And it is insisted that the assets of the bank existing at the time of the act of insolvency include all its property, without regard to any existing liens thereon or set-offs thereto.
+ We do not regard this position as tenable. Undoubtedly any disposition by a national bank, being insolvent or in contemplation of insolvency, of its choses in action, securities, or other assets, made to prevent their application to the payment of its circulating notes, or to prefer one creditor to another, is forbidden; but liens, equities, or rights arising by express agreement, or implied from the nature of the dealings between the parties, or by operation of law, prior to insolvency and not in contemplation thereof, are not invalidated. The provisions of the act are not directed against all liens, securities, pledges, or equities, whereby one creditor may obtain a greater payment than another, but against those given or arising after or in contemplation of insolvency. Where a set-off is otherwise valid, it is not perceived how its allowance can be considered a preference, and it is clear that it is only the balance, if any, after the set-off is deducted, which can justly be held to form part of the assets of the insolvent. The requirement as to ratable dividends is to make them from what belongs to the bank, and that which at the time of the insolvency belongs of right to the debtor does not belong to the bank. 
+
+[146 U.S. 499, 511]
+ 
+ There is nothing new in this view of ratable distribution. As pointed out by counsel, the bankruptcy act of 13 Eliz. c. 7, contained no provision in any way directing a set-off or the striking of a balance, and by its second section commissioners in bankruptcy were to seize and appraise the lands, goods, money, and chattels of the bankrupt, to sell the lands and chattels, 'or otherwise to order the same for true satisfaction and payment of the said creditors, that is to say, to every of the said creditors a portion, rate and rate alike, according to the quantity of his or their debts.' 4 Statutes of the Realm, pt. 1, 539. Yet, in the earliest reported decisions upon set-off, it was allowed under this statute. Anonymous, 1 Modern, 215, Curson v. African C., 1 Vern. 121; Chapman v. Derby, 2 Vern. 117.
+ The succeeding statutes were but in recognition, in bankruptcy and otherwise, of the practice in chancery in the settlement of estates, and it may be said that in the distribution of the assets of insolvents under voluntary or statutory trusts for creditors the set-off of debts due has been universally conceded. The equity of equality among creditors is either found inapplicable to such set-offs or yields to their superior equity.
+ We are dealing in this case with an equitable set-off, but if on June 20th the note had matured, and each party had a cause of action capable of enforcement by suit at once, upon the argument for the receiver the legal set-off would be destroyed just as effectully as it is contended the equitable set-off is. We cannot believe congress intended such a result, or to destroy by implication any right vested at the time of the suspension of a national bank.
+ The state of case where the claim sought to be offset is acquired after the act of insolvency is far otherwise, for the rights of the parties become fixed as of that time, and to sustain such a transfer would defeat the object of these provisions. The transaction must necessarily be held to have been entered into with the intention to produce its natural result, the preventing of the application of the insolvent's assets in the manner prescribed. Bank v. Taylor, 56 Pa. St. 14, Colt v. Brown, 12 Gray, 233. 
+
+[146 U.S. 499, 512]
+ 
+ Our conclusion is that this set-off should have been allowed, and this has heretofore been so held in well-considered cases. Snyder Sons' Co. v. Armstrong, 37 Fed. Rep. 18; Yardley v. Clothier, 49 Fed. Rep. 337; Armstrong v. Warner, 21 Wkly. Cin. Law Bul. 136; 27 Wkly. Cin. Law Bul. 100.
+ The Ohio Code of Civil Procedure abolishes the distinction between actions at law and suits in equity, requires all actions (with some exceptions) to be brought in the name of the real party in interest, and permits all defenses, counter-claims, and set-offs, whether formerly known as legal or equitable, to be set up therein. Rev. St. Ohio,  4971, 4993, 5071.
+ Section 914 of the Revised Statutes, in providing that the practice, pleadings, and forms and modes of proceeding in civil causes, in the circuit and district courts, shall conform, as near as may be, to the practice, pleadings, and forms and modes of proceeding existing at the time in like causes in the courts of record of the state within which such circuit or district courts are held, in terms excludes equity causes therefrom, and the jurisprudence of the United States has always recognized the distinction between law and equity as under the constitution matter of substance, as well as of form and procedure, and accordingly legal and equitable claims cannot be blended together in one suit in the circuit courts of the United States, nor are equitable defenses permitted. Bennett v. Butterworth, 11 How. 669; Thompson v. Railroad Cos., 6 Wall. 134; Scott v. Neely, 
+140 U.S. 106
+, 11 Sup. Ct. Rep. 712; Montejo v. Owen, 14 Blatchf. 324; La Mothe Manuf'g Co. v. National Tube Works Co., 15 Blatchf. 432.
+ We are of opinion that the circuit court had no power to grant the set-off in question in the suit at law. Judgment, however, was given in that case on the merits upon sustaining the demurrer to the defense of equitable set-off, and, as we think that the set-off should have been allowed, we do not feel called upon, having the judgment before us and under our control for affirmance, reversal, or modification, to sustain it upon a jurisdictional ground not passed upon by the circuit court.
+ We shall therefore reverse it without discussing the question whether, if affirmed, it would or would not be a bar to 
+
+[146 U.S. 499, 513]
+ 
+ relief in the suit in equity. Butler v. Eaton, 
+141 U.S. 240
+, 11 Sup. Ct. Rep. 985; Ballard v. Searls, 
+130 U.S. 50
+, 9 Sup. Ct. Rep. 418.
+ It follows from what we have said that the first question certified from the United States circuit court of appeals for the sixth circuit must be answered in the affirmative and the second in the negative, and that the other questions propounded require no reply.
+ Judgment in No. 53 reversed and cause remanded to the circuit court with directions for further proceedings in conformity with this opinion.
+ In No. 1,025 the answers to the first and second questions above indicated will be certified. 
+
+
+

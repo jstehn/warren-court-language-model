@@ -1,0 +1,56 @@
+Description: PETITION OF PUBLIC NAT. BANK OF NEW YORK , 278 U.S. 101 (1928)
+Date: 1928-11-19 00:00:00
+Docket: 16
+Opinion
+
+
+United States Supreme Court
+PETITION OF PUBLIC NAT. BANK OF NEW YORK(1928)
+No. 16
+Argued: October 29, 1928Decided: November 19, 1928
+
+
+
+
+[278 U.S. 101, 102]
+ 
+ Mr. Martin Saxe, of New York City, for petitioner.
+ Mr. Wm. H. King, of New York City, for Keating as Receiver of Taxes.
+ Mr. Henry S. Manley, of Falconer, N. Y., for Ottinger, Atty. Gen.
+
+ Mr. Justice SUTHERLAND delivered the opinion of the Court.
+ The petitioner, a national banking association organized under the National Bank Act (12 USCA  21 et seq.) with its principal office in the city of New York, brought suit in the federal District Court for the Southern District of New York against Andrew B. Keating, receiver, and William Reid, Jr., collector of taxes of the city of New York, to enjoin them from collecting taxes assessed against shares in the association in pursuance of a state law, but by, and for the the sole use of, the city. The prayer for relief rested upon the contention that the provisions of the state law, which fixed the rate of tax, discriminated in favor of other moneyed capital in the hands of individual citizens of the state, in contravention of section 5219, U. S. Rev. Stats. (12 USCA  548), and of provisions of the Constitution of the United States. A statutory court of three judges was constituted under section 266 of the Judicial Code (U. S. Code, title 28,  380; 28 USCA  380), and a master appointed, by whom evidence was taken and 
+
+[278 U.S. 101, 103]
+ 
+ reported. When the case came on for final hearing, the court, of its own motion, dissolved after directing that the cause proceed before a single district judge upon the ground that the suit was not one coming within the terms of section 266. Petitioner applied to this court for a writ of mandamus requiring the judges composing the statutory court to reconvene and proceed to a determination of the case. Upon filing the petition, a rule to show cause was issued (
+278 
+U.S. 555
+, 49 S. Ct. 7, 73 L. Ed. -), upon a return to which the application has been heard.
+ The statutory court held that section 266 did not apply because neither of the defendants was an officer of the state and the suit involved only the action of city officials in the collection of taxes for the use of the city. 29 F.(2d) 621. In support of this ruling, Ex parte Collins, 
+277 
+U.S. 565
+, 48 S. Ct. 585 (June 4, 1928), was relied upon. In that case suit was brought to enjoin proceedings under a resolution of the city of Phoenix, Arizona, directing the paving of a street upon which petitioner was an abutting owner. The improvement was to be made pursuant to general statutes of the state, which were assailed as contravening the due process clause of the Fourteenth Amendment. The District Judge denied a request to call two judges to sit with him, upon the ground that the case did not come within section 266. This court sustained the action of the District Judge, and held that the section did not apply, although the constitutionality of a statute was challenged, because the defendants were local officers and the suit concerned matters of interest only to the particular municipality involved. We need add little to what we there said.
+ Section 266 provides that no injunction 'restraining the enforcement ... of any statute of a state by restraining the action of any officer of such state in the enforcement ... of such statute, ... shall be issued or granted ... upon the ground of the unconstitutionality of such statute,' except upon a hearing and determina- 
+
+[278 U.S. 101, 104]
+ 
+ tion of a court composed of three judges. The suit here involved the constitutionality of a state statute, but it was not brought to restrain 'the action of any officer of such state in the enforcement' thereof. The persons sued are municipal officers, having no state functions to perform, but charged only with the duty of collecting and receiving taxes assessed by other city officials in no respect for the use of the state but for and in behalf of the city alone. In effect, the contention for petitioner practically comes to this-that the general purpose of section 266 being to safeguard state legislation assailed as unconstitutional from the improvident action of federal counts, the words, 'by restraining the action of any officer of such state in the enforcement ... of such statute' are without significance. In other words, we are asked to ignore the quoted words and read the section as though they were not there.
+ But we are not at liberty thus to deny effect to a part of a statute. No rule of statutory construction has been more definitely stated or more often repeated than the cardinal rule that 'significance and effect shall, if possible, be accorded to every word. As early as in bacon's Abridgment ,  2, it was said that 'a statute ought, upon the whole, to be so construed that, if it can be prevented, no clause, sentence, or word shall be superfluous, void, or insignificant." Washington Market Co. v. Hoffman, 
+101 U.S. 112
+, 115 (25 L. Ed. 782). We are unable to perceive any ground for departing from the rule in the case before us. It follows that, giving effect to the phrase in question, section 266 requires the concurrence of two things in order to give the three-judge court jurisdiction: (1) The suit must seek to have a state statute declared unconstitutional, or that in effect; and (2) it must seek to restrain the action of an officer of the state in the enforcement of such statute. See Henrietta Mills Co. v. Rutherford County (D. C.) 26 F.(2d) 799, 800; Connor v. Board of Com'rs of Logan County, 
+
+[278 U.S. 101, 105]
+ 
+ Ohio (D. C.) 12 F.(2d) 789, 790; Connecting Gas Co. v. Imes (D. C.) 11 F.( 2d) 191, 194, 195. The second requisite here is lacking.
+ Our attention is directed to several cases disposed of under section 266, where this court passed on the merits although the suits were against local officers. We do not stop to inquire whether, at least in some of these cases, the so-called local officers in fact represented the state or exercised state functions in the matters involved and properly might be held to come within the provision of section 266 now under review. Compare, for example, People ex rel. Plancon v. Prendergast, 219 N. Y. 252, 258, 114 N. E. 433; State ex rel. Lopas v. Shagren, 91 Wash. 48, 52, 157 P. 31; Griffin v. Rhoton, 85 Ark. 89, 93, 94, 107 S. W. 380; Fellows v. Mayor, 8 Hun (N. Y.) 484, 485, 488; Chickasha Cotton Oil Co. v. Lamb & Tyner, 28 Okl. 275, 286, 114 P. 333. It is enough to say, as was said in the Collins Case, that the propriety of the hearing before three judges was not considered in the cases to which we are referred, and they cannot be regarded as having decided the question. Webster v. Fall, 
+266 
+U.S. 507, 511
+, 45 S. Ct. 148; United States v. Mitchell, 
+271 
+U.S. 9, 14
+, 46 S. Ct. 418.
+ Rule discharged. 
+
+
+

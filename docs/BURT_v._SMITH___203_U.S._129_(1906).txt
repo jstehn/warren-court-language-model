@@ -1,0 +1,70 @@
+Description: BURT v. SMITH , 203 U.S. 129 (1906)
+Date: 1906-11-12 00:00:00
+Docket: 67
+Opinion
+
+
+United States Supreme Court
+BURT v. SMITH(1906)
+No. 67
+Argued: October 29, 1906Decided: November 12, 1906
+
+
+
+ Messrs. Norris Morey and Joseph H. Morey for plaintiffs in error.[ Burt v. Smith 
+203 U.S. 129
+ (1906) ]
+
+
+[203 U.S. 129, 131]
+ 
+ Mr. Milton A. Fowler for defendant in error.
+
+
+
+[203 U.S. 129, 133]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action for malicious prosecution, brought by the plaintiffs in error, in which the New York court of appeals ordered judgment for the defendent in error. 181 N. Y. 1, 73 N. E. 495. The suit complained of was a bill brought by the defendant in error in the United States circuit court to restrain the infringement of a registered trademark. A preliminary injunction was granted in that suit. An appeal was taken to the circuit court of appeals where the injunction was dissolved, and, the plaintiff making default at the final hearing, a decree was entered by the circuit court, expressed to be upon the merits, and dismissing the bill. The special damage alleged in the present action is the interruption of the plaintiffs' business by the injunction while it was in force.
+ In the case at bar the trial court ordered a nonsuit on the ground that the granting of the injunction by the circuit court established probable cause. The principle of the decision in Crescent City L. S. L. & S. H. Co. v. Butchers' Union S. H. & L. S. L. Co. 
+120 U.S. 141
+, 30 L. ed. 614, 7 Sup. Ct. Rep. 472, that a final decree of the circuit court has that effect, even if subsequently reversed, was thought to extend to a preliminary decree. See also Deposit Bank v. Frankfort, 
+191 
+U.S. 499, 511
+, 48 S. L. ed. 276, 280, 24 Sup. Ct. Rep. 154. The decision of the trial court 
+
+[203 U.S. 129, 134]
+ 
+ was reversed by the appellate division. The defendant then took the case to the court of appeals, assenting, as required, that, if the order should be affirmed, judgment absolute should be rendered against him. As we have said, the order was reversed. The ground on which a review is asked here is that the court of appeals by its reasoning implies that it finds probable cause in its own opinion that the decree in the former case was wrong, whereas not to assume it to be correct is to fail to give it the faith and credit required by Rev. Stat.  905, U. S. Comp. Stat. 1901, p. 677.
+ It is unnecessary to consider whether a court bound by a previous judgment would not be warranted in saying that if the question had come before it in the first instance it would have decided the case the other way, and therefore that there was probable cause for a nistake of law into which it would have fallen itself. A mistaken view of the law may constitute probable cause in some instances, as is shown by the case cited above. Probable cause does not mean sufficient cause. But this last proposition shows that the former decree could not have decided the question now before the court, and therefore that the case is not properly here. The former decree was conclusive on the merits of the suit in which it was rendered, of course (Lyon v. Perin & G. Mfg. Co. 
+125 U.S. 698
+, 31 L. ed. 839, 8 Sup. Ct. Rep. 1024), but it only decided that that suit was brought without sufficient cause. It decided nothing as to whether the plaintiff had probable cause for expecting to prevail. If the court of appeals had affirmed the judgment of the trial court for the reason that a preliminary injunction fairly obtained from any court conclusively established probable cause, or that there was no evidence of a want of it, there would have been nothing to bring here, whether that reason was right or wrong. The only ground on which our jurisdiction is maintained is that the opinion of the court of appeals shows that it gave a different and inadmissible reason for the result to which it came.
+ No doubt an opinion may be resorted to for the purpose of 
+
+[203 U.S. 129, 135]
+ 
+ showing that a court actually dealt with a question presented by the record, or that a right asserted in general terms was maintained and dealt with on Federal grounds. Missouri, K. & T. R. Co. v. Elliott, 
+184 
+U.S. 530, 534
+, 46 S. L. ed. 673, 22 Sup. Ct. Rep. 446; San Jos e Land & Water Co. v. San Jos e Ranch Co. 
+189 
+U.S. 177, 179
+, 180 S., 47 L. ed. 765, 766, 768, 23 Sup. Ct. Rep. 487; German Sav. & L. Soc. v. Dormitzer, 
+192 U.S. 125
+, 48 L. ed. 373, 24 Sup. Ct. Rep. 221. But it would be going further than we are prepared to go if we took jurisdiction upon the ground stated in this case. Howard v. Fleming, 
+191 
+U.S. 126, 137
+, 48 S. L. ed. 121, 125, 24 Sup. Ct. Rep. 49. The record discloses no question under the Constitution or laws of the United States until we come to the assignment of errors in this court. Then it was too late. Hulbert v. Chicago, 
+202 
+U.S. 275, 280
+, 50 S. L. ed. 1026, 1028, 26 Sup. Ct. Rep. 617. It is true that the complainants allege the decree, but that was merely to show that the litigation complained of was ended, as was required by the law of New York ( Marks v. Townsend, 97 N. Y. 590, 595), not to suggest a Federal question, which at that moment probably was not dreamed of. Even the opinion of the court of appeals, which is not part of the record in New York, does not disclose that there had been presented to it any argument or claim of right based upon the effect due to the previous final decree under the Revised Statutes, or indeed, in a specific way, upon the effect of the decree in any light. Furthermore, notwithstanding a few broad words relied upon by the plaintiffs in error, we doubt if the court of appeals meant to lay down the proposition which we have said that we would not discuss, or to go further than to decide that the whole evidence was not sufficient to entitle the plaintiffs to go to the jury in an action for malicious prosecution, as that action is limited in New York.
+ It is argued that the court of appeals exceeded its functions under the Constitution of the state, and in that way denied the plaintiffs due process of law. We see no reason to think so, but with that question we have nothing to do. French v. Taylor, 
+199 U.S. 274
+, 50 L. ed. 189, 26 Sup. Ct. Rep. 76; Rawlins v. Georgia, 
+201 U.S. 638
+, 50 L. ed. 899, 26 Sup. Ct. Rep. 560.
+ Writ dismissed. 
+
+
+

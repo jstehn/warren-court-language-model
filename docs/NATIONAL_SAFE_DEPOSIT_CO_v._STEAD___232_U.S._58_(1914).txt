@@ -1,0 +1,89 @@
+Description: NATIONAL SAFE DEPOSIT CO v. STEAD , 232 U.S. 58 (1914)
+Date: 1914-01-05 00:00:00
+Docket: 138
+Opinion
+
+
+United States Supreme Court
+NATIONAL SAFE DEPOSIT CO. v. STEAD(1914)
+No. 138
+Argued: December 16, 1913Decided: January 5, 1914
+
+
+
+ By the act of July 1, 1909, the Illinois legislature passed an inheritance tax law like that considered in Magoun v. Illinois Trust & Sav. Bank, 
+170 U.S. 283
+, 42 L. ed. 1037, 18 Sup. Ct. Rep. 594. The 9th section of the statute provides in substance:
+ That no safe deposit company, corporation, or person 
+
+[232 U.S. 58, 59]
+ 
+ having in possession or under control securities or assets belonging to or standing in the name of a decedent, or in the joint name of the decedent and another person, or in the name of a partnership of which he was a member, shall deliver such assets to the legal representative of the deceased or to the survivor of the joint holders, or to the partnership of which he was a member, without ten days' notice to the attorney general and treasurer of the state, who were authorized to examine the securities at the time of the delivery. It was further provided that no delivery should be made unless such holder should retain a sufficient portion of the assets to pay the state tax thereafter assessed, unless such state officers gave consent in writing. Failure to give the notice or to retain such amount rendered the deposit company, corporation, or person liable for the tax and to a penalty of $1,000.
+ On March 15, 1910, the National Safe Deposit Company filed in the circuit court of Cook county, Illinois, a bill against the treasurer and attorney general, alleging that the company was incorporated in 1881 to do a safe deposit business, and that, in pursuance of its charter, it had erected a building with large vaults into which 13,291 safe deposit boxes had been built and 9,702 rented,-317 to partnerships and 4,104 were held jointly by more than one person. That prior to July 1, 1909, it had made yearly contracts for the rental of said boxes, most of which were still of force. The rent contracts recited that in consideration of $_____ paid, the company 'had rented to _____ safe No. ___ in the vaults of this company for the term of one year,' and that its liability was limited to the exercise of ordinary diligence in preventing the opening of the safe by any person other than the renter or his duly authorized representative. 'No one except the renter, or his deputy, to be designated in writing on the books of the company, or, in case of death, his legal representative, to have access to the safe' . . . No renter will be 
+
+[232 U.S. 58, 60]
+ 
+ permitted to enter the vaults except in the presence of the vault keeper. In case of loss of key or combination the lock will be changed at the expense of the renter. . . .
+ The bill alleged that the safes could be opened only by two keys, or two combinations, one of which keys or combinations was held by or known only to the renter, the other being held or known only by the company's agents. So that it required the joint act of the customer and the company to secure access to the contents,-the company having no right or means of access to the box itself, nor did it possess any knowledge or information as to the ownership of the securities deposited therein.
+ The bill further alleged that, notwithstanding these facts, the defendants insisted that the Deposit Company had such possession or control of the contents as to make it incumbent upon it to prevent access thereto by all persons for ten days after the death of the sole or joint renter; that this deprived the Deposit Company of the right to do the business for which it had been chartered, made it break its contract that it would allow no one except the renter or his agent or representative to have access to the boxes; interfered with its business by depriving the representative and survivor of their right to use the box and contents; imposed upon the Deposit Company the risk of determining who was the owner of the contents of the box, and imposed the duty of acting as a tax- collecting agent for the state. The bill also alleged that the company had been threatened with suits by depositors if it yielded to the command of such void act. In order to prevent a multiplicity of suits, and to avoid the heavy statutory penalties, the company prayed that the defendants be enjoined from enforcing the statute against it.
+ The defendants' demurrer was sustained. That ruling was affirmed by the supreme court of Illinois, three judges dissenting (250 Ill. 584, 95 N. E. 973, Ann. Cas. 1912 B, 430). The case was then brought here by writ of error. 
+
+[232 U.S. 58, 61]
+ 
+ Messrs. George Packard, John S. miller, and Merritt Starr for plaintiff in error.
+
+
+
+[232 U.S. 58, 64]
+ 
+ Messrs. Patrick J. Lucey and Lester H. Strawn for defendants in error.
+
+ Statement by Mr. Justice Lamar:
+
+
+[232 U.S. 58, 66]
+ 
+
+ Mr. Justice Lamar, after making the foregoing statement of facts, delivered the opinion of the court:
+ The Illinois inheritance tax law operates to seal safe 
+
+[232 U.S. 58, 67]
+ 
+ deposit boxes for at least ten days after the death of the renter. In view of the uncertainty as to who might own the contents of boxes standing in the joint name of the deceased and others, the statute sealed their boxes also for a like period. The act further provided that in neither case could the securities be removed except after notice to officers designated by the state, and even then the company was required to retain possession of enough of the assets to pay the state's tax. The Deposit Company insists that this statute violated the 14th Amendment, for that, without due process of law, it imposed upon the company a duty as to property over which it had no control; required it to assume the risk of determining who was the true owner, and forced upon it the obligations and liabilities of a tax-collecting agent of the state. In the court below and on the argument here, the validity of the section under review was said to depend upon the relation between the company and the renter,-it being argued for the state that the contract was one of bailment where, on the death of the bailor, the Deposit Company, as bailee, was bound to surrender the securities to the owner or person having a right thereto, one of whom, in each case, was the state to the extent of its tax. On the other hand, the complainant insisted that if there was no possession in fact, there could be no possession in law; and that if no possession existed, it was beyond the power even of the legislature to charge the company with liabilities that could only arise out of a possession actually existing.
+ This is one of that class of cases which illustrate the fact that, both in common speech and in legal terminology, there is no word more ambiguous in its meaning than possession. It is interchangeably used to describe actual possession and constructive possession which often so shade into one another that it is difficult to say where one ends and the other begins. Union Trust Co. v. Wilson, 
+198 U.S. 537
+, 49 L. ed. 1156, 25 Sup. Ct. Rep. 766. Custody may be in the servant and pos- 
+
+[232 U.S. 58, 68]
+ 
+ session in the master; or title and right of control may be in one and the property within the protection of the house of another, as in Bottom v. Clarke, 7 Cush. 489, where such possession of a locked trunk was held not to include possession of the contents. So that, as pointed out by Pollock and Wright in their work on the subject, controversies arising out of mixed possession have inevitably, led to many subtle refinements in order to determine the rights of conflicting claimants, or to lay the proper charge of ownership in prosecutions for larceny of goods belonging to one, in the custody of another, or found by the defendant.
+ In the present case, however, the Federal question presented by the record does not call for a decision as to the exact relation between the parties during the life of the renter,-whether there was a strict bailment; whether the renter was in possession of the box with the Deposit Company as guard over the contents; whether the property was in the custody of the company with the renter having a license to enter the building and remove the securities; or whether, as held in People ex rel. Glynn v. Mercantile Safe Deposit Co. (159 App. Div. 98, 143 N. Y. Supp. 849), construing a similar statute of New York, the relation was that which exists between tenants and landlord of an office building who keeps under his control the general means of access to the building and offices therein, but as to which offices and their contents, the rights of the tenants are exclusive. The Illinois supreme court held that the relation created by the Deposit Company's contract was that of bailor and bailee. That construction by the state court is controlling, unless, as claimed by the complainant, it makes the statute violate the 14th Amendment, as being an arbitrary attempt to create liabilities arising out of possession, where there was no possession in fact.
+ Certainly the person who rented the box was not in actual possession of its contents. For the valuables were 
+
+[232 U.S. 58, 69]
+ 
+ in a safe built into the company's vault, and therefore in a sense 'under the protection of the house.' The owner could not obtain access to the box without being admitted to the vault, nor could he open the box without the use of the company's master key. Both in law, and by the express provisions of the contract, the company stood in such relation to the property as to make it liable if, during the lifetime of the owner, it negligently permitted unauthorized persons to remove the contents, even though it might be under color of legal process. Roberts v. Stuyvesant Safe Deposit Co. 123 N. Y. 57, 9 L.R.A. 438, 20 Am. St. Rep. 718, 25 N. E. 294, 1 Am. Neg. Cas. 535; Mayer v. Brensinger, 180 Ill. 110, 72 Am. St. Rep. 196, 54 N. E. 159. After his death, it would be likewise liable if it permitted unauthorized persons, be they heirs, legal representatives, or joint renters, to take the property of the decedent. In the exercise of its power to provide for the distribution of his property, the state could make it unlawful, except on conditions named, for his personal representative to receive or the holder to deliver, effects belonging, or apparently belonging, in whole or in part, to the deceased. As the state could provide for the appointment of administrators, for the distribution to heirs or legatees of all the property of the deceased, and for the payment of a tax on the transfer, it could, of course, legislative as to the incidents attending the collection of the tax and the time when the administrator or executor could take possession. If, before representatives were appointed, anyone, having the goods in possession or control, delivered them to an unauthorized person, he would be held liable as an executor de son tort. The fixing by this statute of the time and condition on which delivery might be made by a deposit company was also, in effect, a limitation on the right of the heir or representatives to take possession. If they had no right to receive except on compliance with the statutory conditions, neither could the Safe Deposit Company, as bailee or custodian, surrender the contents except upon like compliance with statutory conditions. 
+
+[232 U.S. 58, 70]
+ 
+ The contention that the company could not be arbitrarily charged with the duty of supervising the delivery and determining to whom the securities belonged is answered by the fact that in law and by contract it had such control as to make it liable for allowing unauthorized persons to take possession. Both by the nature of its business and the terms of its contract it had assumed the obligation cast upon those having possession of property claimed by different persons. If the parties could not agree as to who owned the securities, the company had the same remedy by bill of interpleader that was afforded all others confronted with similar conditions. There was certainly nothing arbitary or unreasonable in compelling one who had received such control of property from another, to surrender it after his death only to those having the right thereto. Nor was there any deprivation of property, nor any arbitrary imposition of a liability, in requiring the company to retain assets sufficient to pay the tax that might be due to the state. There are many instances in which, by statute, the amount of the tax due by one is to be reported and paid by another,-as in the case of banks required to pay the tax on the shares of a stockholder. First Nat. Bank v. Kentucky, 9 Wall. 363, 19 L. ed. 704. These conclusions answer the other constitutional objections and make it unnecessary to deal with each of them separately at length.
+ It is contended that the statute impaired the complainant's charter power to do a safe deposit business. But it no more interferes with the right of the company to do that business than it does with the right of a private person to contract to take possession or control of securities belonging to another. But, having regard to the radical change wrought by the death of the owner, and the subsequent duty to make delivery to one authorized by law to receive possession, the statute points out when and on what conditions such delivery may be made to the per- 
+
+[232 U.S. 58, 71]
+ 
+ sonal representative, surviving partners, or persons jointly interested.
+ The objection that the act, in directing the state officers to inspect the contents of the box, operates as an unreasonable search and seizure, raises no Federal question, since the prohibition on that subject in the 4th Amendment does not apply to the states. Ohio ex rel. Lloyd v. Dollison, 
+194 U.S. 447
+, 48 L. ed. 1065, 24 Sup. Ct. Rep. 703.
+ The claim that the statute compels the company to break its contract with joint renters and deprives the latter, for ten days, of access to the box and the right to use it or remove the contents, is without merit. The company, joint renters, or firms, each made the contract in the light of the state's power to legislate for the protection of the estate of any one of the joint renters or partners that might die during the term. As it now appears that all of the rentals were from year to year, and that all had expired before final hearing, and were renewed after the passage of the law, it can also be said that all such contracts of joint rental are made in the light of the provisions of this particular statute. The boxes were leased with the knowledge that the state had so legislated as not only to protect the interests of one dying after the rental, but also to secure the payment of the state tax out of whatever might be found in the box belonging to the deceased. The inconvenience was one of the not unreasonable incidents of the joint relationship.
+ Judgment affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Laws 1909, p. 316,  9. 
+
+
+
+

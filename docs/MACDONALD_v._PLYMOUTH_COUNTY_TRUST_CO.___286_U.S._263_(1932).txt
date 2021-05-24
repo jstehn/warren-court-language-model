@@ -1,0 +1,90 @@
+Description: MACDONALD v. PLYMOUTH COUNTY TRUST CO. , 286 U.S. 263 (1932)
+Date: 1932-05-16 00:00:00
+Docket: 714
+Opinion
+
+
+United States Supreme Court
+MACDONALD v. PLYMOUTH COUNTY TRUST CO.(1932)
+No. 714
+Argued: April 26, 1932Decided: May 16, 1932
+
+
+
+
+[286 U.S. 263, 264]
+ 
+ Mr. Robert A. B. Cook, of Boston, Mass., for petitioner.
+ Mr. Joseph B. Jacobs, of Boston, Mass., for respondent.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ In a bankruptcy proceeding pending in the District Court for Massachusetts, the trustee in bankruptcy, the petitioner here, filed a petition with the referee to set aside certain alleged transfers of property by the bankrupt to the respondent as voidable preferences within the 
+
+[286 U.S. 263, 265]
+ 
+ provisions of section 60b of the Bankruptcy Act, 11 USCA  96(b). The respondent appeared in the proceeding, denied the material allegations of the petition, but consented in open court that the trial of the issues proceed before the referee. The referee made an order, based on findings, granting in part the relief prayed. The District Court, on cross-petitions to review the determination of the referee, modified his order in respects not now material. In re Craig, Reed & Emerson, 46 F.(2d) 811. On appeal, the Court of Appeals for the First Circuit reversed the order of the District Court, holding that as the issues before the referee were determinable only in a plenary suit, the referee, notwithstanding the consent of the parties, was without jurisdiction to decide them. 53 F.(2d) 827. This court granted certiorari, 
+285 
+U.S. 533
+, 52 S. Ct. 407, 76 L. Ed . -, to resolve a conflict of the decision below with that in In re Hopkins (C. C. A. 2d) 229 F. 378.
+ See, also, Page v. Arkansas Natural Gas Corp. (C. C. A.) 53 F.(2d) 27; American Finance Co. v. Coppard (C. C. A. 5th) 45 F.(2d) 154; Board of Education v. Leary (C. C. A. 8th) 236 F. 521; Gamble v. Daniel (C. C. A. 8th) 39 F.(2d) 447, appeal dismissed, 
+281 
+U.S. 705
+, 50 S. Ct. 464
+
+
+ The only question, presented by the petition, which need be considered here, is whether, the issues raised being such as were triable in a plenary suit, the referee, the parties consenting, had jurisdiction to determine them. Under the applicable provisions of the Bankruptcy Act, the District Court below had jurisdiction to hear and determine the present suit. Section 60b of the Bankruptcy Act, 11 USCA  96(b) confers on trustees in bankruptcy authority to maintain plenary suits to set aside voidable preferences as defined in that section. Section 23b, 11 USCA  46( b) as originally enacted, provided: 'Suits by the trustee shall only be brought or prosecuted in the courts where the bankrupt, whose estate is being administered by such trustee, might have brought or prosecuted them if proceedings in bankruptcy had not been instituted, unless by consent of the 
+
+[286 U.S. 263, 266]
+ 
+ proposed defendant.' An amendment of this section in 1903 removed its restrictions on suits brought under section 60b by adding the words 'except suits for the recovery of property under section 60, subdivision b . ...' At the same time section 60b was amended (11 USCA  96(b) note) so as to confer jurisdiction over suits by the trustee to set aside voidable preferences in 'any court of bankruptcy.' By section 1(8), 11 USCA  1(8), 'courts of bankruptcy' includes District Courts.
+ Jurisdiction over the present suit being thus vested in the District Court as a court of bankruptcy, the question with which we are immediately concerned is whether the referee appointed by the District Court, where the bankrupt's estate is being administered, is a court within the meaning of section 23b, and is included in the phrase 'any court of bankruptcy' in section 60b, and hence is vested with such jurisdiction that, the defendant consenting, he may try and determine the issues in the suit.
+ That he may not try such issues without the consent of the defendant has been often and uniformly held. Louisville Trust Co. v. Comingor, 
+184 
+U.S. 18, 26
+, 22 S. Ct. 293; Babbitt v. Dutcher, 
+216 
+U.S. 102, 113
+, 30 S. Ct. 372, 17 Ann. Cas. 969; Weidhorn v. Levy, 
+253 
+U.S. 268, 273
+, 40 S. Ct. 534; Harrison v. Chamberlin, 
+271 
+U.S. 191, 193
+, 46 S. Ct. 467; see, also, Daniel v. Guaranty Trust Co., 
+285 
+U.S. 154
+, 52 S. Ct. 326, 76 L. Ed. -, decided March 14, 1932. In cases where the defendant made timely objection to a determination by the referee, it has been said that the referee is without power to hear the issues involved in a plenary suit, and that such a suit, if brought before him, must be dismissed for want of jurisdiction. See Weidhorn v. Levy, supra.
+ But a distinction is to be noted between the power of the referee to decide the issues in such a suit brought before him without objection, and his power to compel the litigation of them before him, over the objection of the proposed defendant. Where a suit by the trustee is plenary in character, as are those authorized by section 60b, both parties to it are entitled to claim the benefits of the 
+
+[286 U.S. 263, 267]
+ 
+ procedure in a penary suit, not available in the summary method of procedure which, under the provisions of the Bankruptcy Act, is employed by the referee. A denial of those benefits would be in effect a denial of the right to a plenary suit, to which both parties are entitled under section 60b. But it does not follow that this privilege, extended for the benefit of a suitor, may not, like the right to trial by jury, be waived ( see Harrison v. Chamberlin, supra; cf. Patton v. United States, 
+281 
+U.S. 276
+, 50 S. Ct. 253, 70 A. L. R. 263), and, being waived, that the referee is without the power given to courts of bankruptcy to decide the issues.
+ This court has intimated, although it has never decided, that the referee may, if the parties consent, try the issues which must otherwise be tried in a plenary suit brought by the trustee. See Taubel-Scott- Kitzmiller Co. v. Fox, 
+264 
+U.S. 426, 431
+, 433 S., 434, 44 S. Ct. 396; Harrison v. Chamberlin, supra. See, also, Foster v. Manufacturers' Finance Co. (C. C. A.) 22 F.(2d) 609. And we can perceive no reason why the privilege of claiming the benefits of the procedure in a plenary suit, secured to suitors under section 60b and section 23b, may not be waived by consent, as any other procedural privilege of the suitor may be waived, and a more summary procedure substituted. Cf. Chicago, B. & Q. R. Co. v. Willard, 
+220 U.S. 413
+, 419-421, 31 S. Ct. 460.
+ But the question remains, whether, the privilege of trial by plenary suit being waived, the referee possesses the power which courts of bankruptcy possess to hear and determine the issues presented. Section 23b, before its amendment, contemplated that the restrictions upon the choice of a court for the maintenance of suits by the trustee should be removed by consent of the proposed defendant. That is still its effect with respect to suits not enumerated in the amendment. Section 1(7), 11 USCA  1(7) provides that "court' shall mean the court of bankruptcy in which the proceedings are pending, and may include the referee.' By the two sections read together, the District 
+
+[286 U.S. 263, 268]
+ 
+ Court in which the proceeding is pending is designated as a court where the trustee may bring the suit if consented to, and that court 'may include the referee,' to whom it has referred the proceeding.
+ Whether 'courts' in section 23b, should be taken to include the referee, as section 1(7) permits, is to be determined in view of the fact that under section 23b, as originally enacted, and in many instances since its amendment, the jurisdiction, either of court or referee, may be invoked only on consent, and that in any case plenary suits may not be summarily tried by the referee without consent. Section 38a(4), 11 USCA s 66(4) contemplates that referees within their districts may be invested with the powers of courts of bankruptcy except as to questions relating to the discharge of the bankrupt, and General Order XII (11 USCA  53) directs that after the appointment of the referee all proceedings shall be had before him, except such as are specifically required to be had before the judge. These provisions, read in the light of the object sought to be attained by the Bankruptcy Act, and more particularly by section 23b and section 60b as amended, lead to the conclusion that the word 'courts' as used in section 23b and the words 'any court of bankruptcy' in section 60b must be taken to include the referee, and vest in him the power possessed by courts of bankruptcy under sections 23b and 60b, to decide the issues in a suit brought under section 60b, where the parties join in presenting them to him for determination. While under the provisions of the Bankruptcy Act the exercise of his jurisdiction by the referee is ordinarily restricted to those matters which may be dealt with summarily by the method of procedure available to referees in bankruptcy, the restriction may be removed, as it was here, by the consent of the parties to a summary trial of the issue presented. The referee therefore had power to decide the issues, and the Court of Appeals below should have considered the appeal on its merits. 
+
+[286 U.S. 263, 269]
+ 
+ The decree is reversed, and the cause remanded to the Circuit Court of Appeals for further proceedings in conformity with this opinion. 
+
+Footnotes
+
+[
+Footnote *
+] For conforming opinion in Circuit Court of Appeals, see 60 F.(2d) 94. 
+
+
+
+

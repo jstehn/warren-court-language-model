@@ -1,0 +1,43 @@
+Description: RAYMOND v. CHICAGO, M. & ST. P.R. CO. , 243 U.S. 43 (1917)
+Date: 1917-03-06 00:00:00
+Docket: 636
+Opinion
+
+
+United States Supreme Court
+RAYMOND v. CHICAGO, M. & ST. P.R. CO.(1917)
+No. 636
+Argued: Decided: March 6, 1917
+
+
+
+ Messrs. John T. Casey and Thomas J. Walsh for plaintiff in error. 
+
+[243 U.S. 43, 44]
+ 
+ Messrs. Heman H. Field and George W. Korte for defendant in error.
+
+ Mr. Chief Justice White delivered the opinion of the court:
+ Raymond, the plaintiff in error, sued the railway company, a foreign corporation doing business in Washington, to recover damages resulting from injuries sustained by him while in its employ. The petition alleged that the defendant operated an interstate commerce railroad between Chicago and Seattle, and that, for the purpose of shortening its main line and making more efficient and expeditious its freight and passenger service, was engaged in cutting a tunnel through the mountain between Horrick's Spur and Rockdale, in Washington. It was averred that plaintiff was employed by the defendant in the tunnel as a laborer, and that, while he was at work, his pick struck a charge of dynamite which, through the defendant's negligence, had not been removed, and that from the explosion which followed he had sustained serious injuries.
+ The defendant's answer contained a general denial and alleged that at the time and place of the accident the railroad and Raymond were not engaged in interstate commerce, since the tunnel was only partially bored, and hence not in use as an instrumentality of interstate commerce. It was further alleged that the court was without jurisdiction to hear the cause because of the provisions of the Washington Workmen's Compensation Act ( Laws 1911, chap. 74), with whose requirements the defendant had fully complied. The reply of the plaintiff admitted the facts alleged in the answer, but denied that they constituted defenses to the action.
+ The trial court entered a judgment for the defendant on the pleadings, and this writ of error is prosecuted to a 
+
+[243 U.S. 43, 45]
+ 
+ judgment of the court below, affirming such action. 147 C. C. A. 245, 233 Fed. 239.
+ Considering the suit as based upon the Federal Employers' Liability Act, it is certain, under recent decisions of this court, whatever doubt may have existed in the minds of some at the time the judgment below was rendered, that, under the facts as alleged, Raymond and the railway company were not engaged in interstate commerce at the time the injuries were suffered, and consequently no cause of action was alleged under the act. Delaware, L. & W. R. Co. v. Yurkonis, 
+238 U.S. 439
+, 59 L. ed. 1397, 35 Sup. Ct. Rep. 902; Chicago, B. & Q. R. Co. v. Harrington, 
+241 U.S. 177
+, 60 L. ed. 941, 36 Sup. Ct. Rep. 517, 11 N. C. C. A. 992; Minneapolis & St. L. R. Co. v. Nash, 
+242 U.S. 619
+, 61 L. ed. --, 37 Sup. Ct. Rep. 239.
+ It is also certain that if the petition be treated as alleging a cause of action under the common law, the court below was without authority to afford relief, as that result could only be attained under the local law, in accordance with the provisions of the Washington Workmen's Compensation Act, which has this day been decided to be not repugnant to the Constitution of the United States (Mountain Timber Co. v. Washington, 
+243 U.S. 219
+, 61 L. ed. 685, 37 Sup. Ct. Rep. 260). And this result is controlling even although it be conceded that the railroad company was, in a general sense, engaged in interstate commerce, since it has been also this day decided that that fact does not prevent the operation of a state Workmen's Compensation Act (New York C. R. Co. v. White, 
+243 U.S. 188
+, 61 L. ed. 667, 37 Sup. Ct. Rep. 247).
+ Affirmed 
+
+
+

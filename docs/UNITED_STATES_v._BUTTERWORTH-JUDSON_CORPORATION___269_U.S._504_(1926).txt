@@ -1,0 +1,62 @@
+Description: UNITED STATES v. BUTTERWORTH-JUDSON CORPORATION , 269 U.S. 504 (1926)
+Date: 1926-01-11 00:00:00
+Docket: 503
+Opinion
+
+
+United States Supreme Court
+UNITED STATES v. BUTTERWORTH-JUDSON CORPORATION(1926)
+No. 503
+Argued: November 23, 1925Decided: January 11, 1926
+
+
+
+ Mr. Wm. Marshall Bullitt, of Louisville, Ky., for the United states.
+
+
+[269 U.S. 504, 509]
+ 
+ Messrs. H. G. Pickering, Eldon Bisbee, and Bertram F. Shipman, all of New York City, for respondent.
+
+
+[269 U.S. 504, 511]
+ 
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ April 22, 1922, respondent, a New York corporation, was insolvent within the meaning of R. S.  3466 (Comp St.  6372), and as defined by the Bankruptcy Act (Comp. St.  9585-9656). Its debts amounted to approximately $3,000,000, and included $1,154,450 due to the United States. The value of its assets was not in excess of $1,500,000. On that day, the Hay Foundry & Iron Works, a simple contract creditor, on behalf of itself and other creditors, brought suit against the respondent in the District Court for the Southern District of New York. Among the facts alleged are these: Respondent 
+
+[269 U.S. 504, 512]
+ 
+ owed plaintiff $7,988.43 for labor and materials furnished, and was without money to pay its debts then due. The value of its property, if properly and prudently realized on, would be more than enough to pay its obligations. Some of its creditors were threatening to bring suits on their claims, and resulting forced sales of the property would cause great loss to the creditors. Plaintiff believed that the property could be preserved for equitable distribution among those entitled thereto only upon the granting of equitable relief including the appointment of receivers, and that, unless the court would deal with the property as a trust fund for the payment of creditors, it would be sacrificed to the great loss of creditors. More would be realized from a sale if the business was being carried on. The prayer was for the appointment of receivers, and that when found to be just and proper the properties be sold and the proceeds distributed among those entitled thereto. By its answer filed on the same day, respondent admitted all the allegations of the complaint, and, with its consent, the court thereupon made an order appointing receivers. The order recited that it was necessary for the protection of the respective rights and equities of creditors that the property and business be administered through receives, and gave to them the exclusive possession, custody and control; they were authorized to continue the business until the further order of the court, to make disbursements necessary to preserve the property, and to pay debts entitled to priority.
+ September 1, 1922, the United States filed proof of the debt due from respondent and claimed priority under section 3466, and later filed its intervening petition, setting forth the facts above stated, and prayed to be adjudged entitled to priority. Respondent moved to dismiss. The District Court granted the motion. Its decree was affirmed by the Circuit Court of Appeals. 9 F.(2d) 1018. The case is here on certiorari under section 240. Judicial Code (Comp. St.  1217).
+
+
+[269 U.S. 504, 513]
+ 
+ The question is whether section 3466 applies. That section and section 3467 (Comp. St.  6373), in pari materia, are quoted in Bramwell v. United States Fidelity & Guaranty Co., 
+269 
+U.S. 483
+, 46 S. Ct. 176, decided this day. The intervening petition shows that respondent was insolvent when the creditor's suit was begun, and the question of priority is to be determined on that basis, notwithstanding the complaint alleged and the answer admitted that respondent was solvent. Respondent's answer admitting the allegations of the complaint and its consent to the court's order constituted a necessary step in the proceedings for the appointment of receivers. Re Metropolitan Railway Receivership, 
+208 
+U.S. 90, 109
+, 110 S., 28 S. Ct. 219; Pusey & Jones Co. v. Hanssen, 
+261 
+U.S. 491, 500
+, 43 S. Ct. 454. So, with the consent and co-operation of the insolvent debtor, the possession and control of all its property were handed over to be administered by the court, through the receivers, for the benefit of those whom the court found entitled to it. Porter v. Sabin, 
+149 
+U.S. 473, 479
+, 13 S. Ct. 1008. To induce the action taken by the court, the complaint represented that, if respondent's property was not dealt with as a trust fund for the payment of creditors, they would suffer great loss. It is established that, when a court of equity takes into its possession the assets of an insolvent corporation, it will administer them on the theory that in equity they belong to the creditors and shareholders rather than to the corporation itself. See Hollins v. Brierfield Coal & Iron Co., 
+150 
+U.S. 371, 383
+, 14 S. Ct. 127; Graham v. Railroad Co., 
+102 U.S. 148
+, 161. Here, the fund being less than the debts, the creditors are entitled to have all of it distributed among them according to their rights and priorities.
+ Taken in connection with its insolvency, now conceded, respondent's answer admitting the allegations of the complaint and its consent to the decree appointing receivers amounted to the handing over of all its property and busi- 
+
+[269 U.S. 504, 514]
+ 
+ ness to the receivers to be administered, under the direction of the court, as a trust fund to pay respondent's debts. In substance, the things done by respondent amounted to a voluntary assignment of all its property within the meaning of section 3466. The United States is entitled to priority. Bramwell v. United States Fidelity & Guaranty Co., supra, affirming (C. C. A.) 299 F. 705; Davis v. Pullen (C. C. A.) 277 F. 650; Davis v. Miller-Link Lumber Co. (C. C. A.) 296 F. 649. Cf. Equitable Trust Co. v. Connecticut Brass & Mfg. Corp. (C. C. A.) 290 F. 712; Davis v. Michigan Trust Co. (C. C. A.) 2 F. (2d) 194.
+ Decree reversed. 
+
+
+

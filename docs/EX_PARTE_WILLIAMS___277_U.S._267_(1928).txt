@@ -1,0 +1,153 @@
+Description: EX PARTE WILLIAMS , 277 U.S. 267 (1928)
+Date: 1928-05-21 00:00:00
+Docket: 16
+Opinion
+
+
+United States Supreme Court
+EX PARTE WILLIAMS(1928)
+No. 16
+Argued: Decided: May 21, 1928
+
+
+
+
+[277 U.S. 267, 268]
+ 
+ Messrs. O. S. Spillman, of Pierce, Neb., and Hugh La Master, of Tecumseh, Neb., for petitioners.
+ Mr. Joseph W. Woodrough, of Omaha, Neb., pro se.
+
+ Jr. Justice BRANDEIS delivered the opinion of the Court.
+ This is a petition by Williams, the tax commissioner of Nebraska, and 71 county treasurers asking for a writ of mandamus to be directed to District Judge Woodrough, of the federal court for that state. A rule to show cause issued (
+276 
+U.S. 597
+, 48 S. Ct. 319, 72 L. Ed. -), and the return has been made. The petitioners are the defendants in a suit in equity commenced in that court by the Chicago, Burlington & Quincy Railroad Company. When the cause was ripe for final hearing, they moved the District Judge to call to his assistance two other federal judges as provided in section 266 of 
+
+[277 U.S. 267, 269]
+ 
+ the Judicial Code as amended by the Act of March 4, 1913, c. 160, 37 Stat. 1013, and the Act of February 13, 1925, c. 229, 43 Stat. 936, 938 (28 USCA  380). Judge Woodrough denied the motion and set the case for final hearing, stating that 'the object and purpose of this action is to enjoin the collection of taxes against plaintiff's property by defendants county treasurers ... and there is no injunction issued, allowed or prayed for to restrain the action of any officer of the state of Nebraska and that the defendants county treasurers are not officers of the state of Nebraska,' within the meaning of section 266 as amended. The petitioners contend that they are entitled as of right to have the case heard before three judges. Mandamus is the appropriate remedy. Exparte Metropolitan Water Co., 
+220 
+U.S. 539, 546
+, 31 S. Ct. 600.
+ Nebraska has provided for the assessment of railroad property by a state board of equalization. Compiled Statutes 1922,  5839, 5840. After the board completes its valuation, it is required to return to the county clerk of every county in which the railroad has property, a statement showing the proportion of the railroad that lies within the county, its average valuation per mile, and the valuations that shall be placed to the credit of each of the governmental subdivisions of the county. The board is authorized to fix the rate of taxation for state purposes, and it transmits to the county clerk a statement of the rate so established. The county treasurers are ex officio collectors of all taxes levied within their respective counties, whether for state or for local purposes. Sections 5847-5850, 5904, 5905, 5996
+
+
+ The railroad seeks in its suit to enjoin the collection of the taxes for 1923 on the ground that the equality clause of the Fourteenth Amendment was violated in making the assessment. It alleged that its property was assessed by the state board at 122 per cent. of its actual value, while the property of other taxpayers was assessed locally at not 
+
+[277 U.S. 267, 270]
+ 
+ more than 60 per cent. of its value; that this discrimination was systematic and intentional; that the valuation of its property, fixed by the state board, had been certified to the clerks of the various counties and entered on the tax lists; that the taxes were about to become delinquent; and that the company was without adequate remedy at law. It prayed that the court fix the percentage of the tax levied which it should pay to the county treasurers in tentative settlement, for a temporary restraining order, and for interlocutory and final injunctions. Pursuant to an order of the District Judge, the motion for an interlocutory injunction came on for hearing, in November, 1923, before a court of three judges constituted as provided in section 266 of the Judicial Code. Because certain of the legal questions presented were deemed similar to those involved in Chicago, Burlington & Quincy R. Co. v. Osborne, 
+265 
+U.S. 14
+, 44 S. Ct. 431, then pending in this court, the interlocutory injunction was granted.
+ The Osborne Case was decided on April 28, 1924. On June 23, 1925, the District Court, again composed of three judges, appointed, on motion of the railroad, a special master to take evidence. His report was filed on January 31, 1928. Soon thereafter the defendants made the motion that the District Judge call two additional judges to his assistance on final hearing. He was not required to do this, unless the suit was one in which, as provided in section 266, it is sought to restrain 'the enforcement, operation, or execution of any statute of a state by restraining the action of any officers of such state in the enforcement or execution of such statute, or in the enforcement or execution of an order made by an administrative board or commission acting under and pursuant to the statutes of such state ... upon the ground of the unconstitutionality of such statute.' We are of opinion that Judge Woodrough properly denied the motion. 
+
+[277 U.S. 267, 271]
+ 
+ A case does not fall within section 266, unless a statute or an order of an administrative board or commission is challenged as contrary to the Federal Constitution. Oklahoma Gas Co. v. Russell, 
+261 
+U.S. 290
+, 43 S. Ct. 353; Ex parte Buder, 
+271 
+U.S. 461, 465
+, 46 S. Ct. 557. Here, there was no question as to the validity of the taxing statute. It was the assessment which the railroad challenged. And an assessment is not an order made by an administrative board or commission, within the meaning of that section. The function of an assessing board is not that of issuing orders. Its function is informational. Its duty is to make findings of fact, and thereby furnish the basis on which other officials are to act in individual instances in levying and collecting the taxes. An assessment does not command the taxpayer to do, or to refrain from doing anything; does not grant or withhold any privilege, authority, or license; does not extend or abridge any power or facility; does not determine any right or obligation. Compare Standard Scale Co. v. Farrell, 
+249 
+U.S. 571, 577
+, 39 S. Ct. 380; Pennsylvania R. Co. v. United States Railroad Labor Board, 
+261 
+U.S. 72
+, 43 S. Ct. 278; United States v. Los Angeles & Salt Lake R. R. Co., 
+273 
+U.S. 299, 310
+, 47 S. Ct. 413; Southern Bell Telephone & Telegraph Co. v. Railorad Commission (D. C.) 280 F. 901. An assessment is directed by one officer of the state to another. Compare Great Northern Ry. Co. v. United States, 
+277 
+U.S. 172
+, 48 S. Ct. 466, decided May 14, 1928. Though in Nebraska the railroad property is, in the main, assessed by a state board and the value of the part within each county is then determined on a pro rata basis, the function of assessing property within a county remains the same as it would be if the valuation of all the property were made by a county board. Whatever the scope of the jurisdiction of the assessing body and whatever the method of valuation pursued, the function to be performed remains simply that of fact finding.
+ For the purpose of jurisdiction in federal courts, the difference between the function of regulating, expressed 
+
+[277 U.S. 267, 272]
+ 
+ in orders of a railroad or like commission, and the function of fact finding is vital. Determinations of an administrative board which are merely findings of fact are not reviewable. Keller v. Potomac Electric Co., 
+261 
+U.S. 428
+, 43 S. Ct. 445. Assessments become reviewable judicially only when they are translated into action, as by levy of the tax based on the assessment. From this difference between regulatory orders of administrative boards or commissions, which constitute action, compare Prentis v. Atlantic Coast Line Co., 
+211 
+U.S. 210, 226
+, 29 S. Ct. 67, and assessments by tax commissions or local assessors, which form merely a basis for action, flows the differenece in the method of review in cases brought here under section 237 of the Judicial Code (28 USCA  344). A judgment of a state court sustaining the validity of a regulatory order of a public utilties board is reviewable by writ of error, like a judgment sustaining the validity of a statute. Bluefield Waterworks & Improvement Co. v. Public Service Commission, 
+262 
+U.S. 679, 683
+, 43 S. Ct. 675; Northern Pacific R. Co. v. Department of Public Works, 
+268 
+U.S. 39, 42
+, 45 S. Ct. 412; Live Oak Water Users' Association v. Railroad Commission, 
+269 
+U.S. 354, 356
+, 46 S. Ct. 149; Sultan Ry. & Timber Co. v. Department of Labor & Industries, No. 274, 
+277 U.S. 135
+, S. Ct. 505, decided May 14, 1928. But a judgment of a state court sustaining a tax alleged to be illegal because there has been discrimination in assessing property, can be reviewed only on certiorari. Jett Bros. Distilling Co. v. City of Carrollton, 
+252 
+U.S. 1, 5
+, 40 S. Ct. 255. This is true whether it was the determination of a state or local assessing body, or, as in the case at bar, of both combined, which is alleged to have produced the discrimination. Baker v. Druesedow, 
+263 
+U.S. 137
+, 44 S. Ct. 40.
+ Obviously an assessment which is not 'a statute of or an authority exercised under any state,' within the meaning of section 237, before amended by the act of 1925, cannot be a statute or an order of an administrative board or commission under section 266. The orders contemplated by section 266 are directed to railroads or others, of whom action, or nonaction, is commanded, as it is by a statute. 
+
+[277 U.S. 267, 273]
+ 
+ Compare Sultan Ry. & Timber Co. v. Department of Labor and Industries, No. 274, 
+277 
+U.S. 135
+, 48 S. Ct. 505, decided May 14, 1928. Since an assessment by a state board of equalization has none of the qualities that would be associated with 'orders,' it cannot have been the sort of state administrative function which Congress had in mind when by the amendment of 1913, it declared the scope of section 266, so as to include suits in which the injunction was sought on the ground of the unconstitutionality of an administrative order. 
+1
+ 
+
+ Under the Act of February 13, 1925, the final hearing is not required to be before three judges unless the application for an interlocutory injunction was required to be. In a large majority of the cases of this character in which applications for an interlocutory injunction have been made, they have been heard before a single judge; and the propriety of the practice has not been questioned by this court. 
+2
+ As we hold that the action of the state and 
+
+[277 U.S. 267, 274]
+ 
+ county boards which is alleged to be discriminatory, is not an order within the meaning of section 266, we have no occasion to consider whether the lower court was right in holding that the 'county treasurers are not officers of the state of Nebraska,' or whether there are other reasons why the suit is not within the scope of that section.
+ Rule discharged.
+___ The application for a temporary injunction was entertained by a single judge in Johnson v. Wells Fargo & Co. (D. C.) 205 F. 60, 
+239 
+U.S. 234
+, 36 S. Ct. 62 (prior to the act of 1913); Louisville & Nashville R. R. Co. v. Greene, 
+244 
+U.S. 522
+, 37 S. Ct. 683, Ann. Cas. 1917E, 97 (see original papers); Illinois Central R. Co. v. Greene, 
+244 
+U.S. 555
+, 37 S. Ct. 697 (see original papers); Louisville & Nashville R. Co. v. Bosworth (D. C.) 209 F. 380; Standard Oil Co. v. Howe (C. C. A.) 257 F. 481; United Verde Extension Mining Co. v. Howe (C. C. A.) 8 F.(2d) 209. In Chicago, Milwaukee & St. Paul R. Co. v. Kendall (D. C.) 278 F. 298; Chicago, R. I. & P. R. Co. v. Kendall, 
+266 
+U.S. 94
+, 45 S. Ct. 55, the hearing was before three judges. See, also, Illinois Central R. Co. v. Mississippi Railroad Commission (D. C.) 229 F. 248; Chicago, Indianapolis & Louisville Ry. Co. v. Lewis (D. C.) 12 F.(2d) 802; Cumberland Pipe Line Co. v. Lewis (D. C.) 17 F.(2d) 167; Western Union Telegraph Co. v. Tax Commission of Ohio (D. C.) 21 F.(2d) 355. 
+
+Footnotes
+
+[
+Footnote 1
+] The purpose of the amendment, as stated by Mr. Clayton, who had charge of the bill in the House, was 'to put the order of a state railroad commission upon an equality with a statute of a state; in other words, to give the same force and effect to the order of a state railroad commission as is accorded under existing law to a state statute.' 49 Cong. Rec. 4773. 
+[
+Footnote 2
+] This appears to have been the uniform practice where the assessment was made by local officials. Union Pacific R. Co. v. Board of Commissioners of Weld County (C. C. A.) 217 F. 540; Id., 
+247 
+U.S. 282
+, 38 S. Ct. 510; Keokuk Bridge Co. v. Salm, 
+258 
+U.S. 122
+, 42 S. Ct. 207 (see original papers); Wilson v. Illinois Southern Ry. Co., 
+263 
+U.S. 574
+, 44 S. Ct. 203 (see original papers); Callaway v. Bohler (D. C.) 291 F. 243, 248; see 
+267 
+U.S. 479, 483
+, 45 S. Ct. 431; Atchison, Topeka & Santa Fe Ry. Co. v. Board of Commissioners of Douglas County (C. C. A.) 225 F. 978; Gammill Lumber Co. v. Board of Supervisors of Rankin County (D. C.) 274 F. 630. It has also been the practice in the great majority of cases where the object of the suit was to enjoin local officials from levying a tax based on an assessment made by a state board and claimed to be discriminatory. Mudge v. McDougal (D. C.) 222 F. 562; Nevada-California Power Co. v. Hamilton (D. C .) 235 F. 317; City Ry. Co. v. Beard (D. C.) 283 F. 313; Chicago & Northwestern R. Co. v. Eveland (D. C.) 285 F. 425, 437 (in this case the tax commission was joined as defendant, but no relief appears to have been sought against it); Ohio Fuel Supply Co. v. Paxton (D. C.) 1 F.(2d) 662, 663; Fordson Coal Co. v. Maggard (C. C. A.) 2 F.(2d) 708; Connecting Gas Co. v. Imes (D. C.) 11 F.(2d) 191, 195. On the other hand, in Chicago, Burlington & Quincy R. Co. v. Osborne, 
+265 
+U.S. 14
+, 44 S. Ct. 431, the hearing below was before three judges. In that case, as in this, the tax commissioner was joined as a defendant, but apparently no relief could have been given against him. Where relief by injunction has been sought against state tax commissions, boards of equalization, and their members, the practice has been less uniform. 
+
+
+
+

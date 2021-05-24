@@ -1,0 +1,36 @@
+Description: US v. GOLDENBERG , 168 U.S. 95 (1897)
+Date: 1897-10-25 00:00:00
+Docket: 35
+Opinion
+
+
+United States Supreme Court
+U S v. GOLDENBERG(1897)
+No. 35
+Argued: Decided: October 25, 1897
+
+
+ Upon this section, after stating the facts of this case showing its pertinency, the circuit court of appeals of the Second circuit has certified to us the following question:
+'Was the payment of the full amount of the duties ascertained to be due upon the liquidation of the entry of the merchandise required to be made by the importers, as well as the giving notice of dissatisfaction or protest, within ten days after the liquidation of such duties, where the goods, as in the present case, were entered for consumption, in order to enable the protesting importers to have the exaction and classification reviewed by the board of general appraisers and by the courts?'
+
+ The Attorney General, for the United States.
+
+
+[168 U.S. 95, 102]
+ 
+ Edwin B. Smith, for appellee.
+
+ Mr. Justice BREWER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ The question must be answered in the negative. Such answer is demanded by the obvious and natural import of the language, giving to it the ordinary grammatical construction. This is practically conceded by counsel for the government, for he says in his brief: 'A literal interpretation of the statute favors the importers;' and, again, referring to the opinion of District Judge Townsend, he adds: 'Strictly speaking, Judge Townsend is correct in saying that this statute contains no ambiguity.' There are two separate clauses, each prescribing a condition. One is, 'shall within ten days after 'but not before' ... give notice,' etc., and the other, 'shall pay the full amount of the duties,' etc. In the latter no time is mentioned, and, the clauses being independent, there is no grammatical warrant for taking the specification of time from the one, and incorporating it in the other.
+ The primary and general rule of statutory construction is that the intent of the lawmaker is to be found in the language 
+
+[168 U.S. 95, 103]
+ 
+ that he has used. He is presumed to know the meaning of words and the rules of grammar. The courts have no function of legislation, and simply seek to ascertain the will of the legislator. It is true there are cases in which the letter of the statute is not deemed controlling, but the cases are few and exceptional, and only arise when there are cogent reasons for believing that the letter does not fully and accurately disclose the intent. No mere omission, no mere failure to provide for contingencies, which it may seem wise to have specifically provided for, justify any judicial addition to the language of the statute. In the case at bar the omission to make specific provision for the time of payment does not offend the moral sense. Holy Trinity Church v. U. S., 
+143 U.S. 457
+, 12 Sup. Ct. 511. It involves no injustice, oppression, or absurdity. U. S. v. Kirby, 7 Wall. 482; McKee v. U. S., 
+164 U.S. 287
+, 17 Sup. Ct. 92. There is no overwhelming necessity for applying in the one clause the same limitation of time which is provided in the other. Non constat but that congress believed it had sufficiently rpovided for payment by other legislation in reference to retaining possession until payment, or security therefor; or that it failed to appreciate the advantages which counsel insists with inure to the importer in case payment does not equally with protest follow within 10 days from the action of the collector; or that, appreciating fully those advantages, it was not unwilling that he should enjoy them. Certainly, there is nothing which imperatively requires the court to supply an omission in the statute, or to hold that congress must have intended to do that which it has failed to do. Under these circumstances, all that can be determined is that congress has not specifically provided that payment shall be made within 10 days, as one of the conditions of challenging the action of the collector, and hence there is no warrant for enforcing any such condition. An answer in the negative must therefore be certified to the circuit court of appeals. 
+
+
+

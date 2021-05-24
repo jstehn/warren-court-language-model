@@ -1,0 +1,73 @@
+Description: BARRETT v. STATE OF INDIANA , 229 U.S. 26 (1913)
+Date: 1913-05-26 00:00:00
+Docket: 245
+Opinion
+
+
+United States Supreme Court
+BARRETT v. STATE OF INDIANA(1913)
+No. 245
+Argued: Decided: May 26, 1913
+
+
+
+
+[229 U.S. 26, 27]
+ 
+ Messrs. John C. Chaney and Charles E. Barrett for plaintiff in error.
+ Mr. Thomas M. Honan, Attorney General of Indiana, and Messrs. Edwin Corr, Thomas H. Branaman, and James E. McCullough for defendant in error.
+
+ Mr. Justice Day delivered the opinion of the court:
+ The plaintiff in error was convicted in a circuit court of Indiana of the violation of a statute of that state, requiring entries in certain coal mines to be of not less than a pre- 
+
+[229 U.S. 26, 28]
+ 
+ scribed width. The case was twice before the supreme court of Indiana. 172 Ind. 169, 87 N. E. 7; 175 Ind. 112, 93 N. E. 543. From the judgment in the latter case, affirming the conviction, a writ of error was prosecuted. The assignments of error raise the question of the validity of the statute under the 14th Amendment to the Constitution of the United States.
+ The statute provides (Burns's Anno. Stat. [Ind.] 1908):
+'8582. Width of entries.-1. That it shall be unlawful for any owner, lessee, agent, or operator of any coal mine within the state of Indiana, to make, dig, construct, or cause to be made, dug, or constructed, any entry or trackway after the taking effect of this act, in any coal mine in the state of Indiana where drivers are required to drive with mine car or cars unless there shall be a space provided on one or both sides continuously of any track or tracks, measured from the rail, in any such entry, of at least two (2) feet in width, free from any props, loose slate, debris, or other obstruction, so that the driver may get away from the car or cars and track in event of collision, wreck, or other accident. It shall be unlawful for any employee, person, or persons to knowingly, purposely, or maliciously place any obstruction within said space as herein provided: Provided, That the geological veins of coal numbers three and four, commonly known as the lower and upper veins in the block coal fields of Indiana, shall be exempt from the provisions of this act.'
+
+ The next section provides that anyone violating the act shall be guilty of a misdemeanor, and prescribes the penalty.
+ That the legislatures of the states may, in the exercise of the police power, regulate a lawful business, is too well settled to require more than a reference to some of the cases in this court in which that right has been sustained as against objections under the 14th Amendment. 
+
+[229 U.S. 26, 29]
+ 
+ Gundling v. Chicago, 
+177 U.S. 183
+, 44 L. ed. 725, 20 Sup. Ct. Rep. 633; Jacobson v. Massachusetts, 
+197 U.S. 11
+, 49 L. ed. 643, 25 Sup. Ct. Rep. 358, 3 Ann. Cas. 765; McLean v. Arkansas, 
+211 U.S. 539
+, 53 L. ed. 315, 29 Sup. Ct. Rep. 206; Williams v. Arkansas, 
+217 U.S. 79
+, 54 L. ed. 673, 30 Sup. Ct. Rep. 493, 18 Ann. Cas. 865; Watson v. Maryland, 
+218 U.S. 173
+, 54 L. ed. 987, 30 Sup. Ct. Rep. 644; Schmidinger v. Chicago, 
+226 U.S. 578
+, 57 L. ed. --, 33 Sup. Ct. Rep. 182. That the mining of coal is a dangerous business and therefore subject to regulation is also well settled. It is an occupation carried on at varying depths beneath the surface of the earth, amidst surroundings entailing danger to life and limb, and has been, as it may be, the subject of regulation in the coalmining states by statutes which seek to secure the safety of those thus employed. The legislature is itself the judge of the means necessary and proper to that end, and only such regulations as are palpably arbitrary can be set aside because of the requirements of due process of law under the Federal Constitution. When such regulations have a reasonable relation to the subject-matter, and are not arbitrary and oppressive, it is not for the courts to say that they are beyond the exercise of the legitimate power of legislation. Carroll v. Greenwich Ins. Co. 
+199 U.S. 401
+, 50 L. ed. 246, 26 Sup. Ct. Rep. 66; Lindsley v. Natural Carbonic Gas Co. 
+220 U.S. 61
+, 55 L. ed. 369, 31 Sup. Ct. Rep. 337, Ann. Cas. 1912 C, 160.
+ We are unable to say that the requirement that entries shall have a certain width beyond the tracks, as prescribed by this statute, would not promote the safety of the employees engaged in that work. The legislature found, for reasons sufficient to itself, that such additional width, kept clear of obstructions, would promote the safety of the employees, and we are not prepared to say that in enacting such legislation it violated the Federal Constitution.
+ It is argued that the act in question is also violative of the equal protection clause of the 14th Amendment, in that it applies to bituminous coal mines, but not to block coal mines. The equal protection of the laws requires laws of like application to all similarly situated; but in selecting some classes and leaving out others the legislature, while it keeps within this principle, is, and may be, 
+
+[229 U.S. 26, 30]
+ 
+ allowed wide discretion. It is the province of the legislature to make the laws, and of the courts to enforce them. This court has had such frequent occasion to consider this matter that extended discussion is not necessary now. The legislature is permitted to make a reasonable classification, and before a court can interfere with the exercise of its judgment, it must be able to say 'that there is no fair reason for the law that would not require with equal force its extension to others whom it leaves untouched.' This was one test laid down in Missouri, K. & T. R. Co. v. May, 
+194 U.S. 267
+, 48 L. ed. 971, 24 Sup. Ct. Rep. 638, and has been quoted and followed with approval in Williams v. Arkansas, 
+217 U.S. 79
+, 54 L. ed. 673, 30 Sup. Ct. Rep. 493, 18 Ann. Cas. 865, and Watson v. Maryland, 
+218 U.S. 173
+, 54 L. ed. 987, 30 Sup. Ct. Rep. 644. In noticing this contention the supreme court of Indiana, when the case was first before it (172 Ind. 169, 87 N. E. 7), reviewed the situation in that state, as evidenced by official reports concerning the coal-mining industry, and noted the great difference in the production and number of mines between what are called the block veins of coal and the bituminous veins of coal existing in the state, and also the different depths at which coal is mined in the strata of block and bituminous coal, and concluded its discussion of this subject, as follows:
+'It is not unlikely that there is in fact a difference in the degree of danger in mining the two kinds of coal. We at least cannot say the contrary. If so, it must be presumed that the legislature informed itself upon that subject. It may be that mining coal at a distance of 165 feet from the surface is more hazardous than mining it at 90 feet. These matters, with the relative output, relative number of mines and persons employed, may have entered into the consideration as requiring the act in one case, and not in the other, and while the relative number of employees, mines, and the output might not be a proper classification if applied to persons in the same class of work, or under the same conditions, we cannot say that 
+
+[229 U.S. 26, 31]
+ 
+ they are not different at different depths and in different kinds of coal, and must presume that they are; at lest, we cannot say that, as applied to all persons alike employed in mining bituminous coal, the act is invalid because not applicable to block mining, and we cannot say that the act is unreasonable, or determine as to its propriety or impropriety, and to doubt its constitutionality is to resolve in favor of its constitutionality.'
+
+ This is a reasonable disposition of the matter, and we concur in the conclusion reached by the supreme court of Indiana in this respect. We are unable to say that the application of the law to bituminous coal mines and the omission of block coal mines was such arbitrary discrimination as to render the act unconstitutional.
+ We find no error in the judgment of the Supreme Court in affirming the conviction, and it is affirmed. 
+
+
+

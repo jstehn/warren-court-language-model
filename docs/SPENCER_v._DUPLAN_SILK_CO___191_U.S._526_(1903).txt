@@ -1,0 +1,113 @@
+Description: SPENCER v. DUPLAN SILK CO , 191 U.S. 526 (1903)
+Date: 1903-12-21 00:00:00
+Docket: 83
+Opinion
+
+
+United States Supreme Court
+SPENCER v. DUPLAN SILK CO(1903)
+No. 83
+Argued: December 7, 1903Decided: December 21, 1903
+
+
+
+
+ This was an action of trover commenced by plaintiff in error in the court of common pleas for the county of Lehigh, Pennsylvania, October 18, 1900, the declaration averring in substance that on January 13, 1900, certain lumber and building materials were the property of the firm of Bennett & Rothrock, and that, by virtue of an adjudication in bankruptcy of that date, plaintiff succeeded to the title of that firm to said lumber and materials, and that on January 15, 1900, defendant in error wrongfully converted the lumber and materials to its own use.
+ November 19, 1900, defendant in error presented its bond and petition for the removal of the cause to the circuit court of the United States for the eastern district of Pennsylvania, the petition alleging that the controversy in the suit was wholly between citizens of different states; that the plaintiff, trustee in bankruptcy of Bennett & Rothrock, and Bennett & Rothrock themselves, were at the time of the commencement of the suit, and at the time the petition for removal was presented, citizens of the state of Pennsylvania; and that the defendant was at the time of the commencement 
+
+[191 U.S. 526, 527]
+ 
+ of the suit, and at the time the petition for removal was presented, a citizen of New York; and thereupon the cause was removed. The cause having been docketed and the record filed, defendant filed a plea of not guilty, and a trial was had November 11, 1901, resulting in a verdict for plaintiff for $12,183. January 15, 1902, a motion by defendant for judgment non obstante veredicto was overruled and judgment entered in favor of plaintiff (112 Fed. 638), to review which defendant prosecuted a writ of error from the United States circuit court of appeals for the third circuit, and that court on May 7, 1902, reversed the judgment of the circuit court, and remanded the cause with instructions to enter judgment for defendant on the verdict. 53 C. C. A. 321, 115 Fed. 689. This writ of error was then allowed.
+Messrs. Thomas M. B. Hicks, William H. Spencer, and Clarence L. Peaslee for plaintiff in error.
+ Messrs. Richard C. Dale, William Y. C. Anderson, and William Jay Turner for defendant in error.
+
+ Statement by Mr. Chief Justice Fuller:
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ In our opinion the jurisdiction of the circuit court depended entirely on diverse citizenship, the judgment of the circuit court of appeals was final, and the writ of error must be dismissed. Colorado Central Consol. Min. Co. v. Turck, 
+150 U.S. 138
+, 37 L. ed. 1030, 14 Sup. Ct. Rep. 35; Borgmeyer v. Idler, 
+159 U.S. 408
+, 40 L. ed. 199, 16 Sup. Ct. Rep. 34; Press Pub. Co. v. Monroe, 
+164 U.S. 105
+, 41 L. ed. 367, 17 Sup. Ct. Rep. 40.
+ The views expressed in the latter case will suffice to indicate the governing rules. In that case the complaint in the circuit 
+
+[191 U.S. 526, 528]
+ 
+ court showed that the parties were citizens of different states, and did not claim under the Constitution or laws of the United States. At the trial plaintiff relied wholly upon a common-law right, but defendant invoked the Constitution and laws of the United States. Judgment having passed for plaintiff, which was affirmed by the circuit court of appeals, we dismissed a writ of error to that court on the ground that its judgment was made final by the statute. Mr. Justice Gray, delivering the opinion, said:
+'Of suits of a civil nature, at law or in equity, the circuit courts of the United States have original jurisdiction, by reason of the citizenship of the parties, in cases between citizens of different states or between citizens of a state and aliens; and by reason of the cause of action, 'in cases arising under the Constitution or laws of the United States, or treaties made or which shall be made under their authority,' including, of course, suits arising under the patent or copyright laws of the United States. Act of August 13, 1888, chap. 866,  1 (25 Stat. at L. 433, U. S. Comp. Stat. 1901, p. 508); Rev. Stat.  629, cl. 9 (U. S. Comp. Stat. 1901, p. 504). In order to give the circuit court jurisdiction of a case as one arising under the Constitution, laws, or treaties of the United States, that it does so arise must appear from the plaintiff's own statement of his claim. Colorado Central Consol. Min. Co. v. Turck, 
+150 U.S. 138
+, 37 L. ed. 1030, 14 Sup. Ct. Rep. 35; Tennessee v. Union & P. Bank, 
+152 U.S. 454
+, 38 L. ed. 511, 14 Sup. Ct. Rep. 654; Oregon Short Line & U. N. R. Co. v. Skottowe, 
+162 U.S. 490
+, 40 L. ed. 1048, 16 Sup. Ct. Rep. 869; Hanford v. Davies, 
+163 U.S. 273
+, 41 L. ed. 157, 16 Sup. Ct. Rep. 1051
+
+
+
+'From final judgments of the circuit court in civil suits an appeal or writ of error lies to this court, or to the circuit court of appeals. It lies directly to this court in any case in which the jurisdiction of the circuit court is in issue; and in such case the question of jurisdiction only is certified to and decided by this court. It also lies directly from the circuit court to this court in cases involving the construction or application of the Constitution, or the constitutionality of a law, or the validity or construction of a treaty, of the United States, or in which the Constitution or a law of a state is claimed to be in contra- 
+
+[191 U.S. 526, 529]
+ 
+ vention of the Constitution of the United States; and in any of these cases the appellate jurisdiction of this court is not limited to the constitutional question, but extends to the determination of the whole case. Act of March 3, 1891, chap. 517,  5 (26 Stat. at L. 827, 828, U. S. Comp. Stat. 1901, p. 549); Horner v. United States, 
+143 U.S. 570
+, 36 L. ed. 266, 12 Sup. Ct. Rep. 522; Chappell v. United States, 
+160 U.S. 499
+, 40 L. ed. 510, 16 Sup. Ct. Rep. 397.
+
+'From final judgments of the circuit court in all other civil suits an appeal or writ of error lies to the circuit court of appeals; and the judgments rendered thereon by the circuit court of appeals are final ( unless this court, by writ of certiorari or otherwise, orders the whole case to be brought up for its decision) in all cases in which the jurisdiction of the circuit court 'is dependent entirely upon the parties being aliens and citizens of the United States, or citizens of different states;' as well as in cases arising under the patent laws, or under the revenue laws. In all other civil actions (including those arising under the copyright laws of the United States), if the matter in controversy exceeds $1,000, besides costs, there is, as of right, an appeal or writ of error to bring the case to this court. Act of March 3, 1891, chap. 517,  6.
+
+'This plaintiff in error, having been defeated in the circuit court, did not bring the case directly to this court, as one involving the construction or application of the Constitution of the United States, or upon any other of the grounds specified in  5 of the act of 1891. But it took the case, under  6, to the circuit court of appeals, and, having been again defeated in that court, now claims, as of right, a review by this court of the judgment of the circuit court of appeals.
+
+'The judgment of the circuit court of appeals being made final in all cases in which the jurisdiction of the circuit court is dependent entirely upon the parties being citizens of different states, but not final in cases arising under the copyright laws of the United States, where the matter in controversy exceeds $1,000, the test of the appellate jurisdiction of this court over the case at bar is whether it was one arising under the copyright laws of the United States, or was one in which 
+
+[191 U.S. 526, 530]
+ 
+ the jurisdiction of the circuit court wholly depended upon the parties being citizens of different states.
+
+'The complaint, alleging that the plaintiff was a citizen of Illinois and the defendant a citizen of New York, and claiming damages in a sum of more than $2,000, showed that the circuit court had jurisdiction of the case by reason of the parties being citizens of different states. The plaintiff, in her complaint, did not claim any right under the Constitution and laws of the United States, or in any way mention or refer to that Constitution or to those laws; and, at the trial, she relied wholly upon a right given by the common law, and maintained her action upon such a right only. It was the defendant, and not the plaintiff, who invoked the Constitution and laws of the United States. This, as necessarily follows from the foregoing considerations, and as was expressly adjudged in Colorado Central Consol. Min. Co. v. Turck, 
+150 U.S. 138
+, 37 L. ed. 1030, 14 Sup. Ct. Rep. 35, is insufficient to support the jurisdiction of this court to review, by appeal or writ of error, the judgment of the circuit court of appeals.
+
+'The jurisdiction of the circuit court having been obtained and exercised solely because of the parties being citizens of different states, the judgment of the circuit court of appeals was final, and the writ of error must be dismissed for want of jurisdiction.'
+
+ In the present case it is contended that the jurisdiction was not dependent entirely on the opposite parties to the suit being citizens of different states, because the suit arose under the laws of the United States, and that, therefore, jurisdiction rested also on that ground. But a suit does not so arise unless it really and substantially involves a dispute or controversy as to the effect or construction of the Constitution, or validity or construction of the laws or treaties of the United States, upon the determination of which the result depends, and which appears in the record by plaintiff's pleading. Arbuckle v. Blackburn, 
+191 U.S. 406
+, ante, 148, 24 Sup. Ct. Rep. 148; Western U. Teleg. Co. v. Ann Arbor R. Co. 
+178 U.S. 239
+, 44 L. ed. 1052, 20 Sup. Ct. Rep. 867; Muse v. Arlington Hotel co. 
+168 U.S. 430
+, 42 L. ed. 531, 18 Sup. Ct. Rep. 109. 
+
+[191 U.S. 526, 531]
+ 
+ Plaintiff's declaration set forth no matter raising any controversy under the Constitution, laws, or treaties of the United States. It is true that if the lumber and materials belonged to Bennett & Rothrock on January 13, 1900, plaintiff in error succeeded to the title of the firm on the adjudication; but the question of Bennett & Rothrock's ownership on that day in itself involved no Federal controversy, and the mere fact that plaintiff was trustee in bankruptcy did not give jurisdiction. Bardes v. First Nat. Bank, 
+178 U.S. 524
+, 44 L. ed. 1175, 20 Sup. Ct. Rep. 1000. Indeed, if the case had not been removed, and had gone to judgment in the court of common pleas, and that judgment had been affirmed by the supreme court of Pennsylvania on the same grounds as those on which the circuit court of appeals proceeded, a writ of error could not have been brought under  709 of the Revised Statutes (U. S. Comp. Stat. 1901, p. 575), for the case would not have fallen within either of the classes enumerated in that section as the basis of our jurisdiction. The validity of the bankruptcy act was conceded, and no right specially set up or claimed under it was denied.
+ Section 23 of the bankruptcy law does not enable us to maintain jurisdiction. The first two clauses read (before the amendment of February 5, 1903 (32 Stat. at L. 797, chap. 487) as follows:
+'Sec. 23a. The United States circuit courts shall have jurisdiction of all controversies at law and in equity, as distinguished from proceedings in bankruptcy, between trustees as such and adverse claimants concerning the property acquired or claimed by the trustees, in the same manner and to the same extent only as though bankruptcy proceedings had not been instituted, and such controversies had been between the bankrupts and such adverse claimants.
+
+'b. Suits by the trustee shall only be brought or prosecuted in the courts where the bankrupt whose estate is being administered by such trustee might have brought or prosecuted them if proceedings in bankruptcy had not been instituted, unless by consent of the proposed defendant.' [30 Stat. at L. 552, chap. 541, U. S. Comp. Stat. 1901, p. 3431.]
+
+ Plaintiff brought his action in the state court, and its re- 
+
+[191 U.S. 526, 532]
+ 
+ moval on the ground of diverse citizenship placed it in the circuit court as if it had been commenced there on that ground of jurisdiction, and not as if it had been commenced there by consent of defendant under  23 of the bankruptcy act. The right to removal is absolute, and cannot be trammeled by such a consequence.
+ Nor can this writ of error be sustained under  25 of the bankruptcy law, for the section has no application. The reasons for that conclusion will be found in Holden v. Stratton, 
+191 U.S. 115
+, ante, p. 45, 24 Sup. Ct. Rep. 45.
+ As to the suggestion that certiorari might now be issued, the judgment of the circuit court of appeals was rendered May 7, 1902, and there is nothing to take the case out of the general rule. The Conqueror, 
+166 
+U.S. 110, 114
+, 41 S. L. ed. 937, 939, 17 Sup. Ct. Rep. 510; Ayres v. Polsdorfer, 
+187 
+U.S. 585, 595
+, 47 S. L. ed. 314, 317, 23 Sup. Ct. Rep. 196.
+ Writ of error dismissed. 
+
+
+

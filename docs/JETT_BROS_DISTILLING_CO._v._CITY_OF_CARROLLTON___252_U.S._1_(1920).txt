@@ -1,0 +1,60 @@
+Description: JETT BROS DISTILLING CO. v. CITY OF CARROLLTON , 252 U.S. 1 (1920)
+Date: 1920-03-01 00:00:00
+Docket: 108
+Opinion
+
+
+United States Supreme Court
+JETT BROS DISTILLING CO. v. CITY OF CARROLLTON(1920)
+No. 108
+Argued: December 19, 1919Decided: March 1, 1920
+
+
+
+ Mr. Helm Bruce, of Louisville, Ky., for plaintiff in error.[ Jett Bros Distilling Co. v. City of Carrollton 
+252 U.S. 1
+ (1920) ]
+
+
+[252 U.S. 1, 3]
+ 
+ Mr. A. E. Stricklett, of Covington, Ky., for defendant in error.
+
+ Mr. Justice DAY delivered the opinion of the Court.
+ The city of Carrollton brought suit against Jett Bros. Distilling Company to recover balances alleged to be due as taxes upon distilled spirits belonging to the company held in a bonded warehouse in that city. The taxes sued for were those for the years 1907 to 1916, inclusive. It appears that during those years the city assessor undertook to assess for taxation the distilled spirits in the bonded warehouse and the city taxes were paid as thus assessed. This suit was brought to recover taxes for the above-mentioned years upon the theory that during that period the spirits should have been valued by the state board of valuation and assessment as provided by the statutes of Kentucky. Ky. St.  4105, 4114. It was alleged that the valuation by the city assessor was without authority of law, by mistake, and for a much less sum than that fixed for each of said years by the state board. It was also alleged that the company had notice of the valuation fixed by the state board; that the city assessor was without authority to assess spirits in bonded warehouses; that the value fixed by him was an inconsiderable sum, and much less than that fixed by the state board in accordance with the Kentucky Statutes. The Distilling Company took issue upon the petition. It pleaded the original levies for the years in question and the payment of the taxes for each and all of the said years. It pleaded that the whisky which it was sought to tax under the new levy of 1915-1916 had been removed from the bonded warehouse of the company, and was no longer its property, and that it could no longer protect itself as it could have done had the tax been levied while the spirits were in its possession. 
+
+[252 U.S. 1, 4]
+ 
+ In the nineteenth paragraph of the answer a defense was set up upon a ground of federal right under the Constitution. It was averred that during all the years covered by the amended petition it had been the rule, custom, habit, practice and system in the city of Carrollton to assess and cause to be assessed the real estate therein at an average of not more than 40 per cent. of its fair cash value, and to assess and cause to be assessed personal property in that city at an average of not more than 30 per cent. of its fair cash value; that the assessment made by the state board upon which taxes were sought to be recovered was made at 100 per cent. of the fair cash value of the whisky, and that the attempt of the plaintiff to collect the same, was in violation of the defendant's rights under the Constitution of the state of Kentucky and the Fourteenth Amendment of the Constitution of the United States.
+ The circuit court gave judgment in favor of the city for the amounts claimed under the new levy of 1916, giving credit for the amounts paid under the original levies for the preceding years. The company appealed to the Court of Appeals of Kentucky, where the judgment of the circuit court was affirmed. 178 Ky. 561, 199 S. W. 37. There was no other reference to the federal Constitution than that contained in the answer, so far as we have been able to discover, and the Court of Appeals dealt with the federal question, deemed to be before it, as follows (178 Ky. 566, 199 S. W. 39):
+'It is further asserted that the recent cases of Green v. Louisville & Interurban Railway Company and Green v. Louisville Railway Company, decided by the Supreme Court of the United States and reported in 37 Supreme Court Reports, 673, uproot the contention that the act is c nstitutional, and hold that the state board of valuation, and the city assessor and board of supervisors, acting independently of each other, and fixing different valuations 
+
+[252 U.S. 1, 5]
+ 
+ of the same property, work a discrimination, inimical both to the federal and state constitutions. In this, however, appellant is in error. It must be borne in mind that complaint is only made of the assessment. The warehouseman had his remedy, in case of an excessive or unfair valuation, by appearing before the board of valuation and assessment at the time he rereceived notice of the valuation fixed, and there make complaint as provided in section 4107, Kentucky Statutes. This appellant failed to do but acquiesced in the assessment by paying taxes both to the county and state on the valuation fixed by the state board. This being true, it cannot be heard to complain now.'
+
+ The case is brought here by the allowance of a writ of error. As the judgment was rendered after the Act of September 6, 1916, c. 448, 39 Stat. 726, Judicial Code,  237 (Comp. St.  1214), became effective, that act must determine the right to have a review in this court.
+ If the case can come here by writ of error, it is because there was drawn in question the validity of a statute, or authority, exercised under the state on the ground of their being repugnant to the Constitution, laws, or treaties of the United States. Before the petition for rehearing the contentions based upon constitutional grounds, by the plaintiff in error, were those embraced in the nineteenth paragraph of the answer, to which we have referred, and such as were deemed to be before the Court of Appeals of Kentucky in the portion of the opinion from which we have quoted. Neither the answer nor the opinion of the Court of Appeals shows that any claim under the federal Constitution was made assailing the validity of a statute of the state, or of an authority exercised under the state, on the ground of repugnancy to the federal Constitution. The answer, in the nineteenth paragraph, set up discrimination because of different valuations of the property of others, claimed to violate 
+
+[252 U.S. 1, 6]
+ 
+ rights secured by the Fourteenth Amendment to the Constitution of the United States. The opinion of the Court of Appeals likewise discussed the discriminatory action alleged by the plaintiff in error.
+ Drawing in question the validity of a statute or authority as the basis of appellate review has long been a subject of regulation in statutes of the United States, as we had occasion to point out in Champion Lumber Co. v. Fisher, 
+227 
+U.S. 445, 450
+, 451 S., 33 Sup. Ct. 329. What is meant by the validity of a statute or authority was discussed by this court in Baltimore & Potomac Railroad Co. v. Hopkins, 
+130 U.S. 210
+, 9 Sup. Ct. 503, in which this court, speaking by Mr. Chief Justice Fuller, said:
+'Whenever the power to enact a statute as it is by its terms, or is made to read by construction, is fairly open to denial and denied, the validity of such statute is drawn in question, but not otherwise.'
+
+ And the Chief Justice added, upon the authority of Millingar v. Hartupee, 6 Wall. 258, 261, 262, that the word 'authority' stands upon the same footing.
+ In order to give this court jurisdiction by writ of error under amended section 237, Judicial Code, it is the validity of the statute or authority which must be drawn in question. The mere objection to an exercise of authority under a statute, whose validity is not attacked, cannot be made the basis of a writ of error from this court. There must be a substantial challenge of the validity of the statute or authority upon a claim that it is repugnant to the federal Constitution, treaties, or laws, so as to require the state court to decide the question of validity in disposing of the contention. Champion Lumber Co. v. Fisher, 227 U. S. supra and cases cited.
+ In the present case no such claim of the invalidity of a state statute or authority was raised in a manner requ ring the court below to pass upon the question in disposing of the rights asserted. As we have said, whatever the effect of a petition for rehearing, it came too late 
+
+[252 U.S. 1, 7]
+ 
+ to make the overruling of it, in the absence of an opinion, the basis of review by writ of error. It follows that the allowance of the writ of error in the present case did not rest upon a decision in which was drawn in question the validity of a statute of the state or any authority exercised under it because of repugnancy to the federal Constitution, and the writ of error must be dismissed; and it is so ordered.
+ Dismissed. 
+
+
+

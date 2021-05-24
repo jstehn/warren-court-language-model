@@ -1,0 +1,62 @@
+Description: ISAACS v. US , 159 U.S. 487 (1895)
+Date: 1895-11-11 00:00:00
+Docket: 609
+Opinion
+
+
+United States Supreme Court
+ISAACS v. U S(1895)
+No. 609
+Argued: Decided: November 11, 1895
+
+
+ Defendant admitted that Cushing was last his house on the day that Cushing was last seen alive, and said that he rode away with one Jack Chewey, who told him the next day that he had killed the peddler. He admitted that he had never asked Chewey any questions as to when, how, or where he had killed him, and that he had never told any person that Cheway had told him of the killing. Five witnesses also swore that defendant told them that he and Chewey had killed a white peddler at a time corresponding with the disappearance of Cushing.
+ The jury found the defendant guilty of murder as charged in the first count of the indictment, and the court sentenced him to be hanged, whereupon he sued out this writ of error. 
+
+[159 U.S. 487, 488]
+ 
+ Asst. Atty. Gen. Dickinson, for the United States.
+
+ Mr. Justice BROWN, after stating the facts in the foregoing language, delivered the opinion of the court. 
+
+[159 U.S. 487, 489]
+ 
+ In the absence of an oral argument and of a brief by plaintiff in error, we are compelled to dispose of this case upon the record and the brief of the attorney general.
+
+ 1. 
+The first error assigned is to the action of the court in overruling a motion for a continuance, requested because of the absence of a material witness for the defense.
+ That the action of the trial court upon an application for a continuance is purely a matter of discretion, and not subject to review by this court, unless it be clearly shown that such discretion has been abused, is settled by too many authorites to be now open to question. Woods v. Young, 4 Cranch, 237; Barrow V. Hill, 13 How. 54; Crumpton v. U. S., 
+138 U.S. 361
+, 11 Sup. Ct. 355; Cox v. Hart, 
+145 U.S. 376
+, 12 Sup. Ct. 962; Earnshaw v. U. S., 
+146 
+U.S. 60, 68
+, 13 S. Sup. Ct. 14; Means v. Bank, 
+146 U.S. 620
+, 13 Sup. Ct. 186. It appears that 49 days before the case was called for trial an application was made and granted to have the witness whose testimony was desired, summoned at the expense of the government, the affidavit showing that she was within the jurisdiction of the court. It was not shown that any diligence was used to procure the attendance of the witness, or that any attachment was asked for, although the trial continued for several days, or why the subpoena was not served. The affidavit did not show that the defendant could not make the same proof by other witnesses, or that he could not safely go to trial without the testimony of the witness in question. In fact, all that the affidavit showed that the witness could prove was established by other testimony, including that of the defendant himself. There was clearly no abuse of discretion.
+
+ 2. 
+The second assignment was to the charge of the court 'that the fact that the man killed was a white man might be shown by the statement of the defendant in establishing the corpus delicti.'
+ The charge of the court is not accurately set out in the assignment, but was, in substance, that the fact that Cushing was a white man might be shown by the testimony of the defendant as well as by any other means, or that it might be shown by that in connection with other facts and circumstances. 
+
+[159 U.S. 487, 490]
+ 
+ We do not understand that any inference can properly be drawn from this that the court intended to charge that the corpus delicti might be shown by the mere statement of the defendant, but only that his statement, taken in connection with other facts, might be used to show that the murdered man was a white man. If any inference could be drawn to the effect that the court intended to charge that the corpus delicti might be proved by the confession of the defendant, it is completely removed by the further charge that 'that state of case [namely, the death of Cushing by violence inflicted criminally] must be proven by circumstances, or by positive proof, one or the other, before the declarations or admissions or confessions of the defendant can be taken as sufficient to warrant a jury in convicting. Now, do not make any mistake about this proposition,-the proposition called the 'corpus delicti.' The fact that a crime was committed, or the fact that the man charged in the indictment, either as Mike P. Cushing, or an unknown white man, was murdered, must be proven by evidence outside of the confession of the defendant;' and that, 'whenever that state of case is established, then you may take the declarations of the defendant as tending to show his guilt.'
+ As there was abundant evidence in the case, outside of defendant's confession, not only that the man had been murdered, but considerable evidence that he was a white man, we think there was no error committed in the charge that the fact that he was a white man might be shown by the testimony of the defendant, as well as by other means, or by that in connection with other facts and circumstances. The fact that the murdered man was a white man had no bearing upon the question of the corpus delicti, or of the fact that the defendant murdered him, and bore only upon the jurisdiction of the court.
+
+ 3. 
+The next assignment is to the charge 'that the corpus delicti could be established by circumstantial testimony, without saying that this circumstantial evidence should be such as creates cogent, irresistible grounds of presumption.' Without any request on the part of the defendant to add the qualification 
+
+[159 U.S. 487, 491]
+ 
+ suggested, there was no error in the charge actually given. It is no ground for reversal that the court omitted to give instructions, where they were not requested by the defendant. It is sufficient that the court give no erroneous instructions. Pennock v. Dialogue, 2 Pet. 1, 15; Railway Co. v. Volk, 
+151 
+U.S. 73, 78
+, 14 S. Sup. Ct. 239.
+ Beyond this, however, any possible misapprehension upon this point would be removed by the charge that the law says that: 'If the propositions I have named to you make up the crime, and the further proposition that brings the crime home to this defendant, are proven beyond a reasonable doubt in the case, that your duty in the premises is imperative.
+ It is to find a verdict of guilty of murder against the defendant. If they are not proven in that way, either one of them,-that is, to such a degree of certainty that they come under that legal definition of proof beyond a reasonable doubt,-then your duty will be to acquit the defendant.' As the court charged the jury repeatedly that the crime, and every element thereof, must be made out to their satisfaction beyond a reasonable doubt, it is impossible that they could have been misled by the omission of the qualification suggested.
+ The remaining assignments are either covered by those already considered, or are so obviously frivolous that no discussion of them is necessary. The judgment of the court below is therefore affirmed. 
+
+
+

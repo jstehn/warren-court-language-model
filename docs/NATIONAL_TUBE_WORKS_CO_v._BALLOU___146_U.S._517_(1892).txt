@@ -1,0 +1,59 @@
+Description: NATIONAL TUBE WORKS CO v. BALLOU , 146 U.S. 517 (1892)
+Date: 1892-12-19 00:00:00
+Docket: 70
+Opinion
+
+
+United States Supreme Court
+NATIONAL TUBE WORKS CO v. BALLOU(1892)
+No. 70
+Argued: Decided: December 19, 1892
+
+
+ This is a suit in equity, brought in the circuit court of the United States for the southern district of New York on November 1, 1888, by the National Tube Works Company, a Massachusetts corporation, against George William Ballou, a citizen of New York.
+ The bill sets forth that the Wiley Construction Company was a corporation organized in February, 1880, under the joint-stock laws of Connecticut, and located in Hartford, in 
+
+[146 U.S. 517, 518]
+ 
+ that state. The bill is filed on behalf of the plaintiff and such other creditors of the Wiley Company as may come in and be made parties to the suit and contribute to the expenses thereof. It sets forth that the capital stock of the Wiley Company was fixed at $500,000, divided into 5, 000 shares of $100 each; that all of the stock was subscribed for; that the defendant subscribed and agreed to pay at par for 2,499 shares; that he had never paid in anything on account of such subscription; that immediately after the organization of the company it proceeded to carry on its business, and continued to do so until about July, 1883, the defendant and the other subcribers to the stock taking an active part in the management, and acting as stockholders and directors of the company; that between May, 1880, and August, 1882, the plaintiff sold and delivered to it merchandise at the agreed price of $78,955.49; that it had paid $40,789. 51 on account thereof; that on March 10, 1883, the Wiley Company, being then indebted to the plaintiff in $49,828.37, gave to the plaintiff its promissory note for that amount, with interest; that no part of the note had been paid; that in October, 1886, in the superior court for the county of Hartford, in the state of Connecticut, the plaintiff recovered a judgment on said note against the Wiley Company for $52,041.51, damages and costs, that company having been duly served with process, and having appeared in the action; that in June, 1887, the judgment was, on appeal, affirmed by the supreme court of errors of Connecticut, and is still in force; that execution was issued out of said superior court against the property of the Wiley Company to the sheriff of Hartford county, wherein the principal office of said company was situated, and had been returned unsatisfied; that the Wiley Company had no fund or assets where with to pay the claim of the plaintiff, and that the whole of the $52,041.51 was still due to it.
+ The prayer of the bill is that an accounting be had of the amount unpaid on the stock subscription of the defendant in the Wiley Company, and that he be decreed to pay so much of the balance found unpaid on his subscription as will be sufficient to pay such debts of the Wiley Company as may 
+
+[146 U.S. 517, 519]
+ 
+ be proved in this suit, including the said judgment in favor of the plaintiff. The Wiley Company is not made a party to the suit.
+ There is not in the bill any statement that the plaintiff has recovered any judgment against the Connecticut corporation in any court of the state of New York, or in any court of the United States within the state of New York, or issued an execution within the state of New York to collect its claim against the Wiley Company; nor does the plaintiff allege in its bill any reason why it has not done so, or why it cannot do so.
+ The defendant demurred to the bill, and set forth as ground of demurrer that the plaintiff did not by its bill make such a case as entitled it in a court of equity to any discovery or relief touching any of the matters contained in the bill, and also that it appeared by the bill that the plaintiff was not entitled to the discovery or relief prayed for. The case was heard before Judge Wallace in the circuit court, and a decree was entered, dismissing the bill, with costs. The plaintiff has appealed to this court.
+ W. J. Curtis, for appellant.
+
+
+[146 U.S. 517, 522]
+ 
+ Thomas Thacher, for appellee.
+
+ Mr. Justice BLATCHFORD delivered the opinion of the court.
+ In his opinion in the case Judge Wallace states that he sustains the demurrer on the authority of his decisions in Claflin v. McDermott, 20 Blatchf. 522, 12 Fed. Rep. 375, and Walser v. Seligman, 21 Blatchf. 130, 13 Fed. Rep. 415; that he feels free to say that he doubts whether those cases did not adopt too technical a view of the right of a creditor whose judgment has been obtained against his debtor at the place of the latter's domicile, and whose execution has been issued there and returned unsatisfied, to maintain a creditor's bill in a court of another state; and that he may be permitted to express the hope that the present case may be taken to this court for review.
+ In Claflin v. McDermott, supra, it was held that a creditor's bill, founded on a judgment recovered against a debtor in a state court in California, would not lie in a circuit court of the United States in New York, to set aside a fraudulent transfer of personal property made by the debtor in California, by means of collusive judgments and sales under executions issued thereon, no judgment having been obtained or execution issued in such circuit court or in any state court of New York. The case of Tarbell v. Griggs, 3 Paige, 207, was cited as au- 
+
+[146 U.S. 517, 523]
+ 
+ thority, where the court of chancery of the state of New York refused jurisdiction of a creditor's bill filed to obtain satisfaction of a judgment rendered in the circuit court of the United States for the southern district of New York, and upon which an execution had been returned unsatisfied, the judgment being treated as a foreign judgment, and as standing on the same footing with the judgments of a court of another state. The principle invoked was that the plaintiff's remedy at law had not been exhausted by the issuing and return of an execution on a foreign judgment, and McElmoyle v. Cohen, 13 Pet. 312, was referred to as authority.
+ In Walser v. Seligman, supra, creditors and stockholders of a corporation organized under the laws of Missouri and Kansas brought a suit in equity in the circuit court of the United States for the southern district of New York against certain persons to enforce the liability of the latter as holders of a number of shares of unpaid capital stock of the corporation, without the corporation being made a party to the suit, and without the plaintiffs being judgment creditors elsewhere than in Missouri; and the court held that, the plaintiffs being merely creditors at large, and not having exhausted their remedy at law in New York, and the Missouri judgments not having in New York the force of domestic judgments, except for the purpose of evidence, the bill would not lie.
+ The bill in the present case is defective in that respect. It alleges only the recovery of a judgment against the corporation in Connecticut, and the issuing and return there of an execution unsatisfied. It does not allege any judgment in New York, or any errort to obtain one, nor does it aver that it is impossible to obtain one. It alleges merely that the corporation has no fund or assets wherewith to pay the claim of the plaintiff.
+ Where it is sought by equitable process to reach equitable interests of a debtor, the bill, unless otherwise provided by statute, must set forth a judgment in the jurisdiction where the suit in equity is brought, the issuing of an execution thereon, and its return unsatisfied, or must make allegations showing that it is impossible to obtain such a judgment in any 
+
+[146 U.S. 517, 524]
+ 
+ court within such jurisdiction. Taylor v. Bowker, 
+111 U.S. 110
+, 4 Sup. Ct. Rep. 397; Webster v. Clark, 25 Me. 313; Prish v. Lewis, Freem. Ch. 299; Brinkerhoff v. Brown, 4 Johns. Ch. 671; Dunlevy v. Tallmadge, 32 N. Y. 457; Terry v. Anderson, 
+95 U.S. 628
+; Smith v. Railroad Co., 
+99 U.S. 398
+, 401; Hawkins v. Glenn, 
+131 
+U.S. 319, 334
+, 9 S. Sup. Ct. Rep. 739; McLure v. Benceni, 2 Ired. Eq. 513, 519; Farned v. Harris, 11 Smedes & M. 366, 371, 372; Patterson v. Lynde, 112 Ill. 196.
+ Decree affirmed. 
+
+
+

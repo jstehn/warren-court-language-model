@@ -1,0 +1,80 @@
+Description: GENERAL AMERICAN TANK CAR CORPORATION v. DAY , 270 U.S. 367 (1926)
+Date: 1926-03-01 00:00:00
+Docket: 162
+Opinion
+
+
+United States Supreme Court
+GENERAL AMERICAN TANK CAR CORPORATION v. DAY(1926)
+No. 162
+Argued: January 21, 1926Decided: March 1, 1926
+
+
+
+
+[270 U.S. 367, 368]
+ 
+ Messrs. Sigmund W. David, of Chicago, Ill., and Edwin T. Merrick, of New Orleans, La., for appellants.
+
+
+
+[270 U.S. 367, 370]
+ 
+ Mr. Harry P. Sneed, of New Orleans, La., for appellee.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Appellants brought suit in the United States District Court for Eastern Louisiana to enjoin the appellee from collecting, by seizure of appellants' property, a tax assessed against them by the state of Louisiana. From a judgment dismissing the bill the case comes here on direct appeal by reason of the constitutional questions involved. Judicial Code, s 238 (Comp. St. s 1215), before amendment of 1925; Hays v. Port of Seattle, 40 S. Ct. 125, 
+251 U.S. 233
+; Arkadelphia Milling Co. v. St. Louis & S. W. Ry. Co., 39 S. Ct. 237, 
+249 U.S. 134
+, 6o L. Ed. 517.
+ The tax in question was imposed under section 5 of Act 109 of the Louisiana Laws of 1921. Section 1 of that act imposes a tax, for state purposes, of 5 1/4 mills on the dollar on all property within the state. Section 5 authorizes the assessment of an additional tax for state purposes of 25 mills on the dollar 'of the assessed value of all rolling stock of nonresident ... corporations, having no domicile in the state of Louisiana, operated over any railroad in the state of Louisiana within or during any year for which such tax is levied. ...' Article 10, s 16, of the Louisiana Constitution, exempts from all local taxation nonresidents paying the 25-mill tax. Appellants do not complain of the 5 1/4-mill tax assessed against them under section 1; nor do they question the amount or method of computation of the 25-mill tax assessed under section 5; 
+
+[270 U.S. 367, 371]
+ 
+ but they object to it on the ground that it violates the Constitution of Louisiana, which requires that 'all taxes shall be uniform upon the same class of subjects' (article 10, s 1), and on the ground that, as applied to appellants, it violates the federal Constitution by imposing a burden on interstate commerce, and denies to appellants the equal protection of the laws, in that it discriminates unreasonably between residents of Louisiana or nonresidents domiciled within the state, and nonresidents not so domiciled and engaged in interstate commerce.
+ All the appellants are corporations organized in states other than Louisiana and are not domiciled or licensed to do business in that state. All own and operate within the state tank cars, for the transportation of oil, which are used in interstate commerce. Taxes on property within the state of Louisiana, other than state taxes, are assessed where the taxpayer is domiciled, by the several parishes and by municipalities in the parishes, both of which are political subdivisions of the state. In some parishes, local taxes exceed 25 mills, and in others they are less than that amount; but it is asserted by the appellee that the average of all local property taxes is approximately 25 mills.
+ The tax in question is authorized by article 10, s 16, of the Louisiana Constitution, which reads as follows:
+'Sec. 16. Rolling stock operated in this state, the owners of which have no domicile therein, shall be assessed by the Louisiana tax commission, and shall be taxed for state purposes only, at a rate not to exceed forty mills on the dollar of assessed value.'
+
+ The constitutionality of the 25-mill tax imposed under this section was upheld by the Supreme Court of Louisiana in Union Tank Car Co. v. Day, 101 So. 581, 156 La. 1071, and that case disposes of the objections urged here to the validity of the tax under the state Constitution. 
+
+[270 U.S. 367, 372]
+ 
+ It is argued that the 25-mill tax which was imposed on tank cars belonging to the several appellants is a thinly disguised attempt to compel nonresidents doing interstate business in Louisiana to declare a domicile in the state, and that it is therefore an unconstitutional burden on interstate commerce, within the principle of those cases holding that a state may not require a nonresident to procure a license to do business or to declare a domicile within the state as a condition to engaging in commerce across its boundaries. International Text-Book Co. v. Pigg, 30 S. 481, 
+217 U.S. 91
+, 27 L. R. A. (N. S.) 493, 18 Ann. Cas. 1103; Dahnke-Walker Milling Co. v. Bondurant, 42 S. Ct. 106, 
+257 U.S. 282
+. But it is obvious, from an inspection of the statute, that the tax in question is imposed on property of nonresidents in lieu of the local tax assessed in the several parishes of the state on property of persons or corporations domiciled there, and that the nonresident may either pay the state tax assessed under section 5 or, at his option, by becoming domiciled in a parish, pay instead of it the local taxes assessed within the parish. The effect of section 5 is not to require the nonresident corporation to take out a license to do business within the state, but only to subject its property within the state to state taxation. There being no question as to the amount of the tax or the method of its computation, the taxation of appellants' property within the state can be open to no objection, unless it operates to discriminate in some substantial way between the property of the appellants and the property of residents or domiciled nonresidents. Cudahy Packing Co. v. Minnesota, 38 S. Ct. 373, 
+246 U.S. 450
+. And see Pullman Palace Car Co. v. Pennsylvania, 11 S. Ct. 876, 
+141 U.S. 18
+.
+ We are not concerned with the particular method adopted by Louisiana of allocating the tax between the state and its political subdivisions. That is a matter within the competency of the state Legislature. Columbus Southern Ry. Co. v. Wright, 14 S. Ct. 396, 
+151 
+U.S. 470, 475
+, 476 S.. 
+
+[270 U.S. 367, 373]
+ 
+ The court below found, as did the state Supreme Court in Union Tank Car Co. v. Day, supra, that all local taxes throughout the state, from which appellants are exempted by the Louisiana Constitution, average approximately 25 mills, and that, since the tax assessed under section 5 was substantially the equivalent of the local tax in lieu of which it was assessed, there was no unjust discrimination. Such a classification is not necessarily discriminatory. Travelers' Insurance Co. v. Connecticut, 22 S. Ct. 673, 
+185 U.S. 364
+. Where the taxing statute, which is in lieu of a local tax assessed on residents, discloses no purpose to discriminate against nonresident taxpayers, and in substance does not do so, it is not invalid merely because equality in its operation as compared with local taxation has not been attained with mathematical exactness. In determining whether there is a denial of equal protection of the laws by such taxation, we must look to the failure and reasonableness of its purposes and practical operation, rather than to minute differences between its application in practice and the application we must look to the fairness and reasonableness which it is complementary. Travelers' Insurance Co. v. Connecticut, supra. And see State Railroad Tax Cases, 
+92 U.S. 575
+, 612; Shaffer v. Carter, 40 S. Ct. 221, 
+252 U.S. 37
+, 56.
+ But appellants challenge the District Court's finding of fact that local taxation throughout the state will average about 25 mills. They insist that the average of local taxation is 21 mills, and that this disparity between the rate of tax assessed on appellants and the local tax on the property of residents is a substantial discrimination establishing the invalidity of the tax. In the absence of a purpose to discriminate disclosed by the legislation itself we are not prepared to say that a 4 mills variation in one year not shown to be a necessary or continuing result of the scheme of taxation adopted would be an unconstitutional discrimina- 
+
+[270 U.S. 367, 374]
+ 
+ tion; for in such a scheme of complementary tax statutes however fairly devised it would be impossible to provide in advance against occasional inequalities as great as that here complained of.
+ The record, however, does not support appellants' contention. It was stipulated by the parties that the total of all state and local taxes on property in some of the parishes exceeds 30 1/4 mills, the sum of the general state tax of 5 1/4 mills and the special 25 mills tax on property of nonresidents, and that in other parishes it is less than that amount. The stipulation does not, however, show the amount of the variation in the rate of local taxation nor its average throughout the state. The only evidence on the subject is an extract from the annual report of the Louisiana tax commission, purporting to relate to taxes 'for the parishes.' From the data embodied in this report, appellants make their own calculation that the average rate of all parish and local taxes is 21 mills. It is, however, conceded that municipalities within the parishes have independent power of taxation. In some instances they are exempt from taxation by the parish (Const. La. Art. 14, s 12), and the power of parishes to tax property in incorporated cities and towns for parochial purposes is, in certain instances, limited (Const. La. art. 14, ss 7, 8). It is contended by appellee that appellants' computation does not include in local taxes all the taxes assessed by municipalities within the parishes, except in the case of the parish of Orleans, whose limits coincide with those of the city of New Orleans, and that there the rate exceeds 31 mills, as is shown by the report of the tax commission. It is impossible to say, from an inspection of the extract from the report in evidence, which of these contentions is correct. The report is stated to cover taxes for the parishes, and includes numerous items of parish taxes, but it does 
+
+[270 U.S. 367, 375]
+ 
+ not show on its face whether all taxes assessed by cities, towns, and villages within the parish are included in the report, and there is nothing in the record which will enable us to ascertain that fact. The appellant has therefore failed to show that the tax is discriminatory, either in principle or in its practical operation, and has laid no foundation for assailing its constitutionality.
+ The judgment of the District Court is affirmed. 
+
+
+

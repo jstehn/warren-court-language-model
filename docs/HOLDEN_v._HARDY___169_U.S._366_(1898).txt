@@ -1,0 +1,269 @@
+Description: HOLDEN v. HARDY , 169 U.S. 366 (1898)
+Date: 1898-02-28 00:00:00
+Docket: 261
+Opinion
+
+
+United States Supreme Court
+HOLDEN v. HARDY(1898)
+No. 261
+Argued: Decided: February 28, 1898
+
+
+ These were writs of error to review two judgments of the supreme court of the state of Utah denying applications of the plaintiff in error, Holden, for his discharge upon two writs of habeas corpus, and remanding him to the custody of the sheriff of Salt Lake county.
+ The facts in case No. 264 were substantially as follows: On June 20, 1896, complaint was made to a justice of the peace of 
+
+[169 U.S. 366, 367]
+ 
+ Salt Lake City that the petitioner, Holden, had unlawfully employed 'one John Anderson to work and labor as a miner in the underground workings of the Old Jordan Mine, in Bingham canon, in the county aforesaid, for the period of ten hours each day; and said defendant, on the date aforesaid and continuously since said time, has unlawfully required said John Anderson, under and by virtue of said employment, to work and labor in the underground workings of the mine aforesaid for the period of ten hours each day, and that said employment was not in case of an emergency, or where life or property was in imminent danger,-contrary,' etc.
+ Defendant, Holden, having been arrested upon a warrant issued upon said complaint, admitted the facts set forth therein, but said he was not guilty, because he is a native-born citizen of the United States, residing in the state of Utah; that the said John Anderson voluntarily engaged his services for the hours per day alleged; and, that the facts charged did not constitute a crime, because the act of the state of Utah which creates and defines the supposed offense is repugnant to the constitution of the United States in these respects:
+'It deprives the defendant and all employers and employees of the right to make contracts in a lawful was, and for lawful purposes.
+
+'It is class legislation, and not equal or uniform in its provisions.
+
+'It deprives the defendant and employers and employees of the equal protection of the laws, abridges the privileges and immunities of the defendant as a citizen of the United States, and deprives him of his property and liberty without due process of law.'
+
+ The court, having heard the evidence, found the defendant guilty as charged in the complaint, imposed a fine of $50 and costs, and ordered that the defendant be imprisoned in the county jail for a term of 57 days, or until such fine and costs be paid.
+ Thereupon petitioner sued out a writ of habeas corpus from the supreme court of the state; annexing a copy of the proceedings before the justice of the peace, and praying his discharge. 
+
+[169 U.S. 366, 368]
+ 
+ The supreme court denied his application, and remanded him to the custody of the sheriff, whereupon he sued out this writ of error, assigning the unconstitutionality of the law.
+ In the second case the complaint alleged the unlawful employment by Holden of one William Hooley to work and labor in a certain concentrating mill-the same being an institution for the reduction of ores-for the period of 12 hours per day. The proceedings in this case were precisely the same as in the prior case, and it was admitted that there was no distinction in principle between the two cases.
+ J. M. Wilson, for plaintiff in error.
+
+
+[169 U.S. 366, 380]
+ 
+ Chas. J. Pence, for defendant in error.
+
+ Mr. Justice BROWN, after stating the facts in the foregoing language, delivered the opinion of the court.
+ This case involves the constitutionality of an act of the legislature of Utah entitled 'An act regulating the hours of employment in underground mines and in smelters and ore reduction works.' The following are the material provisions:
+'Section 1. The period of employment of workingmen in all underground mines or workings shall be eight hours per day, except in cases of emergency where life or property is in imminent danger.
+
+'Sec. 2. The period of employment of workingmen in smelters and all other institutions for the reduc ion or refining of ores or metals shall be eight hours per day, except in cases of emergency where life or property is in imminent danger.
+
+'Sec. 3. Any person, body corporate, agent, manager, or employer, who shall violate any of the provisions of sections one and two of this act, shall be guilty of a misdemeanor.'
+
+ The supreme court of Utah was of opinion that, if authority in the legislature were needed for the enactment of the statute in question, it was found in that part of article 16 of the constitution of the state which declared that 'the legislature shall 
+
+[169 U.S. 366, 381]
+ 
+ pass laws to provide for the health and safety of employees in factories, smelters and mines.' As the article deals exclusively with the rights of labor, it is here reproduced in full, as exhibiting the authority under which the legislature acted, and as throwing light upon its intention in enacting the statute in question (Laws 1896, p. 219):
+'Section 1. The rights of labor shall have just protection through laws calculated to promote the industrial welfare of the state.
+
+'Sec. 2. The legislature shall provide by law for a board of labor, conciliation and arbitration which shall fairly represent the interests of both capital and labor. The board shall perform duties and receive compensation as prescribed by law.
+
+'Sec. 3. The legislature shall prohibit:
+
+'(1) The employment of women, or of children under the age of fourteen years, in underground mines.
+
+'(2) The contracting of convict labor.
+
+'(3) The labor of convicts outside prison grounds, except on public works under the direct control of the state.
+
+'(4) The political and commercial control of employees.
+
+'Sec. 4. The exchange of blacklists by railroad companies, or other corporations, associations or persons is prohibited.
+
+'Sec. 5. The right of action to recover damages for injuries resulting in death shall never be abrogated, and the amount recoverable shall not be subject to any statutory limitation.
+
+'Sec. 6. Eight hours shall constitute a day's work on all works or undertakings carried on or aided by the state, county or municipal governments; and the legislature shall pass laws to provide for the health and safety of employees in factories, smelters and mines.
+
+'Sec. 7. The legislature, by appropriate legislation, shall provide for the enforcement of the provisions of this article.'
+
+ The validity of the statute in question is, however, challenged upon the ground of an alleged violation of the fourteenth amendment to the constitution of the United States, in that it abridges the privileges or immunities of citizens of the United States, deprives both the employer and the 
+
+[169 U.S. 366, 382]
+ 
+ laborer of his property without due process of law, and denies to them the equal protection of the laws. As the three questions of abridging their immunities, depriving them of their property, and denying them the protection of the laws, are so connected that the authorities upon each are, to a greater or less extent, perinent to the others, they may properly be considered together.
+ Prior to the adoption of the fourteenth amendment, there was a similar provision against deprivation of life, liberty, or property without due process of law incorporated in the fifth amendment; but as the first eight amendments to the constitution were obligatory only upon congress, the decisions of this court under this amendment have but a partial application to the fourteenth amendment, which operates only upon the action of the several states. The fourteenth amendment, which was finally adopted July 28, 1868, largely expanded the power of the federal courts and congress, and for the first time authorized the former to declare invalid all laws and judicial decisions of the states abridging the rights of citizens, or denying them the benefit of due process of law.
+ This amendment was first called to the attention of this court in 1872, in an attack upon the constitutionality of a law of the state of Louisiana, passed in 1869, vesting in a slaughte -house company therein named the sole and exclusive privilege of conducting and carrying on a live-stock landing and slaughter-house business within certain limits specified in the act, and requiring all animals intended for sale and slaughter to be landed at their wharves or landing places. Slaughter-House Cases, 16 Wall. 36. While the court in that case recognized the fact that the primary object of this amendment was to secure to the colored race, then recently emancipated, the full enjoyment of their freedom, the further fact that it was not restricted to that purpose was admitted both in the prevailing and dissenting opinions, and the validity of the act was sustained as a proper police regulation for the health and comfort of the people. A majority of the cases which have since arisen have turned, not upon a denial to the colored race of rights therein secured to them, but upon alleged discriminations 
+
+[169 U.S. 366, 383]
+ 
+ in matters entirely outside of the political relations of the parties aggrieved.
+ These cases may be divided, generally, into two classes: First, where a state legislature or a state court is alleged to have unjustly discriminated in favor of or against a particular individual or class of individuals, as distinguished from the rest of the community, or denied them the benefit of due process of law; second, where the legislature has changed its general system of jurisprudence by abolishing what had been previously considered necessary to the proper administration of justice, or the protection of the individual.
+ Among those of the first class, which, for the sake of brevity, may be termed 'unjust discriminations,' are those wherein the colored race was alleged to have been denied the right of representation upon juries ( Strauder v. West Virginia, 
+100 U.S. 303
+; Virginia v. Rives, Id. 313; Ex parte Virginia, Id. 339; Neal v. Delaware, 
+103 U.S. 370
+; Bush v. Kentucky, 
+107 U.S. 110
+, 1 Sup. Ct. 625; Gibson v. Mississippi, 
+162 U.S. 565
+, 16 Sup. Ct. 904), as well as those wherein the state was charged with oppressing and unduly discrimlnating against persons of the Chinese race ( Barbier v. Connolly, 
+113 U.S. 27
+, 5 Sup. Ct. 357; Soon Hing v. Crowley, 
+113 U.S. 703
+, 5 Sup. Ct. 730; Yick Wo v. Hopkins, 
+118 U.S. 356
+, 6 Sup. Ct. 1064; and Chy Lung v. Freeman, 
+92 U.S. 275
+), and those wherein it was sought, under this amendment, to enforce the right of women to suffrage, and to admission to the learned professions (Minor v. Happersett, 21 Wall. 162; Bradwell v. State, 16 Wall. 130).
+ To this class is also referable all those cases wherein the state courts were alleged to have denied to particular individuals the benefit of due process of law secured to them by the statutes of the state (In re Converse, 
+137 U.S. 624
+, 11 Sup. Ct. 191; Arrowsmith v. Harmoning, 
+118 U.S. 194
+, 6 Sup. Ct. 1023), as well as that other large class, to be more specifically mentioned hereafter, wherein the state legislature was charged with having transcended its proper police power in assuming to legislate for the health or morals of the community.
+ Cases arising under the second class, wherein a state has chosen to change its methods of trial to meet a popular demand 
+
+[169 U.S. 366, 384]
+ 
+ for simpler and more expeditious forms of administering justice, are much less numerous, though of even greater importance, than the others. A reference to a few of these cases may not be inappropriate in this connection. Thus, in Walker v. Sauvinet, 
+92 U.S. 90
+, which was an action brought by a colored man against the keeper of a coffee house in New Orieans for refusing him refreshments, in violation of the constitution of the state securing to the colored race equal rights and privileges in such cases, a statute of the state provided that such cases should be tried by jury, if either party demanded it, but, if the jury failed to agree, the case should be submitted to the judge, who should decide the same. It was held that a trial by jury was not a privilege or immunity of citizenship which the states were forbidden to abridge, but the requirement of due process of law was met if the trial was had according to the settled course of judicial proceedings. 'Due process of law,' said Chief Justice Waite, 'is process due according to the law of the land. This process in the states is regulated by the law of the state.' This law was held not to be in conflict with the constitution of the United States.
+ Similar rulings with regard to the necessity of a jury or of a judicial trial in special proceedings were made in Kennard v. Louisiana, 
+92 U.S. 480
+; McMillan v. Anderson, 
+95 U.S. 37
+; Davidson v. New Orleans, 
+96 U.S. 97
+; Walston v. Nevin, 
+128 U.S. 578
+, 9 Sup. Ct. 192; Ex parte Wall, 
+107 U.S. 265
+, 2 Sup. Ct. 569.
+ In Hurtado v. California, 
+110 U.S. 516
+, 4 Sup. Ct. 111, 292, it was held that due process of law did not necessarily require an indictment by a grand jury in a prosecution by a state for murder. The constitution of California authorized prosecutions, for felonies by information, after examination and commitment by a magistrate, without an indictment by a grand jury, in the discretion of the legislature. It was held that conviction upon such an information, followed by sentence of death, was not illegal, under the fourteenth amendment.
+ In Hayes v. Missouri, 
+120 U.S. 68
+, 7 Sup. Ct. 350, it was held that a statute of a state which provided that, in capital cases, in cities having a population of over 100,000 inhabitants, the state 
+
+[169 U.S. 366, 385]
+ 
+ shall be allowed 15 peremptory challenges to jurors, while elsewhere in the state it was allowed only 8 peremptory challenges, did not deny to a person tried for murder, in a city containing over 100,000 inhabitants, the equal protection of the laws enjoined by the fourteenth amendment, and that there was no error in refusing to limit the state's peremptory challenges to 8.
+ In Railway Co. v. Mackey, 
+127 U.S. 205
+, 8 Sup. Ct. 1161, it was said that a statute in Kansas abolishing the fellow-servant doctrine, as applied to railway accidents, did not deny to railroads the equal protection of the laws, and was not in conflict with the fourteenth amendment. The same ruling was made with reference to statutes requiring railways to erect and maintain fences and cattle guards, and make them liable in double the amount of damages claimed, for the want of them.
+ In Hallinger v. Davis, 
+146 U.S. 314
+, 13 Sup. Ct. 105, it was held that a state statute conferring upon an accused person the right to waive a trial by jury, and to elect to be tried by the court, and conferring power upon the court to try the accused in such case, was not a violation of the due-process clause of the fourteenth amendment.
+ So, In re Kemmler, 
+136 U.S. 436
+, 10 Sup. Ct. 930, it was held that the law providing for capital punishment by electricity was not repugnant to this amendment. And in Duncan v. Missouri, 152, U. S. 377, 14 Sup. Ct. 570, it was said that the prescribing of different modes of procedure, and the abolition of courts, and the creation of new ones, leaving untouched all the substantial protections with which the existing law surrounds persons accused of crime, are not considered within the constitutional inhibition. See, also, Medley, Petitioner, 
+134 U.S. 160
+, 10 Sup. Ct. 384, and Holden v. Minnesota, 
+137 U.S. 484
+, 11 Sup. Ct. 143.
+ An examination of both these classes of cases under the fourteenth amendment will demonstrate that, in passing upon the validity of state legislation under that amendment, this court has not failed to recognize the fact that the law is, to a certain extent, a progressive science; that, in some of the states, methods of procedure which, at the time the constitution 
+
+[169 U.S. 366, 386]
+ 
+ was adopted, were deemed essential to the protection and safery of the people, or to the liberty of the citizen, have been found to be no longer necessary; that restrictions which had formerly been laid upon the conduct of individuals, or of classes of individuals, had proved detrimental to their interests, while, upon the other hand, certai other classes of persons (particularly those engaged in dangerous or unhealthful employments) have been found to be in need of additional protection. Even before the adoption of the constitution, much had been done towards mitigating the severity of the common law, particularly in the administration of its criminal branch. The number of capital crimes in this country, at least, had been largely decreased. Trial by ordeal and by battle had never existed here, and had fallen into disuse in England. The earlier practice of the common law, which denied the benefit of witnesses to a person accused of felony, had been abolished by statute, though, so far as it deprived him of the assistance of counsel and compulsory process for the attendance of his witnesses, it had not been changed in England. But, to the credit of her American colonies, let it be said that so oppressive a doctrine had never obtained a foothold there.
+ The present century has originated legal reforms of no less importance. The whole fabric of special pleading, once thought to be necessary to the elimination of the real issue between the parties, has crumbled to pieces. The ancient tenures of real estate have been largely swept away, and land is now transferred almost as easily and cheaply as personal property. Married women have been emancipated from the control of their husbands, and placed upon a practical equality with them, with respect to the acquisition, possession, and transmission of property. Imprisonment for debt has been abolished. Exemptions from execution have been largely added to, and in most of the states homesteads are rendered incapable of seizure and sale upon forced process. Witnesses are no longer incompetent by reason of interest, even though they be parties to the litigation. Indictments have been simplified, and an indictment for the most serious of crimes is now the simplest of all. In several of the states, grand 
+
+[169 U.S. 366, 387]
+ 
+ juries, formerly the only safeguard against a malicious prosecution, have been largely abolished; and in others the rule of unanimity, so far as applied to civil cases, has given way to verdicts rendered by a three- fourths majority. This case does not call for an expression of opinion as to the wisdom of these changes, or their validity under the fourteenth amendment, although the substitution of prosecution by information in lieu of indictment was recognized as valid in Hurtado v. California, 
+110 U.S. 516
+, 4 Sup. Ct. 111, 292. They are mentioned only for the purpose of calling attention to the probability that other changes of no less importance may be made in the future, and that, while the cardinal principles of justice are immutable, the methods by which justice is administered are subject to constant fluctuation, and that the constitution of the United States, which is necessarily and to a large extent inflexible, and exceedingly difficult of amendment, should not be so construed as to deprive the states of the power to so amend their laws as to make them conform to the wishes of the citizens, as they may deem best for the public welfare, without bringing them into conflict with the supreme law of the land.
+ Of course, it is impossible to forecast the character or extent of these changes; but in view of the fact that, from the day Magna Charta was signed to the present moment, amendments to the structure of the law have been made with increasing frequency, it is impossible to suppose that they will not continue, and the law be forced to adapt itself to new conditions of society, and particularly to the new relations between employers and employees, as they arise.
+ Similar views have been heretofore expressed by this court. Thus, in the case of Missouri v. Lewis, 
+101 U.S. 22
+, 31, it was said by Mr. Justice Bradley: 'We might go still further, and say, with undoubted truth, that there is nothing in the constitution to prevent any state from adopting any system of laws or judicature it sees fit for all or any part of its territory. If the state of New York, for example, should see fit to dopt the civil law and its method of procedure for New York City and the surrounding counties, and the common law and its methods of procedure for the rest of the 
+
+[169 U.S. 366, 388]
+ 
+ state, there is nothing in the constitution of the United States to prevent its doing so. This would not, of itself, within the meaning of the fourteenth amendment, be a denial to any person of the equal protection of the laws. ... The fourteenth amendment does not profess to secure to all persons in the United States the benefit of the same laws and the same remedies. Great diversities in these respects may exist in two states separated only by an imaginary line. On one side of this line there may be a right of trial by jury, and on the other no such right. Each state prescribes its own modes of judicial proceeding. If diversities of laws and judicial proceedings may exist in the several states without violating the equality clause in the fourteenth amendment, there is no solid reason why there may not be such diversities in different parts of the same state.'
+ The same subject was also elaborately discussed by Mr. Justice Matthews in delivering the opinion of this court in Hurtado v. California, 
+110 
+U.S. 516, 530
+, 4 S. Sup. Ct. 118: 'This flexibility and capacity for growth is the peculiar boast and excellence of the common law. ... The constitution of the United States was ordained, it is true, by descendants of Englishmen, who inherited the traditions of English law and history; but it was made for an undefined and expanding future, and for a people gathered and to be gathered from many nations, and of many tongues. And, while we take just pride in the principles and institutions of common law, we are not to forget that, in lands where other systems of jurisprudence prevail, the ideas and processes of civil justice are also not unknown. Due process of law, in spite of the absolutism of continental governments, is not alien to that code which survived the Roman Empire as the foundation of modern civilization in Europe, and which has given us that fundamental maxim of distributive justice,-'Suum cuique tribuere.' There is nothing in Magna Charta, rightly construed as a broad charter of public right and law, which ought to exclude the best ideas of all systems and of every age; and, as it was the characteristic principle of the common law to draw its inspiration from every fountain of justice, we 
+
+[169 U.S. 366, 389]
+ 
+ are not to assume that the sources of its supply have been exhausted. On the contrary, we should expect that the new and various experiences of our own situation and system will mold and shape it into new, and not less useful, forms.' We have seen no reason to doubt the soundness of these views. In the future growth of the nation, as heretofore, it is not impossible that congress may see fit to annex territories whose jurisprudence is that of the civil law. One of the considerations moving to such annexation might be the very fact that the territory so annexed should enter the Union with its traditions, laws, and systems of administration unchanged. It would be a narrow construction of the constitution to require them to abandon these, or to substitute for a system which represented the growth of generations of inhabitants a jurisprudence with which they had had no previous acquaintance or sympathy.
+ We do not wish, however, to be understood as holding that this power is unlimited. While the people of each state may doubtless adopt such systems of laws as best conform to their own traditions and customs, the people of the entire country have laid down in the constitution of the United States certain fundamental principles, to which each member of the Union is bound to accede as a condition of its admission as a state. Thus, the United States are bound to guaranty to each state a republican form of government, and the tenth section of the first article contains certain other specified limitations upon the power of the several states, the object of which was to secure to congress paramount auth rity with respect to matters of universal concern. In addition, the fourteenth amendment contains a sweeping provision forbidding the states from abridging the privileges and immunities of citizens of the United States, and denying them the benefit of due process or equal protection of the laws.
+ This court has never attempted to define with precision the words 'due process of law,' nor is it necessary to do so in this case. It is sufficient to say that there are certain immutable principles of justice, which inhere in the very idea of free government, which no member of the Union may disregard, 
+
+[169 U.S. 366, 390]
+ 
+ as that no man shall be condemned in his person or property without due notice, and an opportunity of being heard in his defense. What shall constitute due process of law was perhaps as well stated by Mr. Justice Curtis in Murray's Lessees v. Land Co., 18 How. 272, 276, as anywhere. He said: 'The constitution contains no description of those processes which it was intended to allow or forbid. It does not even declare what principles are to be applied to ascertain whether it be due process. It is manifest that it was not left to the legislative power to enact any process which might be devised. The article is a restraint on the legislative as well as on the executive and judicial powers of the government, and cannot be so construed as to leave congress free to make any process 'due process of law' by its mere will. To what principles, then, are we to resort to ascertain whether this process enacted by congress is due process? To this the answer must be twofold: We must examine the constitution itself, to see whether this process be in conflict with any of its provisions. If not found to be so, we must look to those settled usages and modes of proceeding existing in the common and statute law of England, before the emigration of our ancestors, and which are shown not to have been unsuited to their civil and political condition, by having been acted on by them after the settlement of this country.'
+ It was said by Mr. Justice Miller, in delivering the opinion of this court in Davidson v. New Orleans, 
+96 U.S. 97
+, that the words 'law of the land,' as used in Magna Charta, implied a conformity with the 'ancient and customary laws of the English people,' and that it was wiser to ascertain their intent and application by the 'gradual process of judicial inclusion and exclusion as the cases presented for decision shall require, with the reasoning on which such decisions may be founded.' Recognizing the difficulty in defining with exactness the phrase 'due process of law,' it is certain that these words imply a conformity with natural and inherent principles of justice, and forbid that one man's property, or right to property, shall be taken for the benefit of another, or for the benefit of the state, without compensation, and that 
+
+[169 U.S. 366, 391]
+ 
+ no one shall be condemned in his person or property without an opportunity of being heard in his own defense.
+ As the possession of property, of which a person cannot be deprived, doubtless implies that such property may be acquired, it is safe to say that a state law which undertakes to deprive any class of persons of the general power to acquire property would also be obnoxious to the same provision. Indeed, we may go a step further, and say that as property can only be legally acquired, as between living persons, by contract, a general prohibition against entering into contracts with respect to property, or having as their object the acquisition of property, would be equally invalid.
+ The latest utterance of this court upon this subject is contained in the case of Allgeyer v. Louisiana, 
+165 
+U.S. 578, 591
+, 17 S. Sup. Ct. 427, in which it was held that an act of Louisiana which prohibited individuals within the state from making contracts of insurance with corporations doing business in New York was a violation of the fourteenth amendment. In delivering the opinion of the court, Mr. Justice Peckham remarked: 'In the privilege of pursuing an ordinary calling or trade, and of acquiring, holding, and selling property, must be embraced the right to make all proper contracts in relation thereto; and, although it may be conceded that this right to contract in relation to persons or property, or to do business within the jurisdiction of the state, may be regulated, and sometimes prohibited, when the contracts or business conflict with the policy of the state as contained in its statutes, yet the power does not and cannot extend to prohibiting a citizen from making contracts of the nature involved in this case, outside of the limits and jurisdiction of the state, and which are also to be performed outside of such jurisdiction.'
+ This right of contract, however, is itself subject to certain limitations which the state may lawfully impose in the exercise of its police powers. While this power is inherent in all governments, it has doubtless been greatly expanded in its application during the past century, owing to an enormous increase in the number of occupations which are dangerous or so far detrimental to the health of employees as to demand 
+
+[169 U.S. 366, 392]
+ 
+ special precautions for their well-being and protection, or the safety of adjacent property. While this court has held (notably in the cases of Davidson v. New Orleans, 
+96 U.S. 97
+, and Yick Wo v. Hopkins, 
+118 U.S. 356
+, 6 Sup. Ct. 1064) that the police power cannot be put forward as an excuse for oppressive and unjust legislation, it may be lawfully resorted to for the purpose of preserving the public health, safety, or morals, or the abatement of public nuisances, and a large discretion 'is necessarily vested in the legislature, to determine, not only what the interests of the public require, but what measures are necessary for the protection of such interests.' Lawton v. Steele, 
+152 
+U.S. 133, 136
+, 14 S. Sup. Ct. 499.
+ The extent and limitations upon this power are admirably stated by Chief Justice Shaw in the following extract from his opinion in Massachusetts v. Alger, 7 Cush. 84.
+'We think it a settled policy, growing out of the nature of well- ordered civil society, that every holder of property, however absolute and unqualified his title, holds it under the implied liability that its use may be so regulated that it shall not be injurious to the equal enjoyment of others having an equal right to the enjoyment of their property, nor injurious to the rights of the community. All property in this commonwealth, as well in the interior as that bordering on the tide waters, is derived directly or indirectly from the government, and held subject to those general regulations which are necessary to the common good and general welfare. Rights of property, like all other social and conventional rights, are subject to such reasonable limitation in their enjoyment as will prevent them from being injurious, and to such reasonable restraints and regulations by law as the legislature, under the government and controlling power vested in them by the constitution, may think necessary and expedient.'
+
+ This power, legitimately exercised, can neither be limited by contract nor bartered away by legislation.
+ While this power is necessarily inherent in every form of government, it was, prior to the adoption of the constitution, but sparingly used in this country. As we were then almost 
+
+[169 U.S. 366, 393]
+ 
+ purely an agricultural people, the occasion for any special protection of a particular class did not exist. Certain profitable employments, such as lotteries and the sale of intoxicating liquors, which were then considered to be legitimate, have since fallen under the ban of public opinion, and are now either altogether prohibited, or made subject to stringent police regulations. The power to do this has been repeatedly affirmed by this court. Stone v. Mississippi, 
+101 U.S. 814
+; Douglas v. Kentucky, 
+168 U.S. 488
+, 18 Sup. Ct. 199; Giozza v. Tiernan, 
+148 U.S. 657
+, 13 Sup. Ct. 721; Kidd v. Pearson, 
+128 U.S. 1
+, 9 Sup. Ct. 6; Crowley v. Christensen, 
+137 U.S. 86
+, 11 Sup. Ct. 13.
+ While the business of mining coal and manufacturing iron began in Pennsylvania as early as 1716, and in Virginia, North Carolina, and Massachusetts even earlier than this, both mining and manufacturing were carried on in such a limited way, and by such primitive methods, that no special laws were considered necessary, prior to the adoption of the constitution, for the protection of the operatives; but, in the vast proportions which these industries have since assumed, it has been found that they can no longer be carried on, with due regard to the safety and health of those engaged in them, without special protection against the dangers necessarily incident to these employments. In consequence of this, laws have been enacted in most of the states designed to meet these exigencies, and to secure the safety of persons peculiarly exposed to these dangers. Within this general category are ordinances providing for fire escapes for hotels, theaters, factories, and other large buildings; a municipal inspection of boilers; and appliances designed to secure passengers upon railways and steamboats against the dangers necessarily incident to these methods of transportation. In states where manufacturing is carried on to a large extent, provision is made for the protection of dangerous machinery against accidental contact; for the cleanliness and ventilation of working rooms; for the guarding of well holes, stairways, elevator shafts; and for the employment of sanitary appliances. In others, where mining is the principal industry, special provision is made for the shoring up of dangerous walls; for ventilation shafts, bore holes, escapement shafts, means of signaling the surface; for 
+
+[169 U.S. 366, 394]
+ 
+ the supply of fresh air, and the elimination, as far as possible, of dangerous gases; for safe means of hoisting and lowering cages; for a limitation upon the number of persons permitted to enter a cage; that cages shall be covered; and that there shall be fences and gates around the top of shafts, besides other similar precautions. Sand. & H. Dig. Ark. p. 1149; Rev. St. Cal.  5045-5062; Supp. Mills' Ann. St. Colo. c. 85; Gen. St. Conn. 1888,  2645-2647, 2263-2272; Rev. St. Ill. 1889, p. 980; Thornt. Ind. St. 1897, c. 98, p. 1652; 2 Gen. St. Kan. 1897, pp. 813-824; Ky. St. (Barbour & Carroll) c. 88. p. 951; Supp. Pub. St. Mass. 1889-95, pp. 582, 746, 1163; How. Ann. St. Mich.  9209b et seq.; 3 Gen. St. N. J. p. 1900 et seq.; 2 Rev. St. (Code & Gen. Laws N. Y.) p. 2069; Supp. Bright. Purd. Dig. Pa. p. 2241 et seq.
+ These statutes have been repeatedly enforced by the courts of the several states; their validity assumed; and, so far as we are informed, they have been uniformly held to be constitutional.
+ In Daniels v. Hilgard, 77 Ill. 640, it was held that the legislature had power, under the constitution, to establish reasonable police regulations for the operating of mines and collieries, and that an act providing for the health and safety of persons employed in coal mines, which required the owner or agent of every coal mine or colliery employing 10 men or more to make or cause to be made an accurate map or plan of the workings of such coal mine or colliery, was not unconstitutional, and that the question whether certain requirements are a part of a system of police regulations adopted to aid in the protection of life and health was properly one of legislative determination, and that a court should not lightly interfere with such determination, unless the legislature had manifestly transcended its province. See, also, Coal Co. v. Taylor, 81 Ill. 590.
+ In Pennsylvania v. Bonnell, 8 Phila. 534, a law 
+
+[169 U.S. 366, 395]
+ 
+ providing for the ventilation of coal mines, for speaking tubes, and the protection of cages, was held to be constitutional, and subject to strict enforcement. Pennsylvania v. Conyngham, 66 Pa. St. 99; Durant v. Coal Co., 97 Mo. 62.
+ But, if it be within the power of a legislature to adopt such means for the protection of the lives of its citizens, it is difficult to see why precautions may not also be adopted for the protection of their health and morals. It is as much for the interest of the state that the public health should be preserved as that life should be made secure. With this end in view, quarantine laws have been enacted in most, if not all, of the states; insane asylums, public hospitals, and institutions for the care and education of the blind established; and special measures taken for the exclusion of infected cattle, rags, and decayed fruit. In other states laws have been enacted limiting the hours during which women and children shall be employed in factories; and while their constitutionality, at least as applied to women, has been doubted in some of the states, they have been generally upheld. Thus, in the case of Com. v. Hamilton Mfg. Co., 120 Mass. 383, it was held that a statute prohibiting the employment of all persons under the age of 18, and of all women laboring in any manufacturing establishment more than 60 hours per week, violates no contract of the commonwealth implied in the granting of a charter to a manufacturing company, nor any right reserved under the constitution to any individual citizen, and may be maintained as a health or police regulation.
+ Upon the principles above stated, we think the act in question may be sustained as a valid exercise of the police power of the state. The enactment does not profess to limit the hours of all workmen, but merely those who are employed in underground mines, or in the smelting, reduction, or refining of ores or metals. These employments, when too long pursued, the legislature has judged to be detrimental to the health of the employees; and, so long as there are reasonable grounds for believing that this is so, its decision upon this subject cannot be reviewed by the federal courts. 
+
+[169 U.S. 366, 396]
+ 
+ While the general experience of mankind may justify us in believing that men may engage in ordinary employments more than eight hours per day without injury to their health, it does not follow that labor for the same length of time is innocuous when carried on beneath the surface of the earth, where the operative is deprived of fresh air and sunlight, and is frequently subjected to foul atmosphere and a very high temperature, or to the influence of noxious gases generated by the processes of refining or smelting.
+ We concur in the following observations of the supreme court of Utah in this connection:
+'The conditions with respect to health of laborers in underground mines doubtless differ from those in which they labor in smelters and other reduction works on the surface. Unquestionably, the atmosphere and other conditions in mines and reduction works differ. Poisonous gases, dust, and impalpable substances arise and float in the air in stamp mills, smelters, and other works in which ores containing metals, combined with arsenic or other poisonous elements or agencies, are treated, reduced, and refined, and there can be no doubt that prolonged effort, day after day, subject to such conditions and agencies, will produce morbid, noxious, and often deadly effects in the human system. Some organisms and systems will resist and endure such conditions and effects longer than others. It may be said that labor in such conditions must be performed. Granting that, the period of labor each day should be of a reasonable length. Twelve hours per day would be less injurious than fourteen, ten than twelve, and eight than ten. The legislature has named eight. Such a period was deemed reasonable. ... The law in question is confined to the protection of that class of people engaged in labor in underground mines, and in smelters and other works wherein ores are reduced and refined. This law applies only to the classes subjected by their employment to the peculiar conditions and effects attending underground mining and work in smelters, and other works for the reduction and refining of ores. Therefore it is not necessary to discuss or decide whether the legislature can fix the hours of labor 
+
+[169 U.S. 366, 397]
+ 
+ in other mployments. Though reasonable doubts may exist as to the power of the legislature to pass a law, or as to whether the law is calculated or adapted to promote the health, safety, or comfort of the people, or to secure good order or promote the general welfare, we must resolve them in favor of the right of that department of government.' 46 Pac. 1105.
+
+ The legislature has also recognized the fact, which the experience of legislators in many states has corroborated, that the proprietors of these establishments and their operatives do not stand upon an equality, and that their interests are, to a certain extent, conflicting. The former naturally desire to obtain as much labor as possible from their employees, while the latter are often induced by the fear of discharge to conform to regulations which their judgment, fairly exercised, would pronounce to be detrimental to their health or strength. In other words, the proprietors lay down the rules, and the laborers are practically constrained to obey them. In such cases self-interest is often an unsafe guide, and the legislature may properly interpose its authority.
+ It may not be improper to suggest in this connection that although the prosecution in this case was against the employer of labor, who apparently, under the statute, is the only one liable, his defense is not so much that his right to contract has been infringed upon, but that the act works a peculiar hardship to his employees, whose right to labor as long as they please is alleged to be thereby violated. The argument would certainly come with better grace and greater cogency from the latter class. But the fact that both parties are of full age, and competent to contract, does not necessarily deprive the state of the power to interfere, where the parties do not stand upon an equality, or where the public health demands that one party to the contract shall be protected against himself. 'The state still retains an interest in his welfare, however reckless he may be. The whole is no greater than the sum of all the parts, and when the individual health, safety, and welfare are sacrificed or neglected, the state must suffer.'
+ We have no disposition to criticise the many authorities 
+
+[169 U.S. 366, 398]
+ 
+ which hold that state statutes restricting the hours of labor are unconstitutional. Indeed, we are not called upon to express an opinion upon this subject. It is sufficient to say of them that they have no application to cases where the legislature had adjudged that a limitation is necessary for the preservation of the health of employees, and there are reasonable grounds for believing that such determination is supported by the facts. The question in each case is whether the legislature has adopted the statute in exercise of a reasonable discretion, or whether its action be a mere excuse for an unjust discrimination, or the oppression or spoliation of a particular class. The distinction between these two different classes of enactments cannot be better stated than by a comparison of the views of this court found in the opinions in Barbier v. Connolly, 
+113 U.S. 27
+, 5 Sup. Ct. 357, and Soon Hing v. Crowley, 
+113 U.S. 703
+, 5 Sup. Ct. 730, with those later expressed in Yick Wo v. Hopkins, 
+118 U.S. 356
+, 6 Sup. Ct. 1064.
+ We are of opinion that the act in question was a valid exercise of the police power of the state, and the judgments of the supreme court of Utah are therefore affirmed.
+ Mr. Justice BREWER and Mr. Justice PECKHAM dissented. 
+
+
+

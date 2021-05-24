@@ -1,0 +1,97 @@
+Description: HARTLEY v. COMMISSIONER OF INTERNAL REVENUE , 295 U.S. 216 (1935)
+Date: 1935-04-29 00:00:00
+Docket: 602
+Opinion
+
+
+United States Supreme Court
+HARTLEY v. COMMISSIONER OF INTERNAL REVENUE(1935)
+No. 602
+Argued: Decided: April 29, 1935
+
+
+
+ As Amended May 20, 1935
+
+
+
+
+[295 U.S. 216, 217]
+ 
+ Messrs. H. C. Fulton and H. B. Fryberger, both of Duluth, Minn., for petitioner.
+ The Attorney General and Mr. David E. Hudon, of Washington, D.C., for respondent.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ The Court of Appeals for the Eighth Circuit, 72 F.(2d) 352, affirmed a ruling of the Board of Tax Appeals, 27 B.T.A. 952, and held that under section 202 of the Revenue Act of 1921, c. 136, 42 Stat. 227, 229, and section 204 of the Revenue Act of 1924, c. 234, 43 Stat. 253, 258 (26 USCA  935 and note), the basis for computing gain or loss on the sale of property, and its depletion or depreciation, for purposes of taxing income returned by the petitioner, an executor, is its value at the date of the decedent's death, rather than the cost to the decedent, or the value on March 1, 1913, if acquired before that date.
+ We granted certiorari, 
+294 
+U.S. 700
+, 55 S.Ct. 507, 79 L.Ed. --, to resolve a conflict of the decision below, and of the like decision, under section 202 of the 1918 Revenue Act, c. 18, 40 Stat. 1057, 1060 of the Circuit Court of Appeals for the Sixth Circuit in Eldredge v. United States, 31 F.(2d) 924, 930, with that of the Court of Claims in McKinney v. United States, 62 Ct.Cl. 180. See Elmhirst v. United States, 38 F.(2d) 915; Myers v. United States, 51 F.(2d) 145; compare McCann v. United States, 48 F.(2d) 446, each decided by the Court of Claims.
+ Petitioner's tax returns1 were for the calendar years 1924 and 1925. Sections 202(a, b) and 214(a)(8), (10) 
+
+[295 U.S. 216, 218]
+ 
+ of the 1921 Act, 42 Stat. 229, 239-241, and section 204(a), (b), (c) of the 1924 and 1926 Acts (26 USCA  935 and note) provide that the basis for computing gain or loss on the sale of property, and depreciation and depletion, shall be its cost, or its value on March 1, 1913, if acquired before that date. None of the acts specifically provide a basis for making the computations where return is made of income received by the estate of a decedent in the course of administration. But in the case of property acquired by 'bequest, devise, or inheritance' section 202(a)(3) of the 1921 Act, 42 Stat. 229, and section 204(a)(5) of the 1924 and 1926 Acts, 26 USCA  935 and note, provide that the basis shall be the fair market value 'at the time of acquisition.'
+ The revenue acts consistently treat the estate of a decedent in the hands of an administrator or executor as a separate taxpayer. By section 2 of the 1921 Act, 42 Stat. 227, and 1924 and 1926 Acts, 26 USCA  1262, the estate of a decedent is embraced within the term 'taxpayer.' Each act specifically provides for taxation of the income of an estate during administration. Section 219 of the 1924 Act, 42 Stat. 246, and 1924 and 1926 Acts, 26 USCA  960 note. Each includes profits from the sale of property by the taxpayer in taxable income, section 213 of the 1921 Act, 42 Stat. 237, 238, and 1924 and 1926 Acts, 26 USCA  954 and note, and provides for the deduction of losses from gross income in arriving at taxable income, section 214 of the 1921 Act, 42 Stat. 239, and 1924 and 1926 Acts, 26 USCA  955 and note. See Merchants' Loan & Trust Co. v. Smietanka, 
+255 
+U.S. 509, 516
+, 517 S., 41 S.Ct. 386, 15 A.L.R. 1305. Each makes provision for the imposition of a tax upon the estates of deceased persons, and the 'gross estate' which is the basis for computing the tax is the value of the decedent's property at the time of his death. Section 402, 1921 Act, 42 Stat. 278; section 302, 1924 and 1926 Acts, 26 USCA  1094 note.
+ The Court of Claims held that the time of acquisition, indicated by section 202(a) of the 1921 Act and section 204(a) of the 1924 and 1926 Acts as the controlling date for calculating gain or loss to the estate in the course of administration, must be taken to be the date of acquisition 
+
+[295 U.S. 216, 219]
+ 
+ by the decedent rather than the time of acquisition by the executor or administrator on the decedent's death. This conclusion, it was thought, was compelled by the statutory command that the basis of computation shall be 'cost,' which could have no application to the acquisition by the executor or administrator, who is not a purchaser of the estate which be administers. McKinney v. United States, supra, 62 Ct.Cl. 180, 188. But this specification is not enough to restrict the effect of the general provisions of these acts which impose a tax on the income, including capital gains, of taxpayers. The use of the word cost does not preclude the computation and assessment of the taxable gains on the basis of the value of property, rather than its cost, where there is no purchase by the taxpayer, and thus no cost at the controlling date. See Heiner v. Tindle, 
+276 
+U.S. 582, 585
+, 586 S., 48 S.Ct. 326; Lucas v. Alexander, 
+279 
+U.S. 573, 578
+, 579 S., 49 S.Ct. 426, 61 A.L.R. 906.
+ No plausible reason has ben advanced for supposing that Congress intended the capital gains or losses of the estate of a decedent to be treated any differently from those resulting from the sale of property taken by 'bequest, devise, or inheritance,' as provided in section 202(a)( 3) of the 1921 Act and section 204(a)(5) of the 1924 and 1926 Acts, or that it intended to bring gains or losses, accruing between the date of decedent's acquisition of the property and his death, into the computation of both the estate tax and the income tax assessed upon his administrator or executor. When it had a different purpose in the case of gifts inter vivos, not subject to a gift tax, it specifically directed that gains or losses to the donee should be computed on the basis of the cost of the property at the date of acquisition by the donor. Section 202(a)(2), 1921 Act; section 204(a)(2)(4), 1924 and 1926 Acts, 26 USCA  935(a) (2, 4); see Taft v. Bowers, 
+278 
+U.S. 470
+, 49 S.Ct. 199, 64 A.L.R. 362; Helvering v. New York Trust Co., 
+292 
+U.S. 455, 462
+, 54 S.Ct. 806. The conclusion seems inescapable that the intended date of acquisition by an executor or administra- 
+
+[295 U.S. 216, 220]
+ 
+ tor, where the estate is the taxpayer, is the date of the decedent's death. Brewster v. Gage, 
+280 
+U.S. 327, 335
+, 50 S.Ct. 115.
+ Possibility of doubt was removed by Treasury Regulation. Article 343 of Regulation 45, under the 1918 Act, prescribed that gains or losses of an estate should be computed on the basis of the value of the property at the date of the decedent's death. This was carried forward by article 343 of Regulation 62 under the Act of 1921, of Regulation 62 under the Act of 1924, and of Regulation 69 under the Act of 1926. Following the decision of the Court of Claims in McKinney v. United States, supra, and with the purpose of conforming to it, the ruling was amended by T.D. 4011, VI-1 Cum. Bul. 77, on April 6, 1927, so as to make the cost to the decedent the basis of the computation. Doubts having been raised as to the ruling in McKinney v. United States, supra, by later decisions,2 the amendment was revoked, and article 343 restored to its original form, T.D. 4177, VII-2 Cum.Bul. 134, on July 7, 1928. The substance of the regulation in its original and final form was carried into  113(a)(5) of the Revenue Act of 1928, c. 852, 45 Stat. 791, 818, 819, 26 USCA  2113(a)(5), which directed that the basis for the computation of gains or losses upon property acquired by the decedent's estate from the decedent should be its value at the time of the decedent's death.
+ The re-enactment of the pertinent provisions of section 202 of the Revenue Act of 1921 (42 Stat. 229) in the Acts of 1924, 26 USCA  935 and note, and 1926, 26 USCA  935, without material change, was a congressional recognition and approval of the interpretation of the section by the Treasury Regulations, which gave them the force of law. Old Mission Portland Cement Co. v. Helvering, 
+293 
+U.S. 289, 293
+, 294 S., 55 S.Ct. 158; Brewster v. Gage, supra, 
+280 
+U.S. 327, 337
+, 50 S.Ct. 115. The incorporation of the regulation in section 113(a)(5) of the 1928 Act 
+
+[295 U.S. 216, 221]
+ 
+ was intended to clarify, but not to change, the law. See Report of House Committee on Ways and Means, No. 2, 70th Cong., 1st Sess., p. 18; Report of Senate Committee on Finance, No. 960, 70th Cong., 1st Sess., p. 26; Report of Joint Committee on Internal Revenue Taxation, H.R. Doc. 139, 70th Cong., 1st Sess., pp. 17, 18.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote *
+] Opinion modified in 
+295 
+U.S. 719
+, 55 S.Ct. 832, 79 L.Ed. --. 
+
+[
+Footnote 1
+] As permitted by section 702 of the Revenue Act of 1928, c. 852, 45 Stat. 791, 879, 26 USCA  2702, petitioner elected to have his tax determined 'in accordance with the law properly applicable,' section 702(b ), rather than 'in accordance with the regulations in force at the time such return was filed,' section 702(a). 
+
+[
+Footnote 2
+] Nichols v. United States, 64 Ct.Cl. 241; Bankers' Trust Co. v. Bowers, 23 F.(2d) 941 (D.C.S.D., N.Y.), In re Straight's Appeal, 7 B.T.A. 177. 
+
+
+
+

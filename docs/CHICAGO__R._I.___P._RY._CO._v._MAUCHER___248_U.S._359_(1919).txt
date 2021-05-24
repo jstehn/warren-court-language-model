@@ -1,0 +1,50 @@
+Description: CHICAGO, R. I. & P. RY. CO. v. MAUCHER , 248 U.S. 359 (1919)
+Date: 1919-01-07 00:00:00
+Docket: 85
+Opinion
+
+
+United States Supreme Court
+CHICAGO, R. I. & P. RY. CO. v. MAUCHER(1919)
+No. 85
+Argued: Decided: January 7, 1919
+
+
+
+
+[248 U.S. 359, 360]
+ 
+ Mr. William D. McHugh, of Omaha, Neb., for plaintiff in error.
+
+
+[248 U.S. 359, 361]
+ 
+ Messrs. Philip E. Horan, T. J. Mahoney, and J. A. C. Kennedy, all of Ohaha, Neb., for defendant in error.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Barnum & Bailey, who owned rolling stock adapted to carrying their circus equipment and personnel, made, in 1913, a special contract with the Chicago, Rock Island & Pacific Railway Company concerning transportation on its lines. The railway agreed, for a sum fixed, to give the right to use its tracks and locomotives, fully manned and supplied, to haul the circus trains. Barnum & Bailey agreed, among other things, that the railway was not acting therein as a common carrier; that it should not be liable for any injury, though arising from negligence, either to their own person or property, or to that of any other of their 
+
+[248 U.S. 359, 362]
+ 
+ employes; and that they would indemnify the railway against any such injury.
+ While the circus train was being moved in Nebraska, from Lincoln, to Atlantic, Iowa, it was crashed into by one of the railway's regular passenger trains, and Maucher, an employe of the circus, was injured. He had, by his contract of employment, agreed to release all railroad companies from any claim for injuries suffered while traveling with the circus on their lines; but he brought, in a state court of Nebraska, an action against the railway for damages, alleging that he had been injured by its negligence. The railway defended on the ground that its contract with Barnum & Bailey, and thus with the plaintiff, operated to release it from all liability; that, since the contract related to a movement in interestate commerce, its validity was to be determined by the federal law; and that by the federal law the contracts were valid, although undertaking to release the railway from liability, since it was not acting as common carrier. Santa Fe, Prescott & Phoenix Railway Co. v. Grant Bros. Construction Co., 
+228 U.S. 177
+, 33 Sup. Ct. 474. The trial court held that the liability was to be determined by the law of Nebraska, and entered judgment for plaintiff, which was affirmed by the Supreme Court of the state. Maucher v. Chicago, R. I. & P. R. Co., 100 Neb. 237, 159 N. W. 422. The case came here on writ of error under section 237 of the Judicial Code (Act March 3, 1911, c. 231, 36 Stat. 1156 [Comp. St.  1214]).
+ The railway admits that prior to the enactment of the Carmack Amendment (Act June 29, 1906, c. 3591,  7, pars. 11, 12, 34 Stat. 584, 595 [Comp. St.  8604a, 8604aa]) Congress had not dealt with the right of carriers to limit by contract their liability for injuries occurring in interstate transportation, and that consequently the state were free to establish their own laws and policies and apply them to such contracts. Pennsylvania R. R. Co. v. Hughes, 
+191 U.S. 477
+, 24 Sup. Ct. 132. But it contends that this power of the states was superseded by the Carmack Amendment, since that amendment dealt with the power of carriers to contract in respect to such liability 
+
+[248 U.S. 359, 363]
+ 
+ (Adams Express Co. v. Croninger, 
+226 U.S. 491
+, 33 Sup. Ct. 148, 44 L. R. A. [N. S.] 257; Boston & Maine Railroad v. Hooker, 
+233 U.S. 97
+, 34 Sup. Ct. 526, L. R. A. 1915B, 450, Ann. Cas. 1915D, 593); that it was the intention of Congress to deal with the whole subject; and that the rights of plaintiff in respect to personal injuries are governed by the federal law. But the Carmack Amendment deals only with the shipment of property. Its language is so clear as to leave no ground for the contention that Congress intended to deal with the transportation of persons. Furthermore plaintiff was not even a passenger on the railway. His claim rests not upon a contract of carriage, but upon the general right of a human being not to be injured by the negligence of another. Compare Southern Pacific Co. v. Schuyler, 
+227 
+U.S. 601, 613
+, 33 S. Sup. Ct. 277, 43 L. R. A. (N. S.) 901. The case presents no substantial federal question. The writ of error is
+ Dismissed. 
+
+
+

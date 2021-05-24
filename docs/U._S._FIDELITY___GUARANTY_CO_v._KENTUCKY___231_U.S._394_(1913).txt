@@ -1,0 +1,64 @@
+Description: U. S. FIDELITY & GUARANTY CO v. KENTUCKY , 231 U.S. 394 (1913)
+Date: 1913-12-01 00:00:00
+Docket: 26
+Opinion
+
+
+United States Supreme Court
+U. S. FIDELITY & GUARANTY CO. v. KENTUCKY(1913)
+No. 26
+Argued: April 21, 1913Decided: December 1, 1913
+
+
+
+
+[231 U.S. 394, 395]
+ 
+ Messrs. Allan D. Cole and W. T. Cole for plaintiff in error.
+ Mr. James Garnett, Attorney General of Kentucky, and Mr. D. O. Myatt for defendant in error.
+
+ Mr. Justice Pitney, delivered the opinion of the court:
+ Section 4224 of the Kentucky Statutes (Carroll's ed. 1909) provides as follows:
+'Before engaging in any occupation or selling any article named in this subdivision of article 12 of this act, the person desiring to do so shall procure license and pay the tax thereon as follows: . . . Commercial agencies.-Each and every person, partnership, or corporation having representatives in this state, who engage in the business of inquiring into and reporting upon the credit and standing of persons engaged in business in this state, shall pay a license tax of $100.'
+
+ Plaintiff in error was indicted for failing to pay the license tax required by this provision, and, upon trial, was convicted and fined. The trial court, and, on appeal, the court of appeals of Kentucky (139 Ky. 27, 39, 47 L.R.A.(N.S.) 648, 129 S. W. 314, Ann. Cas. 1912 B, 333), overruled the contention that the business done by plaintiff in error was interstate commerce, within the meaning 
+
+[231 U.S. 394, 396]
+ 
+ of  8 of article 1 of the Federal Constitution, and for that reason not subject to the taxing power of the state.
+ The indictment was based upon the employment by plaintiff in error of a firm of attorneys at Maysville, Kentucky, as its representatives for inquiring into and reporting upon the credit and standing of persons engaged in business in that state. Plaintiff in error is a corporation of the state of Maryland, and is engaged in the publication and distribution of a list of selected attorneys in the United States. With the several attorneys upon the list, plaintiff in error has an arrangement by which, in consideration of a fee paid by them to it, their names are inserted, and plaintiff in error guarantees to merchants and other persons sending claims to the attorneys that they will promptly and faithfully pay over all moneys collected. It furnishes the list of attorneys to business men and merchants throughout the United States. It provides the attorneys, and also the subscribers to or purchasers of the book, with blank forms upon which information respecting the business and financial standing of persons with whom a subscribing merchant desires to deal may be furnished, and the attorneys, upon request, make replies to inquiries of this character when received from subscribing members. The attorneys do not make reports to the plaintiff in error, but send them direct to the person or firm making the inquiry. The attorneys are not the agents for either buyer or seller, in the sense that any goods are bought or sold through their instrumentality. Such was the business that was done by the Maysville attorneys, as representatives of the plaintiff in error. They did not sell or offer to sell any goods, nor deliver or offer to deliver any, and had nothing to do with buying, selling, transporting, delivering, or handling any merchandise. If any commercial transaction took place between the merchant whose standing was reported and the merchant to whom the report was sent, it was due entirely to ne- 
+
+[231 U.S. 394, 397]
+ 
+ gotiations between them, with which the reporting attorney had nothing to do. Correspondence in which the Maysville attorneys furnished nonresident dealers with information was only desultory, and occasional, and was not followed by the making of any contract or the transportation of any goods between the parties to the correspondence.
+ The contention of plaintiff in error is that the Maysville attorneys and its other representatives of the same kind are, through the means of the system employed, acting in fact as agents of merchants engaged in interstate commerce, to furnish them with information through the mails or by telephone or telegraph, as a result of which merchandise may be transported in interstate commerce, or withheld from such transportation, according to the character of the information reported; and that the service thus rendered is so connected with interstate commerce as to preclude the state of Kentucky from enacting a statute imposing a license tax whose tendency is or may be to prevent plaintiff in error from operating in that state.
+ The tax in question is an excise or privilege tax, and undoubtedly within the power of the state, unless it has the effect of directly burdening interstate commerce. It is only one of a great number of license taxes dealt with in a single section of the statute, and including a great variety of occupations. In the case of commercial agencies, the thing that is laid hold of as the subject of the excise is a business carried on within the state. If it have consequences extending beyond the borders of the state, and affecting interstate commerce, these are only incidental and fortuitous. The case is, we think, easily to be distinguished from McCall v. California, 
+136 U.S. 104
+, 34 L. ed. 391, 3 Inters. Com. Rep. 181, 10 Sup. Ct. Rep. 881, and International Textbook Co. v. Pigg. 
+217 U.S. 91
+, 54 L. ed. 678, 27 L.R.A.(N.S.) 493, 30 Sup. Ct. Rep. 481, 18 Ann. Cas. 1103, relied upon by plaintiff in error. In the McCall Case the local instrumentality that was held to be exempt from 
+
+[231 U.S. 394, 398]
+ 
+ interference by state taxation was an agent whose business was the direct solicitation of passengers for interstate journeys by rail. This was clearly within the reasoning and authority of Robbins v. Taxing Dist. 
+120 U.S. 489
+, 30 L. ed. 694, 1 Inters. Com. Rep. 45, 7 Sup. Ct. Rep. 592, and other cases of that class. In the case of the International Textbook Company, there was a systematic and continuous interstate traffic in instruction papers, text-books, and illustrative apparatus for courses of study pursued by means of correspondence, and this was held to be in its essential characteristics commerce among the states within the meaning of the Federal Constitution, and entitled thereunder to exemption from any direct burden imposed by state legislation.
+ In the present case it appears that there is not even systematic or continuous correspondence, much less interstate commerce resulting therefrom. There is no direct or necessary connection betwe en the service performed by plaintiff in error through its representatives and the making or fulfilment of commercial contracts. The most that can be said is that inquiries received by those representatives in Kentucky with respect to the credit and standing of persons engaged in business in that state may be received from merchants without the state in anticipation of commercial transactions between them in the future. But, on the other hand, similar inquiries may be received from merchants in Kentucky, and may have reference alone to intrastate, and not to interstate, transactions. Or, the information may be desired as an aid in extending or refusing to extend credit for past transactions, as well as to lay the basis for future dealings. The circumstance that in a substantial number of cases- even if in the greater number-there is correspondence, by letter or otherwise, from state to state, which may perhaps have an effect upon the conduct of other parties about entering or not entering into transactions of interstate commerce, is not controlling. 
+
+[231 U.S. 394, 399]
+ 
+ The present case has no close parallel in former decisions, but in some of its aspects it bears a resemblance to the case of a tax imposed upon a resident citizen engaged in a general business that happens to include a considerable share of interstate business. Ficklen v. Taxing Dist. 
+145 U.S. 1
+, 36 L. ed. 601, 4 Inters. Com. Rep. 79, 12 Sup. Ct. Rep. 810. Or the business of the live stock exchange that was under consideration in Hopkins v. United States, 
+171 
+U.S. 578, 592
+, 43 S. L. ed. 290, 296, 19 Sup. Ct. Rep. 40. Or the business of a cotton broker dealing in futures or options. Ware v. Mobile County, 
+209 U.S. 405
+, 52 L. ed. 855, 28 Sup. Ct. Rep. 526, 14 Ann. Cas. 1031
+
+
+ To warrant interference with the exercise of the taxing power of a state on the ground that it obstructs or hampers interstate commerce, it must appear that the burden is direct and substantial. We do not think the present is such a case.
+ Judgment affirmed. 
+
+
+

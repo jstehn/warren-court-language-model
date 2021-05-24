@@ -1,0 +1,91 @@
+Description: ARKANSAS RAILROAD COMMISSION v. CHICAGO, R. I. & P. R. , 274 U.S. 597 (1927)
+Date: 1927-05-31 00:00:00
+Docket: 549
+Opinion
+
+
+United States Supreme Court
+ARKANSAS RAILROAD COMMISSION v. CHICAGO, R. I. & P. R.(1927)
+No. 549
+Argued: April 20, 1927Decided: May 31, 1927
+
+
+
+ Mr. Edward A. Haid, of St. Louis, Mo., for appellants.
+ Mr. Thomas S. Buzbee, of Little Rock, Ark., for appellee. 
+
+[274 U.S. 597, 598]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This is a direct appeal from a final decree of the federal court for Eastern Arkansas granting an injunction under paragraph 3 of section 238 of the Judicial Code, as amended by the Act of February 13, 1925 (Comp. St .  1215). The plaintiff below was the Chicago, Rock Island & Pacific Railroad; the defendants, the Arkansas Railroad Commission and a state prosecuting attorney. The controversy concerns an order of the state commission, which suspends for examination an intrastate commodity tariff, framed on the mileage basis, which had been filed by the railroad to cover cottonseed and its products. A restraining order issued two days after the filing of the bill, in accordance with a stipulation of the parties. An interlocutory injunction was granted, after overruling a motion to dismiss the bill. The defendants then answered. The case was heard before three judges on final hearing, and evidence which occupies 174 pages of the printed record was introduced. The final decree sets aside the order of the state commission suspending the tariffs, and enjoins enforcement of that order.
+ No opinion was delivered on entry of either the interlocutory or the final decree. and neither decree states the reasons for issuing the injunction. Failure to observe the requirement of section 19 of the Act of October 15, 1914, c. 323, 38 Stat. 730, 738 (Code of Laws, tit. 28,  383, p. 909 (Comp. St.  1243c)), although improper, does not invalidate the decrees. Lawrence v. St. Louis-San Francisco Ry. Co. (No. 894) 
+274 
+U.S. 588
+, 47 S. Ct. 720, 71 L. Ed. -, decided May 31, 1927. But we are of opinion that on the undisputed facts the decree appealed from should be reversed, with directions to dismiss the bill.
+ The tariff filed by the railroad, which the Arkansas commission suspended, covers only intrastate rates. It corresponds with tariffs for interstate rates which the In- 
+
+[274 U.S. 597, 599]
+ 
+ terstate Commerce Commission prescribed. The earlier intrastate tariff, for which it was a substitute, was lower. The railroad claims that the state commission should be enjoined, because the earlier tariff is unlawful, and that the suspended tariff, although applicable only to intrastate rates, is valid, under the doctrine of the Shreveport case. Houston East & West Texas Ry. Co. v. United States, 
+234 
+U.S. 342
+, 34 S. Ct. 833. The railroad concedes that states have the exclusive right to fix intrastate rates, subject to the limitation that such rates must not unduly discriminate against interstate commerce; that a mere difference in rate does not constitute an undue discrimination; that the question whether discrimination exists is one for the Interstate Commerce Commission; that to justify federal interference there must be substantial disparity resulting in real discrimination; and that the extent of the alleged discrimination must be found in the federal commission's order. It contends that the Interstate Commerce Commission found that the existing intrastate class and commodity tariff discriminated unjustly against interstate commerce, that it ordered the removal of the discrimination, and that the railroad had, therefore, the right and the duty to substitute a new nondiscriminating tariff. The answer of the state commission is a denial that the federal commission made such finding or order.
+ The issue presented must be determined by construing the reports and orders of the Interstate Commerce Commission. The controversy had its origin in a general inquiry, arising out of alleged discrimination against Memphis through Arkansas and other intrastate rates, but extending to the entire rate schedule of the Southwest and between the Southwest and Mississippi river crossings-an investigation which has occupied much time of the federal commission. 
+1
+ The particular question here 
+
+[274 U.S. 597, 600]
+ 
+ presented involves primarily only the reports and orders in two cases, Memphis-Southwestern Investigation-Commodity Rates, 77 Interst. Com. Com'n R. 473 and Oklahoma Commission v. Abilene & Southern Ry. Co., 98 Interst. Com. Com'n R. 183. In the former case a standard distance scale of rates on commodities, including those on cottonseed and its products, was prescribed or approved (i) interstate from the river crossings to points in Arkansas, Southern Missouri, and Western Louisiana; (ii) interstate between points in Arkansas, Southern Missouri, and Western Louisiana; and ( iii) the same scale was virtually prescribed intrastate in Arkansas by a finding that, to avoid discrimination, the rates from Memphis and Natchez to Arkansas should not exceed, for equal distances, the Arkansas intrastate rates. 
+2
+ There was an express finding that the Arkansas intrastate rates were discriminatory and an order that the discrimination should 
+
+[274 U.S. 597, 601]
+ 
+ be removed. Thereupon the intrastate rates were changed, in conformity with the order, and those in force at the time of the institution of this suit were filed, to become effective as of November 27, 1923. Ultimately they had the approval of the state commission. The findings and orders of the Interstate Commerce Commission in that case (77 Interst. Com. Com'n R. 473) were made without prejudice to any orders which might be made in the Oklahoma Commission Case or in others then pending.
+ In the Oklahoma Commission Case, 98 Interst. Com. Com'n R. 183, attack was made upon the interstate rates on cottonseed and its products, not only upon those in the territory involved in the Memphis-Southwestern Case, but also upon those in Oklahoma, Texas, and New Mexico, and upon those from such points to Western Classification territory. The intrastate rates of New Mexico, Texas, Oklahoma, Arkansas, Western Louisiana, and Southern Missouri were also attacked. The report prescribed an interstate distance scale on such products throughout most of the territory involved, an between such territory and the Mississippi river crossings (East St. Louis and South), the scale being somewhat higher than the Memphis- Southwestern scale. The Texas and Oklahoma intrastate rates were found prejudicial to interstate commerce to the extent to which they were lower than the interstate rates, for like distances, in force in those states. But the Interstate Commerce Commission made no finding or order with reference to the Arkansas intrastate rates, saying:
+
+
+[274 U.S. 597, 602]
+ 
+ 'The evidence of record upon which a conclusion may be reached as to the discriminatory character of the intrastate rates on cottonseed and cottonseed cake, meal, and hulls now in effect in Arkansas and on all of these commodities applying between points in Louisiana is very meager. ... We are not informed as to the routes over which the Arkansas intrastate rates apply, and particular instances of discrimination in the present rates are absent.'
+ The railroad concedes that intrastate Arkansas rates are not within the terms of the order of the federal commission in the Oklahoma Commission Case. Its argument is that in the Memphis-Southwestern Cast it was ordered that the Memphis to Arkansas rates should not exceed the Arkansas intrastate rates, that that order has not been rescinded, and hence that, when the interstate rate from Memphis to Arkansas was raised as a result of the Oklahoma Commission Case, it became the duty of the railroads to raise the intrastate rates to a corresponding degree. But it appears that in the later case the Interstate Commerce Commission considered the propriety of ordering the Arkansas intrastate rates raised to the new level, and refused to do so. There was no rescission in terms of the former order. But when the two orders are read together, as they must be, it is clear that the Commission construed its earlier order as requiring only that the Arkansas rates should not be lower than the interstate Memphis to Arkansas rates prescribed in that case, as long as they should be maintained. 
+3
+ 
+
+
+
+[274 U.S. 597, 603]
+ 
+ The intention to interfere with the state function of regulating intrastate rates is not to be presumed. Where there is a serious doubt whether an order of the Interstate Commerce Commission extends to intrastate rates, the doubt should be resolved in favor of the state power. If, as the railroad believed, the federal commission intended to include the intrastate Arkansas rates within its order, it should have taken action, through appropriate application, to remove the doubt by securing an expression by that commission of the intention so to do. Compare American Express Co. v. South Dakota, 
+244 
+U.S. 617, 627
+, 37 S. Ct. 656; Illinois Cent. R. R. Co. v. Public Utilities Commission, 
+245 
+U.S. 493, 509
+, 510 S., 38 S. Ct. 170.
+ In Virginian Ry. Co. v. United States, 
+272 
+U.S. 658, 675
+, 47 S. Ct. 222, and in Lawrence v. St. Louis-San Francisco Ry. Co., supra, we called attention to the importance to the parties, to the public, and to this court of supporting the decree, in cases of this character, by an opinion which shall state fully the reasons for setting aside a commissioner's order.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] The controversy began with complaints, filed by Memphis and Natchez interests, alleging that the rates from Memphis and Natchez to Arkansas were prejudicial as compared with Arkansas intrastate rates, and with the rates from other Mississippi river crossings to Arkansas. See Memphis Freight Bureau v. St. L., I. M. & S. Ry. Co., 36 Interst. Com. Com'n R. 224; City of Memphis v. C., R. I. & P. Ry. Co., 39 Interst. Com. Com'n R. 256, Id., 43 Interst. Com. Com'n R. 121, Id., 45 Interst. Com. Com'n R. 487; Natchez Chamber of Commerce v. L. & A. Ry. Co., 52 Interst. Com. Com'n R. 105. Efforts to obey orders made in those cases revealed that it was difficult to deal with the rates there involved except as part of a general adjustment of rates in the Southwest. Accordingly those cases were reopened for consideration in a general investigation. The first report of the general investigation established a distance scale of maximum interstate class rates between points in Arkansas, Oklahoma, and Southern Missouri, and between certain river crossings and such points. Memphis- Southwestern Investigation, 55 Interst. Com. Com'n R. 515. It virtually prescribed the same scale of class rates intrastate in Arkansas by finding that the intrastate rates should not be less, for equal distances, than the interstate rates from Memphis and Natchez to Arkansas. In Extension of Memphis-Southwestern Scale, 62 Interst. Com. Com'n R. 596, the same scale of class rates was approved for extension to Texas points. All these cases dealt with class rates only; the reports referred to in the text deal with commodity rates only. 
+
+[
+Footnote 2
+] Throughout the opinion no mention is made of charges for the ferry and bridge crossings of the Mississippi. All the distance scales prescribed by the Commission make provision for added charges for such crossings, and the discrimination orders against the intrastate rates make allowance for such charges.
+ The Memphis-Southwestern distance scale was later put into effect voluntarily intrastate in Louisiana. And it was approved for application from Oklahoma, Arkansas, and Western Louisiana to Fort Worth. Fort Worth Cotton Oil Mill v. A., T. & S. F. Ry. Co., 80 Interst. Com. Com'n R. 18. 
+
+[
+Footnote 3
+] The latest report of the Interstate Commerce Commission dealing with Southwestern rates, April 5, 1927, appears not to apply to the commodity rates on cottonseed and its products here in question. Consolidated Southwestern Cases, 123 Interst. Com. Com'n R. 203, 360, 362, 409, 410, 429-439. See, also, Commodity Rates in Southwestern Territory, 101 Interst. Com. Com'n R. 308. 
+
+
+
+

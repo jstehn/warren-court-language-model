@@ -1,0 +1,72 @@
+Description: GENEVA FURNITURE MFG. CO. v. S. KARPEN & BROS. , 238 U.S. 254 (1915)
+Date: 1915-06-14 00:00:00
+Docket: 496
+Opinion
+
+
+United States Supreme Court
+GENEVA FURNITURE MFG. CO. v. S. KARPEN & BROS.(1915)
+No. 496
+Argued: Decided: June 14, 1915
+
+
+
+
+[238 U.S. 254, 255]
+ 
+ Messrs. Thomas A. Banning and Samuel Walker Banning for appellant.
+ Messrs. Levy Mayer, Isaac H. Mayer, John H. Lee, and Philip C. Dyrenforth for appellees.
+
+
+
+[238 U.S. 254, 257]
+ 
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ This is a direct appeal under Judicial Code,  238 [36 Stat. at L. 1157, chap. 231, Comp. Stat. 1913,  1215], from a decree dismissing a suit in equity for want of jurisdiction, the question for decision being whether the bill presents a case arising under the patent laws; that is, a case asserting some right or privilege under those laws which will be sustained by one construction of them or defeated by another. Althought not a model of good pleading, the bill plainly shows, when all of its is considered, that it is intended to charge the defendants (a) with contributing to the infringement of letters patent belonging to the plaintiff by wrongfully inducing and persuading designated licensees of the plaintiff to make, use, and sell devices embodying the inventions of the patents in circumstances not authorized or permitted by their licenses ; (b) with wrongfully procuring such licensees to violate their license contracts in designated particulars, some of which have no bearing on the charge of infringement; and (c) with refusing to perform stipulations whereby the defendants agreed to assign to the plaintiff certain other letters patent. The prayer is for an injunction and accounting in respect of the contributory infringement, for an injunction and damages in respect of the procured breach of the licensees' contractual obligations, and for the specific performance of the stipulations to assign the other letters patent. The plaintiff is described as a New York corporation, one of the defendants as a West Virginia corporation, another as an Illinois corporation, and the third as an individual citizen of the latter state. The West Virginia company is alledged to have a regular and established place of business in the northern district of illinois, and the acts of infringement and contributory infringement are charged to have been committed in that district. Then there is an allegation that the suit is one 'arising under the patent 
+
+[238 U.S. 254, 258]
+ 
+ laws of the United States, and also between citizens of different states,' and that the amount in controversy exceeds $3,000, exclusive of interest and costs.
+ If the suit be one arising under the patent laws the district court undoubtedly had jurisdiction,-Judicial Code,  24, 7 and  48 and 256 [ 36 Stat. at L. 1092, 1100, 1160, chap. 231, Comp. Stat. 1913,  991 (7), 1030, 1233]; but if it be not such a suit, that court was obviously without jurisdiction as respects the West Virginia company, unless it chose to waive its privilege of being sued only in the district of its residence or that of the plaintiff.  51. Appearing specially, that company objected that the suit was not one arising under the patent laws, and insisted upon its personal privilege. The objection was sustained. The other defendants, likewise appearing specially, objected that the suit did not arise under the patent laws, and could not proceed without the presence of the West Virginia company because it was an indispensable party. This objection also was sustained, and the bill was then dismissed, the decree reciting that the dismissal was for want of jurisdiction.
+ We think the bill plainly rests the first branch of the suit, that relating to the alleged contributory infringement of the plaintiff's patents, upon the patent laws, and asserts in effect, if not in exact words, that the infringing acts charged against the defendants constitute an invasion of the plaintiff's exclusive rights under those laws and entitle it to relief thereunder by injunction and a recovery of profits and damages. And we think it cannot be said of this branch of the case that it is so unsubstantial or devoid of merit as to make it frivolous, or to bring it only nominally within the patent laws. On the contrary, we think it presents a real question under them. Whether it shall finally prevail or fail, it has enough of substance to entitle the plaintiff to an adjudication of it as presented. Thus it is within the ruling in The Fair v. Kohler Die & Specialty Co. 
+228 
+U.S. 22, 25
+, 57 S. L. ed. 716, 717, 33 Sup. Ct. Rep. 410, that 'if the plaintiff really makes a substantial claim under an act of Congress there is jurisdiction 
+
+[238 U.S. 254, 259]
+ 
+ whether the claim ultimately be held good or bad.' Jurisdiction, as pointed out in that case, is the power to consider and decide one way or the other, as the law may require, and is not to be declined merely because it is not foreseen with certainty that the outcome will help the plaintiff. Of like import is Healy v. Sea Gull Specialty Co. 
+237 U.S. 479
+, 59 L. ed. --, 35 Sup. Ct. Rep. 658.
+ We therefore hold that so much of the bill as charges the defendants with contributory infringement of the plaintiff's letters patent, and seeks relief on that ground, presents a case arising under the patent laws of which the district court should have taken jurisdiction.
+ But the other portions of the bill stand upon a different footing. The causes of action which they present-those not founded upon an unauthorized making, using, or selling of devices embodying the inventions of the plaintiff's patents, but resting only upon a breach of contractual obligations-do not arise under the patent laws. New Marshall Engine Co. v. Marshall Engine Co. 
+223 U.S. 473
+, 56 L. ed. 513, 32 Sup. Ct. Rep. 238; Henry v. A. B. Dick Co. 
+224 
+U.S. 1, 14
+, 15 S., 56 L. ed. 645, 650, 651, 32 Sup. Ct. Rep. 364, Ann. Cas. 1913D, 880. As to them no Federal court can take jurisdiction of a suit against the West Virginia company without its consent, save in the district of its residence or that of the plaintiff ( Judicial Code,  51); and it hardly needs statement that the jurisdiction as limited and fixed by Congress cannot be enlarged or extended by uniting in a single suit causes of action of which the court is without jurisdiction with one of which it has jurisdiction. Upon this point the rule otherwise prevailing respecting the joinder of causes of action in suits in equity must, of course, yield to the jurisdictional statute. Thus, the West Virginia company's objection, while not good as to the entire bill, was good as to the causes of action not arising under the patent laws. Whether these causes of action can be retained as against the other defendants, after they are eliminated so far as the West Virginia company is concerned, is not open to consideration now. It 
+
+[238 U.S. 254, 260]
+ 
+ is not a question of Federal jurisdiction within the meaning of  238, but only one of general equity jurisdiction and practice applicable as well to state as to Federal courts. Bogart v. Southern P. Co. 
+228 U.S. 137
+, 57 L. ed. 768, 33 Sup. Ct. Rep. 497, and cases cited.
+ The decree of dismissal is reversed and the cause is remanded for further proceedings in conformity with this opinion.
+ Decree reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] Act March 3, 1911, c. 231, 36 Stat. 1087 (Comp. St. 1913,  991, 1030, 1233). 
+[
+Footnote 2
+] Comp. St. 1913,  1033. 
+[
+Footnote 3
+] Comp. St. 1913,  1215. 
+
+
+
+

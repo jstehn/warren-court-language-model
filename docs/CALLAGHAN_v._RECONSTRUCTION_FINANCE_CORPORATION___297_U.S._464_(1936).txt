@@ -1,0 +1,84 @@
+Description: CALLAGHAN v. RECONSTRUCTION FINANCE CORPORATION , 297 U.S. 464 (1936)
+Date: 1936-03-02 00:00:00
+Docket: 539
+Opinion
+
+
+United States Supreme Court
+CALLAGHAN v. RECONSTRUCTION FINANCE CORPORATION(1936)
+No. 539
+Argued: Decided: March 2, 1936
+
+
+
+
+[297 U.S. 464, 465]
+ 
+ Mr. Percival E. Jackson, of New York City, for petitioners Callaghan and others.
+ Mr. Theodore Stitt, of Brooklyn, N.Y., pro se.
+ Eli W. Debevoise, of New York City, for respondent.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Nos. 539, 540.
+ In these cases certiorari was granted, 
+296 
+U.S. 570
+, 56 S.Ct. 307, because of the public impo tance of the questions involved, to review the interpretation by the Court of Appeals for the Second Circuit, In re Allied Owners Corp., 79 F.(2d) 187, of the provisions of section 77B of the Bankruptcy Act (11 U.S.C.A.  207) govering allowances to trustees and referees in bankruptcy for their services in bankruptcy proceedings when superseded by reorganization proceedings under that section. No 539, which relates to the allowances of the trustees in bankruptcy, and No. 540, which relates to the compensation of the referee in bankruptcy, will be separately considered. 
+ No. 539.
+ Allowances to Trustees in Bankruptcy.
+ Petitioners were trustees in a bankruptcy proceeding which was superseded by a proceeding to reorganize the debtor under section 77B, 11 U.S.C.A.  207. The referee in bankruptcy fixed their compensation at $60, 000, which the District Judge 
+
+[297 U.S. 464, 466]
+ 
+ sitting in bankruptcy increased to $90,000. The same judge sitting in the reorganization proceeding ordered payment of this allowance. The Court of Appeals reduced it to $14,628.50, computed, as provided by section 48a and 48e of the Bankruptcy Act (11 U.S.C.A.  76(a, e) upon the basis of cash disbursed by them. It held that section 77B(i), 11 U.S.C.A.  207(i), requires that allowances to trustees, for their services in the bankruptcy proceeding, be fixed in conformity to section 48 (11 U.S.C.A.  76), and that the reorganization court, in so far as it finds them reasonable, direct their payment from the property of the debtor.
+ Section 77B(i) provides: 'If a receiver or trustee of ... the property of a corporation has been appointed by a Federal, State, or Territorial court,' and appropriate proceedings for a reorganization are afterward had under section 77B, the trustee or receiver appointed in the reorganization proceedings, or the debtor if no trustee is appointed, 'shall be entitled forthwith to possession of (such property) and vested with title,' and, 'the judge shall make such orders as he may deem equitable for the protection of obligations incurred by the receiver or prior trustee and for the payment of such reasonable administrative expenses and allowances in the prior proceeding as may be fixed by the court appointing aid receiver or prior trustee.'
+ It is the contention of petitioners that section 77B(i), when bankruptcy is superseded by reorganization, authorizes the bankruptcy court to fix reasonable allowances for trustee's services, unrestricted by section 48 or other provision of the Bankruptcy Act, and that it requires payment of the allowances thus fixed except that the reorganization court may reduce them if it finds them excessive.
+ Petitioners thus construe 77B(i) as substituting the test of reasonableness for all other statutory restrictions upon the authority of the prior court to compensate trustees, a result which is reached by reading 'reasonable' as 
+
+[297 U.S. 464, 467]
+ 
+ qualifying the authority to fix compensation given by section 77B(i) to the appointing court. They argue that section 48 was intended only to apply to bankruptcies in which liquidation results; that when, because of the intervening reorganization proceeding, liquidation does not result, section 77B(i) makes a new grant of power to the court appointing the trustee to fix reasonable allowances without reference to the limitations of section 48; that the interpretation of the court below is inadmissible because of the hardship of inadequate allowances which would ensue in some instances if it were accepted.
+ We think these arguments ignore the words of section 77B(i), the policy disclosed by its legislative history, and the policy as well of the Bankruptcy Act, of which it is an integral part. It is the judge in the reorganization proceeding who is to order payment of such reasonable administrative expenses and allowances in the prior proceeding as may be fixed by the court appointing the 'prior trustee.' Plainly the word 'reasonable' seems designed, by qualifying the action of the judge ordering the payment, to enable him to require tha allowances, which the statute permits the prior judge to fix, shall not exceed the limit of reasonableness. Compare Taylor v. Sternberg, 
+293 
+U.S. 470
+, 55 S.Ct. 260; Gross v. Irving Trust Co., 
+289 
+U.S. 342
+, 53 S.Ct. 605, 90 A.L.R. 1215; Hume v. Myers (C.C.A.) 242 F. 827. Only by a strained construction can it be read as a new grant of power to the latter, by qualifying his action and impliedly relieving him of existing limitations upon his authority to make allowances for services rendered by officers of his own court.
+ That such a grant of power was not intended is evident from the fact that the section applies to the administrative expenses incurred in state court proceedings as well as in bankruptcy. It would require compelling language to justify the conclusion that Congress has undertaken to enlarge or alter the powers of state courts to fix allow- 
+
+[297 U.S. 464, 468]
+ 
+ ances for their own administrative expenses because payment of them is to be effected by a federal court to which the proceeding has been transferred.
+ In interpreting the section, it is of importance that it is a part of the Bankruptcy Act, to be read with the other sections relating to allowances, and that the allowances are compensation for officers of the court and for expenses incurred in the course of a judicial proceeding conducted for the purpose, among others, of protecting the interests of creditors in the debtor's property. Trustees in bankruptcy are public officers and officers of a court, and the officers of a court, like public officers generally must show clear warrant of law before compensation will be owing to them for the performance of their public duties. Realty Associates Securities Corp. v. O'Connor, 
+295 
+U.S. 295, 299
+, 55 S.Ct. 663
+
+
+ It has been the consistent policy of Congress that proceedings in bankruptcy and under section 77B be economically administered. This is evidenced by explicit limitations in sections 40, 48, of the Bankruptcy Act (11 U.S.C.A.  68, 76), on fees of referees, trustees, and receivers. To exact strict compliance with these sections, section 72 (11 U.S.C.A.  112) commands: 'Neither the referee, receiver, marshal, nor trustee shall in any form or guise receive, nor shall the court allow him, any other or further compensation for his services than that expressly authorized and prescribed in this Act (title).' In recognition of this policy, the limitations upon expenses prescribed by sections 40, 48, have been strictly construed, even when the compensation allowed was, in special circumstances, materially less than that which otherwise might have been considered reasonable. See Realty Associates Securities Corp. v. O'Connor, supra; In re Detroit Mortgage Corporation (C.C.A.) 12 F.(2d) 889; American Surety Co. v. Freed (C.C.A.) 224 F. 333. Compare In re Consolidated Distributors, Inc. (C.C.A.) 298 F. 859; In re Curtis (C.C.A.) 100 F. 784, 792. Occasional hardship to the individual is a consideration outweighed by the public interest and the declared policy of Congress. 
+
+[297 U.S. 464, 469]
+ 
+ One of the controlling reasons for the enactment of section 77B was the desire to reduce the cost of reorganization. See Continental Illinois National Bank v. Chicago, R.I. & P.R. Co., 
+294 
+U.S. 648, 685
+, 55 S.Ct. 595; Report No. 194, House Judiciary Committee, June 2, 1933, 73d Cong., 1st Sess.; Report No. 482, Senate Judiciary Committee, March 15, 1934, 73d Cong. 2d Sess. Section 76a, 11 U.S.C.A., enacted at the same time as section 77B, Bankr.Act, provides: 'The compensation allowed a ... trustee shall in no case be excessive or exorbitant, and the court in fixing such compensation shall have in mind the conservation and preservation of the estate of the bankrupt and the interests of the creditors therein.' Where the attempted reorganization results in liquidation, sections 40, 48, regulating the fees of referees, receivers and trustees in bankruptcy, are incorporated by reference in section 77B(k ), 11 U.S.C.A.  207(k), and are likewise made to control the fees of such officers in the reorganization proceedings.
+ In all this we find convincing evidence that the settled policy of the Bankruptcy Act and its specific restrictions upon the allowances to officers were not to be disturbed by the inclusion, in a new provision for the transformation of an insolvency proceeding into one for reorganization, of permission to the judge in the former to fix allowances. Only amendatory language plainly indicating a purpose of disregard the restrictions of sections 40, 48, would justify a different conclusion.
+ No. 540. Allowances to the Referee in Bankruptcy.
+ Petitioner was the referee in the proceeding in bankruptcy which was superseded by the reorganization proceeding. The District Judge allowed him $25,000 for his services in the bankruptcy proceeding, and the same judge, sitting in the reorganization proceeding, ordered it paid. The Court of Appeals reduced the allowance to $1,038, computing it in accordance with section 40 of the Bankruptcy 
+
+[297 U.S. 464, 470]
+ 
+ Act. As there had been no disbursement to creditors, the allowance was limited by section 40 to a filing fee and commissions on creditors' claims filed. Adopting the same comclusion which we have reached in No. 539, petitioner does not contend that section 77B(i) is authority for disregarding the limitations of the other sections of the Bankruptcy Act upon allowances for administration expenses. But he insists that reorganization under section 77B is a confirmation of a composition so that he is entitled to the allowance authorized by section 40a, 11 U.S.C.A .  68(a), of 'one-half of one per centum on the amount to be paid to creditors upon the confirmation of a composition.'
+ He also relies on section 40c, 11 U.S.C.A.  68(c), which provides, 'In event of the reference of a case being invoked before it is concluded, and when the case is specially referred, the judge shall determine what part of the fee and commissions shall be paid to the referee.'
+ In view of the requirement, already discussed, of strict construction of sections of the Bankruptcy Act fixing fees and allowances of officers, we think neither of the contentions of petitioner is admissible. Section 40 was enacted long before section 77B, when section 12 (11 U.S.C.A.  30), dealing eo nomine with compositions in bankruptcy, was a part of the act. Reorganizations now permitted under section 77B present certain resemblances to compositions under section 12 which have been commented upon as supporting the constitutionality of the reorganization provisions of section 77 or section 77B (11 U.S.C.A.  205 or 207). Continental Ill. Nat. Bank v. Chicago, R.I. & P.R. Co., supra; In re Central Funding Corp. ( C.C.A.) 75 F.(2d) 256; Campbell v. Alleghany Corp. (C.C.A.) 75 F.(2d) 947. But section 77B contemplates a procedure and results not permissible under section 12. Reorganizations are nowhere referred to in the statute as compositions. Section 77B(c)(11), 11 U.S.C.A.  207(c)(11), applies a different standard of compensation for the master appointed in a reorganization proceeding, with duties corresponding to those of a referee in bankruptcy, from 
+
+[297 U.S. 464, 471]
+ 
+ that established by section 40. If reorganization is abandoned in favor of liquidation, a referee may be appointed to whose compensation section 40 is expressly made applicable by section 77B(k). These are persuasive reasons for concluding that neither section 40 nor section 77B is to be construed as recognizing that a reorganization is the equivalent of a composition for the purpose of fixing referees' fees under section 40a.
+ Section 40c relates only to the allocation of fees allowed under section 40a in the event that the reference is revoked or the case is specially referred. But here the reference has not been revoked nor the case specially referred, and, for reasons already given, no fees to the referee in addition to those allowed by the court below are authorized under section 40a.
+ Affirmed. 
+
+
+

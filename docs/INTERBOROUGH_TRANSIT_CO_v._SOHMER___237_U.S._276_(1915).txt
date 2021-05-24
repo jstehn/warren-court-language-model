@@ -1,0 +1,62 @@
+Description: INTERBOROUGH TRANSIT CO v. SOHMER , 237 U.S. 276 (1915)
+Date: 1915-04-12 00:00:00
+Docket: 129
+Opinion
+
+
+United States Supreme Court
+INTERBOROUGH TRANSIT CO. v. SOHMER(1915)
+No. 129
+Argued: Decided: April 12, 1915
+
+
+
+
+[237 U.S. 276, 277]
+ 
+ Messrs. Ralph Norton, George W. Wickersham, and James L. Quackenbush for plaintiff in error.
+
+
+
+[237 U.S. 276, 279]
+ 
+ Mr. Franklin Kennedy and Mr. Egburt E. Woodbury, Attorney General of New York, for defendant in error.
+
+
+[237 U.S. 276, 281]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This was a certiorari to review assessments made by the comptroller after a previous assessment had been set aside by the court of appeals. 200 N. Y. 93, 93 N. E. 505. The present assessments were upheld. 207 N. Y. 270, 100 N. E. 813. The plaintiff in error alleges that the tax laws construed to authorize them impair the obligation of contracts, contrary to article I.  10, of the Constitution of the United States.
+ Successive acts were passed by the legislature of New York for the establishment of a rapid transit system in cities of above one million inhabitants. Under chap. 752 of the Laws of 1894, the city of New York determined to build a subway, and a pursuance of the statute made a contract with one McDonald, on February 21, 1900, by which he undertook to construct the railroad for $35,000,000. The statute required that the person, firm, or corporation so contracting should, at his or its own expense, equip, maintain, and operate the road for a term of years, paying as rent a sum equal to the interest on the bonds to be issued by the city for the construction of the road, and a certain contribution to a sinking fund. By  35, the person, firm or corporation operating such road, shall be exempt from taxation in respect to his, their or its interest therein under said contract and in respect to the rolling stock and other equipment of said road, but this exemption shall not extend to any real property which may be owned or employed by said person, firm or corporation in connection with the construction or operation of said road.' This section was amended by chap. 729,  4, Laws of 1896, to specify what the equipment to be furnished by the person, firm, or corporation operating the road should include, and continued: 'Such person, 
+
+[237 U.S. 276, 282]
+ 
+ firm or corporation shall be exempt from taxation in respect to his, their or its interest under said contract and in respect to the rolling stock and all other equipment of said road, but this exemption shall not extend to any real property which may be owned or employed by said person, firm or corporation in connection with the said road.' Re-enacted without change on April 23, 1900. Laws of 1900, chap. 616,  4. This is the contract relied upon, and the statute may be assumed to have offered a contract that was accepted, as it seems to have been assumed to have by the state courts. We may assume also that the constitutional question is open, and that the only matter for us is whether the obligation of the contract has been impaired by what was done.
+ The petitioner was incorporated under the statutes of New York for the purpose of equipping, maintaining, and operating the rapid transit railroad in the city of New York, and, pursuant to the rapid transit act and the contract, the operating part of the latter was transferred to it on July 10, 1902. A second contract for an extension of the road, made with an intervening corporation on July 21, 1902, also was assigned to it in like manner on August 10, 1905, since which time the petitioner has operated the road. It may be assumed that the petitioner is entitled to the benefit of the exemption recited above. The petitioner also operates under a lease the elevated railroads of the Manhattan Railway Company, and the earlier above-mentioned attempt to tax it was under  185 of the tax laws for the years ending on June 30, 1907, 1908, and 1909. This section levied on corporations operating elevated railroads not operated by steam a franchise tax of 1 per cent of gross earnings from all sources within the state, etc., and the attempt was to tax the petitioner upon its receipts from the subway as well as from the elevated road. The court of appeals held that the words 'from all sources' in the taxing act did not 
+
+[237 U.S. 276, 283]
+ 
+ extend to earnings from the distinct enterprise of the subway, merely because it happened to be carried on by the same corporation that operated the elevated road. But it intimated an opinion that there was nothing to hinder a franchise tax.
+ The present taxes are levied under  182, 184, and 185 of the tax laws for the years 1907, 1908, 1909, and 1910. The petitioner does not dispute the tax under  185 in respect of its operation of the elevated railroad, but does dispute the taxes levied under  182 and 184. By the former of these a tax computed on the basis of its capital stock is levied on every corporation doing business in the state, 'for the privilege of doing business or exercising its corporate franchises in this state;' and by  184 an additional tax of 5/10 of 1 per cent upon gross earnings within the state is imposed on transportation companies not liable to taxation under  185. The petitioner contends that the contract made by the subway statute,  35, exempts it from these taxes. It makes some preliminary argument as to the scope of the taxing acts, but we understand the court of appeals to read them as taxing the right to be a corporation and to operate as such, in the case of domestic companies (New York ex rel. Cornell S. B. Co. v. Sohmer, 
+235 
+U.S. 549, 558
+, 559 S., 59 L. ed. --, 35 Sup. Ct. Rep. 162), and we see no reason for attempting to go behind its decision (New Orleans v. Stempel, 
+175 
+U.S. 309, 316
+, 44 S. L. ed. 174, 178, 20 Sup. Ct. Rep. 110). Therefore the matter for this court to consider is narrowed to whether the words of the exemption extend to a tax on the privilege to operate as a corporation under a charter from the state, in case the interested parties should decide to operate their road in corporate form. If such a tax is allowable we understand that there is no dispute as to amounts or the mode of measuring it. Whether it be admitted or not, if the franchise to operate the subway as a corporation can be taxed in this case, we can see no difference in the legitimacy of adopting as a measure of the tax property 
+
+[237 U.S. 276, 284]
+ 
+ that is exempted by contract or property exempted by a simple law. Flint v. Stone Tracy Co. 
+220 
+U.S. 107, 165
+, 55 S. L. ed. 389, 419, 31 Sup. Ct. Rep. 342, Ann. Cas. 1912B, 1312
+
+
+ The petitioner's counsel put with great force the difficulties and apprehensions that beset the subway enterprise at the beginning, the need of attracting capital, and instances of popular understanding that the exemption was of universal scope for the time that the subway was to be run by a lessee before it went into the city's hands. But a business proposition involving the outlay of very large sums cannot be and is not taken by the parties concerned according to offhand impressions; it is scrutinized phrase by phrase and word by word. Scrutinizing it in that way the court of appeals observed that the exemption was from taxation in respect of the person's or corporation's interest under the contract. However probable and expected it may have been that a corporation would run the road, it was left possible for a natural person to do it, as in fact an individual took and held the first contract for two years. The exemption applied to one to the same extent as to the other, for either would have the same interest under the contract as the other. The right to be a corporation, even when the corporation was created and was expected to be created to carry out the purposes of the act, was not an interest under the contract, but only a very great convenience for acquiring and using that interest. For these reasons the court of appeals held that that right might be taxed. New York ex rel. Cornell S. B. Co. v. Sohmer, supra.
+ The construction of the statute by the Court of Appeals, although not conclusive upon its meaning as a contract, is entitled to great deference and respect. As a literal interpretation it is undeniably correct, and we should not feel warranted in overruling it because of a certain perfume of general exemption. We must accept the words used in their strict sense.
+ Order affirmed. 
+
+
+

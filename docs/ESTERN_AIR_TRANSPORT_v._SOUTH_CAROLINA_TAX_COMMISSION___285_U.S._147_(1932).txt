@@ -1,0 +1,128 @@
+Description: ESTERN AIR TRANSPORT v. SOUTH CAROLINA TAX COMMISSION , 285 U.S. 147 (1932)
+Date: 1932-03-14 00:00:00
+Docket: 504
+Opinion
+
+
+United States Supreme Court
+ESTERN AIR TRANSPORT v. SOUTH CAROLINA TAX COMMISSION(1932)
+No. 504
+Argued: February 25, 1932Decided: March 14, 1932
+
+
+
+
+[285 U.S. 147, 148]
+ 
+ Messrs. Wm. Henry White, Jr., of Washington, D. C., and Christie Benet, of Columbia, S. C., for appellant.
+
+
+[285 U.S. 147, 150]
+ 
+ Messrs. John M. Daniel, Atty. Gen., and J. Fraser Lyon, of Columbia, S. C., for appellees.
+
+ Mr. Chief Justice HUGHES delivered the opinion of the Court.
+ This suit was brought to restrain the collection of a tax, imposed by the state of South Carolina, of 6 cents a gallon with respect to gasoline purchased by complainant in that state and used by complainant in interstate commerce. The complainant charged that the state act 
+
+[285 U.S. 147, 151]
+ 
+ placed a direct burden upon interstate commerce and hence was repugnant to the commerce clause of the Federal Constitution. Article I,  8. The District Court, composed of three judges as required by statute, denied an interlocutory injunction (52 F.(2d) 456) and the complainant appeals to this Court. Judicial Code,  266, U. S. C., tit. 28,  380 (28 USCA  380).
+ From the findings of the District Court it appears that the complainant is a Delaware corporation operating, in interstate commerce, air transport lines across the state of South Carolina; that its planes make regular stops at various points in the state but do not carry freight or passengers between such points, and practically its entire business is interstate in character; that it purchases gasoline in South Carolina for the use of its planes and that the seller adds to the price the amount of the state gasoline tax which the seller is required to pay under the act in question, and thus complainant has to pay 6 cents a gallon more than it otherwise would, the excess amounting to about $5,000 a year.
+ The tax is described in the statute1 as a license tax which, as applied in the instant case against the dealer, 
+
+[285 U.S. 147, 152]
+ 
+ is for the privilege of carrying on the business of selling gasoline within the state. The tax is thus imposed upon the seller and the sales in question are intrastate sales. The appellant emphasizes the fact that the tax has been construed by the Supreme Court of the state to be an excise tax and not a property tax. Gregg Dyeing Company v. Query, 164 S. E. 588, Supreme Court of South Carolina, decided April 13, 1931. So far as the present question is concerned, the distinction is not important. If such a license tax for the privilege of making sales within the state were regarded as in effect a tax upon the goods sold,2 its validity could not be questioned in the circumstances here disclosed, as in that aspect the tax would be upon a part of the general mass of property within the state and hence subject to the state's authority to tax, although the property might actually be used in interstate commerce. 
+3
+ 'It is elementary,' said the court in New Jersey Telephone Co. v. Tax Board, 
+280 
+U.S. 338, 346
+, 50 S. Ct. 111, 113, 'that a state may tax property used to carry on interstate commerce.' Treating the tax as an excise tax upon the sales4 does not change the result in the instant case, as the sales are still purely intrastate transactions. Superior Oil Company v. Mississippi, 
+280 
+U.S. 390, 395
+, 50 S. Ct. 169. Undoubtedly, purchases of goods within a state may form part of trans 
+
+[285 U.S. 147, 153]
+ 
+ actions in interstate commerce ahd hence be entitled to enjoy a corresponding immunity. 
+5
+ But the mere purchase of supplies or equipment for use in conducting a business which constitutes interstate commerce is not so identified with that commerce as to make the sale immune from a nondiscriminatory tax imposed by the State upon intrastate dealers. There is no substantial distinction between the sale of gasoline that is used in an airplane in interstate transportation and the sale of coal for the locomotives of an interstate carrier, or of the locomotives and cars themselves bought as equipment for interstate transportation. A nondiscriminatory tax upon local sales in such cases has never been regarded as imposing a direct burden upon interstate commerce and has no greater or different effect upon that commerce than a general property tax to which all those enjoying the protection of the state may be subjected.
+ In Helson v. Com. of Kentucky, 
+279 
+U.S. 245
+, 49 S. Ct. 279, upon which the appellant relies, the tax was laid by Kentucky with respect to gasoline purchased by the plaintiffs in error in Illinois and used within Kentucky in the operation of a ferry boat on the Ohio river between the two states. The Court found that the tax was laid directly upon the use of the gasoline in interstate transportation. The Court said that 'The tax is exacted as the price of the privilege of using an instrumentality of interstate commerce.' Id., page 252 of 279 U. S., 49 S. Ct. 279, 281. Such a tax is manifestly different from a general property tax or a tax upon purely local sales.
+ Decree affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Act of February 23, 1922, as amended (South Carolina Acts, 1922, pp. 835-838; 1929, pp. 107-112). Section 1 provides: 'That every oil company, person, firm or corporation doing domestic or intrastate business within this State, and engaging in the business of selling, consigning, using, shipping, or distributing for the purpose of sale within this State, any gasoline or any substitute therefor, or combination thereof, for the privilege of carrying on such business shall be subject to the payment of a license tax, which tax shall be measured by and graduated in accordance with the volume of sales of such oil company within the State. Every such oil company shall pay to the State an amount of money equal to six (6) cents per gallon on all gasoline, combinations thereof, or substitutes therefor, for, sold or consigned, used, shipped or distributed for the purpose of sale within the State. ...' 
+
+[
+Footnote 2
+] Brown v. Maryland, 12 Wheat. 419, 444; Welton v. Missouri, 
+91 U.S. 275
+, 278; Kehrer v. Stewart, 
+197 
+U.S. 60, 65
+, 25 S. Ct. 403. 
+[
+Footnote 3
+] Coe v. Errol, 
+116 
+U.S. 517, 525
+, 6 S. Ct. 475; Adams Express Co. v. Ohio State Auditor, 
+165 
+U.S. 194, 220
+, 17 S. Ct. 305; Id., 
+166 
+U.S. 185, 218
+, 17 S. Ct. 604; Galveston, Harrisburg & San Antonio R. Co. v. Texas, 
+210 
+U.S. 217, 227
+, 28 S. Ct. 638; Wells, Fargo & Co. v. Nevada, 
+248 
+U.S. 165, 167
+, 39 S. Ct. 62; Heisler v. Thomas Colliery Co., 
+260 
+U.S. 245, 259
+, 43 S. Ct. 83, 67, L. Ed. 237; Sonneborn Bros. v. Cureton, 
+262 
+U.S. 506, 509
+, 515 S., 43 S. Ct. 643; New Jersey Telephone Co. v. Tax Board, 
+280 
+U.S. 338, 346
+, 50 S. Ct. 111; Superior Oil Co. v. Mississippi, 
+280 
+U.S. 390, 395
+, 50 S. Ct. 169. 
+[
+Footnote 4
+] Panhandle Oil Co. v. State of Mississippi ex rel. Knox, 
+277 
+U.S. 218, 222
+, 48 S. Ct. 451, 56 A. L. R. 583; Indian Motocycle Co. v. United States, 
+283 
+U.S. 570, 574
+, 575 S., 51 S. Ct. 601. 
+
+[
+Footnote 5
+] Dahnke-Walker Milling Co. v. Bondurant, 
+257 
+U.S. 282, 290
+, 291 S., 42 S. Ct. 106; Lemke v. Farmers' Grain Co., 
+258 
+U.S. 50
+, 42 S. Ct. 244; Stafford v. Wallace, 
+258 
+U.S. 495, 516
+, 42 S. Ct. 397, 23 A. L. R. 229; Shafer v. Farmers' Grain Co., 
+268 
+U.S. 189, 198
+, 45 S. Ct. 481. 
+
+
+
+

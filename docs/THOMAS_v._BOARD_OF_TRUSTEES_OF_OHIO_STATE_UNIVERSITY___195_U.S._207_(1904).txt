@@ -1,0 +1,128 @@
+Description: THOMAS v. BOARD OF TRUSTEES OF OHIO STATE UNIVERSITY , 195 U.S. 207 (1904)
+Date: 1904-11-14 00:00:00
+Docket: 43
+Opinion
+
+
+United States Supreme Court
+THOMAS v. BOARD OF TRUSTEES OF OHIO STATE UNIVERSITY(1904)
+No. 43
+Argued: Decided: November 14, 1904
+
+
+
+
+
+[195 U.S. 207, 208]
+ 
+ Messrs. Lawrence Maxwell, Jr., and Joseph Olds for the Board of Trustees of the Ohio State University.
+ Messrs. J. E. Sater and L. F. Sater for Thomas and Folsom.
+
+ Mr. Justice Harlan delivered the opinion of the court:
+ This case is before us upon certified questions relating to the jurisdiction of the circuit court.
+ The suit is in equity, and the plaintiff is a citizen of Michigan. The defendants are George Folsom, a citizen of California, and the Board of Trustees of the Ohio State University.
+ The object of the bill was to effect the partition of certain lands claimed by the plaintiff and the defendant Folsom as tenants in common, but held adversely by the defendant board of trustees. The plaintiff sought to have the title determined as preliminary to partition.
+ The board of trustees appeared and demurred to the bill as not making a case entitling the plaintiff to any relief against it. 
+
+[195 U.S. 207, 209]
+ 
+ The demurrer was sustained, and the bill dismissed,-the decree reciting that neither the plaintiff nor the defendant Folsom had any title or interest in the lands described in the bill, or in the rents or profits thereof, but that the same belonged to the Board of Trustees of the Ohio State University. Folsom entered his appearance in circuit court, but made no defense, nor was any decree taken by default against him.
+ From that decree the plaintiff and the defendant Folsom prayed and perfected an appeal.
+ It is certified that the jurisdiction of the circuit court was wholly dependent upon diversity of citizenship, and that neither defendant objected in the circuit court that the case was not of equitable cognizance, or that the court, as a Federal court, was without jurisdiction to determine it. But in the circuit court of appeals Folsom insisted, among other things, that the circuit court 'had no cognizance of the cause because the requisite diversity of citizenship does not exist, the Board of Trustees of the Ohio State University not being a corporation of Ohio within the jurisdictional rule imputing to the members of that board citizenship of the state under whose law it is organized.'
+ The circuit court of appeals propound the following questions:
+
+ 1. 
+Does the bill sufficiently aver that the Board of Trustees of Ohio State University is a corporation of the state of Ohio, or does it aver facts which, in legal intendment, constitute said body a corporation of the state of Ohio, within the rule that a suit by or against a corporation in a court of the United States is conclusively presumed, for the purpose of litigation, to be one by or against citizens of the state creating the corporation?
+
+ 2. 
+If the said board of trustees be not such a corporation as is required by the jurisdictional rule referred to, may this suit be maintained against it as 'The Board of Trustees of the Ohio State University' without bringing the persons constituting the board before the court as defendants? 
+
+[195 U.S. 207, 210]
+ 
+ 3. If the said board may sue or be sued in a Federal court by the name of 'The Board of Trustees of the Ohio State University,' although not constituting a corporation of the state of Ohio, within the jurisdictional rule referred to in the first question, do the facts stated on the face of the bill sufficiently show that the persons composing said board of trustees are citizens of Ohio, or should the court take notice of the law creating said board of trustees, and of other laws of Ohio defining the qualification of such trustees, and by legal intendments find that the persons constituting said board when this bill was filed were in fact citizens of Ohio, and that the requisite diversity of citizenship existed to give jurisdiction to the circuit court?
+ That the jurisdiction of a circuit court of the United States is limited in the sense that it has no jurisdiction except that conferred by the Constitution and laws of the United States; that a cause is presumed to be without its jurisdiction unless the contrary affirmatively appears; that such jurisdiction, or the facts upon which, in legal intendment, it rests, must be distinctly and positively averred in the pleadings, or should appear affirmatively and with equal distinctness in other parts of the record, it not being sufficient that jurisdiction may be inferred argumentatively; and that, for the purposes of suing and being sued in a circuit court of the United States, the members of a local 'corporation' are conclusively presumed to be citizens of the state by whose laws it was created, and in which alone the corporate body has a legal existence,-are propositions so firmly established that further discussion of them would be both useless and inappropriate. Brown v. Keene, 8 Pet. 112, 115, 8 L. ed. 885, 886; Louisville, C. & C. R. Co. v. Letson, 2 How. 497, 11 L. ed. 353; Marshall v. Baltimore & O. R. Co. 16 How. 314, 14 L. ed. 953; Lafayette Ins. Co. v. French, 18 How. 404, 405, 15 L. ed. 451; Covington Drawbridge Co. v. Shepherd, 20 How. 227, 15 L. ed. 896; Ohio & M. R. Co. v. Wheeler, 1 Black, 286, 296, 17 L. ed. 130, 133; Merchants' Ins. Co. v. Ritchie, 5 Wall. 541, 18 L. ed. 540; Robertson v. Cease, 
+97 
+U.S. 646, 648
+, 24 S. L. ed. 1057, 1058; National S. S. Co. v. Tugman, 
+106 
+U.S. 118, 120
+, 27 S. L. ed. 87, 88, 1 Sup. Ct. Rep. 58; 
+
+[195 U.S. 207, 211]
+ 
+ King Bridge Co. v. Otoe County, 
+120 U.S. 226
+, 30 L. ed. 623, 7 Sup. Ct. Rep. 552; Parker v. Ormsby, 
+141 U.S. 81
+, 35 L. ed. 654, 11 Sup. Ct. Rep. 912; Continental Nat. Bank v. Buford, 
+191 U.S. 120
+, 48 L. ed. 119, 24 Sup. Ct. Rep. 54.
+ It is equally well established that when jurisdiction depends upon diverse citizenship the absence of sufficient averments or of facts in the record showing such required diversity of citizenship is fatal and cannot be overlooked by the court, even if the parties fail to call attention to the defect, or consent that it may be waived. Mansfield, C. & L. M. R. Co. v. Swan, 
+111 U.S. 379
+, 28 L. ed. 462, 4 Sup. Ct. Rep. 510; Martin v. Baltimore & O. R. Co. 
+151 
+U.S. 673, 689
+, 38 S. L. ed. 311, 317, 14 Sup. Ct. Rep. 533; Powers v. Chesapeake & O. R. Co. 
+169 
+U.S. 92, 98
+, 42 S. L. ed. 673, 675, 18 Sup. Ct. Rep. 264. As late as in Minnesota v. Northern Securities Co. 
+194 U.S. 48
+, 62-3, 48 L. ed. 870, 877, 878, 24 Sup. Ct. Rep. 598, 601, we said, both parties insisting upon the jurisdiction of the circuit court: 'Consent of parties can never confer jurisdiction upon a Federal court. If the record does not affirmatively show jurisdiction in the circuit court, we must, upon our own motion, so declare and make such order as will prevent that court from exercising an authority not conferred upon it by statute.'
+ So that the fact stated in the certificate, that neither party in the circuit court objected to its jurisdiction, is of no consequence.
+ Two other cases illustrating the above rules may be specially referred to.
+ In Chapman v. Barney, 
+129 
+U.S. 677, 682
+, 32 S. L. ed. 800, 801, 9 Sup. Ct. Rep. 426, 428, which was a suit in the circuit court for the northern district of Illinois, by the United States Express Company against a citizen of Illinois, the declaration alleged that the company was organized under and by virtue of the laws of New York, and was a citizen of that state. The court said: 'On looking into the record we find no satisfactory showing as to the citizenship of the plaintiff. The allegation of the amended petition is, that the United States Express Company is a joint-stock company, organized under a law of the state of New York, and is a citizen of that state. But the express company cannot be a citizen of New York, within the meaning of the statutes regulating jurisdiction, unless it be a corporation. The allegation that the com- 
+
+[195 U.S. 207, 212]
+ 
+ pany was organized under the laws of New York is not an allegation that it is a corporation In fact, the allegation is, that the company is not a corporation, but a joint-stock company,-that is, a mere partnership. And, although it may be authorized by the laws of the state of New York to bring suit in the name of its president, that fact cannot give the company power, by that name, to sue in a Federal court. The company may have been organized under the laws of the state of New York, and may be doing business in that state, and yet all the members of it may not be citizens of that state. The record does not show the citizenship of Barney or of any of the members of the company.'
+ In Great Southern Fire Proof Hotel Co. v. Jones, 
+177 
+U.S. 449, 456
+, 457 S., 44 L. ed. 842, 845, 20 Sup. Ct. Rep. 690, 693, the bill alleged that the plaintiffs Jones and others were members of a limited partnership association, doing business, by their firm name, under the authority of a Pennsylvania statute, and that such association was a citizen of that state. Although the Constitution of Pennsylvania provided that the term 'corporation,' as used in a certain article of that instrument, should be construed as including all joint-stock companies or associations having any of the powers or privileges of corporations not possessed by individuals or partnerships, and although the supreme court of Pennsylvania had held that it would not be improper to call a limited partnership, created under its statutes, a quasi corporation, having some of the characteristics of a corporation, this court, without considering the merits of the case, said: 'When the question relates to the jurisdiction of a circuit court of the United States as resting on the diverse citizenship of the parties, we must look, in the case of a suit by or against a partnership association, to the citizenship of the several persons composing such association. . . . That a limited partnership association created under the Pennsylvania statute may be described as a 'quasi corporation,' having some of the characteristics of a corporation, or as a 'new artificial person,' is not a sufficient reason for regarding it as a corporation within the jurisdictional rule 
+
+[195 U.S. 207, 213]
+ 
+ heretofore adverted to. That rule must not be extended. We are unwilling to extend it so as to embrace partnership associations. . . . We therefore adjudge that, as the bill does not make a case arising under the Constitution and laws of the United States, it was necessary to set out the citizenship of the individual members of the partnership association of Jones & Laughlins, Limited, which brought this suit.' The judgment was reversed upon the ground that the jurisdiction of the circuit court did not affirmatively appear from the record. Upon the return of the cause to the court of original jurisdiction the bill was amended, and it was alleged that each member of the partnership was a citizen of Pennsylvania. The case was then heard upon its merits and was again brought here and determined. Great Southern Fire Proof Hotel Co. v. Jones, 
+193 U.S. 532
+, 48 L. ed. 778, 24 Sup. Ct. Rep. 576.
+ In the light of these decisions we come to the question whether the jurisdiction of the circuit court affirmatively appears in this case. If it does not, it must be held that that court had no authority to take cognizance of it.
+ The bill alleges that the defendant the Board of Trustees of the Ohio State University 'was created by, and exists under and by virtue of, a law duly passed and enacted by the legislature of said state of Ohio, on March 22d, 1870, and now known and designated as  4105-9 and following, of the Revised Statutes of said state of Ohio, and the subsequent acts amendatory of and supplementary thereto;' that said board, 'under and by virtue of the aforesaid laws and enactments, and at all times since its creation and establishment, is fully authorized and empowered to sue and be sued, to contract and be contracted with, to make and use a common seal, and to alter the same at its pleasure, and to adopt by-laws, rules, and regulations for the government of said college, and to have the general supervision of all lands, buildings, and other property belonging to said college, and of receiving by gift, devise, or bequest, moneys, lands, and other properties for its benefit and for the benefit of those under its charge, subject, 
+
+[195 U.S. 207, 214]
+ 
+ however, to the provisions, exceptions, and restrictions contained in section twenty and five thousand nine hundred and fifteen of the Revised Statutes of the state of Ohio;' and is 'a citizen of and domiciled in the state of Ohio.' 67 Ohio Laws, 20; 75 Ohio Laws, 126; Ohio Rev. Stat.  4105 et seq.
+ Do those averments, taken in connection with the statutes of Ohio relating to the defendant board,-of the provisions of which statutes judicial notice may be taken (Hanley v. Donoghue, 
+116 
+U.S. 1, 6
+, 29 S. L. ed. 535, 537, 6 Sup. Ct. Rep. 242),-sufficiently show that the circuit court was entitled to take cognizance of this case?
+ If the defendant board had been specifically averred to be, and was in fact, a corporation created by and existing under the laws of Ohio, then, within the meaning of the adjudged cases, the controversy would have been one between citizens of different states, and consequently within the jurisdiction of the circuit court; for, in that case, the legal presumption would be that the trustees were citizens of the state by which the corporation was brought into existence, and no averment or evidence to the contrary would be admissible for the purpose of withdrawing the suit from the jurisdiction of the circuit court. Ohio & M. R. Co. v. Wheeler, 1 Black, 286, 296, 17 L. ed. 130. Here the averment is only that the defendant board of trustees is a citizen of and domiciled in Ohio; not that the trustees themselves are citizens of that state. That averment alone is not sufficient. In Lafayette Ins. Co. v. French, 18 How. 404, 405, 15 L. ed. 451, 452, which was a suit brought in the circuit court of the United States for the district of Indiana, the declaration alleged that the plaintiffs were citizens of Ohio, and that the defendant, the Lafayette Insurance Company, was a citizen of Indiana. This court, speaking by Justice Curtis, said: 'This averment is not sufficient to show jurisdiction. It does not appear from it that the Lafayette Insurance Company is a corporation, or, if it be such, by the law of what state it was created. The averment that the company is a citizen of the state of Indiana can have no sensible meaning attached to it. This court does not hold that either a voluntary association of 
+
+[195 U.S. 207, 215]
+ 
+ persons, or an association into a body politic, created by law, is a citizen of a state within the meaning of the Constitution.' It is vital that the corporate character of the collective body should be averred or shown.
+ The fundamental inquiry, therefore, is whether the defendant board of trustees is a 'corporation' within the jurisdictional rule that admits of a corporation being regarded, for purposes of suing and being sued in the courts of the United States, as a citizen of the state under and by the laws of which it was created. The pleadings, we have seen, do not in terms aver the board to be a corporation; only that it is a citizen of and domiciled in Ohio, and to have been created as a collective body by the laws of that state, with power to sue and be sued by the name of the Board of Trustees of the Ohio State University. Those laws must therefore be examined in order to ascertain whether, for purposes of suit in the circuit court of the United States, the board may be deemed a corporation of Ohio within the meaning of the above cases.
+ In determining this question we are confronted with the fact that the statute creating the defendant board was clearly a special, as distinguished from a general, act, and that the Constitution of Ohio forbade the passage of any special act conferring corporate powers. Ohio Const. art. 13,  1. So that the board of trustees cannot be held to have been made a corporation or endowed with corporate powers without holding that the act by which it was created was invalid under the Constitution of Ohio; whereas, the supreme court of Ohio have adjudicated that the act was valid, as not conferring, and as not intended to confer, corporate powers on the board.
+ This question was presented in Neil v. Ohio Agricultural & Mechanical College (1876) 31 Ohio St. 15, 21, which was the original name of the Ohio State University. The validity of the act creating the board was there brought in question as having, to all intents and purposes, created a corporation, and clothed it with corporate powers and privileges. But the supreme court of Ohio said: 
+
+[195 U.S. 207, 216]
+ 
+ 'We are not able to yield our assent to this construction of the statute. The act is entitled 'An Act to Establish and Maintain an Agricultural and Mechanical College in Ohio.' It creates a board of trustees, to be appointed by the governor, by and with the advice and consent of the senate; and commits to such board the government, control, and general management of the affairs of the institution; and while the statute authorizes the board to make contracts for the benefit of the college, and to maintain actions, if necessary, to enforce them, and to exercise other powers similar to those conferred on bodies corporate, it does not assume to, nor does it in fact, create or constitute such board of trustees a corporation; and hence does not clothe it with corporate functions or powers. State ex rel. Atty, Gen. v. Davis, 23 Ohio St. 434. The college is a state institution, designed and well calculated to promote public educational interests, established for the people of the whole state, to be managed and controlled by such agencies as the legislature, in its wisdom, may provide. Similar powers, but perhaps less extensive, because less required, are conferred on the trustees of the various hospitals for the insane (73 Ohio Laws, 80), and on the board of managers of the Ohio Soldiers' and Sailors' Orphans' Homes (67 Ohio Laws, 53), and other institutions of the state. The powers thus conferred are essentially necessary to accomplish the objects for which these institutions were established. The power to establish them is found clearly granted in the 7th article of the Constitution.' The article here referred to gave the legislature power to establish benevolent and other state institutions.
+ Thus, upon an issue distinctly made, the supreme court of Ohio has adjudged that the defendant board is not, and was not intended to be made, a corporation of the state, but only an agency to manage and control a state institution as the state may direct or provide. And the interpretation of the state Constitution upon which that judgment rests has never been modified by that court.
+ While the state court may not conclusively determine for 
+
+[195 U.S. 207, 217]
+ 
+ this court what is and what is not a corporation within the meaning of the jurisdictional rule that a corporation, for purposes of suing and being sued in the courts of the United States, is, under the Constitution and laws of the United States, to be deemed a citizen of the state by whose laws it is created, nevertheless, this court should accept the judgment of the highest court of a state upon the question whether a particular body created by its laws is or is not a corporation, by virtue of those laws, unless a contrary view is demanded by most cogent reasons involving or affecting the constitutional and statutory jurisdiction of the Federal courts. No such reasons exist in this case; and, accepting the above decision of the supreme court of Ohio as correctly interpreting the Constitution and laws of that state, we hold that while the defendant board is clothed with some, it is not clothed with all, of the functions belonging to technical corporations, and is not such a corporation as may sue and be sued in a circuit court of the United States as a citizen of Ohio. A contrary ruling would, we apprehend, produce confusion and embarrassment in litigation relating to those public state institutions or agencies in Ohio which, according to the decision of its highest court, were not endowed, nor intended to be endowed, with corporate powers.
+ It is contended, however, that the bill sufficiently shows that the persons constituting the Board of Trustees of the Ohio State University were in fact citizens of Ohio, and therefore, as the board had power to sue and be sued, and to contract and be contracted with, in its collective name, the requisite diversity of citizenship sufficiently appeared from the pleadings. This contention is not warranted by any distinct averments in the bill. The bill contains no such averment. As already stated, it alleges that the board is a citizen of Ohio; not that the trustees are citizens of the state. As already stated, the bill does not, in terms, even allege that the board is a corporation, although it shows that it possesses some of the characteristics of corporations. The Constitution of Ohio pro- 
+
+[195 U.S. 207, 218]
+ 
+ vides that no person shall be elected or appointed to any office in the state unless he possesses the qualifications of an elector; and an elector must be a citizen of the state (Const. art. 15,  4, art. 5,  1); therefore it must be taken, not only that each trustee of the Ohio State University holds an office within the meaning of the state Constitution, but is in fact a citizen of that state; and the allegation that the board was created by, and existed as, an organized body under the laws of Ohio, was equivalent to an allegation that the trustees are each and all citizens of Ohio. Such is the process of reasoning by which it is attempted to support the jurisdiction of the circuit court in the present case. But it is settled that the jurisdiction of a court of the United States must appear from distinct allegations, or from facts clearly proven, and is not to be established argumentatively or by mere inference. The presumption is that a cause is without the jurisdiction of a circuit court of the United States unless the contrary affirmatively and distinctly appears. Brown v. Keene, 8 Pet. 115, 8 L. ed. 886, and other cases above cited.
+ For the reasons stated the first question must be answered in the negative. To the second question our answer is that as the board was entitled to sue and be sued by their collective name, and would be bound by any judgment rendered against it in that name, the jurisdiction of the circuit court would have sufficiently appeared, so far as the pleadings were concerned, without bringing the several persons constituting the board before the court as defendants, provided the bill had contained the additional allegation that each individual trustee was a citizen of Ohio. Each branch of the third question must be answered in the negative. These answers will be certified to the circuit court of appeals, with liberty to that court to authorize such amendment of the bill in the circuit court as will show jurisdiction.
+ It is so ordered. 
+
+
+

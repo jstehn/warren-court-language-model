@@ -1,0 +1,48 @@
+Description: LUCIUS v. CAWTHON-COLEMAN CO. , 196 U.S. 149 (1905)
+Date: 1905-01-03 00:00:00
+Docket: 110
+Opinion
+
+
+United States Supreme Court
+LUCIUS v. CAWTHON-COLEMAN CO.(1905)
+No. 110
+Argued: Decided: January 3, 1905
+
+
+
+ This is an appeal from a decree of the district court of the United States for the southern district of Alabama, sitting in bankruptcy, establishing and directing the enforcement of a lien upon the proceeds of two policies of insurance in the hands of a trustee in bankruptcy. The district court filed findings of fact and its conclusions of law, in pursuance to the third subdivision of General Order in Bankruptcy 36; and an appeal was taken upon the question of jurisdiction alone, under the supposed authority of the 5th section of the judiciary act of March 3, 1891 [26 Stat. at L. 827, chap. 517, U. S. Comp. Stat. 1901, p. 549].
+ In substance the pertinent facts stated in the findings were as follows:
+ D. D. Lucius, a resident citizen of Alabama, was, in voluntary proceedings, adjudged a bankrupt, and the case was sent to a referee. In his schedules, Lucius claimed as exempt drugs to the value of $1,000 and $ 1,000 of a balance of $1,150 due upon the aforementioned policies of insurance. The policies subsequently came into the possession of the trustee in bankruptcy.
+ The Cawthon-Coleman Company were creditors of Lucius for about the sum of $1,000, evidenced by a note containing a 
+
+[196 U.S. 149, 150]
+ 
+ waiver of exemption of personal property, and secured by a mortgage upon the homestead of Lucius, which mortgage contained a stipulation for insurance for the benefit of the mortgagees. The two policies above referred to were obtained in consequence of the stipulation referred to, and while in force, and before the adjudication in bankruptcy, the dwelling insured was destroyed by fire. Claiming, by reason of the facts just stated, an equitable lien upon the proceeds of the insurance, the Cawthon-Coleman Company filed a petition in the bankruptcy proceedings to establish and enforce their alleged lien. During the pendency of this proceeding the trustee in bankruptcy collected the balance due upon the policies. The trustee reported an allowance of the exemption out of such proceeds, as claimed by the bankrupt, and shortly afterwards the bankrupt filed a plea denying jurisdiction in the court to hear and determine the claim of lien. This plea was overruled by the referee, who also refused to confirm the allowance of the exemption claimed by the bankrupt, and an order was made by the referee directing the trustee to pay to the Cawthon- Coleman Company on the mortgage indebtedness the sum of $1,001.40 out of the insurance proceeds. Thereafter, to quote from the findings, 'upon a review by the district judge sitting in bankruptcy, of the referee's decision, the judge affirmed it, and rendered a decree asserting that the bankruptcy court had jurisdiction to hear and determine this matter, and granted the relief prayed by the petition of Cawthon-Coleman Company.' This appeal on the question of jurisdiction was then taken direct to this court.
+ Messrs. Harry Pillans, William James Johnson, and Pillans, Hanaw, & Pillans for appellant.
+ No. counsel opposed. 
+
+[196 U.S. 149, 151]
+ 
+
+ Mr. Justice White, after making the foregoing statement, delivered the opinion of the court:
+ By the express terms of subdivision 11 of 2 of the bankruptcy act of 1898 [30 Stat. at L. 546, chap. 541, U. S. Comp. Stat. 1901, p. 3421], jurisdiction is conferred upon courts of bankruptcy to determine all claims of bankrupts to their exemptions. When, therefore, as in the case at bar, property of the bankrupt has come into the possession of the trustee in bankruptcy, and the bankrupt has asserted in the bankruptcy court a claim to be entitled to a part or the whole of such property, as exempt property, the bankruptcy court necessarily is vested with jurisdiction to determine, upon the facts before it, the validity of the claimed exemption. An erroneous decision against an asserted right of exemption, and a consequently erroneous holding that the property forms assets of the estate 
+
+[196 U.S. 149, 152]
+ 
+ in bankruptcy, to be administered under the direction of the bankruptcy court, while subject to correction in the mode appropriate for the correction of errors (Lockwood v. Exchange Bank, 
+190 U.S. 294
+, 47 L. ed. 1061, 23 Sup. Ct. Rep. 751), does not create a question of jurisdiction proper to be passed upon by this court by a direct appeal under the provisions of the act of March 3, 1891
+
+
+ First Nat. Bank v. Klug, 
+186 
+U.S. 203, 204
+, 46 S. L. ed. 1127, 1128, 23 Sup. Ct. Rep. 899, and cases cited. It necessarily results from the foregoing that, as the bankruptcy court determined that the proceeds of the insurance policies in the hands of the trustee were assets of the estate in bankruptcy, and not exempt property of the bankrupt, the jurisdiction existed to proceed to adjudicate the validity of an alleged equitable lien upon such property. Hutchinson v. Otis, 
+190 
+U.S. 552, 555
+, 47 S. L. ed. 1179, 1181, 23 Sup. Ct. Rep. 778.
+ As, therefore, upon the record before us, the jurisdiction of the court was not in issue within the meaning of the act of March 3, 1891, the direct appeal to this court was not properly brought, and the order must be appeal dismissed. 
+
+
+

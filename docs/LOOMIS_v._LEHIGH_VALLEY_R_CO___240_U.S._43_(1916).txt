@@ -1,0 +1,85 @@
+Description: LOOMIS v. LEHIGH VALLEY R CO , 240 U.S. 43 (1916)
+Date: 1916-01-24 00:00:00
+Docket: 106
+Opinion
+
+
+United States Supreme Court
+LOOMIS v. LEHIGH VALLEY R CO(1916)
+No. 106
+Argued: December 6, 1915Decided: January 24, 1916
+
+
+
+ Messrs. Edward P. White and John Colmey for plaintiffs in error.[ Loomis v. Lehigh Valley R Co 
+240 U.S. 43
+ (1916) ]
+
+
+[240 U.S. 43, 45]
+ 
+ Messrs. Lyman M. Bass, Daniel J. Kenefick, and Thomas R. Wheeler for defendant in error.
+
+
+[240 U.S. 43, 46]
+ 
+
+ Mr. Justice McReynolds delivered the opinion of the court:
+ Plaintiffs in error have long been shippers of grain and produce over the line of defendant carrier from Victor and other stations in Western New York. From time to time during a period beginning in August, 1906, and ending 
+
+[240 U.S. 43, 47]
+ 
+ May 6, 1908, they requested it to furnish at such places for their use one or more cars-about two hundred altogether-suitable for transporting in bulk, wheat, oats, rye, apples, cabbages, and potatoes. In response, it sent ordinary box and refrigerator cars inadequate for the required service until fitted with inside doors or transverse bulkheads. Prior to 1906, in like circumstances, the custom was for the railroad to supply lumber without charge and shippers constructed these temporary fittings. This practice was discontinued at the stations mentioned, and, during the period specified, it refused either to supply such material or cars completely prepared for carrying in bulk the enumerated articles. Plaintiffs were therefore compelled to construct inside doors or bulkheads in the cars which they loaded and delivered to defendant for transportation to points both within and beyond the state. The total cost of material used was $322.07,-it varied from 40 cents to $3.50 per car.
+ Payment of the amount so expended was demanded by plaintiffs and refused. Without preliminary resort to the Interstate Commerce Commission, they then brought this action in a state court upon the theory that the carrier having failed to perform its common-law duty to furnish adequate cars, they were entitled to recover as damages their consequent outlay. Defendant denied liability, and further challenged the court's jurisdiction over claims incident to interstate shipments because: It was and remains an interstate carrier subject to the act to regulate commerce as amended and supplemented as well as the act of Congress passed February 19, 1903 [32 Stat. at L. 847, chap. 708, Comp. Stat. 1913,  8597], known as the Elkins act, etc.; it had filed with the Interstate Commerce Commission the tariffs under which such shipments were made; these tariffs fixed rates for transportation only, and did not provide for payments or allowances for grain doors, bulkheads, or lumber for 
+
+[240 U.S. 43, 48]
+ 
+ constructing the same; the rates were reasonable and just and had not been held otherwise by the Interstate Commerce Commission.
+ The court of appeals held that the common law imposed upon the railroads the duty of furnishing cars equipped with inside doors or bulkheads for transporting grain or provisions in bulk, and unless local or Federal statutes had established different rules, plaintiffs were entitled to recover. Having considered the statutes, it concluded the local act created no bar to recovery on account of the intrastate shipments, but that Congress had assumed such control over interstate shipments as to deprive the state courts of power to consider claims arising out of them. 208 N. Y. 312, 101 N. E. 907. The judgment of the appellate division in favor of plaintiffs for total cost of material supplied by them was modified accordingly and the record and proceedings remitted to the supreme court, Ontario county. This writ of error was then sued out to obtain a review of the judgment of the court of appeals, being addressed to the supreme court because the record was in its possession. Shanks v. Delaware, L. & W. R. Co. 
+239 U.S. 556
+, 60 L. ed. --, 36 Sup. Ct. Rep. 188.
+ No serious dispute exists concerning the facts. The applicable duly- filed interstate rate schedules made no reference to allowances for grain doors or bulkheads, and the circumstances under which these were installed, together with their cost, are not controverted. Whether there was jurisdiction in the state court to pass upon the carrier's liability incident to the interstate traffic is the sole point demanding consideration.
+ The effect of the act to regulate commerce, as supplemented and amended, upon the jurisdiction of courts, has been expounded in many cases heretofore decided. Texas & P. R. Co. v. Abilene Cotton Oil Co. 
+204 U.S. 426
+, 51 L. ed. 553, 27 Sup. Ct. Rep. 350, 9 Ann. Cas. 1075; Baltimore & O. R. Co. v. United States, 
+215 U.S. 481
+, 54 L. ed. 292, 30 Sup. Ct. Rep. 164; Robinson v. Baltimore & O. R. Co. 
+222 U.S. 506
+, 56 L. ed. 288, 32 Sup. Ct. Rep. 114; Mitchell* 
+
+[240 U.S. 43, 49]
+ 
+ Coal & Coke Co. v. Pennsylvania R. Co. 
+230 U.S. 247
+, 57 L. ed. 1472, 33 Sup. Ct. Rep. 916; Morrisdale Coal Co. v. Pennsylvania R. Co. 
+230 U.S. 304
+, 57 L. ed. 1494, 33 Sup. Ct. Rep. 938; Minnesota Rate Cases (Simpson v. Shepard) 
+230 U.S. 352
+, 57 L. ed. 1511, 48 L.R.A.(N.S.) 1151, 33 Sup. Ct. Rep. 729; Texas & P. R. Co. v. American Tie & Timber Co. 
+234 U.S. 138
+, 58 L. ed. 1255, 34 Sup. Ct. Rep. 885, Pennsylvania R. Co. v. Puritan Coal Min. Co. 
+237 U.S. 121
+, 59 L. ed. 867, 35 Sup. Ct. Rep. 484; Pennsylvania R. Co. v. Clark Bros. Coal Min. Co. 
+238 U.S. 456
+, 59 L. ed. 1406, 35 Sup. Ct. Rep. 896.
+ Speaking through Mr. Justice Lamar in Mitchell Coal & Coke Co. v. Pennsylvania R. Co. 230 U. S. supra, we said (p. 255): 'The courts have not been given jurisdiction to fix rates or practices in direct proceedings, nor can they do so collaterally during the progress of a lawsuit when the action is based on the claim that unreasonable allowances have been paid. If the decision of such questions was committed to different courts with different juries the results would not only vary in degree, but might often be opposite in character-to the destruction of the uniformity in rate and practice which was the cardinal object of the statute.'
+ In the Minnesota Rate Cases, 230 U. S. supra, we further said (p. 419 ): 'The dominating purpose of the statute was to secure conformity to the prescribed standards through the examination and appreciation of the complex facts of transportation by the body created for that purpose; and, as this court has repeatedly held, it would be destructive of the system of regulation defined by the statute if the court, without the preliminary action of the Commission, were to undertake to pass upon the administrative questions which the statute has primarily confided to it.'
+ And in Texas & P. R. Co. v. American Tie & Timber Co. 234 U. S. supra, the rule was thus stated (p. 146): 'It is equally clear that the controversy as to whether the lumber tariff included cross-ties was one primarily to be determined by the Commission in the exercise of its power concerning tariffs and the authority to regulate conferred upon it by the statute. Indeed, we think it is indisputable that that subject is directly controlled by the authorities which establish that, for the preservation of the uniformity which 
+
+[240 U.S. 43, 50]
+ 
+ it was the purpose of the act to regulate commerce to secure, the courts may not as an original question exert authority over subjects which primarily come within the jurisdiction of the Commission.'
+ An adequate consideration of the present controversy would require acquaintance with many intricate facts of transportation and a consequent appreciation of the practical effect of any attempt to define services covered by a carrier's published tariffs, or character of equipment which it must provide, or allowances which it may make to shippers for instrumentalities supplied and services rendered. In the last analysis the instant cause presents a problem which directly concerns rate-making and is peculiarly administrative. Atchison, T. & S. F. R. Co. v. United States, 
+232 
+U.S. 199, 220
+, 58 S. L. ed. 199, 576, 34 Sup. Ct. Rep. 291. And the preservation of uniformity and prevention of discrimination render essential some appropriate ruling by the Interstate Commerce Commission before it may be submitted to a court. See Pennsylvania R. Co. v. Puritan Coal Min. Co. 237 U. S. pp. 128, 129, 59 L. ed. 871, 872, 35 Sup. Ct. Rep. 484; Pennsylvania R. Co. v. Clark Bros. Coal Min. Co. 238 U. S. pp. 469, 470, 59 L. ed. 1412, 35 Sup. Ct. Rep. 896.
+ If, in respect to interstate business, the courts of New York may determine, as original matters, rate-making problems, those in other states have like jurisdiction. The uncertainty and confusion which would necessarily result is manifest. Ample authority has been given the Commission, in circumstances like those here shown, to administer proper relief, and in connection therewith to approve some general rule of action. In so doing it would effectuate the great purpose for which the statute was enacted.
+ On June 1, 1908, before this proceeding was begun, the Interstate Commerce Commission ruled: 'A carrier may not lawfully reimburse shippers for the expense incurred in attaching grain doors to box cars unless expressly so provided in its tariff.' (Conference Ruling No. 78.) In National Wholesale Lumber Dealers' Asso. v. Atlantic Coast Line R. Co. 14 Inters. Com. Rep. 154, 
+
+[240 U.S. 43, 51]
+ 
+ June 23, 1908, after much consideration, the Commission refused to order carriers either to furnish flat cars equipped in all respects for transporting lumber or grant allowances for cost incurred by shippers in connection therewith. In New York State Shippers' Protective Asso. v. New York C. & H. R. R. Co. 30 Inters. Com. Rep. 437 (1914), the regulations and practices of railroads in Western New York with respect to car fittings used in bulk transportation of grain and produce were challenged. The shippers claimed: 'It is the carrier's duty to supply cars at all seasons of the year, fully equipped for the safe transportation of grain, potatoes, and other produce in bulk without further fitting; or, that if a car be tendered the shipper which cannot safely be used for such commodities, in view of their nature or of the condition of the weather, it is the carrier's duty to furnish, or to pay for, all materials and labor necessary to render the car reasonably safe.' This was denied. The opinions in these causes strikingly indicate the complicated administrative problem involved.
+ We find no error in the judgment below and it is affirmed. 
+
+
+

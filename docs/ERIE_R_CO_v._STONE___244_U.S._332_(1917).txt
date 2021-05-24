@@ -1,0 +1,75 @@
+Description: ERIE R CO v. STONE , 244 U.S. 332 (1917)
+Date: 1917-06-04 00:00:00
+Docket: 254
+Opinion
+
+
+United States Supreme Court
+ERIE R. CO. v. STONE(1917)
+No. 254
+Argued: May 3, 1917Decided: June 4, 1917
+
+
+
+
+[244 U.S. 332, 333]
+ 
+ Messrs. William E. Cushing, C. E. McBride, and N. M. Wolfe for plaintiff in error.
+ No appearance for defendants in error.
+
+ Mr. Justice Day delivered the opinion of the court:
+ Suit was brought in the common pleas court of Crawford county, Ohio, by Stone and Noble, present defendants in error, hereinafter designated as the plaintiffs, against the Lake Erie & Western Railroad Company and the present plaintiff in error, the Erie Railroad Company, to recover damages to certain horses shipped under bills of lading hereinafter referred to. Plaintiffs recovered a judgment in the court of original jurisdiction, and the same was affirmed by the court of appeals of Crawford county, to review which judgment a writ of error brings the case to this court.
+ The horses were shipped under a contract designated 'Limited- Liability Live-Stock Contract,' which was executed in duplicate on the part of the Lake Erie & Western Railroad company and the shippers. That contract contained the following stipulation:
+'That no claim for damages which may accrue to the said shipper under this contract shall be allowed or paid by the said carrier, or sued for in any court by the said shipper, unless a claim for such loss or damage shall be made in writing, verified by the affidavit of the said shipper or his agent, and delivered to the Erie Ry. agent of said 
+
+[244 U.S. 332, 334]
+ 
+ carrier at his office in East Buffalo, N. Y., within five days from the time said stock is removed from said car or cars, and that if any loss or damage occurs upon the line of a connecting carrier, then such sarrier shall not be liable unless a claim shall be made in like manner and delivered in like time to some proper officer or agent of the carrier on whose lines the loss or injury occurs.'
+
+ At a trial some four years before the one in which a verdict and judgment were rendered against the Erie Railroad Company, a verdict and judgment were rendered in favor of the Lake Erie & Western Railroad Company, and that company is out of the case.
+ The suit was tried as to the Erie Railroad Company at the February term, 1914, of the common pleas court of Crawford county, and the court charged the jury, among other things, that it was conceded that no written claim was filed within five days after the shipments respectively arrived at their destinations, and submitted to the jury the question whether this limitation was reasonable. The jury gave a verdict in favor of the plaintiffs for a sum which included the interstate shipments here involved and the intrastate shipment for which a separate cause of action was stated in the amended petition. It is this judgment upon the lump sum which was affirmed by the court of appeals of Crawford county.
+ For a defense the Erie Railroad Company set up, among other things, that the horses were shipped under the terms of the written live-stock contract above referred to; that this contract contained the requirement of notice already stated and gave a choice of two published tariff rates, the lower one based upon the agreed valuation of not exceeding $100 for each horse. The recovery in the case was for the full value of the horses, and not for the limited-liability valuation. The answer further set up that each of the interstate shipments in question came into the hands of the Erie Railroad Com- 
+
+[244 U.S. 332, 335]
+ 
+ pany for transportation from Ohio to East Buffalo, New York; that its official tariffs, classifications, and rules applicable to such interstate shipments, and in print and in force at and during the term of shipments, were duly filed with the Interstate Commerce Commission, pursuant to the acts of Congress. At the trial the Erie Railroad Company put in evidence its tariff rates, showing the alternative rate based upon the lower valuation, and the contract containing the stipulation as to notice already set forth.
+ The Federal question here presented is whether the court was right in leaving to the jury the question of the reasonableness of the requirement that notice should be given within five days, and permitting the jury, if it found that this limit was unreasonable, to give a verdict in excess of the limited liability contracted for.
+ This case requires little discussion, as the principles governing it have been settled by frequent decisions of this court. We need not stop to consider whether the requirement of the live-stock contract that a claim for damages should be presented within five days from the time the stock was removed from the cars was reasonable or not, for this question has been answered in favor of the reasonableness of such stipulation in the recent case of Northern P. R. Co. v. Wall, 
+241 U.S. 87
+, 60 L. ed. 905, 36 Sup. Ct. Rep. 493. See also St. Louis, I. M. & S. R. Co. v. Starbird, decided by this court on April 30, 1917 [
+243 U.S. 592
+, 61 L. ed. 917, 37 Sup. Ct. Rep. 462].
+ In the case under consideration it appears that the reduced rates under which these horses were shipped and the limited liability arising from shipping under such reduced rates were fixed by the tariff schedules and the form of limited-liability contract duly published and filed with the Interstate Commerce Commission, as required by law. These rates and that contract, which contained the notice requirement, thus became binding upon the parties until changed by order of the Commission. This is too well 
+
+[244 U.S. 332, 336]
+ 
+ settled to need discussion. The rules and regulations, duly published and filed, which in any wise affect the rates or the value of the service to be rendered, are controlling upon both parties to the shipping contract. Act of June 29, 1906, 34 Stat. at L.  2, p. 586, chap. 3591, Comp. Stat. 1916,  8569. The binding force of these contracts and regulations has been affirmed in many cases; among them: Kansas City Southern R. Co. v. Carl, 
+227 
+U.S. 639, 652
+, 57 S. L. ed. 683, 688, 33 Sup. Ct. Rep. 391; Boston & M. R. Co. v. Hooker, 
+233 
+U.S. 97, 112
+, 58 S. L. ed. 868, 876, L.R.A.1915B, 450, 34 Sup. Ct. Rep. 526, Ann. Cas. 1915D, 593; Louisville & N. R. Co. v. Maxwell, 
+237 
+U.S. 94, 98
+, 59 S. L. ed. 853, 855, L.R.A.1915E, 665, P.U.R. 1915C, 300, 35 Sup. Ct. Rep. 494; Great Northern R. Co. v. O'Connor, 
+232 
+U.S. 508, 515
+, 58 S. L. ed. 703, 706, 34 Sup. Ct. Rep. 380, 8 N. C. C. A. 53; George N. Pierce Co. v. Wells F. & Co. 
+236 
+U.S. 278, 285
+, 59 S. L. ed. 576, 582, 35 Sup. Ct. Rep. 351; Southern R. Co. v. Prescott, 
+240 
+U.S. 632, 638
+, 60 S. L. ed. 836, 839, 36 Sup. Ct. Rep. 469; Cincinnati, N. O. & T. P. R. Co. v. Rankin, 
+241 U.S. 319
+, 60 L. ed. 1022, L.R.A.1917A, 265, 36 Sup. Ct. Rep. 555; Norfolk Southern R. Co. v. Chatman [
+244 U.S. 276
+, 61 L. ed.--, 37 Sup. Ct. Rep. 499], decided by this court on May 21, 1917
+
+
+ It follows that the judgment of the Court of Appeals of Crawford County must be reversed and the cause remanded to that court for further proceedings not inconsistent with this opinion.
+ Reversed. 
+
+
+

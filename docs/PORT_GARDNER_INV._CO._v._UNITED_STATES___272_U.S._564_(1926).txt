@@ -1,0 +1,50 @@
+Description: PORT GARDNER INV. CO. v. UNITED STATES , 272 U.S. 564 (1926)
+Date: 1926-11-23 00:00:00
+Docket: 173
+Opinion
+
+
+United States Supreme Court
+PORT GARDNER INV. CO. v. UNITED STATES(1926)
+No. 173
+Argued: Decided: November 23, 1926
+
+
+
+ Messrs. Duane R. Dills, of New York City, and Loren Grinstead, of Seattle, Wash., for Port Gardner Inv. Co.
+ The Attorney General and Mr. Wm. D. Mitchell, Sol. Gen., of Washington, D. C., for the United States. 
+
+[272 U.S. 564, 565]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This is a proceeding, commenced in the federal court for Western Washington, Northern division, under Revised Statutes of the United States ,  3450 (Comp. St.  6352), to forfeit an automobile on the ground that it was being used with intent to defraud the United States of the tax on distilled spirits found therein. The use alleged was in removal and for the deposit and concealment. The claimant intervened in the District Court, asserted title to the automobile and denied knowledge or notice, prior to the seizure, that the automobile was being used or was to be used in any illegal manner. The case comes here on certificate from the Circuit Court of Appeals for the Ninth Circuit, that court having heard the case on writ of error to the District Court, which had entered a decree of forfeiture. Six questions are presented by the certificate. The fifth is:
+'Did the prosecution of the driver of the car under the National Prohibition Act constitute an election by the government to proceed under section 26 of that act and thereby prevent the forfeiture of the car under section 3450 of the Revised Statutes of the United States?'
+
+ The facts are these. Neadeau, the driver of the automobile seized by prohibition agents, had been charged with possession and transportation of intoxicating liquor in violation of the National Prohibition Act. He pleaded guilty to both charges and was sentenced to pay a fine. The claimant insisted that this proceeding under section 3450 would not lie. In addition to the objections considered in United States v. One Ford Coupe Automobile, 
+272 
+U.S. 321
+, 47 S. Ct. 154, 71 L. Ed. -, decided this day, the claimant contended that the government should not prevail, because the plea of guilt followed by the sentence constitutes a prior conviction under section 5 of the Willis-Campbell Act (Comp. St.  10138 4/5 c), which provides that 'if any act is a violation of' any tax law concerning intoxicating 
+
+[272 U.S. 564, 566]
+ 
+ liquors and also of the National Prohibition Law, or the supplement thereto, 'a conviction for such act or offense under one shall be a bar to prosecution therefor under the other.' The argument is that under section 26 (Comp. St.  10138 1/2 mm) no separate action is taken to forfeit the vehicle; that forfeiture is an incident of the conviction of the person, which operates as a forfeiture also of the vehicle taken possession of, subject only to the right of the innocent third party to establish his lien or other interest; and that the order of sale is merely a step in the execution of the judgment of conviction and forfeiture. It is argued, further, that the term 'act,' as used in section 5, means transaction, and that for this reason, independently of the doctrine of election, a conviction of the person under section 26 will bar the proceeding under section 3450, because, on the facts recited in the certificate, the proceeding to forfeit under section 3450 rests upon the same transaction for which Neadeau was sentenced. Whether the principle embodied in this contention is sound we need not determine. For there is another ground on which the conviction of Neadeau under section 26 bars a proceeding to forfeit under section 3450
+
+
+ The disposition of the automobile prescribed in section 26 became mandatory after Neadeau's conviction, and, being inconsistent with the disposition under section 3450, necessarily precluded resort to proceedings under the latter section. Construing the fifth question as referring to the prosecution with effect, we answer the question in the affirmative.
+ We need not determine whether the mere commencement of a proceeding under section 26 constitutes an election. Nor need we give specific answers to the other questions asked, since the certificate does not disclose any reason why the sale of the automobile, subject to the interests of innocent parties, should not have been ordered by the District Court after the conviction of Neadeau.
+ Yes, to question 5. 
+
+[272 U.S. 564, 567]
+ 
+
+ Mr. Justice BUTLER (concurring).
+ I agree that the answer to question 5 should be in the affirmative.
+ In the opinion it is said, 'Construing the fifth question as referring to the prosecution with effect, we answer the question in the affirmative.' This means prosecution and conviction of the driver constitute an election to proceed against the vehicle under section 26, and prevents forfeiture under section 3450. The answer is enough to guide the Circuit Court of Appeals in this case. But it leaves open the question which is not decided in No. 115. 
+272 
+U.S. 321
+, 47 S. Ct. 154, 71 L. Ed. -. The substance of that question is whether the prohibition officer, discovering one in the act of transportation, may disregard the plain and direct commands of section 26 to proceed against the vehicle as there directed. I think he has no more right to ignore that command than he has to let the liquor and offender go. The law makes the election. I regret that this court's answer is so qualified and restricted. Section 26 is not so restrained.
+ I am authorized to say that Mr. Justice STONE concurs in this opinion. 
+
+
+

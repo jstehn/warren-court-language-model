@@ -1,0 +1,56 @@
+Description: FIRST NAT BANK OF ALBUQUERQUE v. ALBRIGHT , 208 U.S. 548 (1908)
+Date: 1908-02-24 00:00:00
+Docket: 123
+Opinion
+
+
+United States Supreme Court
+FIRST NAT BANK OF ALBUQUERQUE v. ALBRIGHT(1908)
+No. 123
+Argued: Decided: February 24, 1908
+
+
+
+
+ Mr. Alonzo B. McMillen for appellant.[ First Nat Bank of Albuquerque v. Albright 
+208 U.S. 548
+ (1908) ]
+
+
+[208 U.S. 548, 550]
+ 
+ Mr. Frank W. Clancy for appellees.
+
+
+[208 U.S. 548, 551]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a complaint or bill against the assessor, the treasurer and ex officio collector, and the district attorney of the county of Bernalillo, New Mexico, to enjoin the reassessment of a tax on stock and real estate for the year 1903 upon the plaintiff bank, which the plaintiff is informed and believes the defendants will attempt. The bill alleges that the plaintiff gave the assessor a list in which capital stock, surplus, and real estate were lumped in a single item with a single valuation of $90,000. Thereupon the assessor made a different valuation, lumping the capital stock and valuing it at 60 per cent of its par value, and giving separate figures for the surplus and the several parcels of real estate, the total being $150,542. This was affirmed by the territorial board of equalization on appeal. Afterwards the plaintiff the amount admitted by it to be due, and was sued for the residue; but the suit was dismissed, the district attorney giving out that a new assessment would be made. It is alleged that the assessor, in 1903, announced as his method of valuation that all property except bank property and bank shares would be assessed at one third of its real value, but that he would assess banks at 60 per cent of the capital stock and surplus in addition to their real estate; that he did as he announced, and also assessed the real estate without deducting the value 'from the valuation of other property assessed against said banks.' Beside the prayer for an in- 
+
+[208 U.S. 548, 552]
+ 
+ junction there is another that the treasurer and ex officio collector be ordered to cancel the above-mentioned assessment upon his books. There was a demurrer, which was overruled below, but sustained by the supreme court of the territory, with directions to dismiss the complaint.
+ The complaint admits that the plaintiff's return was not in accordance with the law, and the supreme court of the territory says that both that and the assessment were bad, and that a reassessment is authorized by local law. We see no reason to reverse its decision upon that point. If a reassessment is made, that now on the treasurer's books will be disposed of and will be no cloud upon the plaintiff's title, so that the whole question is whether a reassessment shall be made. The plaintiff's objection is not the technical one that no reassessment is authorized by statute, but the substantial apprehension that the shares will be taxed 'at a greater rate than is assessed upon other moneyed capital in the hands of individual citizens,' contrary to the words of Rev. Stat.  5219, U. S. Comp. Stat. 1901, p. 3502, and that the value of real estate separately assessed and taxed will not be deducted from the valuation of shares, as it is thought to be implied by that section and required by the territorial laws of 1891, chap. 40 (Comp. Laws, 1897,  259), that it should be.
+ We assume that such an assessment of shares as is apprehended would be invalid under Rev. Stat.  5219. First Nat. Bank v. Chapman, 
+173 
+U.S. 205, 219
+, 220 S., 43 L. ed. 669, 674, 675, 19 Sup. Ct. Rep. 407. We assume that it would be invalid none the less if disguised as a tax on 60 per cent of the par value, if other moneyed capital was uniformly had intentionally assessed at one third of its actual value and if 60 per cent of the par value of the bank shares was more than one third of their actual value. Accidental inequality is one thing, intentional and systematic discrimination another. See, further, Raymond v. Chicago Union Traction Co. 
+207 U.S. 20
+, ante, 7, 28 Sup. Ct. Rep. 7. We agree with the plaintiff that the only taxes contemplated by  5219 are taxes on the shares of stock and taxes on the real estate. Owensboro Nat. 
+
+[208 U.S. 548, 553]
+ 
+ Bank v. Owensboro, 
+173 
+U.S. 664, 669
+, 43 S. L. ed. 850, 852, 19 Sup. Ct. Rep. 537. Hence, while the law does not consider the nature of the bank's investments not taxed in fixing the value of its stock (Palmer v. McMahon, 
+133 U.S. 660
+, 33 L. ed. 772, 10 Sup. Ct. Rep. 324), it may be argued consistently with the decisions that real estate taxed to the bank, and land out of the territory, which could not be taxed by it at all (Union Refrigerator Transit Co. v. Kentucky, 
+199 U.S. 194
+, 50 L. ed. 150, 26 Sup. Ct. Rep. 36), are meant to be deducted by Rev. Stat.  5219, and are required to be by the territorial law. But we agree with the supreme court of the territory that the time for deciding these and other questions has not come.
+ The acceptance of what was admitted to be due created no estoppel to demand more. There are no such precise averments in the complaint as would warrant our assuming that no assessment could be made for a further amount, still less that none in any form could be made, when there is no valid one upon the books. We cannot tell, and much more positive averments of intent than those before us would not warrant a court in prejudging, what the assessing officer will do. It is not for a court to stop an officer of this kind from performing his statutory duty for fear he should perform it wrongly. The earliest moment for equity to interfere is when an assessment has been made. Probably it will be made with caution, after this case.
+ Judgment affirmed. 
+
+
+

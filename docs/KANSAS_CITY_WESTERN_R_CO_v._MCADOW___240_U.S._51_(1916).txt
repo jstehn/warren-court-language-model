@@ -1,0 +1,70 @@
+Description: KANSAS CITY WESTERN R CO v. MCADOW , 240 U.S. 51 (1916)
+Date: 1916-01-31 00:00:00
+Docket: 127
+Opinion
+
+
+United States Supreme Court
+KANSAS CITY WESTERN R. CO. v. MCADOW(1916)
+No. 127
+Argued: Decided: January 31, 1916
+
+
+
+
+[240 U.S. 51, 52]
+ 
+ Messrs. Charles F. Hutchings and McCabe Moore for plaintiff in error.
+ Messrs. John H. Atwood and Oscar S. Hill for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action for personal injuries, brought by the defendant in error against the plaintiff in error, in whose employ he was. The original petition alleged that the defendant operated a line of electric railway extending from Leavenworth, Kansas, through Wolcott and Kansas City, in the same state, into Kansas City, Missouri; that the plaintiff was a motorman upon a car on the line and was injured in Kansas by a collision due to the defendant's negligence. An amendment was allowed alleging that the 
+
+[240 U.S. 51, 53]
+ 
+ plaintiff was injured on a trip from Kansas City, Missouri, to Leavenworth, with further details, and that the defendant's negligent acts were in violation of the act of Congress controlling such matters when the parties were engaged in commerce among the states. The defendant was a Kansas corporation having an electric railway from Leavenworth into Kansas City, Kansas. It had a traffic agreement with the Metropolitan Street Railway Company operating street railways in Kansas City, Missouri, by which the latter was to receive the cars of the former, carrying passengers and freight, and move them through designated streets in Missouri and back to Kansas; each party to be liable for damage due to its negligence during this part of the transit, and the fares and freight money to be divided in certain proportions. By a later agreement the route was modified and it was provided that the defendant should pay the trainmen's wages during the movement in Missouri, but that they should be under the exclusive control of the Metropolitan Company, and, as between said companies, should in all respects be regarded for the time being as its employees. There was evidence that in fact, at the time of the accident, the only control exercised by the Missouri Company was to put a conductor upon the car to receive the fares; that while in Missouri it received its orders from the Kansas side; and that the company was in the hands of receivers, who seem not to have recognized the contract. The plaintiff got a verdict, which was sustained. The errors assigned are, in substance, that the amendment expressly bringing the case under the act of Congress ought not to have been allowed; that the act does not apply to electric roads, and that, if it does, the defendant was not engaged in commerce among the states, or at least was not if the contract between the companies governed the movement of the car.
+ As to the first, it would be enough to say that if the 
+
+[240 U.S. 51, 54]
+ 
+ declaration on which the case was tried brought it under the act, the fact that it appeared as an amendment to one that alleged the same facts with the exception of the plaintiff's coming from beyond the state raises no question under the laws of the United States. Central Vermont R. Co. v. White, 
+238 
+U.S. 507, 513
+, 59 S. L. ed. 1433, 1437, 35 Sup. Ct. Rep. 865, 9 N. C. C. A. 265; Brinkmeier v. Missouri P. R. Co. 
+224 
+U.S. 268, 270
+, 56 S. L. ed. 758, 760, 32 Sup. Ct. Rep. 412. The state court sustained the amendment on the ground of waiver, but if it had held it allowable as a matter of course, no Federal right would have been infringed. Wabash R. Co. v. Hayes, 
+234 
+U.S. 86, 90
+, 58 S. L. ed. 1226, 1230, 34 Sup. Ct. Rep. 729, 6 N. C. C. A. 224. It is said that by the amendment it gave a jurisdiction to the Missouri court that otherwise it would not have had under the act of April 5, 1910, chap. 143, 36 Stat. at L. 291, Comp. Stat. 1913,  1010. But actions of tort are transitory, and the argument based on the act of 1910 would have no application unless the defendant was engaged in business governed by that act. The argument would be that if so engaged, then, under the statute, the interstate road could not be sued in a state court unless it was doing business in that state. We express no assent to it, but if sound it would afford no ground for objecting to the amendment; and no question of jurisdiction was raised. The amendment introduced no fact inconsistent with those first alleged, and it was unnecessary when the facts were stated to invoke the act of Congress in terms. The law governing the situation is equally the law of the state, whether derived from Congress or the state legislature, and must be noticed by the courts. Grand Trunk Western R. Co. v. Lindsay, 
+233 
+U.S. 42, 48
+, 58 S. L. ed. 838, 842, 34 Sup. Ct. Rep. 581, Ann. Cas. 1914C, 168; Second Employers' Liability Cases (Mondou v. New York, N. H. & H. R. Co.) 
+223 
+U.S. 1, 57
+, 56 S. L. ed. 327, 349, 38 L.R.A.(N.S.) 44, 32 Sup. Ct. Rep. 169, 1 N. C. C. A. 875.
+ The defendant's road appears to be of the class of the traction company that was before the court in United States v. Baltimore & O. S. W. R. Co. 
+226 U.S. 14
+, 57 L. ed. 104, 33 Sup. Ct. Rep. 5, and that was excepted from the decision in Omaha & C. B. Street R. Co. v. Interstate Commerce Commission 
+230 
+U.S. 324, 337
+, 57 S. L. ed. 1501, 1506, 46 L.R.A.(N. S.) 385, 33 Sup. Ct. Rep. 890. Such roads have been held 
+
+[240 U.S. 51, 55]
+ 
+ to be within the act of Congress. Spokance & I. E. R. Co. v. Campbell, 133 C. C. A. 370, 217 Fed. 518. See act of June 18, 1910, chap. 309,  12, 36 Stat. at L. 539, 552, Comp. Stat. 1913,  8583. So, again, many cases have intimated that the technical considerations by which the defendant seeks to establish that it was not engaged in commerce among the states are not final. Pennsylvania R. Co. v. Clark Bros. Coal Min. Co. 
+238 
+U.S. 456, 467
+, 59 S. L. ed. 1406, 1411, 35 Sup. Ct. Rep. 896; Savage v. Jones, 
+225 
+U.S. 501, 520
+, 56 S. L. ed. 1182, 1189, 32 Sup. Ct. Rep. 715; Swift & Co. v. United States, 
+196 
+U.S. 375, 398
+, 49 S. L. ed. 518, 523, 25 Sup. Ct. Rep. 276. But these questions really are immaterial here since the Kansas statute is so similar to that of the united States that the liability of the defendant does not appear to be affected by the question which of them governed the case. In such circumstances it is unnecessary to decide which law applied. Chicago & N. W. R. Co. v. Gray, 
+237 U.S. 399
+, 59 L. ed. 1018, 35 Sup. Ct. Rep. 620, 9 N. C. C. A. 452.
+ Judgment affirmed. 
+
+
+

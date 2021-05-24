@@ -1,0 +1,43 @@
+Description: SOUTHERN RY. CO. v. HUSSEY , 283 U.S. 136 (1931)
+Date: 1931-04-13 00:00:00
+Docket: 342
+Opinion
+
+
+United States Supreme Court
+SOUTHERN RY. CO. v. HUSSEY(1931)
+No. 342
+Argued: Decided: April 13, 1931
+
+
+
+ Mr. Charles A. Houts, of St. Louis, Mo., for petitioner.
+ Mr. Wm. H. Allen, of St. Louis, Mo., for respondent. 
+
+[283 U.S. 136, 137]
+ 
+
+ Mr. Justice HOLMES delivered the opinion of the Court.
+ This is a suit to recover for personal injuries suffered by the plaintiff, the respondent here, a passenger upon a train of the petitioner and on the petitioner's road, in consequence of a collision with a train of the Evansville, Indianapolis and Terre Haute Railway Company, a corporation of Indiana. The petitioner to meet the plaintiff's prima facie case, relied upon the following facts. The collision happened in Indiana on September 2, 1927. A statute of that State authorized Indiana railroads to cross and unite with any other railroad before constructed and required the intersected road to unite with the new one in forming such intersections and connections and to grant specified facilities. 3 Burns, Annotated Statutes, 1926,  12931. Other sections authorized and ratified contracts for running trains of one road over the tracks of another, and made the railroad so running its trains over the tracks of another liable to the same extent as if it owned the tracks.
+ In January, 1922, the petitioner made a contract with the Evansville road providing for a connection with the petitioner's line to enable the Evansville Company to carry coal from mines near Francisco, where the lines connected, to Oakland City, a distance of about seven miles. The Evansville Company was to reimburse the petitioner for the 150-foot connection and was to maintain it at its own cost in all respects in accordance with the requirements of the petitioner. The petitioner was to have control of operations on this section of their main track, to provide for the movement of the Evansville trains over the section, and to furnish the necessary operators, signal men. etc. The Evansville crews and employees while in the section were to be governed by the petitioner's rules and amenable to orders of the petitioner's superintendent. We think it unnecessary to quote further in order 
+
+[283 U.S. 136, 138]
+ 
+ to show the relation in which the petitioner stood to this portion of its own road. This contract was offered in evidence by the defendant but was excluded subject to its exception. It is before us in the record, but as it does not change the petitioner's liability in this case it does not matter whether it is let in or kept out. See Fairmont Creamery Co. v. Minnesota, 
+274 
+U.S. 1, 5
+, 47 S. Ct. 506, 52 A. L. R. 163.
+ The two roads are connected of course by a switch. The lever by which the switch was opened and shut was connected with a signal device so arranged that when the switch was closed and it was safe to go ahead on the main line a green light was shown. If the switch was open a red right meant stop. Just before the collision an Evansville train was waiting on the sidetrack to go to Oakland City. The switch had been opened in expectation of going on, but the conductor, learning that there was not time before the probable arrival of a Southern train, ordered it to be closed. A man started to do it but seeing the green light displayed supposed that it had been closed already and did nothing. In fact, owing to a defect in the switch, the green light had failed to give way to the red as it should have done, and when the Southern train arrived its engineer was led to think that the way ove th e main track was clear. The train went ahead but was turned on to the sidetrack and ran into the waiting Evansville train, causing disaster and death.
+ The Court instructed the jury that if the plaintiff was injured as a direct result of the negligence of either company or of both they should find for the plaintiff. There was a verdict and judgment for the plaintiff and the judgment was affirmed by the Circuit Court of Appeals. 42 F.(2d) 70. A writ of certiorari was granted by this Court. 
+282 
+U.S. 826
+, 51 S. Ct. 75, 75 L. Ed. -.
+ The petitioner states the question as being whether it is liable for an injury to a passenger caused by the negligence of the employees of the other company in failing to 
+
+[283 U.S. 136, 139]
+ 
+ close the switch that connected the two roads, which was installed, owned and operated exclusively by and for the benefit of the Evansville Company; was so constructed, maintained and operated under the compulsion of a statute of Indiana, and was so constructed and operated under a contract expressly authorized by the statutes of Indiana. But this statement needs a good deal of qualification. It is doubtful whether the statute in the word 'unite' contemplates more than intersection. It certainly did not require the contract that the petitioner made. The terms of that contract were of the petitioner's own choosing and they gave the paramount authority to the Southern road. As was to be expected the main track remained its own and subject to its control. There is no dispute that the collision was caused by an interruption of the course of the main line through the misplacement of a switch in consequence of a defect in the signal. The Southern road had not abdicated its control over its main line or its ultimate authority over the switch. If, as the jury must have found under the instructions, the defect in the light was not due to a sudden inevitable accident but could have been avoided by care, the Southern road owed that care to the plaintiff, and therefore whether the men immediately in contact with the switch were employees of the Evansville or the Southern Company the Southern was responsible for this condition to the passengers in its train. Illinois Central R. R. Co. v. Barron, 5 Wall. 91; McElroy v. Nashua & Lowell R. R. Corp., 4 Cush. (Mass.) 400, 50 Am. Dec. 794. This case is not of the class concerning the liability of a lessor for injuries immediately attributable to the lessee, but concerns a responsibility for the condition of its road from which the petitioner did not divest itself, even if it could.
+ Judgment affirmed. 
+
+
+

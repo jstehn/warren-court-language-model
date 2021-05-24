@@ -1,0 +1,55 @@
+Description: CHAMBERLIN v. BROWNING , 177 U.S. 605 (1900)
+Date: 1900-05-14 00:00:00
+Docket: 251
+Opinion
+
+
+United States Supreme Court
+CHAMBERLIN v. BROWNING(1900)
+No. 251
+Argued: April 19, 1900Decided: May 14, 1900
+
+
+
+ John D. Scott executed in the District of Columbia, on April 24, 1886, a deed of voluntary assignment for the benefit of his creditors, embracing in a schedule of his assets, among other property, a life estate in certain land situated in Montgomery county, Maryland. Horatio Browning qualified as assignee under the deed of assignment.
+ Various steps were taken under the assignment, but prior as well as subsequent to the recording of the deed in Montgomery county, Maryland, certain creditors of Scott, all but one of whom resided i t he District of Columbia, seized the real estate referred to under attachment process issued in Maryland. The attachment proceedings went to judgment, whereupon one of the judgment creditors filed a bill in the Maryland court to declare that the interest of Scott in said real estate was in fee simple, and not merely a life estate. In this latter suit a decree was entered sustaining the claim of the creditors, and proceedings were then taken by the several creditors to enforce their judgment claims against said real estate.
+ The appellants, as creditors of Scott, thereupon filed their bill in the supreme court of the District of Columbia against Scott, Browning, the assignee, and the various creditors who had instituted the attachment proceedings in Maryland. In substance the bill set out the various facts hereinbefore recited, charged 
+
+[177 U.S. 605, 606]
+ 
+ that the attaching creditors had actual and constructive notice of the deed of assignment, and had participated in the proceedings thereunder, and were without lawful right to enforce their attachment claims against the real estate referred to, and thus to secure a preference over the other creditors who had elected to take the benefit of the deed of assignment. The sums sought to be recovered by each of the attaching creditors in the proceedings in Maryland were enumerated in the bill, and in no instance did the claim or claims of any of said creditors aggregate more than $3,500. Various allegations were also contained in the bill with respect to mismanagement by Browning in the execution of his trust as assignee. Part of the specific relief prayed in the bill was the removal of Browning as assignee, a stating of his accounts, discovery by Scott of further assets, and the execution by him of a deed in fee simple of the Maryland property. As to the attaching creditors, the following relief was prayed:
+'Six. That the attaching creditors be restrained, pending this action, from in any manner proceeding to enforce their said attachments on judgments of condemnation against said Maryland land, and from doing any act or thing to hinder, delay, or interfere with the control or management of the estate abroad for the equal benefit of all said Scott's creditors, and from in any way seeking to secure to themselves any greater benefit or interest out of said estate and effects than shall represent their 'pro rata' share under said assignment, and that on final hearing such injunction be made perpetual.
+
+'Seven. Or, if this cannot be done, that the attaching creditors be directed to bring into court any moneys realized from said land, and that the same be treated as assets passing by said deed of assignment, and distributed among the creditors as therein directed.' [Keane v. Chamberlain, 14 App. D. C. 84.]
+
+ Each of the defendants who are appellees in this court demurred to the bill. From an order overruling the demurrers an appeal was allowed by the court of appeals of the District of Columbia. That court reversed the order made by the lower court and remanded the cause, with directions to sustain the demurrers and dismiss the bill as to the appellees Keane, Mid- 
+
+[177 U.S. 605, 607]
+ 
+ dleton, the Central National Bank of Washington, Edward O. Whitford, and the partnership of Browning and Middleton, and for further proceedings not inconsistent with the opinion of the court. Thereafter the supreme court of the District, upon consideration of the mandate of the court of appeals, entered a decree sustaining the demurrers and dismissing the bill of complaint as to the defendants named in the mandate of the court of appeals. From this decree the case was again taken to the court of appeals, and that court affirmed said decree. This appeal was then taken.
+ Mr. O. B. Hallam for appellants.
+ Messrs. Arthur Peter, A. A. Birney, and James S. Edwards for appellees.
+
+ Mr. Justice White, after making the foregoing statement, delivered the opinion of the court:
+ Along with an argument upon the merits, counsel for the appellees have presented a motion to dismiss this appeal as to all the appellees, because of the absence of any controversy involving the requisite jurisdct ional amount. This motion we find to be well taken.
+ The decree appealed from affected only the defendants, who, as attaching creditors, had prosecuted actions in the Maryland court upon their claims against their debtor, Scott, and had by ancillary proceedings subjected real estate owned by their debtor to the satisfaction of the judgments obtained in the actions referred to.
+ Recovery of land or its value was not the relief sought by the bill below against the attaching creditors, for said creditors did not hold or assert title to the land. The value of the land, therefore, was clearly not the subject-matter of dispute between the complainants and the said attaching creditors. The relief prayed against the latter was the enjoining of the enforcement against real estate in Maryland of the judgments obtained by the appellees, or the bringing into court of any 
+
+[177 U.S. 605, 608]
+ 
+ moneys realized from said land by virtue of the proceedings. But the appellees, as attaching creditors, were not jointly asserting their claims against Scott or his property, nor were they claiming under a common right. Their claims and the judgments based thereon were separate and distinct, the one from the other, and in no case did the amount of the judgments obtained by either of the appellees equal $5,000. The case presented is clearly within the principle of the decision in Gibson v. Shufeldt, 
+122 U.S. 27
+, 30 L. ed. 1083, 7 Sup. Ct. Rep. 1066, and cases there cited. The Gibson Case was a suit brought by general creditors to set aside as fraudulent a conveyance in trust for the benefit of preferred creditors. The decree set aside the conveyance as fraudulent so far only as it affected the rights of the plaintiffs. But one of such general creditors held a claim amounting to $5,000. A motion to dismiss the appeal as to all other plaintiffs was sustained, the court holding that the sole matter in dispute between the defendants and each plaintiff was as to the amount which the latter should recover, and that the motion to dismiss the appeal of the defendants as to all the plaintiffs except the one whose debt exceeded the jurisdictional amount, should be granted. Had the appellants recovered against the appellees the amount collected by the latter upon their judgments, it is clear that the amount in dispute for the purpose of determining jurisdiction would be the amount of recovery assessed against each defendant separately. Henderson v. Wadsworth, 
+115 U.S. 264
+, 29 L. ed. 377, 6 Sup. Ct. Rep. 40; Friend v. Wise, 
+111 U.S. 797
+, 28 L. ed. 602, 4 Sup. Ct. Rep. 695. As stated in the Henderson case, neither codefendant nor coplaintiffs can unite their separate and distinct interests for the purpose of making up the amount necessary to give this court jurisdiction upon writ of error or appeal. If, therefore, the appellees could not, if recovery had been had against them, unite their separate interests for the purposes of an appeal, the appellants cannot do so for the purpose of asserting the existence of appellate jurisdiction in this court.
+ In the case at bar, we repeat, in effect, the substantial relief sought against the attaching creditors, and the matter in dispute between them, was the defeat of the distinct and separate claims of each attaching creditor so far as it respected the real 
+
+[177 U.S. 605, 609]
+ 
+ estate owned by Scott, and, as already shown, no defendant was asserting claims which aggregated the amount required to confer jurisdiction upon this court.
+ Dismissed for want of jurisdiction. 
+
+
+

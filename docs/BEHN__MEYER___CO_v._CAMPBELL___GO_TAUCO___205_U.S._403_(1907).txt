@@ -1,0 +1,119 @@
+Description: BEHN, MEYER & CO v. CAMPBELL & GO TAUCO , 205 U.S. 403 (1907)
+Date: 1907-04-08 00:00:00
+Docket: 227
+Opinion
+
+
+United States Supreme Court
+BEHN, MEYER & CO. v. CAMPBELL & GO TAUCO(1907)
+No. 227
+Argued: March 7, 1907Decided: April 8, 1907
+
+
+
+ The defendants in error, hereinafter called the plaintiffs, brought an action in the court of first instance of the city of Manila, in the Philippine Islands, to recover from the plaintiffs in error, hereinafter called the defendants, the sum of 9,250.62 pesos, alleged to be due on account of labor and materials furnished under a building contract and its modifications. The defendants, among other defenses, set up first, that the labor 
+
+[205 U.S. 403, 404]
+ 
+ was performed in a negligent and unworkmanlike manner, which caused the defendants great damages; and, second, that the plaintiffs contracted in writing with the defendants to fill a certain lot of land with earth and sand at a given rate per cubic meter, and had been paid upon their representation of the amount of earth and sand used in the filling, $81, 497.65, Mexican currency; that the amount of sand and earth used was much less than that represented, and that the plaintiffs had been overpaid $41, 197.63, Mexican currency. The defendants sought to recover this overpayment by way of counterclaim. A trial before the judge of the court of first instance resulted in a finding that the defendants had been damaged through the negligent and unworkmanlike manner of furnishing the labor under the building contract and its modifications, to an amount equal to the sum remaining due under the terms of that contract and that there had been an overpayment on the filling contract, as alleged by the defendants. Accordingly judgment was rendered dismissing the plaintiffs' complaint, and that the defendants recover from the plaintiffs $52,000 Mexican currency. The plaintiffs appealed to the supreme court of the Islands. That court found as a fact substantially that the plaintiffs had fully complied with their contract and were entitled to recover the amount they alleged to be due; that the amount paid by the defendants to the plaintiffs on account of filling was determined by actual measurements made at the time of the filling by defendants' representatives; that there was no fraud or mistake, and that the defendants, therefore, were not entitled to recover anything on account of overpayment on that account. The judgment of the court of first instance was reversed, and judgment ordered for the plaintiffs in the sum of $9,250.62, Mexican currency. Thereupon the defendants appealed to this court. The appeal was dismissed by this court for want of jurisdiction. The defendants then sued out a writ of error, which was allowed by a justice of the supreme court of the Philippine Islands, and filed with its petition the following assignment of errors: 
+
+[205 U.S. 403, 405]
+ 
+
+'1. The supreme court of the Philippine Islands erred in reversing the judgment of the court of first instance for the city of Manila to the effect that the plaintiff's in error were entitled to the sum of $9,250.62, Mexican currency, as damages sustained by reason of the faulty construction of the premises in question.
+
+'2. The supreme court of the Philippine Islands erred in reversing the judgment of the court of first instance for the city of Manila granting judgment in favor of the plaintiff in error in the sum of $52,000, Mexican currency, the amount overpaid by the plaintiffs in error to the defendants in error for the delivery of sand.
+
+'3. The supreme court of the Philippine Islands erred in finding as matters of fact the following:
+
+'(1) That in the construction of the building the contract, plans, and specifications have been complied with, with the exception of a variation to the advantage of the owner, which is that the principal posts rest upon layers of stone, instead of upon the ground, as called for by the plan.
+
+'(2) That, if there has been any variation from the original plan, this was done largely, if not wholly, with the consent of the owner, and, at all events, with that of his agent, the inspecting engineer, and that these changes have been improvements.
+
+'(3) That the house was constructed under a contract and specifications which did little more than to designate the size of the building, the material to be employed, and, with the plan, gave a drawing of the building, leaving the details necessary almost completely to the direction of the inspecting architect or engineer.
+
+'(4) That the owner intrusted the direction of the work to an inspecting engineer selected by himself, with full authority to represent him, and that the contractor has performed the work solely in accordance with the direction of the said inspecting engineer.
+
+'(5) That although there is some evidence to indicate that 
+
+[205 U.S. 403, 406]
+ 
+ a part of the house has settled more than other parts, this is due either to the ground itself or to a defect in plan, or to the directions of the inspecting engineer, and cannot be attributed to a failure on the part of the contractor to comply with the conditions of the contract.
+
+'(6) If there are any cracks in the floor and in the joints in the building, this is due to the class of lumber which was selected by the owner.
+
+'(7) That the plan of the work and the placing of the principal posts were approved by the city engineer and were in conformity with the ordinances.
+
+'(8) That the owner took possession of the house in the month of May, 1902, and has occupied it since that time as a dwelling house.
+
+'By the very fact of accepting the house and occupying it, the defendants acknowledged that it was construted substantially as required by the contract, plans, and specifications; and this is the law even when the work is not done according to the contract, but accepted.
+
+'4. The supreme court of the Philippine Islands erred in not finding that the evidence in the case was not sufficient to justify the court reversing the judgment of the court of first instance.
+
+'5. The supreme court of the Philippine Islands erred in reversing the judgment of the court of first instance for the city of Manila, and in giving judgment against the plaintiff in error in the sum of $9,250.62, Mexican currency.
+
+'6. The supreme court of the Philippine Islands erred in not confirming the judgment of the court of first instance of the city of Manila in giving judgment in favor of the plaintiff in error in the sum of $ 52,000, Mexican currency.'
+
+ Messrs. Henry E. Davis and Charles C. Carlin for plaintiffs in error.
+ Messrs. Aldis B. Browne and Alexander Britton for defendants in error.
+
+ Statement by Mr. Justice Moody: 
+
+[205 U.S. 403, 407]
+ 
+
+ Mr. Justice Moody, after making the foregoing statement, delivered the opinion of the court:
+ The defendant first appealed from the judgment of the supreme court of the Philippine Islands, which had been rendered against them and the appeal was dismissed. 
+200 U.S. 611
+, 50 L. ed. 619, 26 Sup. Ct. Rep. 753. The reason, so plain that it seemed not to require statement, was that errors alleged to have been committed in an action at law can be reviewed here only by writ of error. This, in the absence of modification by statute, is the rule in respect to all courts whose records are brought here for review. Walker v. Dreville, 12 Wall. 440, 20 L. ed. 429; United States v. Hailey, 
+118 U.S. 233
+, 30 L. ed. 173, 6 Sup. Ct. Rep. 1049; Deland v. Platte County, 
+155 U.S. 221
+, 39 L. ed. 128, 15 Sup. Ct. Rep. 82; Comstock v. Eagleton, 
+196 U.S. 99
+, 49 L. ed. 402, 25 Sup. Ct. Rep. 210.
+ The defendants, having failed in their appeal, have now brought a writ of error and ask this court to review the facts to the same extent that they would be reviewed on appeal. But this overlooks the vital distinction between appeals and writs of error which has always been observed by this court, and recognized in legislation. An appeal brings up questions of fact as well as of law, but upon a writ of error only questions of law apparent on the record can be considered, and there can be no inquiry whether there was error in dealing with questions of fact. Wiscart v. Dauchy, 3 Dall. 321, 1 L. ed. 619; Generes v. Campbell, 11 Wall. 193, 20 L. ed. 110; United States v. Dawson, 
+101 U.S. 569
+, 25 L. ed. 791; England v. Gebhardt, 
+112 U.S. 502
+, 28 L. ed. 811, 5 Sup. Ct. Rep. 287; Martinton v. Fairbanks, 
+112 U.S. 670
+, 28 L. ed. 862, 5 Sup. St. Rep. 301; Dower v. Richards, 
+151 U.S. 658
+, 38 L. ed. 305, 14 Sup. Ct. Rep. 452 ( where the cases are reviewed by Mr. Justice Gray); Elliott v. Toeppner, 
+187 U.S. 327
+, 47 L. ed. 200, 23 Sup. Ct. Rep. 133; Rev. Stat.  1011, U. S. Comp. Stat. 1901, p. 715.
+ The assignment of errors in the case at bar does not allege any errors of law, but deals exclusively with questions of fact. There are six assignments. The first, second, fifth, and sixth assignments severally allege that the supreme court erred in rendering the judgment which it did and in reversing the judgment of the court of first instance. The third assignment specifically recites that 'the supreme court of the Philippine 
+
+[205 U.S. 403, 408]
+ 
+ Islands erred in finding as matters of fact the following:' Then come eight specifications of errors in such findings. It is, however, argued by counsel that the fourth assignment of errors in effect alleges an error in law. That assignment is as follows: lows: 'The supreme court of the Philiphine Islands erred in not finding that the evidence in the case was not sufficient to justify the court reversing the judgment of the court of first instance.'
+ The Philippine Code of Procedure (Public Laws of Philippine Commission, act 190, 1901), prescribes in chapter 22 the practice of the supreme court in reviewing the judgments of courts of first instance. It confines the review to questions of law, with certain exceptions, one of which is as follows:
+'If the excepting party filed a motion in the court of first instance for a new trial, upon the ground that the findings of fact were plainly and manifestly against the weight of evidence, and the judge overruled said motion, and due exception was taken to his overruling the same, the supreme court may review the evidence and make such findings upon the facts and render such final judgment as justice and equity require. But, if the supreme court shall be of the opinion that the exception is frivolous and not made in good faith, it may impose double or treble additional costs upon the excepting party, and may order them to be paid by the counsel presecuting the bill of exceptions, if, in its opinion, justice so requires.'  497, subdiv. 3.
+
+ The supreme court, in the case at bar, acted upon the authority conferred by this subdivision. It is said that the supreme court can review the evidence taken in the court of first instance and thereby arrive at a different conclusion of facts from that found by the trial court only in the case that 'the findings of fact were plainly and manifestly against the weight of evidence.' It is therefore urged that whether the court erred in setting aside the conclusions of the lower court as plainly and manifestly against the weight of evidence is a question of law which may be brought here by writ of error. 
+
+[205 U.S. 403, 409]
+ 
+ It was held in De la Rama v. De la Rama, 
+201 U.S. 303
+, 50 L. ed. 765, 26 Sup. Ct. Rep. 485, that, upon an appeal, this court will consider whether a reversal by the supreme court of the findings of the court of first instance was justified on the ground that the findings below were plainly and manifestly against the weight of evidence, and, upon being satisfied that the action of the supreme court was not warranted, on that ground would reverse it. But this case was one of appeal, and the vital distinction between an appeal and a writ of error has already been shown. The principle acted upon in that case is not applicable to writs of error. The fourth assignment of error, therefore, raises no question of law.
+ The case would stop here were it not for the fact that the defendants in their brief and in the oral argument in their behalf go beyond the assignment of errors and set up three alleged errors of law not contained in them.
+ It is said that the court below erred:
+'(1) In holding as a matter of law that the fact of taking possession of said dwelling house was an acknowledgment by the plaintiffs in error that it was constructed substantially as required by the said contract.
+
+'(2) In holding as a matter of law that the plaintiffs in error were not entitled to recover their overpayments for earth and sand because no mutual mistake was shown in the premises.
+
+'(3) In rendering judgment for a sum in Mexican currency instead of in Philippine pesos.'
+
+ It is provided in the act giving this court jurisdiction to review the judgments of the supreme court of the Philippine Islands that they may be reviewed here 'in the same manner, under the same regulations, and by the same procedure, as far as applicable, as
+ T. R. Barnett, Judge. courts of the United States.' In such cases alleged errors not stated in the assignment of errors filed with the petition for the writ have sometimes been considered. The limits of this practice are accurately stated in the thirty-fifth rule of this court. There it is said that if errors are not assigned 
+
+[205 U.S. 403, 410]
+ 
+ with the petition for the writ they will be disregarded, except that the court at its option may notice a plain error not thus assigned.
+ But we find no such plain error in the opinion of the supreme court as warrants us in reversing its judgment. The findings of fact made by that court support and require the judgment which it rendered. We do not think it necessary or desirable to select from an opinion, which was engaged with a discussion of evidence and the inferences which might properly be drawn from it, statements of law and subject them to minute scrutiny, where, on the whole, it is clear that the facts found by the court justify the judgment which it rendered. Therefore we do not consider any questions except those set forth in the assignment of errors, and, deeming that they allege no errors in law, we affirm the judgment.
+ Affirmed. 
+
+
+

@@ -1,0 +1,75 @@
+Description: NEW YORK LIFE INS. CO. v. DUNLEVY , 241 U.S. 518 (1916)
+Date: 1916-06-05 00:00:00
+Docket: 290
+Opinion
+
+
+United States Supreme Court
+NEW YORK LIFE INS. CO. v. DUNLEVY(1916)
+No. 290
+Argued: Decided: June 5, 1916
+
+
+
+
+[241 U.S. 518, 519]
+ 
+ Messrs. James H. McIntosh, J. M. Mannon, Jr., Charles W. Willard, Warren Olney, Jr., and E. J. McCutchen for petitioner.
+ Messrs. Nat Schmulowitz, Clarence Coonan, and Frank W. Taft for respondent.
+
+ Mr. Justice McReynolds delivered the opinion of the court:
+ Respondent, Effie J. Gould Dunlevy, instituted this suit in the superior court, Marin county, California, January 14, 1910, against petitioner and Joseph W. Gould, her father, to recover $2,479.70, the surrender value of a policy on his life which she claimed had been assigned to her in 1893, and both were duly served with process while in that state. It was removed to the United States district court, February 16, 1910, and there tried by the judge in May, 1912, a jury having been expressly waived. Judgment for amount claimed was affirmed by the circuit court of appeals. 204 Fed. 670, 130 C. C. A. 473, 214 Fed. 1.
+ The insurance company by an amended answer filed December 7, 1911, set up in defense (1) that no valid assignment had been made, and (2) that Mrs. Dunlevy was concluded by certain judicial proceedings in Pennsylvania wherein it had been garnished and the policy had been adjudged to be the property of Gould. Invalidity of the assignment is not now urged; but it is earnestly insisted that the Pennsylvania proceedings constituted a bar.
+ In 1907 Boggs & Buhl recovered a valid personal judgment by default, after domiciliary service, against Mrs. Dunlevy, in the common pleas court at Pittsburgh, where she then resided. During 1909, 'the tontine dividend period' of the life policy having expired, the insurance 
+
+[241 U.S. 518, 520]
+ 
+ company became liable for $2,479.70, and this sum was claimed both by Gould, a citizen of Pennsylvania, and his daughter, who had removed to California. In November, 1909, Boggs & Buhl caused issue of an execution attachment on their judgment, and both the insurance company and Gould were summoned as garnishees. He appeared, denied assignment of the policy, and claimed the full amount due thereon. On February 5, 1910,-after this suit was begun in California,-the company answered, admitted its indebtedness, set up the conflicting claims to the fund, and prayed to be advised as to its rights. At the same time it filed a petition asking for a rule upon the claimants to show cause why they should not interplead and thereby ascertain who was lawfully entitled to the proceeds, and, further, that it might be allowed to pay amount due into court for benefit of proper party. An order granted the requested rule, and directed that notice be given to Mrs. Dunlevy in California. This was done, but she made no answer and did not appear. Later the insurance company filed a second petition, and, upon leave obtained thereunder, paid $2,479.70 into court, March 21, 1910. All parties except Mrs. Dunlevy having appeared, a feigned issue was framed and tried to determine validity of alleged transfer of the policy. The jury found, October 1, 1910, there was no valid assignment, and thereupon, under an order of court, the fund was paid over to Gould.
+ Beyond doubt, without the necessity of further personal service of process upon Mrs. Dunlevy, the court of common pleas at Pittsburgh had ample power through garnishment proceedings to inquire whether she held a valid claim against the insurance company, and, if found to exist, then to condemn and appropriate it so far as necessary to discharge the original judgment. Although herself outside the limits of the state, such disposition of the property would have been binding on her. Chicago, 
+
+[241 U.S. 518, 521]
+ 
+ R. I. & P. R. Co. v. Sturm, 
+174 U.S. 710
+, 43 L. ed. 1144, 19 Sup. Ct. Rep. 797; Harris v. Balk, 
+198 
+U.S. 215, 226
+, 227 S., 49 L. ed. 1023, 1028, 25 Sup. Ct. Rep. 625, 3 Ann. Cas. 1084; Louisville & N. R. Co. v. Deer, 
+200 U.S. 176
+, 50 L. ed. 426, 26 Sup. Ct. Rep. 207; Baltimore & O. R. Co. v. Hostetter, 
+240 U.S. 620
+, 60 L. ed. --, 36 Sup. Ct. Rep. 475; Shinn, Attachment & Garnishment,  707. See Brigham v. Fayerweather, 140 Mass. 411, 413, 5 N. E. 265. But the interpleader initiated by the company was an altogether different matter. This was an attempt to bring about a final and conclusive adjudication of her personal rights, not merely to discover property and apply it to debts. And unless in contemplation of law she was before the court, and required to respond to that issue, its orders and judgments in respect thereto were not binding on her. Pennoyer v. Neff, 
+95 U.S. 714
+, 24 L. ed. 565; Shinn, Attachment & Garnishment,  674. See Cross v. Armstrong, 44 Ohio St. 613, 623, 625, 10 N. E. 160.
+ Counsel maintain that having been duly summoned in the original suit instituted by Boggs & Buhl in 1907, and notwithstanding entry of final judgment therein, 'Mrs. Dunlevy was in the Pennsylvania court and was bound by every order that court made, whether she remained within the jurisdiction of that court after it got jurisdiction over her person or not;' and hence, the argument is, 'When the company paid the money into court where she was, it was just the same in legal effect as if it had paid it to her.' This position is supposed to be supported by our opinion in Michigan Trust Co. v. Ferry, 
+228 U.S. 346
+, 57 L. ed. 867, 33 Sup. Ct. Rep. 550, where it is said (p. 353): 'If a judicial proceeding is begun with jurisdiction over the person of the party concerned, it is within the power of a state to bind him by every subsequent order in the cause. Nations v. Johnson, 24 How. 195, 203, 204, 16 L. ed. 628, 631, 632. This is true not only of ordinary actions, but of proceedings like the present. It is within the power of a state to make the whole administration of the estate a single proceeding, to provide that one who has undertaken it within the jurisdiction shall be subject to the order of the court in the matter until the adminis- 
+
+[241 U.S. 518, 522]
+ 
+ tration is closed by distribution, and, on the same principle, that he shall be required to account for and distribute all that he receives, by the order of the probate court.'
+ Of course the language quoted had reference to the existing circumstances, and must be construed accordingly. The judgment under consideration was fairly within the reasonable anticipation of the executor when he submitted himself to the probate court. But a wholly different and intolerable condition would result from acceptance of the theory that, after final judgment, a defendant remains in court and subject to whatsoever orders may be entered under title of the cause. See Wetmore v. Karrick, 
+205 
+U.S. 141, 151
+, 51 S. L. ed. 745, 748, 27 Sup. Ct. Rep. 434; Freeman, Judgm. 4th ed.  103. The interpleader proceedings were not essential concomitants of the original action by Boggs & Buhl against Dunlevy, but plainly collateral; and, when summoned to respond in that action, she was not required to anticipate them. Smith v. Woolfolk, 
+115 
+U.S. 143, 148
+, 149 S., 29 L. ed. 357, 359, 360, 5 Sup. Ct. Rep. 1177; Reynolds v. Stockton, 
+140 
+U.S. 254, 269
+, 35 S. L. ed. 464, 469, 11 Sup. Ct. Rep. 773; Owens v. Henry (Owens v. McCloskey) 
+161 
+U.S. 642, 646
+, 40 S. L. ed. 837, 838, 16 Sup. Ct. Rep. 693; Hovey v. Elliott, 
+167 U.S. 409
+, 42 L. ed. 215, 17 Sup. Ct. Rep. 841; Freeman, Judgm. 4th ed.  143.
+ It has been affirmatively held in Pennsylvania that a judgment debtor is not a party to a garnishment proceeding to condemn a claim due him from a third person, and is not bound by a judgment discharging the garnishee ( Ruff v. Ruff, 85 Pa. 333); and this is the generally accepted doctrine. Shinn, Attachment & Garnishment,  725. Former opinions of this court uphold validity of such proceedings upon the theory that jurisdiction to condemn is acquired by service of effective process upon the garnishee.
+ The established general rule is that any personal judgment which a state court may render against one who did not voluntarily submit to its jurisdiction, and who is not a citizen of the state, nor served with process within its 
+
+[241 U.S. 518, 523]
+ 
+ borders, no matter what the mode of service, is void, because the court had no jurisdiction over his person. Pennoyer v. Neff, supra; Freeman, Judgm. 4th ed.  120a; Black, Judgm. 2d ed.  904 and 905.
+ We are of opinion that the proceedings in the Pennsylvania court constituted no bar to the action in California, and the judgment below is accordingly affirmed. 
+
+
+

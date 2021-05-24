@@ -1,0 +1,74 @@
+Description: LIABILITY ASSURANCE CO. v. COOK , 281 U.S. 233 (1930)
+Date: 1930-04-14 00:00:00
+Docket: 81
+Opinion
+
+
+United States Supreme Court
+LIABILITY ASSURANCE CO. v. COOK(1930)
+No. 81
+Argued: Decided: April 14, 1930
+
+
+
+ Messrs. Clyde A. Sweeton and Wm. A. Vinson, both of Houston, Tex., for petitioner. 
+
+[281 U.S. 233, 234]
+ 
+ Messrs. Sam C. Polk and D. A. Simmons, both of Houston, Tex., for respondent.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ In January, 1927, while regularly employed by the Ford Motor Company and 'open for any kind of work' Hal Cook was instructed as 'a part of his contract of em- 
+
+[281 U.S. 233, 235]
+ 
+ ployment to assist in unloading cargo off' the steamship Lake Gorian, lately arrived at Houston, Tex., from the high seas and then tied up at the dock. While at work in the hold of the vessel, he received serious injuries, from which it is asserted he died March 28th.
+ The Ford Motor Company carried a policy of workmen's compensation insurance with the petitioner, Employers' Liability assurance Corporation, Limited, of London, England, which undertook to protect the assured against loss by reason of injuries to its employees.
+ Purporting to proceed under the Workmen's Compensation Act of Texas ( Rev. St. Tex. 1925, arts. 8306-8309) respondents presented to the Industrial Accident Board a claim for compensation because of Cook's death against both the motor company and the insurer. This was denied upon the ground that the death 'was due to a condition in no way incident to or associated with his employment.' As permitted by the statute, respondents refused to abide by the action of the board and brought suit in the state court.
+ They alleged: 'While in the course of his employment, said Hal Cook was instructed by said Ford Motor Company to assist in unloading a ship or vessel belonging to the said Ford Motor Company then anchored at the Wharves at Houston Ship Channel at Houston, Texas, and while so engaged said Hal Cook suffered severe injuries in that while he and other employees of the said Ford Motor Company were unloading from said ship the cargo thereon, consisting of axles and various other parts of automobiles and transferring the same to the wharves where said ship was anchored, the said Hal Cook while lifting said automobile parts, received a severe strain to the internal muscles of his back, ...' which caused his death.
+ They asked for judgment setting aside the award of the board and for compensation as provided by the statute. 
+
+[281 U.S. 233, 236]
+ 
+ The cause was removed to the United States District Court. It heard the evidence, denied a motion for an instructed verdict in favor of the petitioner, submitted the matter to a jury, and, upon a verdict in respondents' favor, entered judgment. Appeal was taken to the Circuit Court of Appeals for the Fifth Circuit which held: 'We think it fairly can be said that the matter of unloading these two ships of the Ford Motor Company at rare intervals was 'of mere local concern, and its regulation by the state will work no material prejudice to any ... feature of the general maritime law."
+ The record plainly discloses that, while in the course of his employment and at work in the hold assisting in unloading a vessel afloat on navigable waters, Cook received injuries out of which this suit arose. There is nothing in principle to differentiate this case from Northern Coal Co. v. Strand, 
+278 
+U.S. 142
+, 49 S. Ct. 88, and the judgment of the Circuit Court of Appeals must be reversed. See Nogueira v. New York, N. H. & H. R. Co., 
+281 
+U.S. 128
+, 50 S. Ct. 303, 74 L. Ed. -, decided this day.
+ The proceeding to recover under the State Compensation Act necessarily admitted that the decedent was employed by the insured when injured. Any right of recovery against the insurance carrier depends upon the liability of the assured. Whether Cook's employment contemplated that he should work regularly in unloading vessels or only when specially directed so to do is not important. The unloading of a ship is not matter of purely local concern as we have often pointed out. Under the circumstances disclosed, the state lacked power to prescribe the rights and liabilities of the parties growing out of the accident. The fact that the Compensation Law of the state was elective in form does not aid the respondents. The employer did not surrender rights 
+
+[281 U.S. 233, 237]
+ 
+ guaranteed to him by the federal law merely by electing to accept one of two kinds of liability in respect of matters within the state's control, either of which she had power to impose upon him.
+ The judgment of the court below must be reversed. The cause will be remanded for further proceedings i conformity with this opinion.
+REVERSED.
+
+ Mr. Justice STONE (dissenting).
+ As the court, in Northern Coal & Dock Co. v. Strand, 
+278 
+U.S. 142
+, 49 S. Ct. 88, held that one engaged as a stevedore in unloading a ship lying in navigable waters is a seaman within the meaning of the Jones Act, 41 Stat. 1007, 46 USCA  688; International Stevedoring Co. v. Haverty, 
+272 
+U.S. 50
+, 47 S. Ct. 19, and that by that act Congress had occupied the field and excluded all state legislation having application within it, I am content to rest this case on that ground. See Nogueira v. N. Y., N. H. & H. R. Co., 
+281 
+U.S. 128
+, 50 S. Ct. 303, 74 L. Ed. -, decided this day. But I do not agree that the present case is so exclusively controlled by the maritime law that workmen otherwise in the situation of respondent, but who are not seamen and therefore not given a remedy by the Jones Act, and who are not within the purview of the Employers' Liability Act, 35 Stat. 65 (45 USCA  51), are excluded from the benefits of a compensation act like that of Texas. The court held otherwise in Rosengrant v. Havard, 
+273 
+U.S. 664
+, 47 S. Ct. 454, commented on in my opinion in No. 62, John Baizley Iron Works v. Span, 
+281 
+U.S. 222
+, 50 S. Ct. 306, 74 L. Ed. -, decided this day.
+ The present case arose before the effective date of the Longshoremen's and Harbor Workers' Compensation Act, 44 Stat. 424 (33 USCA  901-950). But the remedies given by that act are withheld where recovery may be had under local compensation acts, and not all persons engaged in 
+
+[281 U.S. 233, 238]
+ 
+ unloading a vessel are entitled to recover under it, even though without remedy under local compensation laws. See section 3(a), 33 USCA  903(a).
+ Mr. Justice HOLMES and Mr. Justice BRANDEIS concur. 
+
+
+

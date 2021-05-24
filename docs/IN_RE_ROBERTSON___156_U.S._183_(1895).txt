@@ -1,0 +1,33 @@
+Description: IN RE ROBERTSON , 156 U.S. 183 (1895)
+Date: 1895-01-22 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+IN RE ROBERTSON(1895)
+
+Argued: Decided: January 22, 1895
+
+
+ William Robertson was convicted of murder in the first degree at the December term, 1892, of the county court of Franklin county, Va., and sentenced to be hanged February 3, 1893. A petition for writ of error was denied by the circuit court of Franklin county; but the writ was subsequently allowed by one of the judges of the supreme court of appeals of Virginia, which court on November 8, 1894, affirmed the judgment of the county court. 20 S. E. 362. Robertson was resentenced to be executed December 21, 1894, and a respite granted until January 25, 1895. He then applied for a writ of error from this court, to one of the justices thereof, which was denied, whereupon his counsel brought the matter to the attention of the court, under the misapprehension that he had been directed to do so by that justice with the assent of his brethren. 
+
+[156 U.S. 183, 184]
+ 
+ In Virginia, every homicide is presumed to be murder in the second degree; murder in the second degree is punishable by imprisonment; murder in the first degree by death; and, under the statute, murder in the commission of, or attempt to commit, robbery, is murder in the first degree. Code Va.  3662.
+ One of the errors assigned below was that the county court overruled the motion of defendant to exclude all evidence tending to show that he robbed the deceased; his contention being that inasmuch as the indictment was in the ordinary form, and did not charge that the homicide was committed in the commission of robbery, it was not competent to prove the robbery, in order to raise the offense to murder in the first degree. The same question was also presented by an instruction asked on behalf of defendant and refused. The supreme court of appeals held that, whatever might be the rule elsewhere, it was competent, in Virginia, under indictment for murder simply, to try and convict a person of murder in the first degree, if the homicide was perpetrated in the commission of, or attempt to commit, robbery. It was urged on the application here that, where robbery was relied on to raise homicide to murder in the first degree, two distinct acts constituted the offense, to wit, the killing and the robbery, or attempt to commit robbery, and that to condemn the accused to death because the killing was in the commission of, or attempt to commit, robbery, under an indictment not charging him with the latter, was to deprive him of his life without due process of law.
+ L. W. Anderson, for petitioner.
+
+ Mr. Chief Justice FULLER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ Applications to this court for a writ of error to a state court are not entertained, unless at the request of one of the members of the court, concurred in by his associates. In this case there seems to have been some misunderstanding on the part of counsel as to the practice, in view of which, and considering that this is a capital case, and that the day appointed for the 
+
+[156 U.S. 183, 185]
+ 
+ execution of the sentence is very near, we have examined the application, and are of opinion that the question of the sufficiency of the indictment is not a federal question, and that no federal question appears, upon the record, to have been presented to the supreme court of appeals of Virginia; and therefore, upon the authority of Leeper v. Texas, 
+139 U.S. 462
+, 11 Sup. Ct. 577, and Duncan v. State, 
+152 U.S. 377
+, 14 Sup. Ct. 570, the writ of error is not allowed. 
+
+
+

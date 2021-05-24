@@ -1,0 +1,139 @@
+Description: TRINITYFARM CONST. CO. v. GROSJEAN , 291 U.S. 466 (1934)
+Date: 1934-03-05 00:00:00
+Docket: 355
+Opinion
+
+
+United States Supreme Court
+TRINITYFARM CONST. CO. v. GROSJEAN(1934)
+No. 355
+Argued: February 7, 1934Decided: March 5, 1934
+
+
+
+ Appeal from the United States District Court for the Eastern District of Louisiana.
+ Messrs. D. K. Woodward, Jr., of Austin, Tex., and Victor A. Sachse and H. Payne Breazeale, both of Baton Rouge, La., for appellant.
+
+
+[291 U.S. 466, 469]
+ 
+ Messrs. Peyton R. Sandoz and Justin C. Daspit, both of Baton Rouge, La., for appellee.
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ Appellant has contracts with the United States for the construction of levees in Louisiana to control the waters of 
+
+[291 U.S. 466, 470]
+ 
+ the Mississippi river. It consumes much gasoline in the operation of machinery employed to do the work. It imports its supply from other states in carload lots and places it in a central tank from which distribution is made to other tanks located on its right of way in proximity to the machines. Appellee, an officer of Louisiana, is required to enforce the provisions of its statutes that impose an excise of 5 cents per gallon in respect of gasoline so imported and used. 
+1
+ The state Supreme Court has held that the exaction is an excise tax levied upon all gasoline or motor fuel sold, used, or consumed in the state (State v. Tri-State Company, 173 La. 682, 138 So. 507), and we accept that characterization. Claiming that these enactments are repugnant to several clauses of the Federal Constitution, appellant brought this suit to enjoin the collection of the tax in respect of the gasoline so used by it. A three judge court, having granted a temporary injunction, heard the case on the merits, upheld the tax, and dismissed the bill. (D.C.) 3 F.Supp. 785.
+ The appellant seeks reversal on the ground that the contracts are federal means or instrumentalities; that the enactments referred to impose a direct burden upon them; 
+
+[291 U.S. 466, 471]
+ 
+ and that the state was without power to impose the tax. And on that basis it seeks to invoke the rule that, consistently with the Federal Constitution, a state may not tax the operations of an instrument employed by the government of the Union to carry its powers into operation. That principle, while not expressly stated in the Constitution, necessarily arises out of our dual government. It has often been given effect. 
+2
+ And reciprocally it safeguards every state against federal tax on its governmental agencies or operations. 
+3
+ Its application does not depend upon the amount of the exaction, the weight of the burden, or the extent of the resulting interference with sovereign independence. Where it applies, the principle is an absolute one wholly unaffected by matters or distinctions of degree. Indian Motorcycle Co. v. United States, 
+283 
+U.S. 570, 575
+, 51 S. Ct. 601, and cases cited. Its right application is essential to the orderly conduct of the national and the state governments and the attainment of justice as between them.
+ The power granted by the commerce clause is undoubtedly broad enough to include construction and maintenance of levees in aid of navigation of the Mississippi 
+
+[291 U.S. 466, 472]
+ 
+ river and to authorize the performance of the work directly by government officers and employees or pursuant to contracts such as those awarded to appellant. The latter method was chosen and the validity of the challenged tax is to be tested on that basis. It is not laid upon the choice of means, the making of the contracts, the contracts themselves, or any transaction to which the federal government is a party or in which it is immediately or directly concerned. Nor is the exaction laid or dependent upon the amounts, gross or net, received by the contractor. The exaction in respect of its relation to the federal undertaking is wholly unlike those considered in Choctaw & Gulf R.R. v. Harrison, 
+235 
+U.S. 292
+, 35 S.Ct. 27, Indian Oil Co. v. Oklahoma, 
+240 
+U.S. 522
+, 36 S.Ct. 453, and Gillespie v. Oklahoma, 
+257 
+U.S. 501
+, 42 S.Ct. 171. Appellant is an independent contractor. Casement v. Brown, 
+148 
+U.S. 615, 622
+, 13 S.Ct. 672. It is not a government instrumentality. Cf. Metcalf & Eddy v. Mitchell, 
+269 
+U.S. 514
+, 46 S.Ct. 172; Group No. 1 Oil Corp. v. Bass, 
+283 
+U.S. 279
+, 51 S.Ct. 432. Unquestionably, as appellant here concedes, Louisiana is free to tax the machinery, storage tanks, tools, etc., that are used for the performance of the contracts. These things are as closely connected with the work as is the gasoline in respect of which is laid the excise in question. There is no room for any distinction between the plant so employed and the gasoline used to generate power. If the payment of state taxes imposed on the property and operations of appellant affects the federal government at all, it at most gives rise to a burden which is consequential and remote and not to one that is necessary, immediate or direct. Thomas v. Gay, 
+169 
+U.S. 264, 275
+, 18 S.Ct. 340; Metcalf & Eddy v. Mitchell, supra, page 524 of 269 U.S., 46 S.Ct. 172, et seq.; Wheeler Lumber Bridge & Supply Co. v. United States, 
+281 
+U.S. 572, 579
+, 50 S.Ct. 419. Appellant's claim of immunity is without foundation.
+AFFIRMED.
+ Mr. Justice CARDOZO concurs in the result. 
+
+Footnotes
+
+[
+Footnote *
+] Rehearing denied 
+292 
+U.S. 604
+, 54 S.Ct. 712, 78 L.Ed. --.[ Trinityfarm Const. Co. v. Grosjean 
+291 U.S. 466
+ (1934) ] 
+
+[
+Footnote 1
+] Act No. 6, Extra. Session of 1928, as amended by Act No. 8 of 1930, Act No. 16 of 1932, levies a tax of 4 cents a gallon 'on all gasoline, or motor fuel, sold, used or consumed in the State of Louisiana for domestic consumption.' Section 1. The tax is collected from 'dealers' who, as defined by section 2 of the Act (No. 6 of 1928 (Ex. Sess.)), include 'the person ... who imports such gasoline or motor fuel from any other State or foreign country for distribution, sale, or use in the State of Louisiana.' And on 'all gasoline or motor fuel imported from other States and used by him, the 'dealer' ... shall pay the tax on the amount so imported and used, the same as if it has (sic) been sold for domestic consumption.' Section 14 provides that the tax 'shall not apply to sales to the United States Government or any agency or department thereof.' Act No. 1, Extraordinary Session of 1930, imposed an additional tax of 1 cent a gallon.
+
+
+[
+Footnote 2
+] M'Culloch v. Maryland, 4 Wheat, 316, 400, 436; Weston v. Charleston, 2 Pet. 449, 463, 466 et seq.; Dobbins v. Commissioners of Erie County, 16 Pet. 435, 443, 447; Farmers' & Mechanics' Sav. Bank v. Minnesota, 
+232 
+U.S. 516, 526
+, 34 S.Ct. 354; Choctaw, O. & Gulf R.R. v. Harrison, 
+235 
+U.S. 292
+, 35 S. Ct. 27; Indian Territory Illuminating Oil Co. v. Oklahoma, 
+240 
+U.S. 522
+, 36 S.Ct. 453; Gillespie v. Oklahoma, 
+257 
+U.S. 501
+, 42 S.Ct. 171; Panhandle Oil Co. v. Mississippi ex rel. Knox, 
+277 
+U.S. 218
+, 48 S.Ct. 451, 56 A.L.R. 583. Cf. Susquehanna Power Co. v. State Tax Comm. (No. 1), 
+283 
+U.S. 291
+, 51 S.Ct. 434. 
+[
+Footnote 3
+] Collector v. Day, 11 Wall. 113; United States v. Baltimore & Ohio Railroad Co., 17 Wall. 322, 327; Pollock v. Farmers' Loan & Trust Co., 
+157 
+U.S. 429, 584
+, 15 S.Ct. 673; State of South Carolina v. United States, 
+199 
+U.S. 437, 452
+, 461 S., 26 S.Ct. 110, 4 Ann.Cas. 737; Indian Motorcycle Co. v. United States, 
+283 
+U.S. 570
+, 51 S.Ct. 601; Burnet v. Coronado Oil & Gas Co ., 
+285 
+U.S. 393
+, 52 S.Ct. 443. Cf. Metcalf & Eddy v. Mitchell, 
+269 
+U.S. 514
+, 46 S.Ct. 172; Group No. 1 Oil Corp. v. Bass, 
+283 
+U.S. 279
+, 51 S.Ct. 432; Burnet v. A. T. Jergins Trust, 
+288 
+U.S. 508
+, 53 S.Ct. 439.
+
+
+
+
+

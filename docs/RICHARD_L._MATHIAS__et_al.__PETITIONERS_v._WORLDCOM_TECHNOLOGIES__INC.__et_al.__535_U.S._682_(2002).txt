@@ -1,0 +1,27 @@
+Description: RICHARD L. MATHIAS, et al., PETITIONERS v. WORLDCOM TECHNOLOGIES, INC., et al., 535 U.S. 682 (2002)
+Date: 2002-05-20 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+RICHARD L. MATHIAS, et al., PETITIONERS v. WORLDCOM TECHNOLOGIES, INC., et al.(2002)
+
+Argued: Decided: May 20, 2002
+
+
+
+     Per Curiam.
+
+     We granted certiorari to consider three questions: (1) whether a state commission's action relating to the enforcement of an interconnection agreement is reviewable in federal court under 47 U. S. C. §252(e)(6) (1994 ed., Supp. IV); (2) whether a state commission waives its Eleventh Amendment immunity by voluntarily participating in the regulatory scheme established by the Telecommunications Act of 1996, Pub. L. 104-104, 110 Stat. 56; and (3) whether the doctrine of Ex parte Young, 209 U. S. 123 (1908), permits suit for prospective relief against state public utility commissioners in their official capacities for alleged ongoing violations of that Act.  532 U. S. 903 (2001).  After full briefing and oral argument, it is now clear that petitioners were the prevailing parties below, and seek review of uncongenial findings not essential to the judgment and not binding upon them in future litigation.  As a general rule, a party may not appeal from a favorable judgment simply to obtain review of findings it deems erroneous.  See New York Telephone Co. v. Maltbie, 291 U. S. 645 (1934) (per curiam).
+
+
+     We have since granted certiorari to the United States Court of Appeals for the Fourth Circuit to review the same questions, arising in the same factual context.  Verizon Md., Inc. v. Public Serv. Comm'n of Md., and United States v. Public Serv. Comm'n of Md., 534 U. S. 1072 (2001).  Our decision in those cases is released today.  See Verizon Md., Inc. v. Public Serv. Comm'n of Md., ante, p. ___.  The writ in this case is dismissed as improvidently granted.
+
+It is so ordered.
+
+
+     Justice O'Connor took no part in the consideration or decision of this case.
+
+
+

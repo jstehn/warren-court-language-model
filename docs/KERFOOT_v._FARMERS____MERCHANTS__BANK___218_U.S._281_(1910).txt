@@ -1,0 +1,79 @@
+Description: KERFOOT v. FARMERS' & MERCHANTS' BANK , 218 U.S. 281 (1910)
+Date: 1910-11-07 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+KERFOOT v. FARMERS' & MERCHANTS' BANK(1910)
+
+Argued: October 25, 1910Decided: November 7, 1910
+
+
+
+ Messrs. Homer Hall, George Hall, W. B. C. Brown, and Frank Hall for plaintiff in error.
+
+
+[218 U.S. 281, 284]
+ 
+ Mr. Thomas J. Beall for defendants in error.
+
+
+[218 U.S. 281, 285]
+ 
+
+ Mr. Justice Hughes delivered the opinion of the court:
+ This action was brought in 1894, in the circuit court of Grundy county, state of Missouri, to set aside a deed of real property made by James H. Kerfoot to the First National Bank of Trenton, Missouri, and also a deed by which that bank purported to convey the same property to the defendants Hervey Kerfoot, Alwilda Kerfoot, and Lester R. Kerfoot, and for the recovery of possession. The plaintiffs in the action, which was brought shortly after the death of James H. Kerfoot, were Homer Hall, administrator of his estate, and Robert Earl Kerfoot, his infant grandson, who claimed to be his only heir at law, and sued by Homer Hall as next friend. The petition contained two counts, one in equity, the other in ejectment. Upon the trial, the circuit court found the issues for defendants, and the judgment in their favor was affirmed by the supreme court of Missouri. 145 Mo. 418, 46 S. W. 1000. On his coming of age, Robert Earl Kerfoot sued out this writ of error.
+ The plaintiff in error challenges the conveyance made by James H. Kerfoot to the bank, upon the ground that under  5137 of the Revised Statutes of the United States (U. S. Comp. Stat. 1901, p. 3460), 
+
+[218 U.S. 281, 286]
+ 
+ relating to national banks, the bank was without power to take the property, and hence that no title passed by the deed, but that it remained in the grantor, and descended to the plaintiff in error as his heir at law. It appears that the deed, which was absolute in form, with warranty, and expressing a substantial consideration, was executed in pursuance of an arrangement by which the title to the property was to be held in trust, to be conveyed upon the direction of the grantor; and the supreme court of Missouri decided that a trust was in fact declared by the grantor in favor of Hervey, Alwilda, and Lester R. Kerfoot, to whom ran a quitclaim deed, which he prepared and forwarded to the bank, to be signed and acknowledged by it and then returned to him.
+ But while the purpose of this transaction was not one of those described in the statute for which a national bank may purchase and hold real estate, it does not follow that the deed was a nullity, and that it failed to convey title to the property.
+ In the absence of a clear expression of legislative intention to the contrary, a conveyance of real estate to a corporation for a purpose not authorized by its charter is not void, but voidable, and the sovereign alone can object. Neither the grantor nor his heirs nor third persons can impugn it upon the ground that the grantee has exceeded its powers. Smith v. Sheeley, 12 Wall. 358, 20 L. ed. 430; Union Nat. Bank v. Matthews, 
+98 U.S. 621
+, 25 L. ed. 188; National Bank v. Whitney, 
+103 U.S. 99
+, 26 L. ed. 443; Reynolds v. First Nat. Bank, 
+112 U.S. 405
+, 28 L. ed. 733, 5 Sup. Ct. Rep. 213; Fritts v. Palmer, 
+132 U.S. 282
+, 33 L. ed. 317, 10 Sup. Ct. Rep. 93; Leazure v. Hillegas, 7 Serg. & R. 313. Thus, although the statute by clear implication forbids a national bank from making a loan upon real estate, the security is not void, and it cannot be successfully assailed by the debtor or by subsequent mortgagees because the bank was without authority to take it; and the disregard of the provisions of the act of Congress upon that subject only lays the bank open to proceedings 
+
+[218 U.S. 281, 287]
+ 
+ by the government for exercising powers not conferred by law. Union Nat. Bank v. Matthews and National Bank v. Whitney, supra; Swope v. Leffingwell, 
+105 U.S. 3
+, 26 L. ed. 939.
+ In Union Nat. Bank v. Matthews, supra, viewing that case in this aspect, the court said:
+'The opinion of the supreme court of Missouri assumes that the loan was made upon real-estate security within the meaning of the statute, and their judgment is founded upon that view. These things render it proper to consider the case in that aspect. But, conceding them to be as claimed, the consequence insisted upon by no means necessarily follows. The statute does not declare such a security void. It is silent upon the subject. If Congress so meant, it would have been easy to say so; and it is hardly to be believed that this would not have been done, instead of leaving the question to be settled by the uncertain result of litigation and judicial decision. Where usurious interest is contracted for, a forfeiture is prescribed and explicitly defined.
+
+ ... * *
+'Where a corporation is incompetent by its charter to take a title to real estate, a conveyance to it is not void, but only voidable, and the sovereign alone can object. It is valid until assailed in a direct proceeding instituted for that purpose. Leazure v. Hillegas, supra; Goundie v. Northampton Water Co. 7 Pa. 233; Runyan v. Coster, 14 Pet. 122, 10 L. ed. 382; Banks v. Poitiaux, 3 Rand. (Va.) 136, 15 Am. Dec. 706; McIndoe v. St. Louis, 10 Mo. 577. See also Union Gold-Min. Co. v. Rocky Mountain Nat. Bank, 
+96 U.S. 640
+, 24 L. ed. 648.'
+
+ This rule, while recognizing the authority of the government to which the corporation is amenable, has the salutary effect of assuring the security of titles and of avoiding the injurious consequences which would otherwise result. In the present case a trust was declared, and this trust should not be permitted to fail and the property 
+
+[218 U.S. 281, 288]
+ 
+ to be diverted from those for whom it was intended, by treating the conveyance to the bank as a nullity, in the absence of a clear statement of legislative intent that it should be so regarded.
+ The cases in this court which are relied upon by the plaintiff in error are not applicable to the facts here presented, and are in no way inconsistent with the doctrine to which we have referred. McCormick v. Market Nat. Bank, 
+165 U.S. 538
+, 41 L. ed. 817, 17 Sup. Ct. Rep. 433; California Nat. Bank v. Kennedy, 
+167 U.S. 362
+, 42 L. ed. 198, 17 Sup. Ct. Rep. 831; First Nat. Bank v. Hawkins, 
+174 U.S. 364
+, 43 L. ed. 1007, 19 Sup. Ct. Rep. 739.
+ It was also urged by the plaintiff in error that the deed was not accepted by the bank, and was inoperative for that reason. The supreme court of Missouri held upon the evidence that it was accepted, and this court, on a question of that character, does not review the findings of fact which have been made in the state court. Waters-Pierce Oil Co. v. Texas, 
+212 U.S. 86
+, 53 L. ed. 417, 29 Sup. Ct. Rep. 220; Egan v. Hart, 
+165 U.S. 188
+, 41 L. ed. 680, 17 Sup. Ct. Rep. 300; Clipper Min. Co. v. Eli Min. & Land Co. 
+194 U.S. 220
+, 48 L. ed. 944, 24 Sup. Ct. Rep. 632.
+ Assuming that the deed was accepted by the bank, it was effective to pass the legal title, and the plaintiff in error, as heir at law of the grantor, cannot question it.
+ Judgment affirmed. 
+
+
+

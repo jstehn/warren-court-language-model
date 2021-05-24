@@ -1,0 +1,82 @@
+Description: US BEDDING CO v. US , 266 U.S. 491 (1925)
+Date: 1925-01-05 00:00:00
+Docket: 143
+Opinion
+
+
+United States Supreme Court
+U S BEDDING CO. v. U S(1925)
+No. 143
+Argued: December 11, 1924Decided: January 5, 1925
+
+
+
+ Mr. Raymond M. Hudson, of Washington, D. C., for appellant.
+ The Attorney General and Mr. Alfred A. Wheat, of New York City, for the United States.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This is an appeal from a judgment of the Court of Claims. The petition was dismissed on demurrer for 
+
+[266 U.S. 491, 492]
+ 
+ failure to state a cause of action. It alleges in substance these facts. Cotton linters are used in the manufacture of mattresses and bedding. They are also used as the base of smokeless powder. The plaintiff had in stock, on May 27, 1918, a lot of cotton linters. On that day, the War Industries Board1 issued a circular 'To dealers in and users of cotton linters' notifying them for their 'information and guidance' that, because of the government's requirements, all linters were requisitioned. On July 10, 1918, it issued a further circular on the subject. Later, the board had direct dealing with the plaintiff about taking over its linters at their actual value. A price was offered which the plaintiff refused to accept. The 'Ordnance Department then began exercising the right to commandeer by which the owner was to be given an opportunity to establish the actual value of the linters but before this commandeering process was completed the Armistice was signed and the government did not then take the linters.' Because of the government's action, plaintiff had retained the linters. Because of the release by the government after the Armistice of all linters held under such orders and regulations, the plaintiff's stock became worth less than it had cost the plaintiff and less than its market value had been during the preceding summer. The resulting loss was $11,744. 18.
+ Plaintiff contends that it is entitled to recover the amount of this loss. The suit must have been brought under the Dent Act, March 2, 1919, c. 94, 40 Stat. 1272 (Comp. St. Ann. Supp. 1919,  3115 14/15 a-3115 14/15 c ), or under the Tucker Act (Judicial Code,  145 [Comp. St.  1136]), upon the ground that there was either an express executory contract to accept and pay the war value or that what occurred was a legal taking from which an implied agreement 
+
+[266 U.S. 491, 493]
+ 
+ to pay arose, under the doctrine of United States v. Great Falls Manufacturing Co., 
+112 
+U.S. 645
+, 5 S. Ct. 306, and later cases. We need not discuss the precise facts alleged in the petition. 
+2
+ Whatever interpretation be given to the action of the War Industries Board and the Ordnance Department there set forth, the plaintiff must fail.
+ Recovery cannot be had under the Dent Act, among other reasons, because the agreement, if any, has not been 'performed in whole or in part,' and no 'expenditures have been made or obligations incurred upon the faith of the same.' Compare Price Fire & Water Proofing Co. v. United States, 
+261 
+U.S. 179
+, 43 S. Ct. 299. Nor is recovery possible under the Tucker Act. It cannot be had as upon an express contract, because the transaction comes within Rev. Stat.  3744 (Comp. St .  6895); was not 'reduced to writing and signed by the contracting parties with their names at the end thereof,' and was wholly executory. South Boston Iron Co. v. United States, 
+118 
+U.S. 37
+, 6 S. Ct. 728; Erie Coal & Coke Corporation v. United States, 
+266 
+U.S. 518
+, 45 S. Ct. 181, 69 L. Ed. --, decided this day. Compare United States v. Andrews & Co., 
+207 
+U.S. 229, 243
+, 28 S. Ct. 100; St. Louis Hay & Grain Co. v. United States, 
+191 
+U.S. 159
+, 24 S. Ct. 47. Recovery cannot be has as upon an implied contract, because the only authority to requisition the linters was that conferred by section 10 of the Lever Act (Aug. 10, 1917, c. 53, 40 Stat. 276, 279 [Comp. St. 1918, Comp. St. Ann. Supp. 1919,  3115 1/8 ii]), and proceedings under that section are not based on contract. Seaboard Air Line Ry. Co. v. United States, 
+261 
+U.S. 299, 304
+, 43 S. Ct. 354. Moreover, they must be brought in the District Court. United States v. Pfitsch, 
+256 
+U.S. 547
+, 41 S. Ct. 569
+
+
+ We have no occasion, therefore, to consider whether the United States could ever be liable under the Tucker 
+
+[266 U.S. 491, 494]
+ 
+ Act, as for a taking, for loss suffered through the abandonment of the 'commandeering process,' where the owner had retained possession of the property and the government had neither accepted, used, or injured it. Compare Garrison v. New York, 21 Wall. 196; Bauman v. Ross, 
+167 
+U.S. 548, 598
+, 599 S., 17 S. Ct. 966, Omnia Commercial Co ., Inc., v. United States, 
+261 
+U.S. 502, 508
+, 509 S., 43 S. Ct. 437. Nor need we consider whether it could have been held liable under the Lever Act, if suit had been brought in the District Court.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] It was created by the Council of National Defense, with the approval of the President, July 28, 1917. See Report of the War Industries Board, March 3, 1921; Act Aug. 29, 1916, c. 418,  2, 39 Stat. 649 (Comp. St.  3115a-3115e); Act of May 20, 1918, c. 78, 40 Stat. 556 (Comp. St. 1918, Comp. St. Ann. Supp. 1919,  283a-283f). 
+
+[
+Footnote 2
+] These are fully stated and discussed in an able opinion by Mr. Ashby Williams. In re United States Bedding Co. et al., 4 Decisions of War Department Board of Contract Adjustment, p. 325 (proceedings under the Dent Act March 2, 1919, c. 94, 40 Stat. 1272). 
+
+
+
+

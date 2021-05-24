@@ -1,0 +1,55 @@
+Description: US v. NATIONAL SURETY CO , 254 U.S. 73 (1920)
+Date: 1920-11-08 00:00:00
+Docket: 271
+Opinion
+
+
+United States Supreme Court
+U S v. NATIONAL SURETY CO.(1920)
+No. 271
+Argued: Decided: November 8, 1920
+
+
+
+
+[254 U.S. 73, 74]
+ 
+ Messrs. Assistant Attorney General Spellacy and Leonard B. Zeisler, of Chicago, Ill., for the United States.
+ Messrs. S. W. Fordyce, Jr., and Thomas W. White, both of St. Louis, Mo., for respondent.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ The National Surety Company executed as surety two bonds given to secure contracts entered into with the United States. The contractor defaulted, and was later adjudicated a bankrupt. The loss to the government was about $13,000. The Surety Company paid to it on account of this loss $3,150, the full amount of the liability on the bonds. Thereupon the government proved its claim in bankruptcy for the balance, claiming, under Revised Statutes,  3466 (Comp. St.  6372),1 priority therefore over all other 
+
+[254 U.S. 73, 75]
+ 
+ creditors. The Surety Company proved for the $3,150, and claimed that under Revised Statutes,  3468 (Comp. St.  6374),2 it was entitled to a share in the distribution of the estate pro rata on an equality with the government. The net assets of the estate were less than the amount of the government's claim. The referee sustained the contention of the Surety Company, and his order was affirmed both by the District Judge and by the Circuit Court of Appeals for the Eighth Circuit, 262 Fed. 62. The case comes here on writ of certiorari. 
+252 U.S. 577
+, 40 Sup. Ct. 396. The single question presented is whether in the distribution of the bankrupt's estate the United States has priority over the Surety Company.
+ Section 3468 applying an ostablished rule of the law of subrogation, Lidderdale v. Robinson, 12 Wheat. 594, 596, declares that when 'a surety pays the United States the money due upon ... [a] bond, such surety ... shall have the like priority for the recovery ... of the moneys ... as is secured to the United States.' Section 3466, embodying the common-law rule by which the sovereign has priority over other creditors of an insolvent, United States v. State Bank of North Carolina, 6 Pet. 29, 35, declares that 'the debts due to the United States shall be first satisfied.' There is no conflict between the two sections, which are substantially a reenactment and extension of the provisions of section 65 of the Act of March 2, 
+
+[254 U.S. 73, 76]
+ 
+ 1799, c. 22, 1 Stat. 627, 676 (Comp. St.  6372, 6374). The priority secured to the United States by section 3466 is priority over all other creditors; that is, private persons and other public bodies. This priority the surety obtains upon discharging its obligation. But what the surety asks here is not to enjoy like priority over such other creditors, but equality with the United States, a creditor whose debt it partly secured. To accord such equality would abridge the priority expressly conferred upon the government. While the priority given the surety by the statute attaches as soon as the obligation upon the bond is discharged, it cannot ripen into enjoyment unless or until the whole debt due the United States is satisfied. This result is in harmony with a familiar rule of the law of subrogation under which a surety liable only for part of the debt does not become subrogated to collateral or to remedies available to the creditor unless he pays the whole debt or it is otherwise satisfied. 
+3
+ 
+
+ The judgment of the Circuit Court of Appeals is
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] Sec. 3466. Whenever any person indebteded to the United States is insolvent, or whenever the estate of any deceased debtor, in the hands of the executors or administrators, is insufficient to pay all the debts due from the deceased, the debts due to the United States shall be first satisfied; and the priority hereby established shall extend as well to cases in which a debtor, not having sufficient property to pay all his debts, makes a voluntary assignment thereof, or in which the estate or effects of an absconding, concealed, or absent debtor are attached by process of law, as to cases in which an act of bankruptcy is committed. 
+
+[
+Footnote 2
+] Sec. 3468. Whenever the principal in any bond given to the United States is insolvent, or whenever, such principal being deceased, his estate and effects which come to the hands of his executor, administrator, or assignee, are insufficient for the payment of his debts, and, in either of such cases, any surety on the bond, or the executor, administrator, or assignee of such surety pays to the United States the money due upon such bond, such surety, his executor, administrator, or assignee, shall have the like priority for the recovery and receipt of the moneys out of the estate and effects of such insolvent or deceased principal as is secured to the United States; and may bring and maintain a suit upon the bond, in law or equity, in his own name, for the recovery of all moneys paid thereon. 
+
+[
+Footnote 3
+] Sheldon on Subrogation (2d Ed.)  127; Pomeroy, Equity Jurisdiction ( 4th Ed.)  2350; 25 R. C. L. 1318; Peoples v. Peoples Bros. (D. C.) 254 Fed. 489, 491, 492; United States Fidelity & Guaranty Co. v. Union Bank & Trust Co., 228 Fed. 448, 455, 143 C. C. A. 30; National Bank of Commerce v. Rockefeller, 174 Fed. 22, 28, 98 C. C. A. 8. 
+
+
+
+

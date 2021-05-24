@@ -1,0 +1,65 @@
+Description: MAHONEY v. JOSEPH TRINER CORP., 304 U.S. 401 (1938)
+Date: 1938-05-23 00:00:00
+Docket: 761
+Opinion
+
+
+United States Supreme Court
+MAHONEY v. JOSEPH TRINER CORP.(1938)
+No. 761
+Argued: April 25, 1938Decided: May 23, 1938
+
+
+
+ On
+appeal from the District Court of the United States for the District of Minnesota.
+ Messrs. Wm. S. Ervin and Roy C. Frank, both of St. Paul, Minn., for appellant.
+ Mr. Carl W. Cummins, of St. Paul, Minn., for appellee. 
+
+[304 
+U.S. 401, 402]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Section 2 of the Twenty-First Amendment to the Federal Constitution, U.S.C.A. Const.Amend. 21,  2, provides:
+'The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.'
+
+ The adoption of the Amendment was proclaimed December 5, 1933. In February, 1934, Joseph Triner Corporation, an Illinois corporatin engaged there in the manufacture of intoxicating liquors, complied with the Minnesota foreign corporations law; secured from the Liquor Control Commissioner a license to sell such liquors within Minnesota at wholesale; and thereafter carried on in that State the business of selling to retailers liquors manufactured by it in Illinois. The Legislature of Minnesota enacted chapter 390, approved April 29, 1935, which provides:
+'No licensed manufacturer or wholesaler shall import any brand or brands of intoxicating liquors containing more than 25 per cent of alcohol by volume ready for sale without further processing unless such brand or brands shall be duly registered in the patent office of the United States.'
+
+ The business of Joseph Triner Corporation in Minnesota included selling many brands of liquors containing more than 25 per cent. of alcohol which had not been registered in the Patent Office; and at the time of the enactment of the statute it had there a stock of such liquors. To enjoin the Liquor Control Commissioner of Minnesota from interfering with the business, it brought this suit in the federal court for that State; alleged that the statute of 1935 violated the equal protection clause of the Fourteenth Amendment of the Federal Constitu- 
+
+[304 
+U.S. 401, 403]
+ 
+ tion, U.S.C.A.Const.Amend. 14,  1; alleged danger of irreparable injury; and sought both a preliminary and a permanent injunction. The several state officials charged with the duty of enforcing the statute were joined as defendants.
+ The case was heard by three judges under section 266 of the Judicial Code, 28 U.S.C.A.  380. The court, holding that it had both federal and equity jurisdiction, granted a preliminary injunction, Joseph Triner Corp. v. Arundel, D.C., 11 F.Supp. 145; and later a permanent injunction, Joseph Triner Corp. v. Mahoney, D.C., 20 F.Supp. 1019. The state officials appealed to this Court. The sole contention of Joseph Triner Corporation is that the statute violated the equal protection clause. The state officials insist that the provision of the statute is a reasonable regulation of the liquor traffic; and also, that since the adoption of the Twenty-First Amendment, the equal protection clause is not applicable to imported intoxicating liquor. As we are of opinion that the latter contention is sound, we shall not discuss whether the statutory provision is a reasonable regulation of the liquor traffic.
+ First. The statute clearly discriminates in favor of liquor processed within the State as against liquor completely processed elsewhere. For only that locally processed may be sold regardless of whether the brand has been registered. That, under the amendment, discrimination against imported liquor is permissible although it is not an incident of reasonable regulation of the liquor traffic, was settled by State Board of Equalization v. Young's Market Co., 
+299 
+U.S. 59, 62
+, 63 S., 57 S.Ct. 77, 78, 79. There, it was contended that, by reason of the discrimination involved, a statute imposing a $500 license fee for importing beer violated both the commerce clause and the equal protection clause. In sustaining its validity we said:
+'The words used (in the Amendment) are apt to confer upon the state the power to forbid all importations which do not comply with the conditions which it (the state) prescribes. ... 
+
+[304 
+U.S. 401, 404]
+ 
+ 'The plaintiffs argue the limitation of the broad language of the Twenty-First Amendment is sanctioned by its history; and by the decisions of this Court on the Wilson Act (27 U.S.C.A.  121) the Webb-Kenyon Act ( 27 U.S.C.A.  122) and the Reed Amendment (27 U.S.C.A.  1 note). As we think the language of the amendment is clear, we do not discuss these matters. ...
+
+'The claim that the statutory provisions and the regulations are void under the equal protection clause may be briefly disposed of. A classification recognized by the Twenty-First Amendment cannot be deemed forbidden by the Fourteenth.'
+
+ Second. Joseph Triner Corporation insists that the statute is unconstitutional because it permits unreasonable discrimination between imported brands. That is, the registered brands of other foreign manufacturers may be imported while its unregistered brands may not be, although 'identical in kind, ingredient and quality.' We are asked to limit the power conferred by the amendment so that only those importations may be forbidden which, in the opinion of the Court, violate a reasonable regulation of the liquor traffic. To do so would, as stated in the Young's Market Case, page 6i, 57 S.Ct. page 78, 'involve not a construction of the amendment, but a rewriting of it.'
+ Third. The fact that Joseph Triner Corporation had, when the statute was passed, a valid license and a stock of liquors in Minnesota imported under it, is immaterial. Independently of the Twenty-First Amendment, the State had power to terminate the license. Mugler v. Kansas, 
+123 
+U.S. 623
+, 8 S.Ct. 273; Premier-Pabst Sales Co. v. Grosscup, 
+298 
+U.S. 226, 228
+, 56 S.Ct. 754, 755
+
+
+REVERSED.
+ Mr. Justice REED concurs in the result.
+ Mr. Justice CARDOZO took no part in the consideration or decision of this case. 
+
+
+

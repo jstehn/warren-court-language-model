@@ -1,0 +1,80 @@
+Description: PLYMOUTH CORDAGE CO. v. SMITH , 194 U.S. 311 (1904)
+Date: 1904-05-16 00:00:00
+Docket: 565
+Opinion
+
+
+United States Supreme Court
+PLYMOUTH CORDAGE CO. v. SMITH(1904)
+No. 565
+Argued: Decided: May 16, 1904
+
+
+
+
+ This was a petition to the circuit court of appeals for the eighth circuit to superintend and revise, in matter of law, certain proceedings in bankruptcy had in the district court of Kingfisher county, Oklahoma, on which a question or proposition of law arose concerning which that court desired the instruction of this court, and accordingly granted a certificate setting forth: (1) Section 24 a, b, of the bankruptcy law [30 Stat. at L. 553, chap. 541, U. S. Comp. Stat. 1901, p. 3431]; (2) the order of this court of May 11, 1891, assigning the territory of Oklahoma to the eighth judicial circuit, pursuant to  15 of the judiciary act of March 3, 1891 [26 Stat. at L. 830, chap. 517, U. S. Comp. Stat. 1901, p. 554]; (3) the filing of the petition to superintend and revise in matter of law the proceedings of the district court of Kingfisher county, Oklahoma, in the following particulars:
+'(a) On March 23, 1903, a petition was pending in said court to adjudge J. A. Smith an involuntary bakrupt. The district court on that date permitted three creditors to withdraw from said petition.
+
+'(b) On April 6, 1903, the district court of Kingfisher county, Oklahoma, sustained a motion to dismiss a petition in involuntary bankruptcy theretofore filed against J. A. Smith.
+
+'(c) On April 6, 1903, the district court of Kingfisher county, Oklahoma, denied the prayer of certain creditors of J. A. Smith, asking leave to join in the petition in involuntary bankruptcy against J. A. Smith. 
+
+[194 U.S. 311, 312]
+ 
+ '(d) On April 14, 1903, the district court of Kingfisher county, Oklahoma, refused to permit certain creditors of J. A. Smith to file a motion asking the court to set aside the order of April 6, 1903, dismissing the petition in involuntary bankruptcy against J. A. Smith.'
+
+
+ (4)
+ That petitioners prayed the court 'to set aside each and all of the foregoing orders so entered by the district court of Kingfisher county, Oklahoma.'
+ And propounding the following question or proposition of law:
+'Does the United States circuit court of appeals for the eighth circuit have the jurisdiction to superintend and revise, in matter of law, the proceedings of the district court of Kingfisher county, Oklahoma, in bankruptcy?'
+
+ Messrs. E. C. Brandenburg, Edwin A. Krauthoff, Patrick S. Nagle, W. A. McCarteney, and Messrs. Brandenburg & Brandenburg and Karnes, New, & Kranuthoff for Plymouth Cordage Company et al.
+ No brief was filed for Smith et al.
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ By the bankruptcy law, the district courts of the United States in the several states, the supreme court of the District of Columbia, the district courts of the several territories, and the United States courts in the Indian territory and the district of Alaska, are made courts of bankruptcy.
+ By subdivision 3 of  1, the words 'appellate courts' are defined to 'include the circuit courts of appeals of the United States, the supreme courts of the territories, and the Supreme Court of the United States.'
+'Appellate jurisdiction of controversies arising in bankruptcy proceedings from the courts of bankruptcy from which they have appellate jurisdiction in other cases,' is vested by  24a in the Supreme Court of the United States, the 
+
+[194 U.S. 311, 313]
+ 
+ circuit courts of appeals of the United States, and the supreme courts of the territories. And by  24b it is provided that the several circuit courts of appeals shall have jurisdiction in equity 'to superintend and revise, in matter of law, the proceedings of the several inferior courts of bankruptcy within their jurisdiction.'
+
+ By  25a appeals, 'as in equity cases, may be taken in bankruptcy proceedings from the courts of bankruptcy to the circuit court of appeals of the United States, and to the supreme court of the territories' from judgments adjudging or refusing to adjudge the defendant a bankrupt; granting or denying a discharge; and allowing or rejecting a claim of $500 or over. 
+1
+ 
+
+[194 U.S. 311, 314]
+ 
+ The act clearly distinguishes between 'controversies arising in bankruptcy proceedings' and 'bankruptcy proceedings' proper, and between supervisory jurisdiction in a summary way in matter of law, and jurisdiction by appeal or writ of error. Appellate jurisdiction over controversies, as in other cases, is vested by  24a, and over certain designated bankruptcy proceedings by  25a, by appeal, as in equity cases, bringing up both law and fact.
+ The question before us arises on a petition to revise certain proceedings in a court of bankruptcy of the territory of Oklahoma. That territory, by order of this court, as required by law, was assigned in 1891 to the eighth judicial circuit, 
+139 U.S. 707
+, 35 L. ed. 1128 b, 11 Sup. Ct. Rep. IV., and the courts of the territory were thereby brought within the appellate jurisdiction of the circuit court of appeals for that circuit.
+ By the judiciary act of March 3, 1891, that jurisdiction embraced the review of the judgments, orders, and decrees of the supreme courts of the territories in cases in which the judgments of the circuit courts of appeals were made final by that act, but in other cases the jurisdiction remained in this court. Shute v. Keyser, 
+149 U.S. 649
+, 37 L. ed. 884, 13 Sup. Ct. Rep. 960.
+ Then came the bankruptcy law making the district courts of the territories courts of bankruptcy, and providing that their proceedings as such might be revised by the circuit 
+
+[194 U.S. 311, 315]
+ 
+ courts of appeals within whose jurisdiction they happened to be.
+ We think the law should be taken as it is written, and perceive no adequate reason for concluding that the real intention of Congress is not expressed in the language used. Congress may well have believed it wisest that the circuit courts of appeals should deal in this summary way with questions of law arising in the progress of bankruptcy proceedings in the territorial courts, although jurisdiction by appeal or writ of error, and by appeal, as provided, was vested in the supreme courts of the territories.
+ The circuit court of appeals for the fifth circuit has announced the same conclusion (Re Seebold, 45 C. C. A. 117, 105 Fed. 910, 914), as has the supreme court of Oklahoma (Ex parte Stumpff, 9 Okla. 639, 60 Pac. 96). A different view appears to have been entertained by the circuit court of appeals for the eighth circuit in Re Blair, 45 C. C. A. 530, 106 Fed. 662, though apparently the case did not necessarily require the precise question to be passed on.
+ Question answered in the affirmative. 
+
+Footnotes
+
+[
+Footnote 1
+] Sec. 24. Jurisdiction of Appellate Courts. a. The Supreme Court of the United States, the circuit courts of appeals of the United States, and the supreme courts of the territories, in vacation in chambers, and during their respective terms, as now or as they may be hereafter held, are hereby invested with appellate jurisdiction of controversies arising in bankruptcy proceedings from the courts of bankruptcy from which they have appellate jurisdiction in other cases. The Supreme Court of the United States shall exercise a like jurisdiction from courts of bankruptcy not within any organized circuit of the United States, and from the supreme court of the District of Columbia. b. The several circuit courts of appeal shall have jurisdiction in equity, either interlocutory or final, to superintend and revise, in matter of law, the proceedings of the several inferior courts of bankruptcy within their jurisdiction. Such power shall be exercised on due notice and petition by any party aggrieved. Sec. 25. Appeals and Writs of Error. a. That appeals, as in equity cases, may be taken in bankruptcy proceedings from the courts of bankruptcy to the circuit court of appeals of the United States, and to the supreme court of the territories, in the following cases, to wit: (1) From a judgment adjudging or refusing to adjudge the defendant a bankrupt; ( 2) from a judgment granting or denying a discharge; and (3) from a judgment allowing or rejecting a debt or claim of five hundred dollars or over. Such appeal shall be taken within ten days after the judgment appealed from has been rendered, and may be heard and determined by the appellate court in term or vacation, as the case may be. b. From any final decision of a court of appeals, allowing or rejecting a claim under this act, an appeal may be had under such rules, and within such time, as may be prescribed by the Supreme Court of the United States, in the following cases, and no other: 
+[
+Footnote 1
+] Where the amount in controversy exceeds the sum of two thousand dollars, and the question involved is one which might have been taken on appeal or writ of error from the highest court of a state to the Supreme Court of the United States; or 
+[
+Footnote 2
+] Where some justice of the Supreme Court of the United States shall certify that, in his opinion, the determination of the question or questions involved in the allowance or rejection of such claim is essential to a uniform construction of this act throughout the United States. c. Trustees shall not be required to give bond when they take appeals or sue out writs of error. d. Controversies may be certified to the Supreme Court of the United States from other courts of the United States, and the former court may exercise jurisdiction thereof, and issue writs of certiorari, pursuant to the provisions of the United States laws now in force, or such as may be hereafter enacted. 
+
+
+
+

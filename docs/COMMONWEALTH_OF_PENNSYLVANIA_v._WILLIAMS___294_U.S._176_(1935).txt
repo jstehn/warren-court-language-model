@@ -1,0 +1,205 @@
+Description: COMMONWEALTH OF PENNSYLVANIA v. WILLIAMS , 294 U.S. 176 (1935)
+Date: 1935-02-04 00:00:00
+Docket: 394
+Opinion
+
+
+United States Supreme Court
+COMMONWEALTH OF PENNSYLVANIA v. WILLIAMS(1935)
+No. 394
+Argued: January 14, 1935Decided: February 4, 1935
+
+
+
+
+[294 U.S. 176, 177]
+ 
+ Mr. Wm. A. Schnader, of Philadelphia, Pa., for the Commonwealth of Pennsylvania.
+ Mr. Gordon A. Block, of Philadelphia, Pa., for respondents.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ In this case certiorari was granted, 
+293 
+U.S. 547
+, 55 S.Ct. 124, 79 L. Ed. --, directed to the Court of Appeals for the Third Circuit, to resolve questions of public importance growing out of the rival claims of a federal District Court and the department of banking of the commonwealth of Pennsylvania; each asserts authority to liquidate the business and affairs of an insolvent 
+
+[294 U.S. 176, 178]
+ 
+ building and loan association, organized under the laws of Pennsylvania.
+ On February 9, 1933, a New York shareholder in Mortgage Building & Loan Association, a Pennsylvania corporation, on behalf of himself and other shareholders, filed a bill of complaint in the District Court for Eastern Pennsylvania, naming the association as defendant, and alleging that it was the result of the merger of several building and loan associations, in one of which the plaintiff in the suit was a shareholder, and that he had refused to participate in the merger and had demanded of the association cancellation and payment of his shares. The bill alleged the insolvency of the association and a threatened race of diligence by its creditors to satisfy their claims from the assets of the corporation, and prayed the appointment of receivers for the corporation, the liquidation of its business and assets, and the usual injunction restraining creditors and others from interfering with or taking possession of its property. Thereupon, on the same day, and on the appearance of the defendant corporation, which interposed no objection, the District Judge appointed temporary receivers. No notice of the application was given to the corporation's creditors or other shareholders, or to the department of banking of the commonwealth. On the following day the corporation filed its answer, admitting the material allegations in the bill of complaint and joining in its prayer.
+ On that day the secretary of banking informally requested the District Judge not to make the appointment of the receivers permanent and to allow the property of the defendant to be surrendered to the secretary, to be liquidated and administered in accordance with the state statutes. On March 27, 1933, the commonwealth filed its petition in the District Court, asking leave to intervene in the pending equity proceeding and for an order directing the receivers to surrender the assets 
+
+[294 U.S. 176, 179]
+ 
+ of the defendant association to the state secretary of banking. In addition to the matters already stated, the petition alleged the further facts, which are admitted or established: That the association, organized as a building and loan association, is subject to the supervision of the state department of banking, as provided by the Banking Act of June 15, 1923, P.L. 809, as amended (7 PS Pa.  1 et seq.); that the statutes of the commonwealth afford a complete, comprehensive, and economical scheme for liquidation by the secretary of banking of such a building and loan association, when insolvent or in a financial unsound condition; that section 21 of the statute, as amended by act May 5, 1927, P.L. 765,  7 (7 PS Pa.  21), providing that the secretary, after notice and hearing, may, with the consent of the Attorney General, take possession of the business and property of a building and loan association when it appears to be in an 'unsafe or unsound condition to continue business,' specifically authorizes the secretary to take possession of the property of the association when it is 'in the hands of a receiver appointed by any court'; that upon taking such possession the secretary is required, by section 22 ( 7 PS Pa.  22), to issue and file his certificate to that effect; that, pursuant to the requirements of the statute, the secretary, after the prescribed hearing, had found the defendant insolvent and in the hands of a receiver; and that, with the consent of the Attorney General, he had on February 17, 1933, duly made and filed his certificate, 'taking possession' of the property and appointing a special deputy as agent to assist in liquidating the defendant's business and property.
+ The District Court denied the petition of the commonwealth, and later appointed the temporary receivers, with another, as permanent receivers, who are respondents here. It treated the case as though it were one of the rival claims of a state and a federal court to jurisdiction over the same subject-matter and property, see Harkin v. Brundage, 
+276 
+U.S. 36
+, 48 S.Ct. 268, and held that the jurisdiction of 
+
+[294 U.S. 176, 180]
+ 
+ the District Court had attached when the bill of complaint was filed, and that it was the duty of the court, under the laws and the Constitution of the United States, to retain that jurisdiction and to proceed with the liquidation to the exclusion of the state authorities. Elson v. Mortgage Bldg. & Loan Ass'n., 4 F.Supp. 779. The Court of Appeals for the Third Circuit affirmed upon like grounds. Com. of Pennsylvania v. Williams, 72 F.( 2d) 509.
+ The Attorney General of the commonwealth argues here, as he did in both courts below: (a) That the federal court is without jurisdiction to direct the liquidation in a suit brought against the corporation by a shareholder, since both parties are subject to, and bound by, the local law, which provides for liquidation of a domestic corporation exclusively through the agency of a state supervisory officer; and (b) that, in any event, the court in its discretion should have refused the appointment of receivers or, having appointed them, it should have granted the petition of the commonwealth and directed the receivers to surrender the property of the association to the state official.
+
+ 1. 
+The statutes of the United States, as incorporated in the Judicial Code, c. 231,  24(1), 36 Stat. 1087, 1091, 28 U.S.C.  41(1), 28 USCA  41(1), provide that District Courts shall have original jurisdiction 'of all suits of a civil nature, at common law or in equity, ... where the matter in controversy exceeds, exclusive of interest and costs, the sum or value of $3,000, and ... is between citizens of different States.' We do not doubt that the allegations in the present bill of complaint are sufficient to establish the jurisdiction of the District Court as a federal court; that is to say, it properly invokes the power and the authority, conferred upon the District Court by the Constitution and statutes of the United States, to entertain the suit. The bill alleges diversity of citizenship and the requisite jurisdictional amount, both of which allegations stand unchallenged, see Philadelphia, Wilmington 
+
+[294 U.S. 176, 181]
+ 
+ & Baltimore R. Co. v. Quigley, 21 How. 202, 214; Deputron v. Young, 
+134 
+U.S. 241, 251
+, 10 S.Ct. 539; Healy v. Ratta, 
+292 
+U.S. 263, 271
+, 54 S.Ct. 700, and prays relief which a federal court of equity is competent to give, see Duignan v. United States, 
+274 
+U.S. 195, 199
+, 47 S.Ct. 566.
+ Although, as will presently appear, the District Judge in the exercise of his discretion might appropriately have given notice, to the officers of the department of banking, of the application for the appointment of receivers, such notice was not prerequisite to the exercise of its jurisdiction. See Harkin v. Brundage, supra; In re Metropolitan Railway Receivership, 
+208 
+U.S. 90
+, 28 S.Ct. 219. Cf. Marin v. Augedahl, 
+247 
+U.S. 142
+, 38 S.Ct. 452
+
+
+ The objection that the suit was brought by a shareholder of the insolvant corporation rather than by its judgment creditor, see Burnrite Coal Briquette Co. v. Riggs, 
+274 
+U.S. 208
+, 47 S.Ct. 578, as well as the opposing contention that under Pennsylvania law the present shareholder has the status of a creditor, see Nice Ball Bearing Co. v. Mortgage Building & Loan Association, 310 Pa. 560, 166 A. 239, need not now be considered. Even if valid, it does not go to the jurisdiction of the District Court as a federal court, but only to the propriety of its action as a court of equity. See Smith v. McKay, 
+161 
+U.S. 355, 358
+, 359 S., 16 S.Ct. 490; Blythe v. Hinckley, 
+173 
+U.S. 501, 507
+, 19 S.Ct. 497; Pusey & Jones Co. v. Hanssen, 
+261 
+U.S. 491, 500
+, 43 S. Ct. 454; Twist v. Prairie Oil & Gas Co., 
+274 
+U.S. 684, 690
+, 47 S.Ct. 755. Unlike the objection that the court is without jurisdiction as a federal court, see Mansfield, C. & L.M.R. Co. v. Swan, 
+111 
+U.S. 379, 382
+, 4 S.Ct. 510, the parties may waive their objections to the equity jurisdiction by consent, Hollins v. Brierfield Coal & Iron Co., 
+150 
+U.S. 371, 380
+, 14 S.Ct. 127; In re Metropolitan Railway Receivership, supra, 
+208 
+U.S. 109, 110
+, 28 S.Ct. 219, or by failure to take it seasonably, Brown, Bonnell & Co. v. Lake Superior Iron Co., 
+134 
+U.S. 530, 535
+, 536 S., 10 S.Ct. 604; Southern Pacific R. Co. v. United States (No. 1), 
+200 
+U.S. 341, 349
+, 26 S.Ct. 296. Even if 
+
+[294 U.S. 176, 182]
+ 
+ the present objection be regarded as valid and as one which, in some circumstances, the court should take sua sponte at any stage of the proceedings, despite the waiver by the parties, compare Harkin v. Brundage, supra, 
+276 
+U.S. 52
+, 48 S.Ct. 268; Lewis v. Cocks, 23 Wall. 466, 470, the District Court was not without jurisdiction as a federal court, for these are questions which it is competent to decide. It was therefore invested with authority to hear and make disposition of the cause, which is not open to collateral attack, see Bryan v. Kennett, 
+113 
+U.S. 179, 198
+, 5 S.Ct. 407; Johnson v. Manhattan R. Co., 
+289 
+U.S. 479, 496
+, 50 S.Ct. 721, or subject to diminution or control by state statutes, see United States v. Howland, 4 Wheat. 108, 115; Neves v. Scott, 13 How. 268, 272; Mississippi Mills v. Cohn, 
+150 U.S. 202
+, 204-206, 14 S.Ct. 75; Mason v. United States, 
+260 
+U.S. 545, 557
+, 43 S.Ct. 200. Error in the exercise of that jurisdiction can be remedied only by appeal. See Smith v. McKay, supra, 
+161 
+U.S. 358, 359
+, 16 S.Ct. 490.
+
+ 2. 
+The question remains whether, in the special circumstances of the case, the District Court rightly retained its jurisdiction. The relief prayed in the bill of complaint is equitable in its nature, and the prayer was addressed to the sound discretion which is the controlling guide of judicial action in every phase of a suit in equity. The relief sought, an injunction and the appointment of receivers, was aimed at the prevention of irreparable injury, from the waste of the assets of the insolvent corporation which would ensue from a race of creditors to secure payment of their claims by forced sale of the corporate property. By local statutes elaborate provision is made for accomplishing the same end, through the action of a state officer, in substantially the same manner and without substantially different results from those to be attained in receivership proceedings in the federal courts. 
+1
+ 
+
+[294 U.S. 176, 183]
+ 
+ There is no allegation or contention that the procedure thus provided is inadequate, or that it will not be diligently and honestly followed. In such circumstances the discretion of the District Court, invoked by the petition of the commonwealth, should have been exercised to relinquish the jurisdiction in favor of the statutory administration of the corporate assets by the state officer.
+ The question is not the ordinary one of comity between a federal and a state court, each asserting jurisdiction over the same subject-matter and the same property and where there are shown no special reasons addressed to the discretion of the court first acquiring jurisdiction for relinquishing its jurisdiction in favor of the other. Compare McClellan v. Carland, 
+217 
+U.S. 268, 281
+, 282 S., 30 S.Ct. 501;
+___ The secretary, after giving notice to all persons holding assets of the association (section 25, as amended (7 PS Pa.  25)), and after taking an inventory of the assets (section 26 (7 PS Pa.  26)), may either suspend or continue the business pending determination of whether or not to liquidate the affairs of the association (section 27 (7 PS Pa.  27)). By section 28, as amended by Act May 28, 1931, P.L. 193,  1, the secretary is authorized to surrender possession upon the resumption of business by the association or the sale of its assets to a successor or independent corporation. Although the authority of the secretary is not derived from the action of any court, section 29, as amended by Act July 20, 1932, P.L. 7 (Ex. Sess.)  1, gives him, 'except as herein otherwise provided,' the status and powers of a receiver of a court of equity. The court having jurisdiction is given, by section 30, as amended (7 PS Pa.  30), power to enforce orders of the secretary. 
+Under section 31, 7 PS Pa.  31, and as amended by Act May 28, 1931, P.L. 197,  2, his possession continues until liquidation, resumption of business by the association, surrender under section 28, the substitution of liquidating trustees elected by shareholders or appointed by the court as provided in section 50 (7 PS Pa.  50), or payment of the creditors in full. The secretary is authorized to compromise claims (section 34, as amended (7 PS Pa.  34)) and to prosecute or defend suits (section 35 (7 PS Pa.  35)). During his possession, no lien shall attach or execution issue against the property of the corporation, and no pledgee shall, without permission of the secretary or order of the court, sell the collateral or pledge (section 36, as amended by Act June 12, 1931, P.L. 563). b 
+
+[294 U.S. 176, 184]
+ 
+ Hyde v. Stone, 20 How. 170, 175; Chicot County v. Sherwood, 
+148 
+U.S. 529, 534
+, 13 S.Ct. 695; In re Chetwod, 
+165 
+U.S. 443, 460
+, 17 S.Ct. 385, with Harkin v. Brundage, supra; Rogers v. Guaranty Trust Co., 
+288 
+U.S. 123
+, 53 S.Ct. 295, 89 A.L.R. 720; Kansas City Pipe Line Co. v. Fidelity Title & Trust Co., 217 F. 187 ( C.C.A. 8th); First National Bank of Memphis v. Horuff, 65 F.(2d) 319 (C.C. A. 5th). Here no state court is asserting jurisdiction, but the state officer, charged by the statutes of the state with the duty of supervising its own building and loan associations and of liquidating them by an adequate procedure when insolvent, asks to proceed with the liquidation. See amos v. Trust Co. of Florida, 54 F.(2d) 286, 288 (C.C.A. 5th).
+___ Before liquidation, the secretary must give notice to creditors and depositors (section 41, as amended by Act May 28, 1931, P.L. 198,  4) and have an inventory and appraisement made by disinterested persons (section 38, as amended (7 PS Pa. 38)). By section 45, as amended by Act May 28, 1931, P.L. 199,  6, the secretary must submit a final or partial account of claims allowed or rejected, and any party in interest may file objections in the court; if no account is submitted within one year, a court order directing its submission may be obtained. Section 46 as amended (7 PS Pa.  46) provides that the account is binding and conclusive, except as to those parts to which objection has been made in court, and directs distribution in accordance therewith. If the account were partial, its confirmation is not conclusive on claims specified in subsequent accounts (section 47, as amended (7 PS Pa.  47)). The court is to hear and determine matters in controversy (section 48, as amended (7 PS Pa.  48)). Expenses of administration are to be paid out of the association's funds, and are subject to the approval of the court (section 49 (7 PS Pa.  49)). Section 50 (7 PS Pa.  50) provides for the election of liquidating trustees by the shareholders, or appointment by the court in default of election, if a balance remains after the final account has been filed and the creditors paid in full. 
+
+[294 U.S. 176, 185]
+ 
+ A court of equity, which in its discretion may refuse to protect private rights when the exercise of its jurisdiction would be prejudicial to the public interest, see United States ex rel. Greathouse v. Dern, 
+289 
+U.S. 352, 359
+, 360 S., 53 S.Ct. 614, or deny relief upon performance of a condition which will safeguard the public interest and secure substantial justice to the complainant, see Harrisonville v. W.S. Dickey Clay Mfg. Co., 
+289 
+U.S. 334, 338
+, 53 S.Ct. 602, would seem bound to stay its hand in the public interest, where it reasonably appears that the private right will not suffer. It is in the public interest that federal courts of equity should exercise their discretionary power with proper regard for the rightful independence of state governments in carrying out their domestic policy. Fenner v. Boykin, 
+271 
+U.S. 240, 243
+, 244 S., 46 S.Ct. 492; Massachusetts State Grange v. Benton, 
+272 
+U.S. 525, 527
+, 47 S.Ct. 189; Matthews v. Rodgers, 
+284 
+U.S. 521, 525
+, 52 S.Ct. 217. Cf. Central kentucky Natural Gas Co. v. Railroad Commission of Kentucky, 
+290 
+U.S. 264, 273
+, 54 S.Ct. 154. It has long been accepted practice for the federal courts to relinquish their jurisdiction in favor of the state courts, where its exercise would involve control of or interference with the internal affairs of a domestic corporation of the state. See Rogers v. Guaranty Trust Company, supra, 
+288 
+U.S. 130, 131
+, 53 S.Ct. 295, 89 A.L.R. 720. Compare Burnrite Coal Briquette Co. v. Riggs, supra, 
+274 
+U.S. 212, 213
+, 47 S.Ct. 578; Canada Malting Co., Ltd., v. Paterson Steamships, Ltd., 
+285 U.S. 413
+, 419-423, 52 S.Ct. 413; Langnes v. Green, 
+282 
+U.S. 531, 541
+, 51 S.Ct. 243. There are stronger reasons for adopting a like practice where the exercise of jurisdiction involves an unnecessary interference by injunction with the lawful action of state officers. Matthews v. Rodgers, supra, 
+284 
+U.S. 525
+, 52 S.Ct. 217.
+ Here, upon presentation of the application for appointment of receivers, which would involve such an interference, the District Judge might appropriately have required notice of the application to be given to the state officers. It was his duty to do so if satisfied that the delay 
+
+[294 U.S. 176, 186]
+ 
+ involved in adopting that course would not result in the sacrifice of any vital interest of the insolvent corporation, its creditors or its stockholders. On the showing that their interests would be adequately protected by liquidation under the direction of the secretary of banking, the District Judge should have denied the application for the appointment of receivers, or, if he had already appointed them, should have discharged the receivers, and directed the surrender of the property in their possession to the secretary in order that the liquidation might proceed under the state statutes.
+ That course should be pursued now. For that purpose the decree will be reversed and the cause remanded. The District Court will direct that all assets and property in the possession of the receivers be, with all convenient speed, surrendered to the secretary of banking, the receivers retaining only sufficient of the assets of the defendant association to pay their reasonable fees and any obligations lawfully incurred by them. Jurisdiction will be retained by the district court only for that purpose and for the purpose of promptly discharging the receivers and settling their accounts, after which the suit will be dismissed. See Harkin v. Brundage, supra, 
+276 
+U.S. 57, 58
+, 48 S.Ct. 268.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] The Pennsylvania Banking Act of 1923, P.L. 809, as amended by the Acts of 1927, P.L. 762, 1931, P.L. 193, 563, 1932 (Ex. Sess.) P.L. 7 (7 PS Pa.  1 et seq.), provides for the regulation and supervision of financial institutions, including building and loan associations. Section 21, as amended (7 PS Pa.  21) authorizes the secretary to take possession of the business and property of a building and loan association if its condition is 'unsafe or unsound,' or if the association has violated the law or an order of the secretary; he can take possession only after notice and hearing and after securing the approval of the Attorney General. Section 22 (7 PS Pa.  22) requires the secretary to file a certificate in his office and in that of the prothonotary of the court having jurisdiction ( by section 19 (7 PS Pa.  19) the court of common pleas of Dauphin county or of the county in which the corporation is located), stating that he has taken possession of the business and property of the association. The association may, under section 23, as amended (7 PS Pa.  23), obtain court review of the action, by application within ten days for a show cause rule. 
+
+
+
+

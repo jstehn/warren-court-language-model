@@ -1,0 +1,84 @@
+Description: COLLINS v. TEXAS , 223 U.S. 288 (1912)
+Date: 1912-02-19 00:00:00
+Docket: 165
+Opinion
+
+
+United States Supreme Court
+COLLINS v. TEXAS(1912)
+No. 165
+Argued: Decided: February 19, 1912
+
+
+
+ Messrs. Millard Patterson and John F. Woodson for plaintiff in error.[ Collins v. Texas 
+223 U.S. 288
+ (1912) ]
+
+
+[223 U.S. 288, 290]
+ 
+ Mr. Jewel P. Lightfoot, Attorney General of Texas, Messrs. James D. Walthall and C. E. Lane, Assistants to the Attorney General, and Messrs. James N. Wilkerson, Timothy J. Scofield, and Frank J. Loesch for defendant in error.
+
+
+[223 U.S. 288, 294]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a writ of error to the Texas court of criminal appeals upon a judgment denying the plaintiff in error a release by habeas corpus. The plaintiff in error is held upon an information charging him with practising medicine for money by treating a named patient for hay fever by osteopathy, without having registered his authority, as required by a Texas statute of 1907, chap. 123. He denies the constitutionality of the act.
+ The statute establishes a board of medical examiners, and requires 'all legal practitioners of medicine in this state, who, practising under the provisions of previous laws, or under diplomas of a reputable and legal college of medicine, have not already received license from a state medical examining board of this state,' to prove their diplomas, or existing license, or exemption existing under any law; whereupon they are to receive a verification license.  6. By  7, applicants not licensed under  6 must pass an examination, conditioned, among other things, on their being graduates of 'bona fide reputable medical schools;' to be considered reputable 'whose entrance requirements and courses of instruction are as high as those adopted by the better class of medical schools of the United States, whose course of instruction shall embrace not less than four terms of five months each.' By  9 the examinations are to be fair to every school of medicine, are to be conducted on the scientific branches of medicine only, and are to include anatomy, physiology, chemistry, histology, pathology, bacteriology, physical diagnosis, surgery, obstetrics, gynecology, hygiene, and 
+
+[223 U.S. 288, 295]
+ 
+ medical jurisprudence. Those who pass are to be granted licenses to practise medicine. By  10 nothing in the act is to be construed to discriminate against any particular system, and the act is not to apply to dentists legally registered and confining themselves to dentistry, nurses who practise only nursing, masseurs, or surgeons of the United States Army, Navy, etc., in the performance of their duties.
+ The only other material sections of the act are  13 and 14, the former of which declares that 'any person shall be regarded as practising medicine within the meaning of this act. . . . (2) Or who shall treat or offer to treat any disease or disorder, mental or physical, or any physical deformity or injury, by any system or method, or to effect cures thereof, and charge therefor, directly or indirectly, money or other compensation.' By  14 any person practising medicine in violation of the act is punished by fine and imprisonment, and is not to recover anything for the services rendered.
+ The facts charged against the plaintiff in error are admitted. It also is admitted that before the passage of the statute he had spent $5, 000 in fitting up his place, and was deriving a net income from his calling of at least the same sum. He held a diploma from the chartered American School of Osteopathy, Kirksville, Missouri, after a full two years' course of study there, but it does not appear that he presented this diploma to the board of medical examiners, or attempted to secure either a verification license or license in any form. The board, in passing upon qualifications, does not examine in therapeutics or materia medica, which, it will be observed, are not mentioned in the act. On these facts we are of opinion that the plaintiff in error fails to show that the statute inflicts any wrong upon him, contrary to the 14th Amendment of the Constitution of the United States. If he has not suffered, we are not called upon to speculate upon other cases, or 
+
+[223 U.S. 288, 296]
+ 
+ to decide whether the followers of Christian Science or other people might, in some event, have cause to complain.
+ We are far from agreeing with the plaintiff in error that the definition of practising medicine in  13 is arbitrary or irrational, but it would be immaterial if it were, as its only object is to explain who fall within the purview of the act. That it does, and of course we follow the Texas court in its decision that the plaintiff in error is included. It is true that he does not administer drugs, but he practises what at least purports to be the healing art. The state constitutionally may prescribe conditions to such practice, considered by it to be necessary or useful to secure competence in those who follow it. We should presume, until the Texas courts say otherwise, that the reference in  4 to the diploma of a reputable and legal college of medicine, and the confining in  7 of examinations to graduates of reputable medical schools, use the words 'medicine' and 'medical' with the same broad sense as  13, and that the diploma of the plaintiff in error would not be rejected merely because it came from a school of osteopathy. In short, the statute says that if you want to do what it calls practising medicine, you must have gone to a reputable school in that kind of practice. Whatever may be the osteopathic dislike of medicines, neither the school nor the plaintiff in error suffers a constitutional wrong if his place of tuition is called a medical school by the act for the purpose of showing that it satisfies the statutory requirements. He cannot say that it would not have been regarded as doing so, because he has not tried. Dent v. West Virginia, 
+129 
+U.S. 114, 124
+, 32 S. L. ed. 623, 626, 9 Sup. Ct. Rep. 231.
+ An osteopath professes-the plaintiff in error professes, as we understand it-to help certain ailments by scientific manipulation affecting the nerve centers. It is intelligible, therefore, that the state should require of him a scientific training. Dent v. West Virginia, 
+129 U.S. 114
+, 32 L. ed. 623, 9 Sup. Ct. Rep. 231; Watson v. Maryland, 
+218 U.S. 173
+, 54 L. ed. 987, 30 Sup. Ct. Rep. 644. He, like others, 
+
+[223 U.S. 288, 297]
+ 
+ must begin by a diagnosis. It is no answer to say that in many instances the diagnosis is easy,-that a man knows it when he has a cold or a toothache. For a general practice science is needed. An osteopath undertakes to be something more than a nurse or a masseur, and the difference rests precisely in a claim to greater science, which the state requires him to prove. The same considerations that justify including him justify excluding the lower grades from the law. Watson v. Maryland, 
+218 
+U.S. 173, 179
+, 180 S., 54 L. ed. 987, 990, 30 Sup. Ct. Rep. 644. Again, it is not an answer to say that the plaintiff in error is prosecuted for a single case. If the legislature may prohibit a general practice for money except on the condition stated, it may attach the same conditions to a single transaction of a kind not likely to occur otherwise than as an instance of a general practice. A distinction between gratuitous and paid- for services was made in the Maryland statute sustained in Watson v. Maryland, 
+218 
+U.S. 173, 178
+, 54 S. L. ed. 987, 990, 30 Sup. Ct. Rep. 644. Finally, the law is not made invalid as against the plaintiff in error by the fact that he had an established business when the law was passed. Dent v. West Virginia, 
+129 U.S. 114
+, 32 L. ed. 623, 9 Sup. Ct. Rep. 231; Reetz v. Michigan, 
+188 
+U.S. 505, 510
+, 47 S. L. ed. 563, 567, 23 Sup. Ct. Rep. 390.
+ The objections that prevailed against a writ of error like this in Bailey v. Alabama, 
+211 U.S. 452
+, 53 L. ed. 278, 29 Sup. Ct. Rep. 141, do not exist here. There, as here, it was attempted to interrupt the ordinary course of a trial by habeas corpus, and there, as here, the state allowed the attempt, and discharged the writ on the merits. But in that case it did not appear that the constitutional question relied upon had arisen or necessarily would arise, although afterwards it did. 
+219 U.S. 219
+, 55 L. ed. 191, 31 Sup. Ct. Rep. 145. But here the facts are admitted, the question appears as plainly as it ever will, and is supposed to go to the jurisdiction of the court. Therefore we have discussed the case on the merits; perhaps more than it needed, in view of the decisions cited and others that establish the right of the state to adopt a policy even upon 
+
+[223 U.S. 288, 298]
+ 
+ medical matters concerning which there is difference of opinion and dispute. Hawker v. New York, 
+170 U.S. 189
+, 42 L. ed. 1002, 18 Sup. Ct. Rep. 573; Meffert v. Packer, 
+195 U.S. 625
+, 49 L. ed. 350, 25 Sup. Ct. Rep. 790; Jacobson v. Massachusetts, 
+197 U.S. 11
+, 49 L. ed. 643, 25 Sup. Ct. Rep. 358, 3 A. & E. Ann. Cas. 765. See also Williams v. Arkansas, 
+217 U.S. 79
+, 54 L. ed. 673, 30 Sup. Ct. Rep. 493, 18 A. & E. Ann. Cas. 865.
+ Judgment affirmed. 
+
+
+

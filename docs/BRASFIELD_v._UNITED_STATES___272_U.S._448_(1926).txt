@@ -1,0 +1,53 @@
+Description: BRASFIELD v. UNITED STATES , 272 U.S. 448 (1926)
+Date: 1926-11-22 00:00:00
+Docket: 243
+Opinion
+
+
+United States Supreme Court
+BRASFIELD v. UNITED STATES(1926)
+No. 243
+Argued: Decided: November 22, 1926
+
+
+
+ Mr. John W. Preston, of San Franciso, Cal., for petitioners. 
+
+[272 U.S. 448, 449]
+ 
+ Mr. Assistant Attorney General Donovan and the Attorney General, for the United States.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Petitioners were convicted in the District Court for northern California of the offense (section 37 of the Criminal Code (Comp. St.  10201)) of conspiracy to possess and transport intoxicating liquors in violation of the National Prohibition Act (Comp. St.  10138 1/4 et seq.). The conviction was affirmed by the Circuit Court of Appeals for the Nith Circuit. 8 F. (2d) 472. This court granted certiorari. 
+269 
+U.S. 550
+, 46 S. Ct. 201; Judicial Code,  240(a) as amended (Comp. St.  1217).
+ The only errors assigned which are pressed upon us concern proceedings had upon the recall of the jury after its retirement. The jury having failed to agree after some hours of deliberation, the trial judge inquired how it was divided numerically, and was informed by the foreman that it stood nine to three, without indicating which number favored a conviction.
+ In Burton v. United States, 
+196 
+U.S. 283, 307
+, 25 S. Ct. 243, 49 L. Ed 482, where a conviction was reversed on other grounds, this court condemned the practice of inquiring of a jury, unable to agree, the extent of its numerical division, although a response indicating the vote in favor of or against conviction was neither sought nor obtained. This court then said (page 308 (25 S. Ct. 250)):
+'... We do not think that the proper administration of the law requires such knowledge or permits such a question on the part of the presiding judge.'
+
+ There is a diversity of view in the Circuit Courts of Appeals whether noncompliance with the rule as stated in the Burton Case is reversible error, or whether the expressions in that opinion are hortatory only. See St. Louis & S. F. R. R. v. Bishard (C. C. A. 8th), 147 F. 496, 78 C. C. A. 62; Stewart v. United States (C. C. A. 8th), 300 F. 769, 782 et seq.; Nigro v. United States (C. C. A. 8th), 4 F. 
+
+[272 U.S. 448, 450]
+ 
+ (2d) 781, holding that the inquiry requires a reversal. And compare Bernal v. United States (C. C. A. 5th), 241 F. 339, 342, 154 C. C. A. 219; Quong Duck v. United States (C. C. A. 9th), 293 F. 563, 564, supporting the view that the practice, while improper, is not prejudicial error.
+ We deem it essential to the fair and impartial conduct of the trial that the inquiry itself should be regarded as ground for reversal. Such procedure serves no useful purpose that cannot be attained by questions not requiring the jury to reveal the nature or extent of its division. Its effect upon a divided jury will often depend upon circumstances which cannot properly be known to the trial judge or to the appellate courts and may vary widely in different situations, but in general its tendency is coercive. It can rarely be resorted to without bringing to bear in some degree, serious, although not measurable, an improper influence upon the jury, from whose deliberations every consideration other than that of the evidence and the law as expounded in a proper charge, should be excluded. Such a practice, which is never useful and is generally harmful, is not to be sanctioned.
+ The failure of petitioners' counsel to particularize an exception to the court's inquiry does not preclude this court from correcting the error. Cf. Wiborg v. United States, 
+163 U.S. 632
+, 658, et seq., 16 S. Ct. 1127, 1197; Clyatt v. United States, 
+197 U.S. 207
+, 220, et seq., 25 S. Ct. 429; Crawford v. United States, 
+212 
+U.S. 183, 194
+, 29 S. Ct. 260, 15 Ann. Cas. 392; Weems v. United States, 
+217 
+U.S. 349, 362
+, 30 S. Ct. 544, 19 Ann. Cas. 705. This is especially the case where the error, as here, affects the proper relations of the court to the jury, and cannot be effectively remedied by modification of the judge's charge after the harm has been done.
+ It is unnecessary to consider other assignments of error directed to the instructions given the jury at the time of its recall.
+ Judgment reversed. 
+
+
+

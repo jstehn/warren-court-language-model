@@ -1,0 +1,80 @@
+Description: MALE v. ATCHISON, T & S F R CO , 240 U.S. 97 (1916)
+Date: 1916-02-21 00:00:00
+Docket: 220
+Opinion
+
+
+United States Supreme Court
+MALE v. ATCHISON, T & S F R CO(1916)
+No. 220
+Argued: January 24, 1916Decided: February 21, 1916
+
+
+
+ Mr. William G. Cooke for appellant. 
+
+[240 U.S. 97, 98]
+ 
+ Mr. Walker D. Hines for appellee.
+
+ Mr. Chief Justice White delivered the opinion of the court.
+ On this direct appeal a reversal is sought of a decree below which dismissed the bill for want of jurisdiction. There is a motion to dismiss on the ground that 'the questions involved upon this appeal are moot questions 
+
+[240 U.S. 97, 99]
+ 
+ . . . for the reason that, subsequent to the dismissal of the bill herein by the lower court, the appellant, as plaintiff, instituted in the supreme court of the state of New York, county of New York, an action upon the same alleged cause of action against the same defendants, and that such action in the supreme court of the state on New York was heard and determined, and that a final judgment upon the merits therein was rendered, dismissing the complaint filed in said action as against this appellee.' But as our power to review is limited to the question of jurisdiction alone, and as the ground of the motion obviously involves the defense of 'the thing adjudged,' going to the merits, the motion to dismiss is overruled, and we come to consider the question of the jurisdiction of the court below; that is, whether, as a Federal court, it had power to entertain the cause. Louisville Trust Co. v. Knott, 
+191 U.S. 233
+, 48 L. ed. 161, 24 Sup. Ct. Rep. 119; Fore River Shipbuilding Co. v. Hagg, 
+219 U.S. 175
+, 55 L. ed. 163, 31 Sup. Ct. Rep. 185; Farrugia v. Philadelphia & R. R. Co. 
+233 U.S. 352
+, 58 L. ed. 996, 34 Sup. Ct. Rep. 591.
+ The bill alleged that the complainant, Male, who sued as the trustee of Gilbert W. Chapin, was a citizen of the state of New York and an inhabitant and resident of the southern district thereof. The defendants were the Atlantic & Pacific Railroad Company, a corporation created by an act of Congress, the Atchison, Topeka, & Santa Fe Railroad Company, a corporation organized under an act of the legislature of the territory of Kansas, the Atchison, Topeka, & Santa Fe Railway Company, a corporation organized under the laws of the state of Kansas, and the Boston Safe Deposit & Trust Company, a corporation organized under the laws of the state of Massachusetts. We do not stop to summarize the averments of the bill in order to make clear the nature of the relief sought because we accept as adequate for the purpose of the question before us the statement made on that subject in the printed argument filed on behalf of 
+
+[240 U.S. 97, 100]
+ 
+ the appellant as follows: 'The relief prayed for is judgment for $120,000 and interest upon certain income bonds issued by the Atlantic & Pacific Railroad Company on the 1st day of October, 1880, and maturing October 1st, 1910, and for an adjudication that the Atchison, Topeka, & Santa Fe Railway Company (the present appellee) is liable in equity for the amount of such judgment by reason of the matters set forth in the bill of complaint.' As further stated in the argument for the appellant, the bill alleged that the Atlantic & Pacific Railroad Company 'is practically out of existence, and has not been nor can it be, served with process,' and that the Atchison, Topeka, & Santa Fe Railroad Company and the Boston Safe Deposit & Trust Company were not served with process, and are not deemed to be necessary parties to the cause, and may be put out of view. The Atchison, Topeka, & Santa Fe Railway Company, the only other defendant ( the appellee) was served through one of its officers in the city of New York. It thereupon appeared specially and 'for the single and sole purpose of making a motion to set aside the service of the subpoena and dismiss the bill of complaint as to it for want of jurisdiction over the person of said defendant.' And subsequently it moved to dismiss on two grounds: 1. That as its residence was in Kansas, it could not be sued outside of the district of which it was a resident without its consent; and that as Male, the complainant, was only colorably joined as a complainant, the real party being Chapin, for whom Male assumed to act as trustee, and who was a citizen and resident of Connecticut, there was no jurisdiction over the cause, as the suit was brought in the district of the residence of neither of the real parties; and, 2, that as the complainant sought to enforce a liability on the bonds of the Atlantic & Pacific Railroad Company, a corporation created by an act of Congress, involving an inherently Federal question, there was no jurisdiction in the court over the 
+
+[240 U.S. 97, 101]
+ 
+ defendant, because, under such circumstances, it was entitled to be sued in the court of the district of its residence, and could not without its consent be impleaded in the district of the residence of the plaintiff, even if Male was treated as the real plaintiff, and entitled otherwise to sue in the southern district of New York. As stated in the certificate of the court below, the judgment of dismissal for want of jurisdiction was based upon both of the grounds; that is, the want of authority to sue in the southern district of New York because that was the district of the residence of neither of the parties, and because, owing to the Federal question, the defendant was entitled to be sued in the district of its residence.
+ It is not disputable that, in so far as the contentions as to jurisdiction depended alone upon the right to sue because of the district in which the parties resided, they did not present questions of inherent Federal jurisdiction. We say this because controversies as to such subjects concern a personal privilege susceptible of being waived, which would not be the case if they involved contentions which were intrinsically and necessarily Federal. St. Louis & S. F. R. Co. v. McBride, 
+141 U.S. 127
+, 35 L. ed. 659, 11 Sup. Ct. Rep. 982; Ex parte Wisner, 
+203 U.S. 449
+, 51 L. ed. 264, 27 Sup. Ct. Rep. 150; Re Moore, 
+209 U.S. 490
+, 52 L. ed. 904, 28 Sup. Ct. Rep. 585, 706, 14 Ann. Cas. 1164; Western Loan & Sav. Co. v. Butte & B. Min. Co. 
+210 U.S. 368
+, 52 L. ed. 1101, 28 Sup. Ct. Rep. 720. But while this is the case, it is yet also true that questions of jurisdiction depending upon controversies as to the district of residence, where the statutory rights in that regard have not been waived, when decided below, are questions of Federal jurisdiction, susceptible of being brought here by direct appeal under the provisions of  238 of the Judicial Code [36 Stat. at L. 1157, chap. 231, Comp. Stat. 1913,  1215]. Davidson Bros. Marble Co. v. United States, 
+213 U.S. 10
+, 53 L. ed. 675, 29 Sup. Ct. Rep. 324; United States v. Congress Constr. Co. 
+222 U.S. 199
+, 56 L. ed. 163, 32 Sup. Ct. Rep. 44.
+ Our power to review thus being settled, the only question is, Did the court err in holding that, as a Federal court, within the meaning of the statute, it had no authority under the circumstances to entertain the cause? In 
+
+[240 U.S. 97, 102]
+ 
+ solving this issue, without expressing any opinion as to the want of jurisdiction based upon the contention that Male, the complainant, had no real, but only a colorable and fictitious, interest, and hence that the suit was brought neither in the district of the residence of the complainant, nor that of the defendant, and confining our attention to the ruling that there was a want of power to entertain the cause in any other than the district of the residence of the defendant, because of the inherently Federal question presented, we think that the refusal to take jurisdiction was clearly right and should be affirmed. Undoubtedly the asserted right to a judgment on the bonds of the Atlantic & Pacific Railroad Company, a corporation created by an act of Congress, involved an inherently Federal question. Osborn v. Bank of United States, 9 Wheat. 738, 6 L. ed. 204; Washington & I. R. Co. v. Coeur d'Alene R. & Nav. Co. 
+160 U.S. 77
+, 40 L. ed. 346, 10 Sup. Ct. Rep. 231; Re Dunn, 
+212 U.S. 374
+, 53 L. ed. 558, 29 Sup. Ct. Rep. 299; Texas & P. R. Co. v. Hill, 
+237 U.S. 208
+, 59 L. ed. 918, 35 Sup. Ct. Rep. 575. This being true, it is also indisputable that the defendant was entitled to be sued in the district of its residence, and was not, without its consent, liable to be sued within the district of the residence of the complainant. Macon Grocery Co. v. Atlantic Coast Line R. Co. 
+215 U.S. 501
+, 54 L. ed. 300, 30 Sup. Ct. Rep. 184;  51, Judicial Code [36 Stat. at L. 1101, chap. 231, Comp. Stat. 1913 ,  1033].
+ As it follows that no error was committed by the court below in holding that it was without power to exercise jurisdiction of the cause, its decree must be and it is affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Act March 3, 1911, c. 231, 36 Stat. 1157 (Comp. St. 1913,  1215). 
+[
+Footnote 2
+] Comp. St. 1913,  1033. 
+
+
+
+

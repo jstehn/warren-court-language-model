@@ -1,0 +1,75 @@
+Description: BURTON v. NEW YORK CENT & H R R CO , 245 U.S. 315 (1917)
+Date: 1917-12-10 00:00:00
+Docket: 71
+Opinion
+
+
+United States Supreme Court
+BURTON v. NEW YORK CENT & H R R. CO.(1917)
+No. 71
+Argued: November 21, 1917Decided: December 10, 1917
+
+
+
+ Mr. William F. Connell, of Brooklyn, N. Y., for plaintiffs in error.
+ Mr. Robert Kutschback and Mr. Charles C. Paulding, both of New York City, for defendant in error. 
+
+[245 U.S. 315, 316]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ These actions, which were tried together in the Supreme Court of New York and argued together here, arise out of the same facts and involve the same question of law. The plaintiffs, mother and daughter, both residents of Pennsylvania, occupied the same berth in a Pullman car while traveling from their home to New York City. At Syracuse, N. Y., police officers of that city entered the car, arrested the plaintiffs, and, at the next station, removed them from the train. The officers making the arrest acted without a warrant, upon telegraphic orders from the police department of Rochester, n. Y., in the belief that one of the plaintiffs was the woman implicated in atrocious murders which had recently been committed in Indiana. Investigation soon disclosed that this belief was unfounded; and they were promptly discharged from custody. These suits were then brought against the defendant to recover damages for the annoyance and indignities suffered. Plaintiffs contended that defendant had an affirmative duty to protect them as passengers from a wrongful arrest, and had failed to perform it. The trial court refused to permit plaintiffs to go to the jury and dismissed the complaints. Exceptions to these orders were overruled by the Appellate Division (147 App. Div. 557, 132 N. Y. Supp. 628); the judgments entered for defendant were affirmed by the Court of Appeals (210 N. Y. 567, 568, 104 N. E. 1127); and the cases come here on writs of error.
+ Plaintiffs duly claimed that they had been denied rights secured by article IV, section 2, subdivision 2, of the federal Constitution. 
+1
+ The contention is that by reason of this* 
+
+[245 U.S. 315, 317]
+ 
+ clause of the Constitution they could not legally be arrested in New York for a crime committed in another state, except upon compliance with the provisions of section 5278 of the Revised Statutes2 of the United States ( Comp. St. 1916,  10126); that such being the law defendant's representatives were bound to know it and to protect them, its passengers, from arrest, unless all steps had been taken which would have justified their rendition upon application of another state. But these provisions of the Constitution and statutes have no application here. They deal merely with the conditions under which one state may demand rendition from another and the alleged fugitive may resist the latter's complying with the demand. 
+3
+ Here no demand had been made upon the executive of New York. Proceedings for 
+
+[245 U.S. 315, 318]
+ 
+ rendition had not even been initiated. And there was no attempt at removal from the state. The arrest, so far as appears, was made by the New York police department of its own initiative.
+ These provisions of the Constitution and federal statutes do not deal with arrest in advance of a requisition. They do not limit the power of a state to arrest, within its borders, a citizen of another state for a crime committed elsewhere; not do they prescribe the manner in which such arrest may be made. These are matters left wholly to the individual states. Whether the asylum state shall make an arrest in advance of requisition, and, if so, whether it may be made without a warrant, are matters which each state decides for itself. Such has been the uniform practice, sanctioned by a long line of decisions and regulated by legislation in many of the states. 
+4
+ The alleged federal right which plaintiffs assert is not immunity from arrest without a warrant; it is immunity from arrest 
+
+[245 U.S. 315, 319]
+ 
+ until after requisition granted. The Constitution grants no such immunity. To restrict the right of arrest as claimed would rob interstate rendition of much of its efficacy. As no federal right of plaintiffs was denied, the judgments must be
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Article IV, Sec. 2, subdivision 2:
+'A person charged in any state with treason, felony, or other crime, who shall flee from justice, and be found in another state, shall on demand of the executive authority of the state from which he fled, be delivered up to be removed to the state having jurisdiction of the crime.' 
+
+
+[
+Footnote 2
+] Rev. Stats. Sec. 5278 (Act of Feb. 12, 1793, Sec. 1, 1 Stat. 302):
+'Whenever the executive authority of any state or territory demands any person as a fugitive from justice, of the executive authority of any state or territory to which such person has fled, and produces a copy of an indictment found or an affidavit made before a magistrate of any state or territory, charging the person demanded with having committed treason, felony, or [any] other crime, certified as authentic by the Governor or chief magistrate of the state or territory from whence the person so charged has fled, it shall be the duty of the executive authority of the state or territory to which such person has fled to cause him to be arrested and secured, and to cause notice of the arrest to be given to the executive authority making such demand, or to the agent of such authority ... to receive the fugitive, and to cause the fugitive to be delivered to such agent when he shall appear.' 
+
+[
+Footnote 3
+] The provisions are so narrow in scope, that if the removal is actually effected without the interposition of the state's executives- though it be by kidnapping and breach of the peace-the federal law affords no redress, and interposes no obstacle to the prosecution of the alleged fugitive by the state which has by wrongful act acquired jurisdiction over him. Mahon v. Justice, 
+127 U.S. 700
+, 8 Sup. Ct. 1204. See, also, Cook v. Hart, 
+146 U.S. 183
+, 13 Sup. Ct. 40; Pettibone v. Nichols, 
+203 U.S. 192
+, 27 Sup. Ct. 111, 7 Ann. Cas. 1047; Key v. Illinois, 
+119 U.S. 436
+, 7 Sup. Ct. 225. 
+
+[
+Footnote 4
+] The decisions appear to be uniform that at common law arrest in advance of requisition is legal. People v. Schenck, 2 Johns. (N. Y.) 479 ( 1807); Simmons v. Com., 5 Bin. (Pa.) 617 (1813); People v. Goodhue, 2 John. Ch. (N. Y.) 198 (1816); Com. v. Deacon, 2 Wheeler Cr. Cas. (N. Y.) 1, 17 ( 1823); State v. Anderson, 1 Hill (S. C.) 327, 350-8 (1833); State v. Loper, Ga. Dec. 33, pt. 2 (1842); State v. Buzine, 4 Har. (Del.) 572 (1846); In the Matter of Fetter, 23 N. J. Law, 311, 57 Am. Dec. 382 (1852); Morrell v. Quarles, 35 Ala. 544 (1860); Ex parte Romanes, 1 Utah, 23 (1876); Simmons v. Van Dyke, 138 Ind. 380, 37 N. E. 973, 26 L. R. A. 33, 46 Am. St. Rep. 411 (1894); State v. Taylor, 70 Vt. 1, 4, 39 Atl. 447, 42 L. R. A. 673, 67 Am. St. Rep. 648 (1896). But some deny that it can be made without a warrant even in case of a felony. Botts v. Williams, 17 B. Mon. (Ky.) 687 ( 1857). The right of arrest and detention in advance of requisition is in many states regulated by statute. Ex parte Rosenblat, 51 Cal. 285; Wells v. Johnston, 52 La. Ann. 713, 27 South. 185; Ex parte Lorraine, 16 Nev. 63; State v. Shelton, 79 N. C. 605, 608; Ex parte Ammons, 34 Ohio St. 518; State v. Whittle, 59 S. C. 297, 37 S. E. 923. See Moore on Extraditions and Interstate Rendition, Appendix II. And under the statutes of some states, arrest cannot be made until after proceedings charging the person have been had in the state where the crime is alleged to have been committed. State v. Hufford, 28 Iowa, 391, 395. 
+
+
+
+

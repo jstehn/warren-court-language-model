@@ -1,0 +1,83 @@
+Description: DUGAN v. U.S. , 16 U.S. 172 (1818)
+Date: 1818-02-19 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+DUGAN v. U.S.(1818)
+
+Argued: Decided: February 19, 1818
+
+
+ By the special verdict in this cause, it appeared, that on the 22d of December, 1801, Aquila Brown at Baltimore, drew a bill of exchange on Messrs. Van Staphorst & Co. at Amsterdam, for 60,000 guilders, payable at 60 days sight, to the order of James Clarke, the defendants' testator. James Clarke endorsed the bill to 
+
+[16 U.S. 172, 174]
+ 
+ Messrs. Brown & Hackman, who afterwards endorsed it to Beale Owings, who endorsed the same to Thomas T. Tucker, Esq. treasurer of the United States, or order, and delivered it to him as treasurer as aforesaid, who received it in that capacity, and on account of the United States. It further appeared, that this bill had been purchased with money belonging to the United States, and under the order, and by an agent of the then secretary of the treasury of the United States, for the purpose of remitting the same to Europe, for the government of the United States, who, in ordering the purchase of this bill acted as one of the commissioners of the sinking fund, and as agent for that board. The bill was afterwards endorsed to Messrs. Wilhem & Jan Willink & N. & J. & R. Van Staphorst, by Thomas Tucker, treasurer of the United States, and appears by an endorsement thereon to have been registered by the proper officer, at the treasury of the United States, on the 28th of December 1801, before it was sent to Europe. The bill having been regularly presented for acceptance by the last endorsees to the drawees, who protested for non-acceptance. It was afterwards protested for non-payment, and then returned by them to the secretary of the treasury of the United States, for and on their behalf, who directed this action to be brought. Of these protests due notice was given to the drawer of the bill.
+ On this state of facts, the circuit court rendered judgment for the United States, to reverse which, this writ of error was brought. 
+
+[16 U.S. 172, 175]
+ 
+
+Feb. 12th.
+ Mr. Winder and Mr. D. B. Ogden, for the plaintiffs in error, argued, 1. That the finding of the jury that Tucker endorsed the bill to Messrs. Willinks and Van Staphorst, which endorsement was filled up at the time by Tucker, and so remained at the trial and judgment below, showed the legal title to this bill out of the United States, and defeated their right to maintain the action. The transfer to the last endorsees being in full, a recovery could not be had in the name of the United States, without producing from the endorsees a receipt or re-endorsement of the bill; and the endorsement not being in blank could not be struck out at the trial, so that the court and jury were bound to believe that the title was not in the United States, but in the person to whom Tucker had endorsed the bill. If a bill be endorsed in blank, and the endorsee fills up the blank endorsement, making it payable to himself, the action cannot be brought in the name of the endorser, which, otherwise, it might.a Every endorsement subsequent to that, to the holder or plaintiff, must be struck out of the bill, before or at the trial, in order to render the evidence correspondent to the declaration.b Value received is implied in every bill or endorsement, and a transfer by endorsement or delivery, vests in the assignee a right of action on the bill against all the preceding parties to it. An endorser having paid a bill must, when he sues the acceptor, drawer or preceding endorser, prove that it was returned to him, and he paid it.c 
+
+[16 U.S. 172, 176]
+ 
+ The special verdict does not find that the endorsement to Willinks, &c. was as agents; but that by the endorsement the contents of the bill were directed to be paid to them. The finding that the bill was afterwards returned by them to the secretary of the treasury of the United States, for and on behalf of the United States, is not finding that they were agents; nor can the court infer it: and if they did, still the outstanding endorsement shows the legal title in the last endorsee. It has been determined by the court that the mere possession of a promissory note by an endorsee, who had endorsed it to another, is not sufficient evidence of his right of action against his endorser, without a reassignment or receipt from the last endorsee.d 2. The United States cannot be the endorsees of a bill so as to entitle them to bring an action on it in their own name. It is essential to a bill of exchange that it should be negotiable. The government of the United States, as such, are incapable of endorsing a bill; of receiving and giving notice of non-acceptance and non- payment. It is essential to the very nature of this species of instruments that all the parties should be compelled to respond according to the several liabilities they may contract in the course of the negotiation. But the United States cannot be sued, and, consequently, cannot be made answerable as the drawers or endorsers of a bill. The national legislature is, probably, competent to provide for the case, and to designate some public officer who shall be authorized to negotiate 
+
+[16 U.S. 172, 177]
+ 
+ bills for the United States. But until some statutory provision on the subject is made, the existence of such an authority in any particular officer of the government cannot be inferred. 3. But even supposing that any endorsement whatever can vest the legal title to a bill of exchange in the United States, so as to render them capable of maintaining an action on it in their own name, the endorsement to Tucker under the circumstances of this case, did not vest such a title in them. The treasurer of the United States has no authority, ex officio, to draw, or endorse, or otherwise negotiate bills. The only officers of the government who possess the power of drawing bills are the commissioners of the Sinking Fund. To them it is expressly given by law. But a power to draw or endorse bills as an agent cannot be delegated to another, unless the power of substitution be expressly given.e Besides, the agent constituted by the commissioners was the secretary of the treasury, who employed, not Tucker, but another person, to purchase the bill. Where a bill is payable to A. for the use of B., the latter has only an equitable, not a legal, interest. The right of assignment is in the former only.f Here the action ought to have been brought in the name of the trustee, and not of the cestui que trust.
+ The Attorney General, contra, contended, that the position on the other side as to agency in the negotiation of bills was not law. An action could not be 
+
+[16 U.S. 172, 178]
+ 
+ maintained in the name of Tucker for want of interest in him. According to the doctrine on the other side, he alone is suable, as well as empowered to sue. But all the authorities show that an agent contracting on the behalf of government is not personally liable:g and the other alternative of the proposition, that he is personally capable of maintaining an action, cannot be supported. A person may become a party to a bill, not only by his own immediate act, but by procuration; by the act of his attorney or agent: and all persons may be agents for this purpose, whether capable of contracting on their own account, so as to bind themselves, or not.h An agent of the government who draws or endorses a bill will not be personally bound, even if he draws or endorses in his own name, without stating that he acts as agent.i But here Tucker subscribed the style of his office. It is sufficient to declare on a bill of exchange according to the legal intendment and effect, and an averment that the endorsement was to the party interested is satisfied by showing an endorsement to his agent.j The United States, though not natural persons engaged in commerce, may be parties to a bill of exchange. The United States are a body politic and corporate; and it has 
+
+[16 U.S. 172, 179]
+ 
+ long since ceased to be necessary in a declaration on a bill of exchange to state the custom of merchants, and that the parties to it were persons within the customs. Consequently, they have the same right to sue on a bill as any other persons; and that they are not reciprocally liable to be sued, is an attribute of sovereignty. Individuals contracting with them rely on their dignity and justice. But the power of suing on their part is essential to the collection of the public revinue, to the support of government, and to the payment of the public debts.
+ Feb. 19th.
+
+ Mr. Justice LIVINGSTON delivered the opinion of the court, and after stating the facts, proceeded as follows:
+ The first question which will be disposed of, although not the first in the order of argument, will be, whether the endorsement of this bill to Mr. Tucker, under the peculiar circumstances attending the transaction did not pass such an interest to the United States, as to enable them to sue in their own name. In deciding this point, it will be taken for granted, that no doubt can arise on the special verdict as to the party really interested in this bill. It was purchased with the money of the United States. It was endorsed, to their treasurer; it was registered at their treasury; it was forwarded by their secretary of the treasury, to whom it was returned, after it had been dishonoured, for and on behalf, as the jury expressly find, of the United States. Indeed, without denying the bill to be the property of the United 
+
+[16 U.S. 172, 180]
+ 
+ States it is supposed that the action should have been in the name of Mr. Tucker, their treasurer, and not in the name of the cestuy que trust. If it be admitted, as it must be, that a party may in some cases declare according to the legal intendment of an instrument, it is not easy to conceive a case where such an intendment can be stronger, than in the case before the court, but it is supposed that before any such intendment can be made, it must appear that Mr. Tucker acted under some law, and that his conduct throughout comported with his duties as therein prescribed. It is sufficient for the present purpose that he appears to have acted in his official character, and in conjunction with other officers of the treasury. The court is not bound to presume that he acted otherwise than according to law, or those rules which had been established by the proper departments of government for the transaction of business of this nature. If it be generally true, that when a bill is endorsed to the agent of another for the use of his principal, an action cannot be maintained, in the name of such principal (on which point no opinion is given,) the government should form an exception to such rule, and the U. States be permitted to sue in their own name, whenever it appears, not only on the face of the instrument, but from all the evidence, that they alone were interested in the subject matter of the controversy. There is a fitness that the public by its own officers should conduct all actions in which it is interested, and in its own name; and the inconveniences to which individuals may be exposed in this way, if any, are light, when weighed against 
+
+[16 U.S. 172, 181]
+ 
+ those which would result from its being always forced to bring an action in the name of an agent. Not only the death or bankruptcy of an agent may create difficulties, but set-offs may be interposed against the individual who is plaintiff, unless the court will take notice of the interest of the United States; and if they can do this to prevent a set-off, which courts of law have done, why not at once permit an action to be instituted in the name of the United States? An intimation was thrown out that the United States had no right to sue in any case, without an act of congress for the purpose. On this point the court entertains no doubt. In all cases of contract with the United States, they must have a right to enforce the performance of such contract, or to recover damages for their violation, by actions in their own name, unless a different mode of suit be prescribed by law, which is not pretended to be the case here. It would be strange to deny to them a right which is secured to every citizen of the United States.
+ It is next said by the plaintiff in error, that if the endorsement to Mr. Tucker, as treasurer of the United States, passed such an interest to the latter, as to enable them to sue in their own name, yet such title was devested by Mr. Tucker's endorsing the bill to the Messrs. Willinks and Van Staphorst, which endorsement appeared on the bill at the trial, and is still on it.
+ The argument on this point is, that the transfer to the last endorsees being in full, a recovery cannot be had in the name of the United States, without producing from them a receipt, or a re-indorsement of 
+
+[16 U.S. 172, 182]
+ 
+ the bill, and that this endorsment not being in blank could not be obliterated at the trial, so that the court and jury were bound to believe, that the title to this bill was not in the United States but in the gentleman to whom Mr. Tucker had endorsed it.
+ The mere returning of this bill, with the protest for non-acceptance and non-payment by the Messrs. Willinks and Van Staphorst to the Secretary of the Treasury of the United States, for their account, is presumptive evidence of the former having acted only as agents or as bankers of the United States. When that is not the case, it is not usual to send a bill back to the last endorser, but to some third person, who may give notice of its being dishonoured and apply for payment to such endorser, as well as to every other party to the bill. In the case of an agency, then so fully established, it would be vain to expect either a receipt or a re- endorsement of the bill. The first could not be given consistent with the truth of the fact, and the latter might well be refused by a cautious person who had no interest whatever in the transaction. In such case, therefore, a court may well say that all the title which the last endorsees ever had in the bill, which was a mere right to collect it for the United States, was devested by the single act of returning it to the party of whom it was received. But if this agency in the Messrs. Willinks and Van Stophorst were not established, the opinion of the court would be the same. After an examination of 
+
+[16 U.S. 172, 183]
+ 
+ the cases on this subject, (which cannot, all of them, be reconciled,) the court is of opinion, that if any person who endorses a bill of exchange to another, whether for value, or for the purpose of collection, shall come to the possession thereof again, he shall be regarded, unless the contrary appear in evidence, as the bona fide holder and proprietor of such bill, and shall be entitled to recover, notwithstanding there may be on it one or more endorsements in full, subsequent to the one to him, without producing any receipt or endorsement back from either of such endorsees, whose names he may strike from the bill, or not, as he may think proper.
+ Judgment affirmed. 
+
+Footnotes
+ a Chitty on Bills, 148. American ed. of 1817.
+ b Chitty on Bills, 378. American ed. of 1817.
+ c Mendez v. Cameron, 1 Ld. Raym. 742.
+ d Welch v. Lindo, 7 Cranch, 159.
+ e Chitty on Bills, 39. American ed. of 1817.
+ f Id. 139. Price v. Stephens, 3 Mass. Rep. 225.
+
+ g Macbeth v. Haldimand, 1 T. R. 172. Unwin v. Wolseley, Id. 674. Myrtle v. Beaver, 1 East, 135. Rice v. Chute, Id. 579. Hodgson v. Dexter, 1 Cranch, 363. Jones v. Le Tombe, 3 Dall. 384. Brown v. Austin, 1 Mass. Rep. 208. Sheffield v. Watson, 3 Caines' Rep. 69. Freemen v. Otis, 9 Mass. Rep. 272.
+ h Chitty on Bills, 34. Am. ed. of 1817.
+ i Id. 40.
+ j Id. 365. 367. App. 528. 539.
+
+
+
+
+

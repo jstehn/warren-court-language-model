@@ -1,0 +1,170 @@
+Description: CANADA MALTING CO. v. PATERSON STEAMSHIPS , 285 U.S. 413 (1932)
+Date: 1932-04-11 00:00:00
+Docket: 487
+Opinion
+
+
+United States Supreme Court
+CANADA MALTING CO. v. PATERSON STEAMSHIPS(1932)
+No. 487
+Argued: February 25, 1932Decided: April 11, 1932
+
+
+
+
+[285 U.S. 413, 414]
+ 
+ Messrs. D. Roger Englar and Henry J. Bigham, both of New York City, for petitioners.
+
+
+[285 U.S. 413, 417]
+ 
+ Mr. Ray M. Stanley, of Buffalo, N. Y., for respondent.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ These three libels in admiralty in personam were brought in the federal court for western New York, by owners of cargo laden on the steamer Yorkton to recover for loss resulting from the sinking of that vessel in a collision with respondent's steamer Mantadoc, in Lake Superior, on the American side of the international boundary line. The respondent moved, in each case, that the District Court exercise its discretion to decline jurisdiction and dismiss the libels on the ground that all the parties were citizens of Canada, and that the controversy concerned 'matters ... properly the subjects of hearing and determination' by the Canadian courts. The motions were granted (49 F.(2d) 802, 804), and the decrees of the District Court were affirmed by the Circuit Court of Appeals for the Second Circuit (51 F.(2d) 1007). This court granted certiorari, 
+284 
+U.S. 612
+, 52 S. Ct. 131, 76 L. Ed. -.
+ Shortly after the collision, the Wreck Commissioner of Canada held a formal investigation, as required by law, respecting the circumstances of the collision, and determined that the masters of both vessels were at fault. The respondent then instituted in the admiralty court of Canada a proceeding for the judicial determination of the liability as between the colliding vessels and their owners. 
+
+[285 U.S. 413, 418]
+ 
+ The libelants' motive for invoking the jurisdiction of a court of the United States, instead of that of the Canadian court in which that proceeding was pending, appears in affidavits filed with the exceptions to the libel. Under the Canadian law, it is stated, if both colliding vessels were at fault each vessel would be liable for not more than half of the loss; and the salvaged value of the Yorkton might not suffice to pay its share. See The Milan, Lush. Adm. 401. Under our law the innocent cargo owner can recover full damages from the noncarrying vessel. The New York, 
+175 
+U.S. 187, 209
+, 210 S., 20 S. Ct. 67.
+ The libelants concede, as they must, that in a suit in admiralty between foreigners it is ordinarily within the discretion of the District Court to refuse to retain jurisdiction, and that the exercise of its discretion will not be disturbed unless abused. Charter Shipping Co. v. Bowring, Jones & Tidy, Ltd., 
+281 
+U.S. 515, 517
+, 50 S. Ct. 400. Compare Watts, Watts & Co. v. Unione Austriaca di Navigazione, 
+248 
+U.S. 9
+, 39 S. Ct. 1, 3 A. L. R. 323; Langnes v. Green, 
+282 
+U.S. 531, 544
+, 51 S. Ct. 243. They claim, however, that the rule is not applicable here, since the cause of action arose within the territorial limits of the United States; and, moreover, that if the District Court had discretion, the decrees should be reversed because, on the undisputed facts, it was an abuse of discretion to decline jurisdiction. We are of opinion that neither claim is well founded.
+ First. The contention that the jurisdiction was obligatory rests upon the fact that the collision occurred within the territorial waters of the United States. The argument is that a cause of action arising from a collision occurring on territorial waters of the United States arises out of its laws, since within its territory there can be no other law, Smith v. Condry, 1 How. 28, 33; Slater v. Mexican National R. Co., 
+194 
+U.S. 120, 126
+, 24 S. Ct. 581; New York Central R. Co. v. Chisholm, 
+268 
+U.S. 29, 32
+, 45 S. Ct. 402, 38 A. L. R. 1048; that the Constitution, art. 3,  2, cl. 1, extends the judicial 
+
+[285 U.S. 413, 419]
+ 
+ power to 'all Cases of admiralty and maritime Jurisdiction'; that section 24 of the Judicial Code (28 USCA  41) confers upon the District Court jurisdiction 'of all civil causes of admiralty and maritime jurisdiction'; and that by vesting jurisdiction in that court, Congress imposed a duty upon it to exercise the jurisdiction. Cohens v. Virginia, 6 Wheat. 264, 404; McClellan v. Carland, 
+217 
+U.S. 268, 281
+, 30 S. Ct. 501; Second Employers' Liability Case, 
+223 
+U.S. 1, 58
+, 59 S., 32 S. Ct. 169, 38 L. R. A. (N. S.) 44. In support of the argument that there is no power to decline jurisdiction in cases where the cause of action arose within the United States, the libelants urge the statement in The Belgenland, 
+114 
+U.S. 355, 365
+, 5 S. Ct. 860, 865, that 'the courts will use a discretion about assuming jurisdiction of controversies between foreigners in cases arising beyond the territorial jurisdiction of the country to which the courts belong.'
+ The respondent insists that the doctrine of lex loci delicti has no application to cases of collision on the Great Lakes; that the Great Lakes and their connecting channels constitute public navigable waters, irrespective of the location of the international boundary, and possess all the characteristics of the high seas, The Eagle, 8 Wall. 15, 22; United States v. Rodgers, 
+150 
+U.S. 249, 256
+, 14 S. Ct. 109; Panama R. Co. v. Napier Shipping Co., 
+166 
+U.S. 280, 285
+, 17 S. Ct. 572; The New York, 
+175 
+U.S. 187
+, 20 S. Ct. 67; The Robert W. Parsons, 
+191 
+U.S. 17, 27
+, 24 S. Ct. 8; that in a case of collision on the high seas between two vessels of the same nationality, liability is governed by the law of the flag, The Scotland, 
+105 
+U.S. 24, 29
+, 30 S.; The Eagle Point (C. C. A.) 142 F. 453, 454; that the Canadian law would apply in the cases at bar; and that hence, the asserted ground for the District Court's retaining jurisdiction fails.
+ We have no occasion to inquire by what law the rights of the parties are governed, as we are of the opinion that, under any view of that question, it lay within the discretion of the District Court to decline to assume jurisdiction 
+
+[285 U.S. 413, 420]
+ 
+ over the controversy. The suggestion drawn from the language in The Belgenland, supra, that such discretion exists only 'in cases arising beyond the territorial jurisdiction of the country to which the courts belong,' is without support in either the earlier or the later decisions of this court. Nor is it justified by the language relied on, when that language is read in its context. The case of The Belgenland arose out of a collision on the high seas between foreign vessels of different nationalities; and the objection was raised that the courts of the United States were wholly without jurisdiction. Mr. Justice Bradley, speaking for the court, replied that jurisdiction in admiralty did exist over controversies between foreigners arising without the territorial waters of this country, but that the court in such a case would use its discretion in determining whether to exercise it. That the court had no intention of denying the existence of similar discretion, where the cause of action arose within the territorial waters of this country, is shown by its reference to the cases of The Maggie Hammond, 9 Wall. 435, 457, and Taylor v. Carryl, 20 How. 583, 611, in which no such limitation was expressed, and which the court described as 'accurately stating' the law. The doctrine of these earlier cases was recently reiterated by this court, in similar terms, in Langnes v. Green, 
+282 
+U.S. 531, 544
+, 51 S. Ct. 243, 248, where it was said: 'Admiralty courts ... have complete jurisdiction over suits of a maritime nature between foreigners. Nevertheless, 'the question is one of discretion in every case, and the court will not take cognizance of the case if justice would be as well done by remitting the parties to their home forum." See, also, Charter Shipping Co. v. Bowring, Jones & Tidy, Ltd ., 
+281 
+U.S. 515, 517
+, 50 S. Ct. 400.1 
+
+[285 U.S. 413, 421]
+ 
+ The rule recognizing an unqualified discretion to decline jurisdiction in suits in admiralty between foreigners appears to be supported by an unbroken line of decisions in the lower federal courts. 
+2
+ The question has most frequently been presented in suits by foreign seamen against masters or owners of foreign vessels, relating to claims for wages and like differences,3 or to claims of personal injury. 
+4
+ Although such cases are ordinarily decided ac- 
+
+[285 U.S. 413, 422]
+ 
+ cording to the foreign law, they often concern causes of action arising within the territorial jurisdiction of the United States. Compare Patterson v. Bark Eudora, 
+190 
+U.S. 169
+, 23 S. Ct. 821; The Kestor (D. C.) 110 F. 432, 450. Neither in these, nor in other cases, has the bare circumstance of where the cause of action arose been treated as determinative of the power of the court to exercise discretion whether to take jurisdiction. 
+ 5
+ 
+
+ Obviously, the proposition that a court having jurisdiction must exercise it, is not universally true; else the admiralty court could never decline jurisdiction on the ground that the litigation is between foreigners. Nor is it true of courts administering other systems of our law. 
+
+[285 U.S. 413, 423]
+ 
+ Courts of equity and of law also occasionally decline, in the interest of justice, to exercise jurisdiction, where the suit is between aliens or nonresidents, or where for kindred reasons the litigation can more appropriately be conducted in a foreign tribunal. 
+6
+ The decisions relied upon by libelants are inapposite for several reasons. They were not in admiralty causes; nor did they involve alien or nonresident parties. Compare Second Employers' Liability Case, 
+223 
+U.S. 1, 58
+, 59 S., 32 S. Ct. 169, 38 L. R. A. (N. S.) 44, with Douglas v. New York, New Haven & Hartford R. Co., 
+279 
+U.S. 377
+, 49 S. Ct. 355. The cases of Cohens v. Virginia, 6 Wheat. 264, 404, and McClellan v. Carland, 
+217 
+U.S. 268, 281
+, 30 S. Ct. 501, denied the right to abdicate to state courts jurisdiction which the Constitution in positive terms intrusts to the federal judiciary.
+ Second. There is no basis for the contention that the District Court abused its discretion. All the parties were not only foreigners, but were citizens of Canada. Both the colliding vessels were registered under the laws of Canada, and each was owned by a Canadian corporation. The officers and the crew of each vessel-the material witnesses-were citizens and residents of that country, and so would not be available for compulsory attendance in the District Court. The cargo, in each case, was shipped under a Canadian bill of lading from one Canadian port to another. The collision occurred at a point where the inland waters narrowed to a neck, and the District Court concluded that the colliding vessels proceeded 
+
+[285 U.S. 413, 424]
+ 
+ in United States waters unintentionally. If the libelants are entitled to have applied the law of the United States in respect to the liability, the Canadian courts will, it must be assumed, give effect to it. The District Court embodied in the decrees an order that the respondent should appear and file security in any action which might be instituted by the petitioners in the admiralty courts of Canada, so that petitioners would not by dismissal of the libels lose the security gained by the foreign attachment. It is difficult to conceive of a state of facts more clearly justifying the refusal of a District Court to retain jurisdiction in a cause between foreigners.
+AFFIRMED.
+ Mr. Justice CARDOZO took no part in the consideration or decision of these cases. 
+
+Footnotes
+
+[
+Footnote 1
+] Compare Mason v. The Ship Blaireau, 2 Cranch. 240, 264; Ex parte Newman, 14 Wall. 152, 168, 169; Panama R. Co. v. Napier Shipping Co., 
+166 
+U.S. 280, 285
+, 17 S. Ct. 572. 
+
+[
+Footnote 2
+] See note 5, infra. See, also, One Hundred and Ninety-four Shawls, 1 Abb. Adm. 317, 321, Fed. Cas. No. 10,521; The Sailor's Bride, 1 Brown's Adm., 68, 70, Fed. Cas. No. 12,220; The Bee, 1 Ware 336, 339, Fed. Cas. No. 1,219; Muir v. The Brig Brisk, 4 Ben. 252, 254, Fed. Cas. No. 9,901; Thomassen v. Whitwell, 9 Ben. 113, Fed. Cas. No. 13,928; Boult v. Ship Naval Reserve (D. C.) 5 F. 209; The City of Carlisle (D. C.) 39 F. 807, 815, 5 L. R. A. 52; Goldman v. Furness, Withy & Co. (D. C.) 101 F. 467, 469; The Kaiser Wilhelm der Grosse (D. C.) 175 F. 215, 216, 217; The Iquitos (D. C.) 286 F. 383, 384; Danielsen v. Entre Rios Rys. Co. (D. C.) 22 F.(2d) 326, 327; The Canadian Commander (D. C.) 43 F.(2d) 857, 858. 
+[
+Footnote 3
+] Jurisdiction was declined in Willendson v. The Fo rso ket, 1 Pet. Adm. 197, Fed. Cas. No. 17,682; The Infanta, 1 Abb. Adm. 263, 268, 269, Fed. Cas. No. 7,030; The Ada, 2 Ware (Dav. 407) 408, Fed. Cas. No. 38; The Becherdass Ambaidass, 1 Lowell 569, Fed. Cas. No. 1,203; The Montapedia (D. C.) 14 F. 427; The Ucayali (D. C.) 164 F. 897, 900; The Albani (D. C.) 169 F. 220, 222.
+ In the following cases jurisdiction was taken, but the existence of discretion recognized: Thompson v. The Ship Catharina, 1 Pet. Adm. 104, Fed. Cas. No. 13,949; Weiberg v. The Brig St. Oloff, 2 Pet. Adm. 428, Fed. Cas. No. 17,357; Davis v. Leslie, 1 Abb. Adm. 123, 131, Fed. Cas. No. 3, 639; Bucker v. Klorkgeter, 1 Abb. Adm. 402, 405, 406, Fed. Cas. No. 2,083; The Pawashick, 2 Lowell 142, 151, Fed. Cas. No. 10,851; The Brig Napoleon, Olc. 208, 215, Fed. Cas. No. 10,015; The Bark Lilian M. Vigus, 10 Ben. 385, Fed. Cas. No. 8,346; The Amalia (D. C.) 3 F. 652, 653; The Salomoni (D. C.) 29 F. 534, 537; The Topsy (D. C.) 44 F. 631, 633, 635; The Sirius (D. C.) 47 F. 825, 827; The Karoo (D. C.) 49 F. 651; The Lady Furness (D. C.) 84 F. 679, 680; The Alnwick (D. C.) 132 F. 117, 120; The August Belmont (D. C.) 153 F. 639; The Sonderborg (C. C. A.) 47 F.(2d) 723, 725. 
+[
+Footnote 4
+] Jurisdiction was declined in The Carolina (D. C.) 14 F. 424; Camille v. Couch (D. C.) 40 F. 176; The Walter D. Wallet (D. C.) 66 F. 1011, 1013; The Lamington (D. C.) 87 F. 752, 757; The Knappingsborg (D. C.) 26 F.(2d) 935, 937. See, also, Bolden v. Jensen (D. C.) 70 F. 505, 509. Compare Bernhard v. Creene, 3 Sawy. 230, 234, Fed. Cas. No. 1,349; The Noddleburn (C. C.) 30 F. 142, 143; The Troop (D. C.) 118 F. 769, 772. 
+
+[
+Footnote 5
+] The only case supporting the position of the petitioners which has been called to our attention is The Apurimac (D. C.) 7 F.(2d) 741, 742, involving an action by a foreign seaman for injuries sustained on a foreign vessel lying in American waters. The expressions of the District Court in this case, however, were disapproved by the Circuit Court of Appeals for the Fourth Circuit, which affirmed the judgment on the ground that jurisdiction, although discretionary, had been properly taken. Heredia v. Davies (C. C. A.) 12 F.(2d) 500, 501.
+ In the Steamship Russia, 3 Ben. 471, 476-479, Fed. Cas. No. 12,168, the District Court for the Southern District of New York, took jurisdiction of a libel arising out of the collision of foreign vessels of different nationalities in New York Harbor, but expressly treated the question as one within its discretion. In The Bifrost (D. C.) 8 F.(2d) 361, 362, jurisdiction was declined in an action by foreign seamen for breach of contract in shipping articles, although it was urged that the articles were signed in this country and governed by its law. See, also, Fairgrieve v. Marine Ins. Co. (C. C. A.) 94 F. 686, 687; The Ester (D. C.) 190 F. 216, 221; Cunard S. S. Co. v. Smith (C. C. A.) 255 F. 846, 848, 849; The Eemdyjk (D. C.) 286 F. 385; The Seirstad (D. C.) 12 F.(2d) 133, 134; The Fredensbro (D. C.) 18 F.(2d) 983, 984; The Sneland I (D. C.) 19 F.(2d) 528, 529; The Falco (C. C. A.) 20 F.(2d) 362, 364. Compare Neptune Steam Nav. Co. v. Sullivan Timber Co. (D. C.) 37 F. 159. 
+
+[
+Footnote 6
+] Compare Davis v. Farmers' Co-operative Equity Co., 
+262 
+U.S. 312
+, 43 S. Ct. 556; Logan v. Bank of Scotland (1906) 1 K. B. 141; Socie te du Gaz de Paris v. Armateurs Francais (1926) Sess. Cas. (H. L.) 13. See, for collections of authorities, Paxton Blair, 'The Doctrine of Forum Non conveniens in Anglo-American Law,' 29 Col. L. Rev. 1; Roger S. Foster, 'Place of Trial in Civil Actions,' 43 Harv. L. Rev. 1217, 'Place of Trial-Interstate Application of Intrastate Methods of Adjustment,' 44 Id. 41; Note, 32 A. L. R. 6. 
+
+
+
+

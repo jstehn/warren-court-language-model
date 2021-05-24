@@ -1,0 +1,66 @@
+Description: KOMADA & CO v. US , 215 U.S. 392 (1910)
+Date: 1910-01-03 00:00:00
+Docket: 220
+Opinion
+
+
+United States Supreme Court
+KOMADA & CO. v. U S(1910)
+No. 220
+Argued: Decided: January 3, 1910
+
+
+
+ This case is before us on a writ of certiorari to the United States circuit court of appeals for the ninth circuit. The question is the proper classification, under the tariff act of July 24, 1897 (30 Stat. at L. 151, chap. 11, U. S. Comp. Stat. 1901, p. 1626), of a Japanese beverage Known as 'sake.' 'Sake' is not named in that act, but  7 (p. 205), frequently spoken of as 'the similitude section,' reads as follows:
+'That each and every imported article, not enumerated in this act, which is similar, either in material, quality, texture, or the use to which it may be applied, to any article enumerated in this act as chargeable with duty, shall pay the same rate of duty which is levied on the enumerated article which it most resembles in any of the particulars before mentioned; and if any nonenumerated article equally resembles two or more enumerated articles on which different rates of duty are chargeable, there shall be levied on such nonenumerated 
+
+[215 U.S. 392, 393]
+ 
+ article the same rate of duty as is chargeable on the article which it resembles, paying the highest rate of duty.'
+
+ In November, 1904, petitioner imported some sake at the port of San Francisco, and, following prior rulings, the collector, under the similitude section, held it similar to still wine containing more than 14 per of absolute alcohol, and dutiable accordingly at 50 cents per gallon, under paragraph 296 (p. 174). The petitioner protested and claimed that it was either a nonenumerated manufactured article, dutiable at 20 per cent ad valorem, under  6 (p. 205), or, by reason of similitude to ale, porter, or beer, at 20 cents per gallon under paragraph 297 (p. 174). Both the board of general appraisers and the circuit court sustained the protest, feeling themselves constrained by the decision of the dircuit court for the southern district of New York (Nishimiya v. United States, 131 Fed. 650), and that of the circuit court of appeals for the second circuit ( United States v. Nishimiya, 69 C. C. A. 588, 137 Fed. 396). On appeal, the United States circuit court of appeals for the ninth circuit reversed the decision of the circuit court and sustained the classification made by the collector.
+ Thomas Fitch, W. Wickham Smith, J. M. Thurston, Stanley Jackson, and J. J. Dunne for petitioner.
+
+
+[215 U.S. 392, 395]
+ 
+ Mr. J. C. McReynolds and Attorney General Wickersham for respondent.
+
+
+
+[215 U.S. 392, 396]
+ 
+
+ Mr. Justice Brewer delivered the opinion of the court:
+ Something can be said on both sides of the question of similarity, and, if the case turned simply upon that question, it might be difficult to reach a satisfactory conclusion. In such a case the construction given by the department charged with the execution of the tariff acts is entitled to great weight. As said by Mr. Justice McKenna, delivering the opinion of the court in United States v. Cerecedo Hermanos y Compania, 
+209 
+U.S. 337, 339
+, 52 S. L. ed. 821, 822, 28 Sup. Ct. Rep. 532, 533:
+'We have said that when the meaning of a statute is doubtful, great weight should be given to the construction placed upon it by the department charged with its execution. Robertson v. Downing, 
+127 U.S. 607
+, 32 L. ed. 269, 8 Sup. Ct. Rep. 1328; United States v. Healey, 
+160 U.S. 136
+, 16 Sup. Ct. Rep. 247. And we have decided that the re- enactment by Congress, without change, of a statute which had previously received long-continued executive construction, is an adoption by Congress of such construction. United States v. Falk & Bros. 
+204 
+U.S. 143, 152
+, 51 S. L. ed. 411, 414, 27 Sup. Ct. Rep. 191.'
+
+ In the decision of this case, Mr. Justice White and Mr. Justice Peckham concurred solely because of the prior administrative construction.
+ Prior to 1894, sake was classified by similitude to distilled liquor, and subjected to a duty of $2.50 per froof gallon, under paragraph 329, act 1890 (26 Stat. at L. 567, 589, chap. 1244), and $2, under paragraph 11, act 1883 (22 Stat. at L. 488, 494, chap. 121, U. S. Comp. Stat. 1901, p. 2247). 
+
+[215 U.S. 392, 397]
+ 
+ In July, 1894, Y. Woozens protested against this classification, claiming the liquor was dutiable under the act of 1890 by similitude to still wine. He was sustained by the board of general appraisers in opinion dated October 4, 1894 (T. D. 15,392, G. a. 2786). The Treasury Department acquiesced, and has acted accordingly until the present time; no protest against the practice was entered until March, 1902. Three years after the ruling in the Woozens case, Congress passed the tariff act of 1897, which in no way modified the provisions upon which the appraisers had previously based their decision. This in effect confirmed their action. In March, 1902, Hackfeld & Company, Honolulu, protested against the classification of 'sake' by similitude to still wine, but the prior ruling was sustained by the appraisers and the importer acquiesced in the decision. In the tariff act of 1909, sake is specially enumerated with still wine ( paragraph 307):
+'Still wines, including ginger wine or ginger cordial, vermuth, and rice wine or sake, and similar beverages not specially provided for in this section . . . if containing more than fourteen per centum of absolute alcohol, sixty cents per gallon.' 36 Stat. at L. 11, 40.*
+
+ In April, 1903, Nishimiya imported some sake at New York, and protested against the classification by similitude to still wine. The board of appraisers sustained the collector, but, on appeal to the circuit court for the southern district of New York, the circuit judge thought that sake was not sufficiently like either wine or beer to be classified by similitude, and held it to be a nonenumerated manufactured article. This conclusion was sustained by the circuit court of appeals for the second circuit. United States v. Nishimiya, supra.
+ Thus it appears that, prior to 1894, sake was classified by similitude to distilled liquor, and then, on a protest by an importer, it was classified by similitude to still wine, and that ruling has been followed from that time to the present, receiving in the meantime at least a qualified approval by
+ * U. S. Comp. St. Supp. 1909, p. 693. 
+
+[215 U.S. 392, 398]
+ 
+ Congress. It was accepted without challenge until 1902. Then, a protest against it having been overruled, it remained unchallenged for another year. After this, and in the latest tariff act, Congress has in terms put sake in the category with still wines.
+ Under these circumstances, we think the intent of Congress in respect to the classification of sake is clearly manifested, and the judgment of the Court of Appeals is affirmed. 
+
+
+

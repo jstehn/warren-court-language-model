@@ -1,0 +1,131 @@
+Description: WISNER, EX PARTE , 203 U.S. 449 (1906)
+Date: 1906-12-10 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+WISNER, EX PARTE(1906)
+
+Argued: Decided: December 10, 1906
+
+
+
+ Abram C. Wisner, a citizen of the state of Michigan, commenced an action at law, on February 17, A. D. 1906, in the circuit court in and for the city of St. Louis and state of Missouri, against John D. Beardsley, a citizen of the state of Louisiana, by filing a petition, together with an affidavit on which that court issued a writ of attachment, in the usual form, directed to the sheriff of St. Louis. The sheriff returned no property found, but that he had garnisheed the Mississippi Valley Trust Company, a corporation of Missouri, and also had served Beardsley with summons in the city of St. Louis.
+ Saturday, March 17, A. D. 1906, the garnishee answered, and on the same day Beardsley filed his petition to remove the action from the state court into the circuit court of the United States for the eastern division of the eastern district of Missouri, on the ground of diversity of citizenship, together 
+
+[203 U.S. 449, 450]
+ 
+ with the bond required in such case. An order of removal was thereupon entered by the state court and the transcript of record was filed in the circuit court of the United States.
+ Monday, March 19, Wisner moved to remand in these words:
+'Now at this day comes plaintiff, by his attorneys, Jones, Jones, & Hocker, and appearing specially for the purposes of this motion only, saving and reserving any and all objections which he has to the manifold imperfections in the mode, manner, and method of the removal papers, and expressly denying that this court has jurisdiction of this cause, or of the plaintiff therein, respectfully moves the court to remand this cause to the circuit court of the city of St. Louis, from whence it was removed, for the reason that this suit does not involve a controversy or dispute properly within the jurisdiction of this court, and that it appears upon the face of the record herein that the plaintiff is a citizen and resident of the state of Michigan and the defendant a citizen and resident of the state of Louisiana, and the cause is not one within the original jurisdiction of this court; hence this court cannot acquire jurisdiction by removal.'
+
+ The motion was heard and denied April 2, 1906, the circuit court referring to Foulk v. Gray, 120 Fed. 156, and Rome Petroleum & Iron Co. v. Hughes Specialty Well Drilling Co. 130 Fed. 585, as representing the different views of the courts below on the question involved.
+ On April 23, Wisner applied to this court for leave to file a petition for mandamus as well as a petition for prohibition; leave was granted, and rules entered, returnable May 14, 1906, and the cases submitted on the returns to the rules.
+ Messrs. J. J. Darlington, James C. Jones, H. S. Mecartney, G. G. B. Drummond, Oliver & Mecartney, and Jones, Jones, & Hocker for petitioner.
+
+
+[203 U.S. 449, 454]
+ 
+ Messrs. John M. Moore, Edward C. Eliot, and George H. Williams for respondent. 
+
+[203 U.S. 449, 455]
+ 
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ By article 3 of the Constitution the judicial power of the United States was 'vested in one Supreme Court, and in such inferior courts as the Congress may, from time to time, ordain and establish.'
+ And the judicial power was extended 'to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority; to all cases affecting ambassadors, other public ministers, and consuls; to all cases of admiralty and maritime jurisdiction; to controversies to which the United States shall be a party; to controversies between two or more states; between a state and citizens of another state; between citizens of different states; between citizens of the same state claiming lands under grants of different states, and between a state or the citizens thereof, and foreign states, citizens, or subjects.'
+ The Supreme Court alone possesses jurisdiction derived immediately from the Constitution, and of which the legislative power cannot deprive it (United States v. Hudson, 7 Cranch, 32, 3 L. ed. 259); but the jurisdiction of the circuit courts depends upon some act of Congress ( Turner v. Bank of North America, 4 Dall. 8, 10, 1 L. ed. 718, 719; McIntire v. Wood, 7 Cranch, 504, 506, 3 L. ed. 420, 421; Sheldon v. Sill, 8 How. 441, 448, 12 L. ed. 1147, 1150; Stevenson v. Fain, 
+195 
+U.S. 165, 167
+, 49 S. L. ed. 142, 143, 25 Sup. Ct. Rep. 6). In the latter case we said: 'The use of the word 'controversies' as in contradistinction to the word 'cases,' and the omission of the word 'all' in respect of controversies, left it to Congress to define the controversies over which the courts it was empowered to ordain and establish might exercise jurisdiction, and the manner in which it was to be done.'
+ The 1st section of the act of March 3, 1887 (24 Stat. at L. 552, chap. 373), as corrected by the act of August 13, 1888 (25 Stat. at L. 433, chap. 866), 
+
+[203 U.S. 449, 456]
+ 
+ amended  1, 2, and 3 of the act of Congress of March 3, 1875 (18 Stat. at L. 470, chap. 137, U. S. Comp. Stat. 1901, p. 508), as follows:
+'That the circuit courts of the United States shall have original cognizance, concurrent with the courts of the several states, of all suits of a civil nature, at common law or in equity, where the matter in dispute exceeds, exclusive of interest and costs, the sum or value of two thousand dollars, and arising under the Constitution or laws of the United States, or treaties made, or which shall be made, under their authority, or in which controversy the United States are plaintiffs or petitioners, or in which there shall be a controversy between citizens of different states, in which the matter in dispute exceeds, exclusive of interest and costs, the sum or value aforesaid; . . . But no person shall be arrested in one district for trial in another in any civil action before a circuit or district court; and no civil suit shall be brought before either of said courts against any person by any original process or proceeding in any other district than that whereof he is an inhabitant; but where the jurisdiction is founded only on the fact that the action is between citizens of different states, suit shall be brought only in the district of the residence of either the plaintiff or the defendant; . . .
+
+'Sec. 2. That any suit of a civil nature, at law or in equity, arising under the Constitution or laws of the United States, or treaties made, or which shall be made, under their authority, of which the circuit courts of the United States are given original jurisdiction by the preceding section, which may now be pending, or which may hereafter be brought, in any state court, may be removed by the defendant or defendants therein to the circuit court of the United States for the proper district. Any other suit of a civil nature, at law or in equity, of which the circuit courts of the United States are given jurisdiction by the preceding section and which are now pending, or which may hereafter be brought, in any state court, may be removed into the circuit court of the United States for the proper district by the defendant 
+
+[203 U.S. 449, 457]
+ 
+ or defendants therein, being nonresidents of that state. And when, in any suit mentioned in this section, there shall be a controversy which is wholly between citizens of different states, and which can be fully determined as between them, then either one or more of the defendants actually interested in such controversy may remove said suit into the circuit court of the United States for the proper district. And where a suit is now pending, or may be hereafter brought, in any state court, in which there is a controversy between a citizen of the state in which the suit is brought and a citizen of another state, any defendant, being such citizen of another state, may remove such suit into the circuit court of the United States for the proper district, at any time before the trial thereof, when it shall be made to appear to said circuit court that, from prejudice or local influence, he will not be able to obtain justice in such state court, . . .
+
+'Whenever any cause shall be removed from any state court into any circuit court of the United States, and the circuit court shall decide that the cause was improperly removed, and order the same to be remanded to the state court from whence it came, such remand shall be immediately carried into execution, and no appeal or writ of error from the decision of the circuit court so remanding such cause shall be allowed.'
+
+ Section 3, as amended, provided for petition and bond for 'the removal of such suit into the circuit court to be held in the district where such suit is pending.'
+ As it is the nonresident defendant alone who is authorized to remove, the circuit court for the proper district is evidently the circuit court of the district of the residence of the plaintiff.
+ And it is settled that no suit is removable under  2 unless it be one that plaintiff could have brought originally in the circuit court. Tennessee v. Union & Planters' Bank, 
+152 U.S. 454
+, 38 L. ed. 511, 14 Sup. Ct. Rep. 654; Mexican Nat. R. Co. v. Davidson, 
+157 U.S. 208
+, 39 L. ed. 675, 15 Sup. Ct. Rep. 563; Cochran v. Montgomery County, 
+199 U.S. 272
+, 50 L. ed. 188, 26 Sup. Ct. Rep. 58. 
+
+[203 U.S. 449, 458]
+ 
+ In Shaw v. Quincy Min. Co. (Ex parte Shaw) 
+145 
+U.S. 444, 446
+, 36 S. L. ed. 768, 770, 12 Sup. Ct. Rep. 935, 936, Mr. Justice Gray, speaking for the court, in disposing of the question whether, under  1, 'a corporation incorporated in one state of the Union, and having a usual place of business in another state in which it has not been incorporated, may be sued in a circuit court of the United States held in the latter state, by a citizen of a different state,' said:
+'This question, upon which there has been a diversity of opinion in the circuit courts, can be best determined by a review of the acts of Congress, and of the decisions of this court, regarding the original jurisdiction of the circuit courts of the United States over suits between citizens of different states.
+
+'In carrying out the provision of the Constitution which declares that the judicial power of the United States shall extend to controversies 'between citizens of different states,' Congress, by the judiciary act of September 24, 1789, chap. 20,  11, conferred jurisdiction on the circuit court of suits of a civil nature, at common law or in equity, 'between a citizen of the state where the suit is brought and a citizen of another state,' and provided that 'no civil suit shall be brought' 'against an inhabitant of the United States.' 'in any other district than that whereof he is an inhabitant, or in which he shall be found at the time of serving the writ.' 1 Stat. at L. 78, 79.'
+
+ And, after observations in relation to the use of the word 'inhabitant' in that act, and referring to the act of May 4, 1858 (11 Stat. at L. 272, chap. 27),  1, and the act of March 3, 1875 (18 Stat. at L. 470, chap. 137, U. S. Comp. Stat. 1901, p. 508),  1, Mr. Justice Gray thus continued:
+'The act of 1887, both in its original form, and as corrected in 1888, re-enacts the rule that no civil suit shall be brought against any person in any other district than that whereof he is an inhabitant, but omits the clause allowing a defendant to be sued in the district where he is found, and adds this clause: 'But where the jurisdiction [of either] is founded only on the fact that the action is between citizens of different states, suit shall be brought only in the district of the residence of 
+
+[203 U.S. 449, 459]
+ 
+ either the plaintiff or the defendant.' 24 Stat. at L. 552, chap. 373; 25 Stat. at L. 434, chap. 866, U. S. Comp. Stat. 1901, p. 508. As has been adjudged by this court, the last clause is by way of proviso to the next preceding clause, which forbids any suit to be brought in any other district than that whereof the defendant is an inhabitant; and the effect is that 'where the jurisdiction is founded upon any of the causes mentioned in this section, except the citizenship of the parties, it must be brought in the district of which the defendant is an inhabitant; but where the jurisdiction is founded solely upon the fact that the parties are citizens of different states, the suit may be brought in the district in which either the plaintiff or the defendant resides.' McCormick Harvesting Co. v. Walthers, 
+134 
+U.S. 41, 43
+, 33 S. L. ed. 833, 834, 10 Sup. Ct. Rep. 485. And the general object of this act, as appears upon its face, and as has been often declared by this court, is to contract, not to enlarge, the jurisdiction of the circuit courts of the United States. Smith v. Lyon, 
+133 
+U.S. 315, 320
+, 33 S. L. ed. 635, 637, 10 Sup. Ct. Rep. 303; Re Pennsylvania Co. 
+137 
+U.S. 451, 454
+, 34 S. L. ed. 738, 740, 11 Sup. Ct. Rep. 141; Fisk v. Henarie, 
+142 
+U.S. 459, 467
+, 35 S. L. ed. 1079, 1082, 12 Sup. Ct. Rep. 207.
+
+'As to natural persons, therefore, it cannot be doubted that the effect of this act, read in the light of earlier acts upon the same subject, and of the judicial construction thereof, is that the phrase 'district of the residence of' a person is equivalent to 'district whereof he is an inhabitant,' and cannot be construed as giving jurisdiction, by reason of citizenship, to a circuit court held in a state of which neither party is a citizen, but, on the contrary, restricts the jurisdiction to the district in which one of the parties resides, within the state of which he is a citizen; and that this act, therefore, having taken away the alternative, permitted in the earlier acts, of suing a person in the district 'in which he shall be found,' requires any suit, the jurisdiction of which is founded only on its being between citizens of different states, to be brought in the state of which one is a citizen, and in the district therein of which he is an inhabitant and resident.'
+
+ In short, the acts of 1887, 1888 restored the rule of 1789, as we stated in Cochran v. Montgomery County, supra. 
+
+[203 U.S. 449, 460]
+ 
+ In the present case neither of the parties was a citizen of the state of Missouri, in which state the suit was brought, and, therefore, it could not have been brought in the circuit court in the first instance.
+ Wisner did not, of choice, select the state court as the forum, since he could not have sued in the circuit court under the act, because neither he nor Beardsley was a citizen of Missouri. And the question of jurisdiction relates to the time of commencing the suit.
+ But it is contended that Beardsley was entitled to remove the case to the circuit court, and as, by his petition for removal, he waived the objection so far as he was personally concerned that he was not sued in his district, hence that the circuit court obtained jurisdiction over the suit. This does not follow, inasmuch as, in view of the intention of Congress by the act of 1887 to contract the jurisdiction of the circuit courts, and of the limitations imposed thereby, jurisdiction of the suit could not have obtained, even with the consent of both parties. As we have heretofore remarked: 'Jurisdiction as to the subject-matter may be limited in various ways as to civil and criminal cases; cases at common law or in equity or in admiralty; probate cases, or cases under special statutes; to particular classes of persons; to proceedings in particular modes; and so on.' Louisville Trust Co. v. Comingor, 
+184 
+U.S. 18, 25
+, 46 S. L. ed. 413, 416, 22 Sup. Ct. Rep. 293. In Central Trust Co. v. McGeorge, 
+151 U.S. 129
+, 38 L. ed. 98, 14 Sup. Ct. Rep. 286, it was assumed, however, that the requirement that no suit should be brought in any other district than that of the plaintiff or of the defendant might be waived, where neither resided therein, because, in that case, the nonresident plaintiff had sued in the circuit court and the nonresident defendant had answered on the merits, which showed the consent of both parties, and not unnaturally led to the result announced, while in this case there was no such consent. As was stated by Mr. Justice Brewer, in Kinney v. Columbia Sav. & L. Asso. 
+191 
+U.S. 78, 82
+, 48 S. L. ed. 103, 105, 24 Sup. Ct. Rep. 30, 32: 'A petition and bond for removal are in the nature of process. They 
+
+[203 U.S. 449, 461]
+ 
+ constitute the process by which the case is transferred from the state to the Federal court.' When, then, Beardsley filed his petition for removal, he sought affirmative relief in another district than his own. But plaintiff, in resisting the application, and moving to remand, denied the jurisdiction of the circuit court. In St. Louis & S. F. R. Co. v. McBride, 
+141 U.S. 127
+, 35 L. ed. 659, 11 Sup. Ct. Rep. 982, where the plaintiffs were citizens and residents of the western district of Arkansas, and commenced their action in the circuit court of the United States for the district, and the defendant was a corporation and citizen of the state of Missouri, it was held that, as the defendant appeared and pleaded to the merits, he thereby waived his right to challenge thereafter the jurisdiction of the court over him, on the ground that the suit had been brought in the wrong district. And there are many other cases to the same effect.
+ Our conclusion is that the case should have been remanded; and, as the circuit court had no jurisdiction to proceed, that mandamus is the proper remedy.
+ Mandamus awarded; petition for prohibition dismissed.
+ Mr. Justice Brewer concurred in the result. 
+
+Footnotes
+
+[
+Footnote 1
+] U. S. Comp. St. 1901, p. 508. 
+
+
+
+

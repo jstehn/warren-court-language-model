@@ -1,0 +1,53 @@
+Description: MCDONALD v. MABEE , 243 U.S. 90 (1917)
+Date: 1917-03-06 00:00:00
+Docket: 135
+Opinion
+
+
+United States Supreme Court
+MCDONALD v. MABEE(1917)
+No. 135
+Argued: Decided: March 6, 1917
+
+
+
+ Mr. Henry D. McDonald, in propria persona, and Mr. A. P. Park for plaintiff in error.
+ Mr. Joseph W. Bailey for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a suit upon a promissory note. The only defense now material is that the plaintiff had recovered a judg- 
+
+[243 U.S. 90, 91]
+ 
+ ment upon the same note in a previous suit in Texas which purported to bind the defendant personally as well as to foreclose a lien by which the note was secured. When the former suit was begun, the defendant, Mabee, was domiciled in Texas, but had left the state with intent to establish a home elsewhere, his family, however, still residing there. He subsequently returned to Texas for a short time and later established his domicil in Missouri. The only service upon him was by publication in a newspaper once a week for four successive weeks after his final departure from the state, and he did not appear in the suit. The supreme court of the state held that this satisfied the Texas statutes, and that the judgment was a good personal judgment, overruling the plaintiff's contention that to give it that effect was to deny the constitutional right to due process of law. -- Tex. --, 175 S. W. 676.
+ The foundation of jurisdiction is physical power, although in civilized times it is not necessary to maintain that power throughout proceedings properly begun, and although submission to the jurisdiction by appearance may take the place of service upon the person. Michigan Trust Co. v. Ferry, 
+228 
+U.S. 346, 353
+, 57 S. L. ed. 867, 874, 33 Sup. Ct. Rep. 550; Pennsylvania F. Ins. Co. v. Gold Issue Min. & Mill. Co. decided to-day [ 
+243 U.S. 93
+, 61 L. ed. 610, 37 Sup. Ct. Rep. 344]. No doubt there may be some extension of the means of acquiring jurisdiction beyond service or appearance, but the foundation should be borne in mind. Subject to its conception of sovereignty even the common law required a judgment not to be contrary to natural justice. Douglas v. Forrest, 4 Bing. 686, 700, 701, 130 Eng. Reprint, 933, 1 Moore & P. 663, 6 L. J. C. P. 157, 29 Revised Rep. 695; Becquet v. MacCarthy, 2 Barn. & Ad. 951, 959, 109 Eng. Reprint, 1396; Maubourquet v. Wyse, Ir. Rep. 1 C. L. 471, 481. And in states bound together by a Constitution and subject to the 14th Amendment, great caution should be used not to let fiction deny the fair play that can be secured only by a pretty close adhesion to fact. Baker v. Baker, E. & Co. Jan. 8, 1917 [
+242 U.S. 394
+, 61 L. ed. 386, 37 Sup. Ct. Rep. 152]. 
+
+[243 U.S. 90, 92]
+ 
+ There is no dispute that service by publication does not warrant a personal judgment against a nonresident. Pennoyer v. Neff, 
+95 U.S. 714
+, 24 L. ed. 565. Riverside & D. River Cotton Mills v. Menefee, 
+237 U.S. 189
+, 59 L. ed. 910, 35 Sup. Ct. Rep. 579. Some language of Pennoyer v. Neff would justify the extension of the same principle to absent parties, but we shall go no farther than the precise facts of this case require. When the former suit was begun, Mabee, although technically domiciled in Texas, had left the state, intending to establish his home elsewhere. Perhaps in view of his technical position and the actual presence of his family in the state, a summons left at his last and usual place of abode would have been enough. But it appears to us that an advertisement in a local newspaper is not sufficient notice to bind a person who has left a state, intending not to return. To dispense with personal service the substitute that is most likely to reach the defendant is the least that ought to be required if substantial justice is to be done. We repeat, also, that the ground for giving subsequent effect to a judgment is that the court rendering it had acquired power to carry it out; and that it is going to the extreme to hold such power gained even by service at the last and usual place of abode.
+ Whatever may be the rule with regard to decrees concerning status or its incidents (Haddock v. Haddock, 
+201 
+U.S. 562, 569
+, 632 S., 50 L. ed. 867, 869, 895, 26 Sup. Ct. Rep. 525, 5 Ann. Cas. 1), an ordinary personal judgment for money, invalid for want of service amounting to due process of law, is as ineffective in the state as it is outside of it (
+201 U.S. 567
+, 568). If the former judgment had been sued upon in another state by the plaintiff, we think that the better opinion would justify a denial of its effect. If so, it was no more effective in Texas. De la Montanya v. De la Montanya, 112 Cal. 101, 32 L.R.A. 82, 53 Am. St. Rep. 165, 44 Pac. 345; Boring v. Penniman, 134 Cal. 514, 66 Pac. 739.
+ The usual occasion for testing the principle to be applied would be such as we have supposed, where the defendant 
+
+[243 U.S. 90, 93]
+ 
+ was denying the validity of the judgment against him. But the obligations of the judgment are reciprocal, and the fact that here the defendant is asserting and the plaintiff denying its personal effect does not alter the case. Whittier v. Wendell, 7 N. H. 257; Rangely v. Webster, 11 N. H. 299; Middlesex Bank v. Butman, 29 Me. 19. The personal judgment was not merely voidable, as was assumed in the slightly different case of Henderson v. Staniford, 105 Mass. 504, 7 Am. Rep. 551, but was void. See Needham v. Thayer, 147 Mass. 536, 18 N. E. 429. In Henderson v. Staniford the absent defendant intended to return to his state.
+ Judgment reversed. 
+
+
+

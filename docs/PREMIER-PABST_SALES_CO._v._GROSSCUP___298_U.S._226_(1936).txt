@@ -1,0 +1,39 @@
+Description: PREMIER-PABST SALES CO. v. GROSSCUP , 298 U.S. 226 (1936)
+Date: 1936-05-18 00:00:00
+Docket: 745
+Opinion
+
+
+United States Supreme Court
+PREMIER-PABST SALES CO. v. GROSSCUP(1936)
+No. 745
+Argued: April 27, 1936Decided: May 18, 1936
+
+
+
+ Appeal from the District Court of the United States for the Eastern District of Pennsylvania.
+ Messrs. M. J. Donnelly and C. J. Lynch, Jr., both of Cedar Rapids, Iowa, and J. Wesley McWilliams, of Philadelphia, Pa., for appellant.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Premier-Pabst Sales Company, a Delaware corporation, is a distributor of beer made in Illinois and Wisconsin. Having secured a license issued under a statute 
+
+[298 U.S. 226, 227]
+ 
+ of Pennsylvania enacted and amended in 1933 (Act May 3, 1933, P.L. 252, as amended by Act Dec. 20, 1933, Sp.Sess., P.L. 75), it engaged in business there. That statute was again amended by Act No. 398, approved July 18, 1935 (47 P.S.Pa.  84 et seq.), which changed the licensing law so as to discriminate between distributors who sold beer made within the state and those who sold imported beer. The annual license fee of the former was made  400, and the penalty of the bond required of them was set at $1,000; the license fee of the latter was made $900, and the penalty of the bond to be given by them was set at $2,000.
+ The company did not apply for a license under the 1935 act. Instead, it filed, in the federal court for Eastern Pennsylvania, this suit against the Liquor Control Board and other state officials. Claiming that the act violated the commerce clause and the equal protection clause of the Federal Constitution (article 1,  8, cl. 3; art. 4,  2; amend. 14,  1), the bill prayed for a judgment declaring the act void and for an injunction restraining its enforcement. The case was heard before three judges upon application for a preliminary injunction. The facts were stipulated; and it was agreed that the hearing should be deemed also a final hearing upon the application for a permanent injunction. The court denied the injunctions and dismissed the bill as wanting in equity, because the discrimination complained of was authorized by the Twenty- First Amendment. 12 F.Supp. 970. An appeal was allowed.
+ We have no occasion to consider the constitutional question, because it appears that the plaintiff is without standing to present it. One who would strike down a state statute as obnoxious to the Federal Constitution must show that the alleged unconstitutional feature injures him. Heald v. District of Columbia, 
+259 
+U.S. 114, 123
+, 42 S.Ct. 434. Under the act of 1935, no one may sell beer in Pennsylvania unless duly licensed; and no license may issue to a corporation unless all its officers and directors, and 51 per cent. of its stockholders, have been resi- 
+
+[298 U.S. 226, 228]
+ 
+ dents of the state for the period of at least two years prior to the application for a license. The constitutional validity of that provision is conceded; and it was agreed that all the officers and directors are, and were when the suit was begun, nonresidents of Pennsylvania, and that all of its stock was, and is, held by another foreign corporation. As no license could legally issue to the company is any event, it cannot be injured by the alleged unconstitutional discrimination; and hence has no standing to challenge provisions of the act.
+ The company urges that it has a standing because, if the 1935 act is invalid, the license issued under the act of 1933, as amended, is still in force. The 1933 act also prohibited the issue of a license to a corporation whose officers and directors are nonresidents. The commonwealth insists that the company's officers and directors were nonresidents when it secured its license. The stipulation as to the facts is silent on the subject; and the company argues that we must assume, in favor of the validity of the license, that it was then qualified to receive one. We need not discuss the validity of that contention. For even if the license was valid when issued, the state had the power to terminate it. Mugler v. Kansas, 
+123 
+U.S. 623
+, 8 S.Ct. 273. And, as we construe the act of 1935, it did so.
+ Affirmed. 
+
+
+

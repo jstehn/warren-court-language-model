@@ -1,0 +1,172 @@
+Description: SCHUMACHER v. BEELER , 293 U.S. 367 (1934)
+Date: 1934-12-17 00:00:00
+Docket: 215
+Opinion
+
+
+United States Supreme Court
+SCHUMACHER v. BEELER(1934)
+No. 215
+Argued: November 16, 1934Decided: December 17, 1934
+
+
+
+
+[293 U.S. 367, 368]
+ 
+ Messrs. Coleman Avery, John W. Peck, and Frank H. Shaffer, Jr., all of Cincinnati, Ohio, for petitioner.
+ Messrs. Henry B. Street and Province M. Pogue, both of Cincinnati, Ohio, for respondent.
+
+ Mr. Chief Justice HUGHES delivered the opinion of the Court.
+ In granting the writ of certiorari, we limited our review to the question of the jurisdiction of the District Court under section 23b of the Bankruptcy Act. That provision, and its immediate context, section 23a, are set forth in the margin. 
+1
+ 44 Stat. 664, 11 U.S.C.  46(a)(b), 11 USCA  46(a, b).
+ This is a plenary suit brought by respondent, trustee in bankruptcy, in the District Court to enjoin the sale of certain property, alleged to be fixtures, attached to the manufacturing plant of the bankrupt, which petitioner, as sheriff, was threatening to sell under an execution issued more than four months prior to the bankruptcy proceeding upon a judgment recovered against the bank- 
+
+[293 U.S. 367, 369]
+ 
+ rupt in the court of common pleas of Hamilton county, Ohio. The trustee's petition alleged that sale by the sheriff, pending a determination whether or not the property was a part of the realty, would cause irreparable damage to the bankrupt's estate. The trustee contends that the sheriff's levy upon the property in question was invalid under the law of Ohio, and that at the time of the filing of the petition in bankruptcy all writs of venditioni exponas, or orders for the sale of the real estate, had expired, and also that, as there were mortgages upon the property, the appropriate method of the enforcing the judgment was by a creditor's bill.
+ The sheriff first appeared specially, asserting his claim by virtue of levy under execution, and sought dismissal of the suit upon the ground that the court was without jurisdiction. Shortly after, the sheriff withdrew his motion to dismiss, entered his general appearance, and made answer to the petition, expressly consenting that the District Court should hear and determine all matters to which the petition referred. The sheriff in this answer, after stating that he had levied upon personal property and real estate of the judgment debtor, said that a controversy had arisen whether or not certain items of 'chattel property,' set forth in the exhibit attached to the trustee's petition, were 'in law fixtures and therefore a part of the real estate'; that it would be necessary to have that question determined so that he might be advised as to what part of the 'chattel property' he had a right to sell under the execution; and that he did not know 'as a matter of law whether the levy so made by him upon the real estate' was or was not a valid levy, and therefore he put the plaintiff 'on proof thereof.' The next day the sheriff asked leave to withdraw his answer. The disposition of that motion does not appear and the court below has assumed that it was not pressed. Later, the sheriff again 
+
+[293 U.S. 367, 370]
+ 
+ moved to dismiss the cause for the want of jurisdiction, and the motion was granted.
+ This order was reversed by the Circuit Court of Appeals. That court concluded that the validity of the trustee's claim, and of that of the sheriff, depended upon disputed facts and issues of law; that the adverse claim of the sheriff was substantial and that its merits could be adjudged only in a plenary suit; that this proceeding should be treated as one of that nature and that there was consent to the jurisdiction of the District Court within the meaning of section 23b of the Bankruptcy Act. As the case had not been heard upon its merits, and the record presented no findings of fact or conclusions of law, the Circuit Court of Appeals did not deal with any question except that of jurisdiction and directed that the cause be remanded to the District Court with instructions to hear and determine the controversy.
+ The trustee's petition, which the Circuit Court of Appeals treated as a bill of complaint, did not allege diversity of citizenship. Nor did it contain clear and sufficient averments showing that the complainant, as against the sheriff claiming under a judgment recovered and an execution issued more than four months before the bankruptcy, had possession of the property in question by virtue of which the District Court would have jurisdiction of the suit irrespective of the consent of the defendant. 
+2
+ 
+
+ The case thus turns on the effect of the sheriff's consent under section 23b. The sheriff contends that he had no authority to give the consent; but he was the defendant 
+
+[293 U.S. 367, 371]
+ 
+ in the suit and his consent was actually given. We find no ground for concluding that the consent was invalid.
+ Conflicting views have been held of the meaning of the provision for consent in section 23b. In one view, the provision relates merely to venue, that is, only to a consent to the 'local jurisdiction.' Matthew v. Coppin ( C.C.A.) 32 F.(2d) 100, 101. See, also, McEldowney v. Card (C.C.) 193 F. 475, 479; De Friece v. Bryant (D.C.) 232 F. 233, 236; Operators' Piano Co. v. First Wisconsin Trust Co. (C.C.A.) 283 F. 904, 906; Coyle v. Duncan Spangler Coal Co. (D.C.) 288 F. 897, 901; Stiefel v. 14th Street & Broadway Realty Corporation (C.C.A.) 48 F.(2d) 1041, 1043. Compare Lovell v. Isidore Newman & Son, 
+227 
+U.S. 412, 426
+, 33 S.Ct. 375. It has been said that if section 23b affects 'substantive jurisdiction,' as distinct from venue, section 23a appears to be redundant. Stiefel v. 14th Street & Broadway Realty Corporation, supra. The opposing view was set forth by the court below in Toledo Fence & Post Co. v. Lyons (C.C.A.) 290 F. 637, 645, and that decision was followed in the instant case. See, also, Boonville National Bank v. Blakey (C.C.A.) 107 F. 891, 893; Seegmiller v. Day (C.C.A.) 249 F. 177, 178; Stiefel v. 14th Street & Broadway Realty Corporation, supra; Lowenstein v. Reikes (C.C.A.) 60 F.(2d) 933, 935. It proceeds upon the ground that the Congress had power to permit suits by trustees in bankruptcy in the federal courts against adverse claimants, regardless of diversity of citizenship, and that by section 23b the Congress intended that the federal courts should have that jurisdiction in cases where the defendant gave consent, and, without that consent, in cases which fell within the stated exceptions.
+ We think that the latter view is the correct one. The provisions of the earlier bankruptcy acts and the purpose and significance of section 23 of the Act of 1898, as originally enacted (30 Stat. 552), were elaborately considered in Bardes v. Hawarden Bank, 
+178 
+U.S. 524
+, 20 S.Ct. 1000. Section 8 of the Act of August 19, 1841 (5 Stat. 446), conferred on the Circuit Courts con- 
+
+[293 U.S. 367, 372]
+ 
+ current jurisdiction with the District Courts of all suits, at law or in equity, between assignees in bankruptcy and adverse claimants. This broad grant of jurisdiction was continued in section 2 of the Act of March 2, 1867 (14 Stat. 518). Lathrop v. Drake, 
+91 U.S. 516
+. The Act of 1867 recognized and emphatically declared the distinction between proceedings in bankruptcy, properly so called, and independent suits between assignees in bankruptcy and adverse claimants. Jurisdiction of such suits was conferred upon the District Courts and Circuit Courts of the United States by the express provision to that effect in section 2 of that act, and was not derived from the other provisions of sections 1 and 2, conferring jurisdiction of proceedings in bankruptcy. Bardes v. Hawarden Bank, supra, page 533 of 178 U.S., 20 S.Ct. 1000. The jurisdiction of such suits in law and equity was of the same character as that conferred upon the Circuit Courts by the eleventh section of the Judiciary Act of Sept. 24, 1789, 1 Stat. 78 (Morgan v. Thornhill, 11 Wall. 65, 80) and the conferring of that jurisdiction upon the federal courts did not divest or impair the jurisdiction of the state courts over like cases. Eyster v. Gaff, 
+91 U.S. 521
+, 525; Bardes v. Hawarden Bank, supra, pages 532, 533 of 178 U.S., 20 S.Ct. 1000
+
+
+ It was with this legislative background that the Congress undertook the framing of the Act of 1898 (30 Stat. 544). The distinction between proceedings in bankruptcy and suits between trustees in bankruptcy and adverse claimants was maintained. As appellate jurisdiction had been vested in the Circuit Courts of Appeals by the Act of March 3, 1891 (26 Stat. 826), the Act of 1898, in lieu of the 'general superintendence and jurisdiction' given to the Circuit Courts by the Act of 1867 (section 2) 'of all cases and questions' arising in bankruptcy, conferred upon the Circuit Courts of Appeals the jurisdiction 'to superintend and revise in matter of law the proceedings of the several inferior courts of bankruptcy within their jurisdiction.' 
+
+[293 U.S. 367, 373]
+ 
+ Section 24b (11 USCA  47(b). But the Circuit Courts at that time were still courts of original jurisdiction and, by section 23 of the Act of 1898, the Congress provided the extent to which the Circuit Courts should have jurisdiction of suits at law or in equity between trustees in bankruptcy and adverse claimants. Section 23, as originally enacted, was as follows (30 Stat. 552, 553):
+'Sec. 23. Jurisdiction of United States and State Courts.-
+
+'a The United States circuit courts shall have jurisdiction of all controversies at law and in equity, as distinguished from proceedings in bankruptcy, between trustees as such and adverse claimants concerning the property acquired or claimed by the trustees, in the same manner and to the same extent only as though bankruptcy proceedings had not been instituted and such controversies had been between the bankrupts and such adverse claimants.
+
+'b Suits by the trustee shall only be brought or prosecuted in the courts where the bankrupt, whose estate is being administered by such trustee, might have brought or prosecuted them if proceedings in bankruptcy had not been instituted, unless by consent of the proposed defendant.
+
+'c The United States circuit courts shall have concurrent jurisdiction with the courts of bankruptcy, within their respective territorial limits, of the offenses enumerated in this Act.'
+
+ Section 23a thus related exclusively to the Circuit Courts. Section 23b applied both to the Circuit Courts and the District Courts, as well as to the state courts. This appears, said the Court in Bardes v. Hawarden Bank, supra (page 536 of 178 U.S., 20 S.Ct. 1000, 1005) 'not only by the clear words of the title of the section, but also by the use, in this clause, of the general words, 'the courts,' as contrasted with the specific words, 'the United States circuit courts,' in the 
+
+[293 U.S. 367, 374]
+ 
+ first and in the third clauses.' The argument that if section 23b affects 'substantive jurisdiction,' section 23a is redundant, loses sight of the original distinction and application of the section and of its historical development.
+ By section 289 of the Judicial Code of 1911 (36 Stat. 1167), 28 USCA  431 note, the Circuit Courts were abolished; and by section 291 of that act (28 USCA  431 note) it was provided that wherever, in any law not embraced within the Judicial Code, any power or duty is conferred or imposed upon the Circuit Courts, that power and duty shall be deemed to be conferred and imposed upon the District Courts. This provision had the effect of amending section 23a of the Bankruptcy Act so as to make it apply to the United States District Courts instead of the United States Circuit Courts. Formal amendment, to conform the language of the section to the fact, was made by the Act of May 27, 1926,  8, 44 Stat. 664 (11 USCA  46(a).
+ In enacting section 23, it was clearly the intent of the Congress that the federal courts should not have the unrestricted jurisdiction of suits between trustees in bankruptcy and adverse claimants which these courts had exercised under the broad provisions of section 2 of the Act of 1867. The purpose was to leave such controversies to be heard and determined for the most part in the state courts 'to the greater economy and convenience of litigants and witnesses.' But no reason appeared for a denial of jurisdiction to the federal court if the defendant, the adverse claimant, consented to be sued in that court. The Congress, by virtue of its constitutional authority over bankruptcies (Const. Art. 1,  8), could confer or withhold jurisdiction to entertain such suits and could prescribe the conditions upon which the federal courts should have jurisdiction. See Sherman v. Bingham, 21 Fed.Cas. 1270, 1272, No. 12,762. Exercising that power, the Congress prescribed in section 23b the condition of consent on the part of the defendant sued by the trustee. Section 23b was thus in effect a grant of jurisdiction subject to that condition. 
+
+[293 U.S. 367, 375]
+ 
+ That this was the interpretation by this Court of section 23b, in its original form, is shown not only by the statement of the result of the Court's analysis in the Bardes Case, supra (page 538 of 178 U.S., 20 S.Ct. 1000, 1006) but quite clearly by its formal disposition of the questions before it. The Bardes Case was a bill in equity in the District Court by a trustee in bankruptcy to set aside a conveyance of property in fraud of creditors. The District Court dismissed the bill for want of jurisdiction and the case came here on direct appeal with a certificate by the District Judge submitting the questions which had arisen. This Court considered those questions and specifically answered the first and second questions as follows:
+'1st. The provisions of the second clause of section 23 of the bankrupt act of 1898 control and limit the jurisdiction of all courts, including the several district courts of the United States, over suits brought by trustees in bankruptcy to recover or collect debts due from third parties, or to set aside transfers of property to third parties, alleged to be fraudulent as against creditors, including payments in money or property to preferred creditors.
+
+'2d. The district court of the United States can, by the proposed defendants' consent, but not otherwise, entertain jurisdiction over suits brought by trustees in bankruptcy to set aside fraudulent transfers of money or property, made by the bankrupt to third parties before the institution of the proceedings in bankruptcy.'
+
+ As there was no pretense of consent of the defendant in that case, the District Court was found to be without jurisdiction and its decree was accordingly affirmed. Compare Mueller v. Nugent, 
+184 
+U.S. 1, 16
+, 22 S.Ct. 269; Spencer v. Duplan Silk Co., 
+191 
+U.S. 526, 531
+, 24 S.Ct. 174; Whitney v. Wenman, 
+198 
+U.S. 539, 552
+, 25 S.Ct. 778; Bush v. Elliott, 
+202 
+U.S. 477, 479
+, 483 S., 26 S.Ct. 668; Harris v. First National Bank, 
+216 
+U.S. 382, 383
+, 30 S.Ct. 296; Wood v. A. Wilbert's Sons Shingle & Lumber Co., 
+226 
+U.S. 384, 387
+, 33 S.Ct. 125.
+ After the decision in the Bardes Case, and by section 8 of the Act of February 5, 1903 (32 Stat. 797, 798), section 23b was 
+
+[293 U.S. 367, 376]
+ 
+ amended by adding, after the words 'unless by consent of the proposed defendant,' the following: 'except suits for the recovery of property under section 60, subdivision b, and section 67, subdivision e.' 11 USCA  46 note.
+ The excepted suits are those brought by the trustee in bankruptcy to recover property transferred by the bankrupt in effecting preferences made voidable by the Act, and suits to recover property conveyed by the bankrupt in fraud of creditors within four months prior to the filing of the petition in bankruptcy. The effect of the exception was to remove, as to these classes of cases, the requirement in section 23b of the consent of the defendant as a condition of the exercise of jurisdiction. The Act of 1903 also amended sections 60b, 67e, and 70e, so as to provide that in suits to recover property under those sections 'any court of bankruptcy,' and 'any state court' which would have had jurisdiction if bankruptcy had not intervened, 'shall have concurrent jurisdiction,' Act of February 5, 1903,  13, 16, 32 Stat. 799, 800 (11 USCA  96 note, 107(e), 110(e). The scope of the amendment of section 23b by the Act of 1903, in the light of the amendment by the same act of section 70e-a question which was left undetermined in Harris v. First National Bank, supra (page 385 of 216 U.S., 30 S.Ct. 296)-was passed upon in Wood v. A. Wilbert's Sons Shingle & Lumber Co., supra (pages 389, 390 of 226 U.S., 33 S.Ct. 125, 128). The Court there decided that the amendment of section 70e could not be regarded as intended to create a conflict with the amendment of section 23b, which did not include in the exception suits brought under section 70e. The Court said: 'In other words, the respective sections and their subdivisions confer jurisdiction on the designated courts so far as it is dependent upon the character of the suits, but when the condition expressed in subdivision b of section 23 exists, the consent of the defendant determines the court, except when the suit is 'for the recovery of property under section 60, subdivision b, and section 67, 
+
+[293 U.S. 367, 377]
+ 
+ subdivision e.' These special exceptions exclude any other.'
+ By the Act of June 25, 1910 (36 Stat. 840), section 23b was further amended so as to include in the exception suits for the recovery of property under section 70, subd. e, 11 USCA  46. See Weidhorn v. Levy, 
+253 
+U.S. 268, 272
+, 40 S.Ct. 534.
+ We think that the exceptions thus established by the amending acts show clearly that it was the intent of the Congress that section 23b should operate as a grant of jurisdiction to the federal court of suits brought by a trustee in bankruptcy against adverse claimants, provided the defendant consented to be sued in that court, although the bankrupt could not have brought suit there if proceedings in bankruptcy had not been instituted, and that, in suits falling within the exceptions, the federal court should have jurisdiction without the defendant's consent. The question was not necessarily involved in the case of Lovell v. Isidore Newman & Son, 
+227 
+U.S. 412, 426
+, 33 S.Ct. 375, and so far as the language of the opinion indicated a contrary view, it is not approved. Compare MacDonald v. Plymouth County Trust Co., 
+286 
+U.S. 263, 268
+, 52 S.Ct. 505; Page v. Arkansas Natural Gas Corporation, 
+286 
+U.S. 269, 271
+, 272 S., 52 S.Ct. 507.
+ We conclude that the court had jurisdiction in the instant case, and the decree of the Circuit Court of Appeals setting aside the order of the District Court and directing that court to hear and determine the controversy upon its merits is affirmed.
+ Decree affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Section 23a, 23b, as amended by the Act of May 27, 1926, c. 406,  8, 11 USCA  46(a, b), are as follows:
+'Sec. 23. (a) The United States district courts shall have jurisdiction of all controversies at law and in equity, as distinguished from proceedings in bankruptcy, between trustees as such and adverse claimants concerning the property acquired or claimed by the trustees, in the same manner and to the same extent only as though bankruptcy proceedings had not been instituted and such controversies had been between the bankrupts and such adverse claimants.
+
+'(b) Suits by the trustee shall only be brought or prosecuted in the courts where the bankrupt, whose estate is being administered by such trustee, might have brought or prosecuted them if proceedings in bankruptcy had not been instituted, unless by consent of the proposed defendant, except suits for the recovery of property under section 60, subdivision b (section 96, subdivision b, of this title); section 67, subdivision e (section 107, subdivision e, of this title); and section 70, subdivision e (section 110, subdivision e, of this title).' 
+
+
+[
+Footnote 2
+] See Whitney v. Wenman, 
+198 
+U.S. 539, 552
+, 25 S.Ct. 778; Murphy v. John Hofman Co., 
+211 U.S. 562
+, 568-570, 29 S.Ct. 154; Hebert v. Crawford, 
+228 
+U.S. 204, 208
+, 33 S.Ct. 484; Taubel, etc., Company v. Fox, 
+264 
+U.S. 426, 432
+, 434 S., 44 S.Ct. 396; Isaacs v. Hobbs Tie & Timber Co., 
+282 
+U.S. 734, 737
+, 738 S., 51 S.Ct. 270; Stration v. New, 
+283 
+U.S. 318, 321
+, 326 S., 51 S.Ct. 465; Page v. Arkansas Natural Gas Corporation, 
+286 
+U.S. 269, 271
+, 52 S.Ct. 507. 
+
+
+
+

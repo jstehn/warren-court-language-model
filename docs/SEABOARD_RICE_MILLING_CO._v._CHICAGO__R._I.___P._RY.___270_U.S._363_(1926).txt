@@ -1,0 +1,61 @@
+Description: SEABOARD RICE MILLING CO. v. CHICAGO, R. I. & P. RY. , 270 U.S. 363 (1926)
+Date: 1926-03-01 00:00:00
+Docket: 311
+Opinion
+
+
+United States Supreme Court
+SEABOARD RICE MILLING CO. v. CHICAGO, R. I. & P. RY.(1926)
+No. 311
+Argued: Decided: March 1, 1926
+
+
+
+
+[270 U.S. 363, 364]
+ 
+ Messrs. Thomas P. Littlepage, of Washington, D. C., Lon O. Hocker and Frank H. Sullivan, both of St. Louis, Mo., W. F. Dickinson, of Chicago, Ill., Luther Burns, of Topeka, Kan., and M. L. Bell, of Chicago, Ill., for the motion.
+ Mr. Alfred G. Hagerty, of St. Paul, Minn., opposed.
+
+ Mr. Justice SANFORD delivered the opinion of the Court.
+ This is an action at law brought by the Milling Company against the Railway Company, in the District Court of the Eastern District of Missouri, to recover the sum of $3,035.73 for damages alleged to have been sustained through the negligence of the Railway Company, the initial carrier, and its connecting carriers, in the interstate transportation of rice shipped from Arkansas to New York. The Railway Company, appearing specially, filed a plea to the jurisdiction, on the ground that neither it nor the Milling Company was a resident or inhabitant of the district. This plea was sustained, without opinion, and the suit was dismissed for want of jurisdiction. This direct writ of error was allowed and the jurisdictional question certified, in February, 1925, under s 238 of the Judicial Code ( Comp. St. s 1215).
+ The Railway Company has interposed a motion to affirm the judgment, upon the ground that the question 
+
+[270 U.S. 363, 365]
+ 
+ upon which the decision depends is so unsubstantial as not to need further argument. Hodges v. Snyder, 43 S. Ct. 435, 
+261 U.S. 600
+, 601. This motion must be granted.
+ The declaration and the testimony heard upon the plea show that the Milling Company is a corporation organized under the laws or Texas; and that the Railway Company is a corporation organized under the laws of Illinois and Iowa, having its principal office in Chicago, but maintaining a branch office and operating a branch line within the eastern district of Missouri.
+ Section 51 of the Judicial Code (Comp St. s 1033) which deals with the venue of suits originally begun in the District Courts-reenacting in part a similar provision in the Judiciary Act of 18881-provides, subject to certain exceptions not material here, that 'no civil suit shall be brought in any district court against any person by any original process of proceeding in any other district than that whereof he is an inhabitant; but where the jurisdiction is founded only on the fact that the action is between citizens of different States, suit shall be brought only in the district of the residence of either the plaintiff or the defendant.' That is to say, the suit must be brought within the district of which the defendant is an inhabitant, unless the general federal jurisdiction is founded upon diversity of citizenship alone, in which case it must be brought either in that district or in the district in which the plaintiff resides.
+ While this provision does not limit the general jurisdiction of the District Courts, it confers a personal privilege on the defendant, which he may assert, or may waive, at his election, if sued in some other district. Lee v. Chesapeake Railway, 43 S. Ct. 230, 
+260 U.S. 653
+, 655; and cases cited. If this privilege is seasonably asserted, the suit must be dismissed for want of jurisdiction over the person of the defendant. Macon Grocery Co. v. Atlantic Coast Line, 30 S. Ct. 184, 
+215 U.S. 501
+, 510; and cases cited. 
+
+[270 U.S. 363, 366]
+ 
+ It is immaterial whether the general federal jurisdiction in the present suit is founded upon diversity of citizenship alone, or whether the suit is also one arising under the laws of the United States, since neither the Milling Company nor the Railway Company is a resident of the Eastern District of Missouri; a corporation being, within the meaning of the jurisdictional statutes, a resident of the State in which it is incorporated, and not a resident or inhabitant of any other State, although it may be engaged in business within such other State. In re Keasbey & Mattison Co., 16 S. Ct. 273, 
+160 U.S. 221
+, 229; Macon Grocery Co. v. Atlantic Coast Line, supra, 509; and cases cited.
+ The Milling Company contends, however, that since it might have brought the suit originally in a State court of concurrent jurisdiction within the Eastern District of Missouri, in which the Railway Company is transacting business, and the Railway Company, under the decisions in General Investment Co. v. Lake Shore Railway, 43 S. Ct. 106, 
+260 U.S. 261
+, and Lee v. Chesapeake Railway, supra, might then have removed it to the District Court, this necessarily involves the conclusion that the District Court also has 'original jurisdiction' of the suit, since section 28 of the Judicial Code (Comp. St. s 1010) provides only for the removal of suits of which the District Courts 'are given original jurisdiction.' The fallacy of this argument lies in the failure to distinguish between the general jurisdiction of the District Courts, to which section 28 relates, and the local jurisdiction over the person of the defendant, to which section 51 relates. The same contention was made, in a converse form, in the General Investment Co. Case, in which it was argued that a suit could not be removed from a state court to a district court in which, under s 51, it could not have been brought over the defendant's objection, since it was not a suit of which the District Court was given 'original jurisdiction;' and it is completely answered by the holding in that case, 43 S. Ct. 113, 26 U. S. at page 275, that the term 
+
+[270 U.S. 363, 367]
+ 
+ 'original jurisdiction' as used in section 28 refers only to the general jurisdiction conferred on the District Courts, and does not relate to the venue provision in section 51; there being 'no purpose in extending to removals the personal privilege accorded to defendants by section 51, since removals are had only at the instance of defendants.' This was approved and followed in Lee v. Chesapeake Railway, supra, 657.
+ Whether the suit of originally brought in the District Court or removed from a state court, the general federal jurisdiction is the same; and the venue or local jurisdiction of the District Court over the person of the defendant is dependent in the one case as in the other upon the voluntary action of the non-resident defendant, being acquired in an original suit by his waiver of objection to the venue, and in a removed suit by his application for the removal to the District Court.
+ Since the question does not require further argument, the motion of the Railway Company is granted, and the judgment of the District Court is
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] 25 Stat. 433, 434, c. 866. 
+
+
+
+

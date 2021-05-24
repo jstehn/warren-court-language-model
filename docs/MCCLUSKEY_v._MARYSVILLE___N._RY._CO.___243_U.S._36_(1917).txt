@@ -1,0 +1,70 @@
+Description: MCCLUSKEY v. MARYSVILLE & N. RY. CO. , 243 U.S. 36 (1917)
+Date: 1917-03-06 00:00:00
+Docket: 166
+Opinion
+
+
+United States Supreme Court
+MCCLUSKEY v. MARYSVILLE & N. RY. CO.(1917)
+No. 166
+Argued: Decided: March 6, 1917
+
+
+
+
+[243 U.S. 36, 37]
+ 
+ Messrs. John T. Casey, George F. Hannan, and Charles R. Pierce for plaintiff in error.
+ Messrs. E. C. Hughes, Maurice McMicken, Otto B. Rupp, and H. J. Ramsey for defendants in error.
+
+ Mr. Chief Justice White delivered the opinion of the court:
+ This suit was brought under the Employers' Liability Act to recover damages resulting from injuries suffered by Nordgard while in the employ of the defendant railway company. The trial court directed a verdict for the defendants on the ground that there was no evidence tending to show that the defendants and Nordgard were engaged at the time of the accident in interstate or foreign commerce, and the case is here on writ of error to secure a reversal of the action of the court below, affirming the judgment entered by the trial court, dismissing the suit. 134 C. C. A. 415, 218 Fed. 737.
+ There are the facts: The defendant Stimson Mill Com- 
+
+[243 U.S. 36, 38]
+ 
+ pany was engaged in the logging and lumber business and carried its logs on its own logging railroad, the Marysville & Northern Railway, from timber land owned by it in Washington to a point near Marysville in that state, where they were dumped into the waters of Puget Sound. Part of the logs were thereafter sold to mills located on the sound and the balance were rafted and taken by tugs to the Stimson Company's mills at Ballard, Washington, where they were manufactured into timber, which was thereafter sold, about 20 per cent in local markets and the remainder in other states and countries. The logs which were sold after they had been carried to tidewater by the railroad were towed away by the purchasers to their mills or places for storage, and part of them were subsequently resold for piling or poles to purchasers both within and wthout the state. Nordgard was a brakeman on the logging railroad, and suffered the injuries for which he sued while engaged in unloading logs from the cars at tidewater.
+ The conclusion of the court below that, under these facts, the defendants were not engaged in interstate or foreign commerce when the injuries were suffered, was based upon the decisions in Coe v. Errol, 
+116 U.S. 517
+, 29 L. ed. 715, 6 Sup. Ct. Rep. 475, and The Daniel Ball, 10 Wall. 557, 19 L. ed. 999, from which the following quotations were made:
+'When the products of the farm or the forest are collected and brought in from the surrounding country to a town or station serving as an entrepot for that particular region, whether on a river or a line of railroad, such products are not yet exports, nor are they in process of exportation, nor is exportation begun until they are committed to the common carrier for transportation out of the state to the state of their destination, or have stated on their ultimate passage to that state.' 
+116 U.S. 525
+.
+
+'But this movement [that is, interstate commerce movement] does not begin until the articles have been 
+
+[243 U.S. 36, 39]
+ 
+ shipped or started for transportation from the one state to the other. The carrying of them in carts or other vehicles, or even floating them, to the depot where the journey is to commence, is no part of that journey. . . . Until actually launched on its way to another state, or committed to a common carrier for transportation to such state, its destination is not fixed and certain. It may be sold or otherwise disposed of within the state, and never put in course of transportation out of the state.' 10 Wall. 565
+
+ After pointing out that these rulings had not been modified, but, on the contrary, had been reaffirmed by the subsequent cases relied upon by the plaintiff in error (Texas & N. O. R. Co. v. Sabine Tram Co. 
+227 U.S. 111
+, 57 L. ed. 442, 33 Sup. Ct. Rep. 229; Railroad Commission v. Texas & P. R. Co. 
+229 U.S. 336
+, 57 L. ed. 1215, 33 Sup. Ct. Rep. 837; Southern P. Terminal Co. v. Interstate Commerce Commission, 
+219 U.S. 498
+, 55 L. ed. 310, 31 Sup. Ct. Rep. 279; Railroad Commission v. Worthington, 
+225 U.S. 101
+, 56 L. ed. 1004, 32 Sup. Ct. Rep. 653), the court said:
+'In the case at bar there was no initial shipment of the goods. The transportation of the poles from the forest in which they were cut to tidewater, where they were sold, was not a shipment. There was no contract of carriage; there was no bill of lading; there was no consignor or consignee. The goods were not committed to a carrier. The defendant Mill Company simply carried over its own road, on its own cars, its own goods to a market where it sold and delivered them. It had no concern with the subsequent disposition of them. It was under no obligation to deliver them to another carrier, and no other carrier was under obligation to receive them or carry them further. The selling of the poles after the first sale by the Mill Company, or whether they were going outside of the state, depended upon chance or the exigencies of trade. The movement of the poles did not become interstate commerce until, by the act of the purchasers thereof, the 
+
+[243 U.S. 36, 40]
+ 
+ poles were started on their way to their destination in another state or country. The beginning of the transit which constitutes interstate commerce 'is defined in Coe v. Errol to be the point of time that an article is committed to a carrier for transportation to the state of its destination, or started on its ultimate passage." General Oil Co. v. Crain, 
+209 
+U.S. 211, 229
+, 52 S. L. ed. 754, 764, 28 Sup. Ct. Rep. 475.'
+
+ The conclusion of the court below that the defendants were not engaged in interstate or foreign commerce when the accident occurred is, we think, clearly demonstrated by the reasoning by which it sustained its conclusion and the authorities upon which it relied as above stated, and its judgment should be affirmed.
+ Before concluding we observe that, in view of the stipulation of the parties in the court below, agreeing to the substitution as plaintiff in error of the administrator of Nordgard, who died while the cause was there pending, the motion to dismiss on the ground that the writ of error was wrongfully allowed, and that the administrator is not a proper party, is based upon a mere irregularity which was waived.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Appearance of P. J. McCluskey, administrator of the estate of Gunder Nordgard, deceased, filed and entered November 8, 1915, as the party plaintiff in error herein. 
+
+
+
+

@@ -1,0 +1,45 @@
+Description: TIERNEY v. U. S., 409 U.S. 1232 (1972)
+Date: 1972-09-12 00:00:00
+Docket: A-49
+Opinion
+
+
+United States Supreme Court
+TIERNEY v. U. S.(1972)
+No. A-49
+Argued: Decided: September 12, 1972
+
+
+        
+ Mr. Justice DOUGLAS, Circuit Justice.
+  These are applications for bail which raise the questions comparable to those presented in In re Beverly, A-231, in which I granted bail.
+  In the present cases there was electronic surveillance of a telephone which a court had approved pursuant to 18 U.S.C.  2518. During that surveillance a conversation of applicants' attorney was intercepted.
+  Applicants were testifying before a grand jury, having been granted immunity under 18 U.S.C.  6002 and  6003. On refusing to answer certain questions propounded, they were committed for civil contempt.
+  The standard for bail in civil contempt proceedings is set forth in 28 U.S.C.  1826(b) which specifies that 
+
+[409 
+U.S. 1232
+, 1233]
+ 
+ bail shall be granted if the issues are not frivolous and if the appeal is not taken for delay. Here the immunity granted the applicants was a so- called 'use' immunity as distinguished from the 'transactional' immunity which some of us thought was required when the issue was before us last Term in Kastigar v. United States, 
+406 
+U.S. 441
+.
+  It is now argued that applicants have obtained all the immunity to which they were constitutionally entitled and that there is no longer an attorney-client privilege to be protected. Hence it is argued that the Sixth Amendment right to counsel which weighed heavily with me in Russo v. Byrne, 
+409 
+U.S. 1219
+ (in which I granted a stay on July 29, 1972), is not relevant here.
+  I accept, of course, the Court's decision that only 'use' immunity not 'transactional' immunity, is the constitutional standard under the Fifth Amendment. The fact remains, however, that the 'leads' obtained from testimony given after 'use' immunity has been granted can be used to indict and convict the applicants. It seems to me therefore that the attorney-client privilege does continue and indeed may be much more vital to the applicants than it would have been had 'transactional' immunity been the standard adopted by the Court.
+  The question remains whether a search warrant issued for electronic surveillance under the Fourth Amendment can invade the domain of the Sixth Amendment and destroy the attorney-client relation. That is an exceedingly serious question on which this Court has not spoken.
+  Beyond those two questions there is a further one-whether on the issue of relevance an in camera proceeding is adequate or whether an adversary hearing is required. That is the question central both to the Russo- 
+
+[409 
+U.S. 1232
+, 1234]
+ 
+ Ellsberg case, to In re Beverly, and to the present two cases.
+  Hence in spite of the fact that my Brother Powell has heretofore denied bail in these cases, I have reluctantly concluded that the requisite for bail in civil contempt cases, 28 U.S.C.  1826(b), has been satisfied here.
+  Applications granted. 
+
+
+

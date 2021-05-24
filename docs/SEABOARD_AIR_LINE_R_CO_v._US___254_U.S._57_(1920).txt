@@ -1,0 +1,83 @@
+Description: SEABOARD AIR LINE R CO v. US , 254 U.S. 57 (1920)
+Date: 1920-11-08 00:00:00
+Docket: 27
+Opinion
+
+
+United States Supreme Court
+SEABOARD AIR LINE R. CO. v. U S(1920)
+No. 27
+Argued: Decided: November 8, 1920
+
+
+
+
+[254 U.S. 57, 58]
+ 
+ Messrs. Claudian B. Northrop, of Chevy Chase, Md., and Frank W. Gwathmey and R. Walton Moore, both of Washington, D. C., for appellants.
+ Mr. Blackburn Esterline, of Washington, D. C., for the United States.
+ Mr. Charles W. Needham, of Washington, D. C., for Interst. Com. Com'n.
+
+
+[254 U.S. 57, 59]
+ 
+
+ Mr. Justice DAY delivered the opinion of the Court.
+ In this case a petition was filed in the District Court of the United States for the Eastern District of Virginia to enjoin an order of the Interstate Commerce Commission concerning the absorption of switching charges on the lines of the Seaboard Air Line Railway Company, the Seaboard Air Line Railway, Southern Railway Company, and Atlantic Coast Line Railway Company, within the switching limits of these roads as established at Richmond, Va.
+ The Commission's order was made upon a petition of the Richmond Chamber of Commerce, averring that the practice of the railroads was discriminatory and unlawful, and violative of section 2 of the Act to Regulate Commerce. From the facts found by the Commission it appears that the appellant railroad companies bring freight from the South to Richmond, Va., where the same is delivered to industries in the switching limits of that city. If the freight is received at a point served by any two or more of the carriers, the switching charge is absorbed if the freight be delivered on the line of either; but if the delivery is to an industry served only by a noncompetitive carrier the switching charge is not absorbed. The Commission illustrated the point by an example:
+'Oxford, N. C., is a point reached both by the Southern and the Seaboard, but not by the Chesapeake & Ohio. Norlina, N. C., is a local point on the Seaboard. Assume that industries A. B, and C. [ referring to a diagram] on the Seaboard, the Southern, and the Chesapeake & Ohio, respectively, are similarly located with regard to the interchange tracks of the three carriers at Richmond. On traffic from Oxford to industry B on the Southern, the Seaboard will absorb the Southern's switching charges. But on traffic from Oxford to industry C, on the Chesapeake & Ohio, the Seaboard refuses to absorb the Chesapeake & Ohio's switching 
+
+[254 U.S. 57, 60]
+ 
+ charges. On traffic from and to Norlina, a local point, however, the Seaboard refuses to absorb all switching charges whatsoever to any off-line industry.'
+
+ The order complained of directed the three carriers to cease and desist, on or before August 1, 1917, and thereafter to abstain, from absorbing switching charges on certain interstate carload freight at Richmond, Va., while refusing to absorb such charges on like carload shipments for a like and contemporaneous service under substantially similar circumstances and conditions; such practices having been found in a supplemental report to be unjustly discriminatory and unlawful within section 2 of the Act to Regulate Commerce, and--
+'to establish, on or before August 1, 1917, ... and thereafter to maintain and apply uniform regulations and practices for the absorption of charges for the switching of interstate carload freight at Richmond, Va., and to collect no higher rates or charges from shippers and receivers of such carload freight at Richmond, Va., than they contemporaneously collect from any other shipper or receiver of such carload freight at Richmond, Va., for a like and contemporaneous service under substantially similar circumstances and conditions.' 44 Interest. Com. Com'n R. 455.
+
+ The District Court denied the application for an injunction, and ordered that the petition be dismissed. 249 Fed. 368.
+ The contention of the appellants is that the carriage is not a like and contemporaneous service in the transportation of a like kind of traffic under substantially similar circumstances and conditions.
+ Section 2 of the Act to Regulate Commerce provides:
+'That if any common carrier subject to the provisions of this act shall, directly or indirectly, by any special rate, rebate, drawback, or other device, charge, demand, collect, or receive from any person or persons a greater or less compensation for any service rendered, or to be rendered, 
+
+[254 U.S. 57, 61]
+ 
+ in the transportation of passengers or property, subject to the provisions of this act, than it charges, demands, collects, or receives from any other person or persons for doing for him or them a like and contemporaneous service in the transportation of a like kind of traffic under substantially similar circumstances and conditions, such common carrier shall be deemed guilty of unjust discrimination, which is hereby prohibited and declared to be unlawful.' 24 Stat. 379 ( Comp. St.  8564).
+
+ Upon this controversy the Commission in its report said:
+'Complainant insists that, when the line-haul carrier reaches the common point and competes for the traffic to or from Richmond proper, the absorption of the switching charges should not be confined to that traffic for which the switching line competes for the entire haul; that is, if the Seaboard absorbs the switching charges for the shipper on the terminal tracks of the Southern, it should also absorb the switching charges for the shipper on the terminal tracks of the Chesapeake & Ohio. Unless this is done, complaint contends that the two shippers are not upon an equality, since the Seaboard pays for a delivery service to shippers on the terminal tracks of the Southern, and declines to pay for a similar delivery service to shippers on the terminal tracks of the Chesapeake & Ohio. ...
+
+'Section 2 is primarily directed against discrimination between shippers located in the same community. It is aimed to put all shippers within a switching district upon a substantial equality. It provides that where a carrier receives from any person a greater compensation for any service rendered in the transportation of passengers or property than it receives from any other person for doing for him a 'like and contemporaneous service in the transportation of a like kind of traffic under substantially similar circumstances and conditions, such common carrier shall be deemed guilty of unjust discrimination,' a discrimination which is prohibited and declared to be unlawful. 
+
+[254 U.S. 57, 62]
+ 
+ Under this section it is settled that the competition of rival carriers as such does not constitute substantially dissimilar circumstances to justify a difference in treatment.'
+
+ We are of opinion that the Commission was correct in regarding the service in question as a like and contemporary service rendered under substantially similar circumstances and conditions, and amply sustained as matter of law in Wight v. United States, 
+167 U.S. 512
+, 17 Sup. Ct. 822, and Interstate Commerce Commission v. Alabama Midland Railway Co., 
+168 U.S. 144
+, 18 Sup. Ct. 45. The principle established in these cases is that the statute aims to establish equality of rights among shippers for carriage under substantially similar circumstances and conditions, and that the exigencies of competition do not justify discrimination against shippers for substantially like services.
+ Moreover, the determination of questions of fact is by law imposed upon the Commission, a body created by statute for the consideration of this and like matters. The findings of fact by the Commission upon such questions can be disturbed by judicial decree only in cases where their action is arbitrary or transcends the legitimate bounds of their authority. I. C. C. v. L. & N. R. R. Co., 
+227 U.S. 88
+, 33 Sup. Ct. 185; Precooling Case, 
+232 U.S. 199
+, 34 Sup. Ct. 291; Los Angeles Switching Case, 
+234 
+U.S. 294, 311
+, 312 S., 34 Sup. Ct. 814, and cases cited; Penn. R. R. Co. v. United States, 
+236 
+U.S. 351, 361
+, 35 S. Sup. Ct. 370.
+ The Commission did not hold that switching charges must be always the same, but did hold that they must be alike where the service was rendered under substantially similar circumstances and conditions. The Commission's report says:
+'We do not consider that the carriers must absorb the switching charges indiscriminately to all industries withih the switching limits of Richmond, if they choose to absorb the switching charges to any one industry off their rails. 
+
+[254 U.S. 57, 63]
+ 
+ The illegality herein found to exist is the receiving of a greater compensation for one service than for a like service under substantially similar circumstances and conditions. To take a concrete example and referring again to the diagram. Suppose industry C were five miles distant from the interchange tracks of the Seaboard, while industry B were only two miles distant. Suppose the Chesapeake & Ohio's switching charge amounted to $5, while that of the Southern was $2. If the Seaboard absorbed the Southern's $2 switching charge on traffic to industry B, we do not consider that it must absorb the entire $5 switching charge of the Chesapeake & Ohio on traffic to industry C but only to the extent to which the service is similar. In other words, it would probably be necessary for the Seaboard to absorb $2 of the $5 charge of the Chesapeake & Ohio.'
+
+ The practice condemned by the Commission, as its report and order show, was that of absorbing switching charges only when the line-haul carrier competes with the switching line, and refusing to absorb such charges when the switching line does not compete with the line-haul carrier; this, the Commission held was discrimination within the meaning of section 2 of the Act to Regulate Commerce. We find no occasion to disturb this ruling as arbitrary in character or beyond the authority of the Commission.
+ We find no merit in the contention that the order of the Commission was too vague and uncertain to be enforced.
+ Affirmed. 
+
+
+

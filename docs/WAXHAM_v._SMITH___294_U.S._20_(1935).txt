@@ -1,0 +1,67 @@
+Description: WAXHAM v. SMITH , 294 U.S. 20 (1935)
+Date: 1935-01-07 00:00:00
+Docket: 208
+Opinion
+
+
+United States Supreme Court
+WAXHAM v. SMITH(1935)
+No. 208
+Argued: December 4, 1934Decided: January 7, 1935
+
+
+
+
+[294 U.S. 20, 21]
+ 
+ Mr. Drury W. Cooper, of New York City (Mr. Raymond Ives Blakeslee, of Los Angeles, Cal., on the brief), for petitioner.
+ Mr. Albert L. Ely, of Akron Ohio, for respondents.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ In this companion case to Smith v. Snow, 
+294 
+U.S. 1
+, 55 S.Ct. 279, decided this day, certiorari was granted, 
+293 
+U.S. 537
+, 55 S.Ct. 78, 79 L.Ed. --, to review a decree of the Court of Appeals for the Ninth Circuit, 70 F.(2d) 457, which affirmed the decree of the District Court, and held valid and infringed the first claim of the Smith patent, No. 1, 262,860, of April 16, 1918, for an improved apparatus and method for the incubation of eggs.
+ The issues here, as in the Snow Case, are the scope of claim 1 and its infringement as righty construed. For reasons stated at length in the opinion in the Snow Case, our decision as to the scope of the claim is the same as in that case. Petitioner argues that the claim, if thus broadly construed, is invalid, as an attempt to patent the function performed by the petitioner's incubator. See Risdon Iron & Locomotive Works v. Medart, 
+158 
+U.S. 68, 77
+, 15 S.Ct. 745. It is said also that the function of the machine involves merely the application of the natural law that heat units flow from warm to cooler objects placed in proximity. But the function which a machine performs, here the hatching of eggs, is to be distinguished from the means by which that performance is secured. It is true that Smith made use of the difference in temperature of 
+
+[294 U.S. 20, 22]
+ 
+ eggs in different stages of incubation, and the flow of heat units from one to the other, in achieving the desired result. He did this by arrangement of the eggs in staged incubation and applying to them a current of heated air under the conditions specified in claim 1. By the use of materials in a particular manner, he secured the performance of the function by a means which had never occurred in nature and had not been anticipated by the prior art; this is a patentable method or process. Corning v. Burden, 15 How. 252, 267, 268; Risdon Iron & Locomotive Works v. Medart, supra, page 77 of 158 U.S., 15 S.Ct. 745; Cochrane v. Deener, 
+94 U.S. 780
+, 788. A method, which may be patented irrespective of the particular form of the mechanism which may be availed of for carrying it into operation, is not to be rejected as 'functional' merely because the specifications show a machine capable of using it. Expanded Metal Co. v. Bradford, 
+214 U.S. 366
+, 382-386, 29 S.Ct. 652; Cochrane v. Deener, supra, 787, 788 of 94 U.S.. Cf. Holland Furniture Co. v. Perkins Glue Co., 
+277 
+U.S. 245, 255
+, 256 S., 48 S.Ct. 474.
+ Petitioner's incubator differs only in unimportant mechanical details from the infringing machine in the Snow case. In it the eggs are set in staged incubation, at different levels, but in no particular order. They are subjected to circulation of heated air, set in motion by fans, which carries heat units from the warmer to the cooler eggs and maintains the air throughout the chamber at substantially uniform temperature. There is a fresh air intake behind the fans and openings in the ceiling for the exit of foul air. There is no central corridor; the tiers of egg trays being placed in or near the center of the chamber. There are no curtains or similar means of guiding the air currents set in motion by the fans. Two fans are placed on the side wall at the back of the chamber. They turn continuously, and are so constructed and operated as to propel currents of air, which proceed along the sides and the ceiling and floor of the chamber to the front wall, where 
+
+[294 U.S. 20, 23]
+ 
+ they are deflected in the direction of the fans and there 'drawn' toward them through the central part of the chamber. Less than 1 per cent. of the air passes out through the foul air exits in the course of making the described circuits, so that there is circulation and recirculation of the air within the chamber. The evidence supports the finding of the special master and of the two courts below that the currents of air set in motion by the fans flow continuously along defined paths.
+ The petitioner's machine thus employs every essential of the patented method as it is defined by claim 1. Petitioner does not avoid infringement of respondent's method patent merely by employing it in a machine of different structure than respondent's, whether more or less efficiently. Winans v. Denmead, 15 How. 330, 344; Sewall v. Jones, 
+91 U.S. 171
+, 184; Cochrane v. Deener, supra, 789 of 94 U.S.; Carnegie Steel Co. v. Cambria Iron Co., 
+185 
+U.S. 403, 441
+, 22 S.Ct. 698.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote *
+] Rehearing denied 
+294 
+U.S. 732
+, 55 S.Ct. 514, 79 L.Ed. --. 
+
+
+
+

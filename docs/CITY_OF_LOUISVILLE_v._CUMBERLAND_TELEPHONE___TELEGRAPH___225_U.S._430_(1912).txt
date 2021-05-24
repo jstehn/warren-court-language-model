@@ -1,0 +1,58 @@
+Description: CITY OF LOUISVILLE v. CUMBERLAND TELEPHONE & TELEGRAPH , 225 U.S. 430 (1912)
+Date: 1912-06-07 00:00:00
+Docket: 761
+Opinion
+
+
+United States Supreme Court
+CITY OF LOUISVILLE v. CUMBERLAND TELEPHONE & TELEGRAPH(1912)
+No. 761
+Argued: Decided: June 7, 1912
+
+
+
+
+[225 U.S. 430, 431]
+ 
+ Messrs. Clayton B. Blakey, Huston Quin, and Joseph S. Lawton for appellant.
+
+
+
+[225 U.S. 430, 432]
+ 
+ Messrs. William L. Granbery, Alexander Pope Humphrey, and Alexander Pope Humphrey, Jr., for appellee.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a bill to prevent the enforcement of an ordinance of the city of Louisville fixing telephone rates, passed in 1909, after the attempt of the city to deprive the appellee of its franchise, when that seemed likely to fail. See Louisville v. Cumberland Teleph. & Teleg. Co. [May 13, 1912, 
+224 U.S. 649
+, 56 L. ed. --, 32 Sup. Ct. Rep. 572]. The question raised is the usual one of con- 
+
+[225 U.S. 430, 433]
+ 
+ fiscation. In consequence of the conclusion to which we have come we shall make a much more summary statement of the facts than in other circumstances might be necessary. The case was referred to a master and he reported in favor of the city. He was of opinion that in the first year after the ordinance should go into effect there would be a less of $30,000, but that in another year or so, in view of the probable increase of subscribers, the company would get back to its former net revenue with a probable continuous increase thereafter and would earn a sufficient return. The judge was of a different opinion, and for the purposes of the present decision only we shall adopt his figures, subject to the changes that we shall state, which leave us unprepared to sustain the decree without giving the ordinance a trial to show its actual effect.
+ The judge's values were:
+
+ Plant, including tool lines $1,575,000.00 Real estate 162,000.00 Supplies on hand 18,000.00 Working capital 33,000.00 ___ $1,788,000.00 Gross earnings for 1908, including 15 per cent of receipts from toll lines. This was undisputed $325,838.30 The court added 10 per cent more of the toll line receipts, making 330,926.38 The master was of opinion that the remaining 85 per cent should be added, making the total gross earnings $369,087.00 For the purpose of such an estimate as this we think that the toll lines should be either in or out, and if they are to be counted in the property upon which the appellee is not to be prevented 
+
+[225 U.S. 430, 434]
+ 
+ by law from earning a fair return, as they are above, and the expenses charged to the appellee, the whole return from them should be added to the gross earnings of the appellee. So we take the total gross earnings as $369,087.00 Expenses as found by the master and accepted by the judge $216,363.07 But this includes amount charged to the Exchange for the use of real estate (less expenses for repairs), which, in view of the inclusion of real estate above, it should not 11,707.52 ___ $204,655.55 Deduct corrected expenses from gross earnings 204,655.55 ___ Net earnings $164,431.45 Even is we deduct from the net earnings a sum estimated by the judge as necessary above actual expenditures of 1908 to make good average depreciation 24,095.02 ___ we have $140,336,43 which is nearly 8 per cent on the estimated value. The master prophecies a falling off for the first year of 30,000.00 ___ which would leave $110,336.43 or over 6 per cent on the valuation assumed. 
+
+[225 U.S. 430, 435]
+ 
+ Suppose now that we leave out the toll lines. Plant, with real estate, etc., as above $1,788,000.00 Deduct toll lines estimated at 125,000.00 ___
+ $1,663,000.00 Gross earnings 325,838.30 Less 15 per cent form toll lines 7,632.11 ___ $318,206.19 Expenses $216,303.07 Less amount charged for use of real estate as above 11,707.52 ___
+ $204,655.55 Less toll line expenses which if estimated (in the absence of satisfactory proof as to their amount) by dividing expenses in proportion to receipts would be approximately 30,000.00 ___
+ $174,655.55 Deduct corrected expenses from gross earnings 174,655.55 ___
+ $143,550.64 Additional deduction for depreciation as before 24,095.02 ___
+ $119,455.62 Which is nearly 7 per cent, or, deducting for loss of custom the first year 30,000.00 ___
+ $89,455.62
+ which is just above 5 per cent on the judge's valuation. 
+
+[225 U.S. 430, 436]
+ 
+ We express no opinion whether to cut this telephone company down to 6 per cent by legislation would or would not be confiscatory. But when it is remembered what clear evidence the court requires before it declares legislation otherwise valid void on this ground, and when it is considered how speculative every figure is that we have set down with delusive exactness, we are of opinion that the result is too near the dividing line not to make actual experiment necessary. The master thought that the probable net income for the year that would suffer the greatest decrease would be 8.60 per cent on the values estimated by him. The judge, on assumptions to which we have stated our disagreement, makes the present earnings 5 10/17 per cent, with a reduction by the ordinance to 36/17 per cent. The whole question is too much in the air for us to feel authorized to let the injunction stand.
+ Decree reversed without prejudice. 
+
+
+

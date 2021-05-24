@@ -1,0 +1,75 @@
+Description: CITIZENS' SAV BANK & TRUST CO v. SEXTON , 264 U.S. 310 (1924)
+Date: 1924-03-17 00:00:00
+Docket: 261
+Opinion
+
+
+United States Supreme Court
+CITIZENS' SAV BANK & TRUST CO. v. SEXTON(1924)
+No. 261
+Argued: February 25, 1924Decided: March 17, 1924
+
+
+
+
+[264 U.S. 310, 311]
+ 
+ Messrs. Lawrence H. Brown and Frederick W. Dewart, both of Spokane, Wash., for appellant.
+ Mr. James A. Williams, of Spokane, Wash., for appellees.
+
+ Mr. Justice SANFORD delivered the opinion of the Court.
+ This is an appeal under Section 238 of the Judicial Code (Comp. St.  1215) from a decree dismissing a suit in equity for want of jurisdiction. The question certified for decision arises under the provision in Section 24 of the Judicial Code (Comp. St.  991) that:
+'No District Court shall have cognizance of any suit ... to recover upon any promissory note or other chose in action in favor of any assignee ... unless such suit might 
+
+[264 U.S. 310, 312]
+ 
+ have been prosecuted in such court ... if no assignment has been made.'1
+
+ The appellant, a citizen of Vermont, brought suit in the Eastern District of Washington, to recover on a promissory note for $5,000 and to foreclose a mortgage on land in the latter state given to secure it. The makers and the payee of the note are citizens of Washington. The note and mortgage were assigned and transferred by the payee to the plaintiff for a valuable consideration. The mortgaged land was thereafter conveyed by the makers of the note to a citizen of Washington, who, it is alleged, in consideration of a subsequent extension of the mortgage by the plaintiff expressly assumed its payment. The purchaser thereafter died. The defendants are the executor of his will, a citizen of Washington, and the devisees, citizens of Michigan and Ohio. A deficiency judgment is prayed against the executor if the proceeds of the foreclosure prove insufficient to pay the debt. Neither the makers nor the payee of the note are sued.
+ We conclude that the suit was rightly dismissed for want of jurisdiction.
+
+ 1. 
+Jurisdiction was invoked solely on the ground of diversity of citizenship. However the plaintiff's assignor, the payee of the note, being a citizen of Washington, could not have proceeded in the District Court against another citizen of the same state; and hence, under the restriction in Section 24 of the Code, nothing else appearing, the court had no jurisdiction of the suit brought by the plaintiff as assignee. Gibson v. Chew, 16 Pet. 315, 316; Kolze v. Hoadley, 
+200 
+U.S. 76, 83
+, 26 S. Sup. Ct. 220, and cases cited. 
+
+[264 U.S. 310, 313]
+ 
+ 2. If, however, it is shown, upon allegation and proof, that the relation of the parties to a note is otherwise than appears from its terms, and that the plaintiff, although apparently assignee, is in reality the payee, the Code provision does not apply and his right to invoke the jurisdiction of the District Court is not restricted by the fact that the suit could not have been prosecuted by the nominal payee. Holmes v. Goldsmith, 
+147 
+U.S. 150, 159
+, 13 S. Sup. Ct. 288. Such is the case where the nominal payee was merely the agent of the maker for the purpose of negotiating the note and had no beneficial interest therein or right of action thereon. Blair v. Chicago, 
+201 
+U.S. 400, 448
+, 26 S. Sup. Ct. 427; Kirven v. Chemical Co., 145 Fed. 288, 290, 76 C. C. A. 172, 7 Ann. Cas. 219; Wachusett Bank v. Stove Works, 56 Fed. 321, 323; Baltimore Trust Co. v. Secreven County (D. C.) 238 Fed. 834, 836; Commercial Trust Co. v. Laurens County (D. C.) 267 Fed. 901, 903.
+ To bring the suit within this exception the plaintiff alleged that in taking and assigning the note and mortgage, the payee acted as the mere broker and agent of the makers in procuring a loan from the plaintiff and neither became their creditor nor acquired any beneficial interest in the note or mortgage; but that the plaintiff was at all times the beneficial owner. The defendants denied these allegations. These issues of fact were tried by the District Judge, on evidence taken before him, from which he found that the payee, a member of a firm engaged in the mortgage loan business, did not act as agent for the makers, but for his firm, as independent dealers, and acquired the note and mortgage and afterwards sold them to the plaintiff as in 'the ordinary case where a person purchases property for resale.'
+ An examination of the evidence discloses no error in this finding; on the contrary it accords with the greater weight of the testimony.
+
+ 3. 
+It is urged that as the plaintiff seeks a deficiency judgment against the executor on the ground that his 
+
+[264 U.S. 310, 314]
+ 
+ testator expressly assumed payment of the mortgage to the plaintiff, the suit is maintainable in the District Court on this agreement, by reason of diversity of citizenship, without reference to the question whether the payee could have proceeded on the original note. The assignee of a chose in action, although prevented by the Code from maintaining an action thereon in the District Court, may nevertheless, if the requisite diversity of citizenship appears, proceed therein upon a new agreement subsequently made. American Colortype Co. v. Continental Co., 
+188 
+U.S. 104, 106
+, 23 S. Sup. Ct. 265; Kolze v. Hoadley, supra, p. 83 ( 26 Sup. Ct. 220). This rule, however, has no application here, since the main object of the suit is the foreclosure of the mortgage, to which the plaintiff must trace title through the assignment, and the relief sought by a deficiency judgment against the executor is merely ancillary and incidental to the primary purpose of the bill. Blacklock v. Small, 
+127 
+U.S. 96, 103
+, 8 S. Sup. Ct. 1096; Kolze v. Hoadley, supra, p. 85 ( 26 Sup. Ct. 220).
+ The decree of the District Court is accordingly
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] This restriction upon the jurisdiction of the lower Federal courts has been in force, with some changes not here material, since the Judiciary Act of 1789 (1 Stat. 73). The prior statutes, except Section 629 of the Revised Statutes (Comp. St.  991), are set forth in New Orleans v. Quinlan, 
+173 
+U.S. 191, 192
+, 19 S. Sup. Ct. 329. Decisions under them as well as under the Code provision are cited in this opinion without distinction in this respect. 
+
+
+
+

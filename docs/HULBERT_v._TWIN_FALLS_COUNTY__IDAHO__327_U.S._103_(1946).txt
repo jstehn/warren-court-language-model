@@ -1,0 +1,69 @@
+Description: HULBERT v. TWIN FALLS COUNTY, IDAHO, 327 U.S. 103 (1946)
+Date: 1946-02-04 00:00:00
+Docket: 238
+Opinion
+
+
+United States Supreme Court
+HULBERT v. TWIN FALLS COUNTY, IDAHO(1946)
+No. 238
+Argued: Decided: February 4, 1946
+
+
+
+ Maximum price regulation No. 133 applied to sale at auction of farm type gasoline tractor by Idaho county, so that bid in excess of ceiling price was enforceable only as to amount within ceiling price. Code Idaho 1932,  30-708; Emergency Price Control Act of 1942,  1 et seq., as amended, 50 U.S.C.A.Appendix,  901 et seq.
+
+Mr.Robert L. Stern, of Washington, D.C., for petitioners.
+ Mr. Everett M. Sweeley, of Twin Falls, Idaho, for respondent. 
+
+[327 
+U.S. 103, 104]
+ 
+
+ Mr. Justice BLACK delivered the opinion of the Court.
+ The petitioner Hulbert bid $1,050 for a used farm-type gasoline tractor which Twin Falls County, Idaho, offered for sale at an auction. His was the highest bid. Upon being informed by the Office of Price Administration that the amount bid was above the ceiling price of $723.56, Petitioner refused to pay the full amount. He tendered $723.56 which the County refused to accept. Thereupon the County sued the Petitioner in the State District Court for $1,050. Petitioner tendered $1,050 to be disposed of according to the outcome of the case. He defended on the ground that he had been advised by the Office of Price Administration that the regulation setting a ceiling price was applicable and stated that he was willing to pay any sum up to $1,050 which was not prohibited by this regulation. The Administrator intervened, alleging that the bid price exceeded the ceiling price fixed by Maximum Price Regulation 1331 and that the regulation was applicable to the sale of a tractor by the County. The County stated that prior to the sale it had been advised by the County Prosecuting Attorney that the sale would be controlled by Sec. 30-708 of the Idaho Code, Ann., and that the Office of Price Administration Regulations were inapplicable. The Idaho District Court held the sale subject to the Emergency Price Control Act, 50 U.S.C.A.Appendix  901 et seq., and to Reg lation No. 133. The Court gave judgment for the County for the ceiling price of $723.56, holding that the sale as to the amount above that ceiling price was void. The Supreme Court of Idaho reversed. 156 P.2d 319. We granted certiorari because the Supreme Court's decision conflicted with that of the Circuit Court for the Ninth Circuit in Bowles v. Case, 9 Cir., 149 F.2d 777.
+ The only question properly before us is whether Maximum Price Regulation No. 133 applies to sales of tractors 
+
+[327 
+U.S. 103, 105]
+ 
+ by a county. In defining the term 'person' the Regulation uses the same language as Section 302(h) of the Emergency Price Control Act. In Case v. Bowles, 
+327 
+U.S. 92
+, 66 S.Ct. 438, decided this day, we held that that language makes the Act applicable to sales by states and their subdivisions such as this one. For the reasons set out in that opinion, this language as employed in Regulation No. 133 makes that Regulation applicable to the sale of the tractor by the County.
+REVERSED.
+ Mr. Justice JACKSON took no part in the consideration or decision of this case.
+
+ Mr. Justice DOUGLAS, dissenting.
+ I think Judge Givens, writing for the Supreme Court of Idaho (156 P. 2d 319), has shown that it is at least doubtful if Congress meant to include the States as sellers under this Act. 
+1
+ I think there is little to add to his analysis except to say that the doubt for me is increased when the whole scheme of regulation is considered. While  302(h) would relieve the States from the criminal sanctions of the Act,2 they would be subject to the treble damage provisions of  205(e), where are remedial, not punitive, in nature. Bowles v. American Stores, 78 U.S.App.D.C. 238, 139 F. 2d 377, 379. And the Administrator would have the power under  205(f)(1) to require a State to get a license from him in order to sell its commodities-a license which would be subject to suspension.  205(f)(2). These are sub- 
+
+[327 
+U.S. 103, 106]
+ 
+ stantial intrusions on the sovereignty of the States, involving matters of great delicacy. And they raise for me serious constitutional questions. Cf. State of New York v. United States, 
+326 
+U.S. 572
+, 66 S.Ct. 310, dissenting opinion. Since the Act is at best ambiguous, I would choose the construction3 which avoided the constitutional issue. Only in the event that the language of the Act was explicit would I assume that Congress intended even in days of war to interfere with the traditional sovereignty of the States to the extent indicated. 
+
+Footnotes
+
+[
+Footnote 1
+] 7 F.R. 3185, 6936, 7599; 8 F.R. 234. 
+
+[
+Footnote 1
+] Sec. 302(h) defines the term "person" as including "an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative of any of the foregoing, and includes the United States or any agency thereof, or any other government, or any of its political subdivisions, or any agency of any of the foregoing: Provided, That no punishment provided by this Act shall apply to the United States, or to any such government, political subdivision, or agency." 
+[
+Footnote 2
+] See note 1, supra. 
+
+[
+Footnote 3
+] A permissible construction is that the phrase "the United States ... or any other government" means the United States or other comparable national sovereignties, i.e., foreign governments. 
+
+
+
+

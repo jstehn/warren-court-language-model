@@ -1,0 +1,59 @@
+Description: JOHN HANCOCK MUT LIFE INS CO v. WARREN , 181 U.S. 73 (1901)
+Date: 1901-04-08 00:00:00
+Docket: 196
+Opinion
+
+
+United States Supreme Court
+JOHN HANCOCK MUT LIFE INS CO v. WARREN(1901)
+No. 196
+Argued: Decided: April 8, 1901
+
+
+
+ This action was brought in the common pleas court of Delaware county, Ohio, on a policy of insurance issued September 27, 1895, by the John Hancock Mutual Life Insurance Company on the life of George E. Warren and for the benefit of William M. Warren. The insurance company resisted payment on the ground that the policy had been fraudulently obtained by the decedent, in that the answers made by him in his application made a part of the policy, and which were expressly warranted to be complete and true, the policy providing that if any of the statements were untrue it should be void, were false, and that he made them for the purpose of defrauding the insurance company, which would not have issued the policy had it known of the falsity of the answers.
+ Section 3625 of the Revised Statutes of Ohio provided that 'no answer to any interrogatory made by an applicant, in his or her clearly proved that such answer is wilfully recover upon any policy issued upon such application, or be used in evidence upon any trial to recover upon such policy, unless it be clearly proved that such answer is wilfully false and was fraudulently made, that it is material, and induced the company to issue the policy, and that but for such answer the policy would 
+
+[181 U.S. 73, 74]
+ 
+ not have been issued; and, moreover, that the agent of the company had no knowledge of the falsity or fraud of such answer.' Rev. Stat. Ohio, 1894, p. 1899
+
+
+ The trial judge charged the jury as follows: 'This law, being in force at the time this policy of insurance was taken out, is applicable to the policy of insurance involved in this case. And is applicable to the questions and answers in the application that by the terms of the policy are made express warranties, as well as those that are not.' The defendant duly excepted to that portion of the charge, and to other portions of the same purport. The defendant also requested the court to give the jury the following instruction: 'The policy or contract upon which this action is based, and the application made by George E. Warren for the same, constitute a warranty that all answers by said Warren contained therein are true; and if any one or more of said answers is untrue, though made without actual fraud, and under an innocent misapprehension of the purport of the questions and answers, no contract of insurance is thereby made, and the contract is void ab initio, and your verdict will be for the defendant.' The court declined to give this instruction, and defendant duly excepted.
+ The jury returned a verdict for the plaintiff, and judgment was entered thereon, which was affirmed by the circuit court, and finally by the supreme court of Ohio. John Hancock Mut. L. Ins. Co. v. Warren, 59 Ohio St. 45, 51 N. E. 546.
+ Messrs. George K. Nash, W. Z. Davis, and Louis G. Addison for plaintiff in error.
+ Messrs. John S. Jones, W. B. Jones, and F. M. Marriott for defendant in error.
+
+ Mr. Chief Justice fuller delivered the opinion of the court:
+ In State ex rel. Richards v. Ackerman, 51 Ohio St. 163, 24 L. R. A. 298, 37 N. E. 828, it was ruled that as foreign insurance companies and associations, whether incorporated or not, before commencing business in the state, were 
+
+[181 U.S. 73, 75]
+ 
+ required to obtain a certificate of authority to do so, which conferred on the company or association receiving it the right and privilege of carrying on its business in the state, the privilege so conferred was a franchise. In the course of the opinion the court quoted with approval, from Spelling on Extraordinary Relief, as follows: 'Where, by statute, the legal exercise of a right, which at common law was private, is made to depend upon compliance with conditions interposed for the security and protection of the public, the necessary inference is that it is no longer private, but has become a matter of public concern, that is, a franchise, the assumption and exercise of which, without complying with the conditions prescribed, would be a usurpation of a public or sovereigh function. . . . There was no class of business the transaction of which, as a matter of private right, was better recognized at common law than that of making contracts of insurance upon the lives of individuals. But now, by statute, in almost if not quite all the states, stringent requirements as to security of the persons dealing with insurers and the making and filing reports of public officers for public information are provided, and must be strictly observed and complied with before any person, association, or corporation may make any contract of life insurance. The effect of such statute is to make that a franchise which previously had been a matter purely of private right.'
+ In the present case the supreme court of Ohio sustained the constitutionality of  3625 of the Revised Statues, which was in force at the time this policy was issued, upon the ground that the state had a right 'to prescribe the terms and conditions upon which it grants such franchise; and the insurance company, having accepted the franchise with its terms and conditions, is bound thereby, and must accept the burdens with the benefits.' The legal effect was held to be the same 'as if the section was copied into and made a part of the policy.' And it was said that the statute had also been held constitutional in National L. Ins. Co. v. Brobst, 56 Ohio St. 728, 49 N. E. 1113, where no opinion seems to have been delivered.
+ The section in question applies to all life insurance companies doing business in the state of Ohio, and the state can certainly 
+
+[181 U.S. 73, 76]
+ 
+ do with foreign corporations what it may do with corporations of its own creation.
+ In Orient Ins. Co. v. Daggs, 
+172 U.S. 557
+, 43 L. ed. 552, 19 Sup. Ct. Rep. 281, we held that provisions in the Revised Statutes of Missouri, that 'in all suits brought upon policies of insurance against loss or damage by fire, hereafter issued or renewed, the defendant shall not be permitted to deny that the property insured thereby was worth at the time of the issuing of the policy the full amount insured therein on said property,' etc.; and 'that no condition in any policy of insurance contrary to such provision [of this article] shall be legal or valid,'- were not in conflict with the Constitution of the United States. And this was affirmed in New York L. Ins. Co. v. Coavens, 
+178 U.S. 389
+, 44 L. ed. 1116, 20 Sup. Ct. Rep. 962.
+ In Waters-Pierce Oil Co. v. Texas, 
+177 U.S. 28
+, 44 L. ed. 657, 20 Sup. Ct. Rep. 518, where a statute of Texas was assailed on the ground that it took away the liberty of contract, Mr. Justice McKenna, delivering the opinion of the court, said: 'The plaintiff in error is a foreign corporation, and what right of contracting has it in the state of Texas? This is the only inquiry, and it cannot find an answer in the rights of natural persons. It can only find an answer in the rights of corporations and the power of the state over them. What those rights are, and what that power is, has often been declared by this court. A corporation is the creature of the law, and none of its powers are original. They are precisely what the incorporating act has made them, and can only be exerted in the manner which that act authorizes. In other words, the state prescribes the purposes of a corporation and the means of executing those purposes. The purposes and means are within the state's control. This is true as to domestic corporations. It has even a broader application to foreign corporations.' And as the state court had held that the statute was a condition imposed on the oil company on doing business within the state, it was said of it that 'whatever its limitations were upon the power of contracting, whatever its discriminations were, they became conditions of the permit, and were accepted with it.' And see Tullis v. Lake Erie & W. R. Co. 
+175 U.S. 348
+, 44 L. ed. 192, 20 Sup. Ct. Rep. 136; Equitable Life Assur. Soc. v. Clements, 
+140 U.S. 226
+, sub nom. Equitable Life Assur. Soc. v. Pettus, 35 L. ed. 497, 11 Sup. Ct. Rep. 822.
+ It was for the legislature of Ohio to define the public policy 
+
+[181 U.S. 73, 77]
+ 
+ of that state in respect of life insurance, and to impose such conditions on the transaction of business by life insurance companies within the state as was deemed best. We do not perceive any arbitrary classification or unlawful discrimination in this legislation, but, at all events, we cannot say that the Federal Constitution has been violated in the exercise in this regard by the state of its undoubted power over corporations.
+ Judgment affirmed. 
+
+
+

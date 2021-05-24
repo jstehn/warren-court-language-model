@@ -1,0 +1,65 @@
+Description: LLOYD v. MATTHEWS , 155 U.S. 222 (1894)
+Date: 1894-12-03 00:00:00
+Docket: 81
+Opinion
+
+
+United States Supreme Court
+LLOYD v. MATTHEWS(1894)
+No. 81
+Argued: Decided: December 3, 1894
+
+
+ The third paragraph denied any consideration for the transfer. The fourth alleged the transfer to be fraudulent and done with intent to hinder and delay Harper's creditors. The fifth averred that the transfer was made by Harper with the intent to prefer Miss Matthews, if she was a creditor, which defendant denied, over his other creditors, and was void under section 6343 of the Revised Statutes of the state of Ohio, which reads as follows: 
+
+[155 U.S. 222, 225]
+ 
+ 'All assignments in trust to a trustee or trustees, made in contemplation of insolvency, with the intent to prefer one or more creditors, shall inure to the equal benefit of all creditors in proportion to the amount of their respective claims, and the trusts arising under the same shall be administered in conformity with the provisions of this chapter.'
+ On May 18, 1888, Miss Matthews filed reply to the original answer and cross petition of Lloyd, trustee, as follows:
+'The defendant Hattie A. Matthews, for reply to answer and cross petition of H. P. Lloyd says she admits E. L. Harper was insolvent when he assigned the building association stock to her.
+
+'She admits that he assigned the stock to her with the intention to prefer her to the exclusion of the creditors, but, as was stated in her original pleadings, this was allowable under the laws of Ohio.
+
+'She denies that under the provisions of the laws which are set out in said pleading of Lloyd, to which this is a reply, there is anything which invalidates the transfer of the stock to this defendant, the same involved in the case.
+
+'Wherefore the defendant prays as in her original pleadings, and for general relief.'
+
+ The chancery court rendered judgment in favor of Lloyd, trustee, for the full value of the stock, amounting as a money demand against the building association to the sum of $4,914.89, and Miss Matthews and Otten appealed to the court of appeals of the state of Kentucky, which reversed the judgment of the chancery court, and remanded the cause, with directions to render judgment in favor of Miss Matthews, in conformity to the opinion. Matthews v. Lloyd, 89 Ky. 625, 13 S. W. 106.
+ To review this judgment a writ of error from this court was allowed.
+ H. P. Lloyd and C. L. Raison, Jr., for plaintiff in error.
+ Chas. H. Fisk and Chas. J. Helm, for defendant in error. 
+
+[155 U.S. 222, 226]
+ 
+
+ Mr. Chief Justice FULLER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ The federal question upon which plaintiff relies to sustain our jurisdiction is that, under the statutory law of Ohio set out in his pleading, the transfer of the stock in question was void, and that the court of appeals of Kentucky in rendering judgment did not give that full faith and credit to the public acts, records, and judicial proceedings of the state of Ohio which the constitution and the law of the United States require. Const. art. 4,  1; Rev. St.  905.
+ The first error assigned is as follows: 'The court of appeals of Kentucky erred in the decision rendered in this case below, in failing to give full faith and credit to the laws of the state of Ohio which were presented in the pleadings, in failing to give full faith and creit to the judicial construction of such laws by the highest court of said state, and in failing to give full faith and credit to the judicial proceedings of the probate court of Hamilton county, Ohio, as set forth in the pleadings.'
+ We do not find that the record contains any judicial proceedings of the probate court of Hamilton county, Ohio, but suppose the reference to be to proceedings in insolvency upon the filing of the deed of assignment by Harper, under which Lloyd, trustee, claims, and that such insolvency proceedings could have no greater effect on the question of title than allowed by the laws of Ohio in the matter of the preference of creditors.
+ The court of appeals of Kentucky held that, as the parties all resided in Ohio, and the entire transaction occurred there, its validity was to be tested by the law in force there; that at common law a debtor had a right to prefer a creditor, either by payment or an express preference in a deed of assignment; that he had a right to pay his debt, and it was only by virtue of statutory law that such a payment could be held invalid, and the creditor be compelled to surrender his advantage; that in the absence of any showing of the existence of such a statute in another state, it must be presumed that the common law was in force there; that section 
+
+[155 U.S. 222, 227]
+ 
+ 6343 of the Revised Statutes of Ohio, set out in the pleadings, did not appear 'to embrace a case like this one, but to relate alone to preferences made in deeds of assignment to trustees for creditors generally'; that this transfer could not properly be held to be a part of the deed of assignment; and that, tested by the rules of the common law, the preference was not invalid.
+ Now, in arriving at these conclusions, the court of appeals did not concur with the views of Harper's assignee; but does it therefore follow that full faith and credit was denied to the laws of Ohio and to the construction of such laws by the highest court of that state? The courts of the United States, when exercising their original jurisdiction, take notice, without proof, of the laws of the several states; but in the supreme court of the United States, when acting under its appellate jurisdiction, whatever was matter of fact in the state court whose judgment or decree is under review is matter of fact there. And whenever a court of one state is required to ascertain what effect a public act of another state has in that state, the law of such other state must be proved as a fact. Chicago & A. R. Co. v. Wiggins Ferry Co., 
+119 U.S. 615
+, 7 Sup. Ct. 398; Hanley v. Donoghue, 
+116 U.S. 1
+, 6 Sup. Ct. 242.
+ The court of appeals was obliged to determine the case on the record, and plaintiff in error had failed to plead the construction given the Ohio statutes by the courts of Ohio, or to introduce the printed books of cases adjudged in the state of Ohio, or to prove the common law of that state by the parol evidence of persons learned in that law, or to put in evidence the laws of that state as printed under the authority thereof, or a certified copy thereof, as provided by the law of Kentucky. Gen. St. Ky. 1888, c. 37,  17, 19, pp. 546, 547.
+ The court of appeals was left, therefore, to construe the parts of the Ohio laws that were pleaded as it would local laws; and it is settled that under such circumstances, where the validity of a state law is not drawn in question, but merely its construction, no federal question arises. As was remarked in Glenn v. Garth, 
+147 
+U.S. 360, 368
+, 13 S. Sup. Ct. 350: 'If every time the courts of a state put a construction upon the statutes of 
+
+[155 U.S. 222, 228]
+ 
+ another state, this court may be required to determine whether that construction was or was not correct, upon the ground that if it were concluded that the construction was incorrect it would follow that the state courts had refused to give full faith and credit to the statutes involved, our jurisdiction would be enlarged in a manner never heretofore believed to have been contemplated.' Banking Co. v. Marshall, 12 How. 165; Cook Co. v. Calumet & C. Canal & Dock Co., 
+138 U.S. 635
+, 11 Sup. Ct. 435.
+ This record contains nothing to show as matter of fact that the public acts of Ohio had by law or usage in Ohio any other effect than was given them by the court of appeals of Kentucky.
+ Writ of error dismissed.
+ Mr. Justice HARLAN was of opinion that the writ of error should be retained and the judgment affirmed. 
+
+
+

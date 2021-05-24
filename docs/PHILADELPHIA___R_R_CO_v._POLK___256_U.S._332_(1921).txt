@@ -1,0 +1,57 @@
+Description: PHILADELPHIA & R R CO v. POLK , 256 U.S. 332 (1921)
+Date: 1921-05-16 00:00:00
+Docket: 298
+Opinion
+
+
+United States Supreme Court
+PHILADELPHIA & R R. CO. v. POLK(1921)
+No. 298
+Argued: April 28, 1921Decided: May 16, 1921
+
+
+
+ Mr. George Gowen Parry, of Philadelphia, Pa., for petitioner.
+ Mr. Francis M. McAdams, of Philadelphia, Pa., for respondent.
+
+ Mr. Justice McKENNA delivered the opinion of the Court.
+ Certiorari to review a judgment of the Supreme Court of the state of Pennsylvania affirming an award made under the Workmen's Compensation Board of the state in favor of respondent who is the widow of John M. Polk, who died as the result of an accident, occurring in the course of his employment by the railway company.
+ The matter of her petition proceeded in due course from referee of the board to the board, from the latter to the court of common pleas, and thence to the Supreme Court of the state, she being adjudged by all of them entitled 
+
+[256 U.S. 332, 333]
+ 
+ to an award under the Workmen's Compensation Act of the state (Pa. St. 1920,  21916 et seq.).
+ The facts as found are that Polk on August 28, 1917, while employed by the railway company on a freight train, in its Port Richmond Yard, handled by engine No. 832 was caught between two cars, and as a result thereof sustained injuries from which he died.
+ At the time of the occurrence of the injury the company was a common carrier, by rail, engaged in interstate and intrastate commerce, and that at such time there was a draft of freight cars attached to the engine which was in charge of the crew of which Polk was a member. Some of these cars were bound from points within the state to other points within the state and the others were loaded with various commodities, some of which were bound from points outside of the state to points within the state, and others of which were bound from points within the state to points outside of the state, and there was at least one car of this draft which was passing through the state from a point in New York to a point in Illinois.
+ The board, upon the appeal of the company, adopted the findings of fact and conclusions of law of the referee and affirmed his award. This action was affirmed by the court of common pleas and the latter's judgment by the Supreme Court. 266 Pa. 335, 109 Atl. 627.
+ The referee did not find definitely as a fact that Polk was engaged in intrastate commerce at the time of his injury, but assumed that the fact might be so; therefore, regarded it as so, because in his (the referee's) opinion the burden of proving the contrary; that is, that Polk 'was actually engaged in work incident to interstate commerce,' was upon the company and the company had 'not met the burden required of it' and further, that the company 'offered no testimony whatever to show what work John M. Polk was performing at the time he was injured. ...'
+ The Supreme Court approved the findings and the 
+
+[256 U.S. 332, 334]
+ 
+ deductions from them. It is manifest therefore that the case is within the rule of Philadelphia & Reading Railway Co. v. Maria Domenica Di Donato, 
+256 U.S. 327
+, 41 Sup. Ct. 516, 65 L. Ed. --, just decided. Here, as there, the employment concerned both kinds of commerce and was to be exercised as much on one as on the other. In other words, was as much and as intimately directed to the interstate cars and freight as to the intrastate cars and freight, and that there might have been some duties directed to the latter though there is no evidence of it, is the suggestion of a speculation that has no tangible prompting in the case.
+ Besides, we cannot accede to the view that there is a presumption that duties performed on a train constituted of interstate and intrastate commerce were performed in the latter commerce. The presumption, indeed, might be the other way. It is to be remembered that it is the declaration of the cases that if there is an element of interstate commerce in a traffic or employment it determines the remedy of the employee. Second Employers' Liability Cases, 
+223 U.S. 1
+, 32 Sup. Ct. 169, 38 L. R. A. (N. S.) 44; New York Central Railroad Co. v. Winfield, 
+244 U.S. 147
+, 37 Sup. Ct. 546, N. P. Ry. v. State of Washington, 
+222 
+U.S. 370, 375
+, 32 S. Sup. Ct. 160, declares and illustrates the principle. Expressing the facts and the law applicable to them, it was said:
+'The train, although moving from one point to another in the state of Washington, was hauling merchandise from points outside of the state destined to points within the state and from points within the state to points in British Columbia. ... This transportation was interstate commerce, and the train was an interstate train, despite the fact that it may also have been carrying some local freight. In view of the unity and indivisibility of the service of the train crew and the paramount character of the authority of Congress to regulate commerce, the act of Congress was exclusively controlling. Southern Ry. v. United States, 
+222 U.S. 20
+,' 32 Sup. Ct. 2. 
+
+[256 U.S. 332, 335]
+ 
+ It would seem indisputable, therefore, if there be an assertion of the claim or remedy growing out of an occurrence in which there are constituents of interstate commerce the burden of explanation and avoidance is on him who asserts the claim or remedy, not on the railway company to which it is directed, and there is nothing in Osborne v. Gray, 
+241 U.S. 16
+, 36 Sup. Ct. 486, in opposition. Indeed, the court was asked in that case to do what the referee and the Supreme Court in this case have done; that is, to assume to know things of which there is no evidence.
+
+ Judgment reversed and cause remanded for further proceedings not inconsistent with this opinion.
+ Mr. Justice CLARKE dissents. 
+
+
+

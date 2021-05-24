@@ -1,0 +1,50 @@
+Description: TINDLE v. BIRKETT , 205 U.S. 183 (1907)
+Date: 1907-03-25 00:00:00
+Docket: 217
+Opinion
+
+
+United States Supreme Court
+TINDLE v. BIRKETT(1907)
+No. 217
+Argued: February 28, 1907Decided: March 25, 1907
+
+
+
+
+[205 U.S. 183, 184]
+ 
+ Mr. Frank Gibbons for plaintiffs in error.
+ No counsel appeared for defendant in error.
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ This was an action brought in 1899 to recover damages claimed to have been sustained in consequence of specified false and fraudulent representations made by the firm of which the defendant was survivor, by reason whereof plaintiffs alleged 
+
+[205 U.S. 183, 185]
+ 
+ they were deceived into selling goods to defendant's firm, which they otherwise would not have done. The complaint contained three counts, setting up separate items of damages, namely, $349.30, $230.83, and $321. 73 for goods sold, and judgment was demanded for the aggregate, with interest on each item.
+ One of the defenses was that plaintiffs' claims were barred by a discharge in bankruptcy of defendant's firm, to which plaintiffs replied that they were not such as could be discharged in bankruptcy proceedings.
+ The New York court of appeals held that, according to the rulings of this court in Crawford v. Burke, 
+195 U.S. 176
+, 49 L. ed. 147, 25 Sup. Ct. Rep. 9, the alleged indebtedness to plaintiffs was covered by the discharge, and directed plaintiffs' complaint to be dismissed. 183 N. Y. 267, 76 N. E. 25.
+ This writ of error was then prosecuted, and plaintiffs' counsel contends that their debts were not provable debts, and therefore not discharged, and that Crawford v. Burke might well be modified in view of certain suggestions deemed to be novel.
+ Sections 17 and 63a of the bankruptcy act of 1898 read as follows:
+'Sec. 17. A discharge in bankruptcy shall release a bankrupt from all of his provable debts, except such as . . . (2) are judgments in actions for frauds, or obtaining property by false pretenses or false representations, or for wilful and malicious injuries to the person or property of another; . . . or (4) were created by his fraud, embezzlement, misappropriation, or defalcation while acting as an officer or in any fiduciary capacity.
+
+'Sec. 63. Debts which may be proved:--
+
+'(a) Debts of the bankrupt may be proved and allowed against his estate which are (1) a fixed liability, as evidenced by a judgment or an instrument in writing, absolutely owing at the time of the filing of the petition against him, whether then payable or not . . . ; (4) founded upon an open account, or upon a contract expressed or implied; and (5) founded 
+
+[205 U.S. 183, 186]
+ 
+ upon provable debts reduced to judgments after the filing of the petition and before the consideration of the bankrupt's application for a discharge.' [30 Stat. at L. 550, 562, chap. 541, U. S. Comp. Stat. 1901, pp. 3428, 3447.]
+
+ Counsel admit that the claims in question were all liquidated. By their nature and amount as well as by the form of the complaint they stand upon the contracts originally made. Whiteside v. Brawley, 152 Mass. 133, 134, 24 N. E. 1088
+
+
+ Crawford v. Burke was an action in trover instituted in the circuit court of Cook county, Illinois, by Burke against Crawford and Valentine, plaintiffs in error, to recover damages for the wilful and fraudulent conversion of the interests of the plaintiff in certain shares of stock. There were ten counts in the declaration, five charging fraudulent conversion of that stock, and five, the obtaining of money from plaintiff in the way of margins by means of false and fraudulent representations. Defendants pleaded their discharge in bankruptcy, but were found guilty on all the counts, and judgment was entered against them, which was affirmed by the appellate court and by the supreme court of Illinois. This court held that plaintiff's claim was 'provable under the bankruptcy act,' that is, was 'susceptible of being proved,' and that it might have been proved under  63a as 'founded upon an open account or upon a contract express or implied,' if plaintiff had chosen to waive the tort and take his place with the other creditors of the estate. And that the words, in the fourth subdivision of  17, 'while acting as an officer, or in any fiduciary capacity,' extended to 'fraud, embezzlement, misappropriation' as well as 'defalcation.'
+ That case completely determines this, as the New York Court of Appeals correctly held.
+ Judgment affirmed. 
+
+
+

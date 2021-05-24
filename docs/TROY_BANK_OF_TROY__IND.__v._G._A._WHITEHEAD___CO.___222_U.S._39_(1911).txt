@@ -1,0 +1,49 @@
+Description: TROY BANK OF TROY, IND., v. G. A. WHITEHEAD & CO. , 222 U.S. 39 (1911)
+Date: 1911-11-06 00:00:00
+Docket: 566
+Opinion
+
+
+United States Supreme Court
+TROY BANK OF TROY, IND., v. G. A. WHITEHEAD & CO.(1911)
+No. 566
+Argued: Decided: November 6, 1911
+
+
+
+ Messrs. George W. Jolly and B. F. Huffman for appellants.
+ Mr. Ben D. Ringo for appellee.
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ This was a suit in equity wherein the jurisdiction of the circuit court was invoked on the ground of diverse citizenship, and the sole question now presented for decision 
+
+[222 U.S. 39, 40]
+ 
+ is whether the sum or value of the matter in dispute exceeded $2,000, exclusive of interest and costs, as required by the act of August 13, 1888, chap. 866,  1, 25 Stat. at L. 433, U. S. Comp. Stat. 1901, p. 508. The facts are these:
+ Upon a sale of land situated in the western district of Kentucky, the vendor lawfully reserved a vendor's lien for the unpaid portion of the purchase price, for which he took two promissory notes of $1,200 each, payable in one and two years. Shortly thereafter the notes were assigned to the present appellants, one to each; and by the law of Kentucky the vendor's lien passed to the assignees, as a common security for the payment of both notes, without any priority of right in either assignee. After the maturity of the notes, both remaining wholly unpaid, the assignees jointly brought this suit to enforce the vendor's lien. They and their assignor were citizens of Indiana, and the defendant, who acquired the land with notice of the lien, was a citizen of Kentucky.
+ By a demurrer to the bill the defendant challenged the jurisdiction of the circuit court, upon the ground that the matter in dispute was not of the requisite jurisdictional value; and the court, being of opinion that such value was not to be measured by the extent to which the plaintiffs collectively were seeking to enforce the lien as a common security, but by the extent to which each was interested in its enforcement, sustained the demurrer and dismissed the bill for want of jurisdiction. 184 Fed. 932. The plaintiffs then appealed directly to this court, and the circuit court appropriately certified the question of jurisdiction. Act of March 3, 1891, chap. 517,  5, 26 Stat. at L. 826, U. S. Comp. Stat. 1901, p. 549.
+ When two or more plaintiffs, having separate and distinct demands, unite for convenience and economy in a single suit, it is essential that the demand of each be of the requisite jurisdictional amount; but when several plaintiffs unite to enforce a single title or right, in which 
+
+[222 U.S. 39, 41]
+ 
+ they have a common and undivided interest, it is enough if their interests collectively equal the jurisdictional amount. Shields v. Thomas, 17 How. 3, 15 L. ed. 93; Rodd v. Heartt, 17 Wall. 354, 21 L. ed. 627; Davies v. Corbin, 
+112 
+U.S. 36, 40
+, 28 S. L. ed. 627, 629, 5 Sup. Ct. Rep. 4; Gibson v. Shufeldt, 
+122 U.S. 27
+, 30 L. ed. 1083, 7 Sup. Ct. Rep. 1066; New Orleans P. R. Co. v. Parker, 
+143 U.S. 42
+, 36 L. ed. 66, 12 Sup. Ct. Rep. 364; Walter v. Northeastern R. Co. 
+147 
+U.S. 370, 373
+, 37 S. L. ed. 206, 208, 13 Sup. Ct. Rep. 348; Davis v. Schwartz, 
+155 
+U.S. 63, 647
+, 39 S. L. ed. 289, 296, 15 Sup. Ct. Rep. 237; Illinois C. R. Co. v. Adams, 
+180 U.S. 28
+, 45 L. ed. 410, 21 Sup. Ct. Rep. 251.
+ The present suit is of the latter class. Its controlling object-that which makes it cognizable in equity-is the enforcement of the vendor's lien, which is a single thing or entity in which the plaintiffs have a common and undivided interest, and which neither can enforce in the absence of the other. Thus, while their claims under the notes were separate and distinct, their claim under the vendor's lien was single and undivided, and the lien was sought to be enforced as a common security for the payment of both notes.
+ It follows that the Circuit Court erred in holding that it was without jurisdiction; and its decree is accordingly reversed, with directions to overrule the demurrer to the bill, and to take such further proceedings in the case as may be appropriate. 
+
+
+

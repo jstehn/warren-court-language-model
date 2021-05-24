@@ -1,0 +1,72 @@
+Description: HARDT v. HEIDWEYER , 152 U.S. 547 (1893)
+Date: 1893-11-27 00:00:00
+Docket: 268
+Opinion
+
+
+United States Supreme Court
+HARDT v. HEIDWEYER(1893)
+No. 268
+Argued: Decided: November 27, 1893
+
+
+ It is insisted that this construction of the statute should be accepted by this court as controlling, and the case of Union Bank of Chicago v. Kansas City Bank, 
+136 
+U.S. 223, 235
+, 10 S. Sup. Ct. 1013, is cited, in which this court said:
+'The question of the construction and effect of a statute of a state regulating assignments for the benefit of creditors is a question upon which the decisions of the highest court of the state, establishing a rule of property, are of controlling authority in the courts of the United States.'
+
+ But we deem it unnecessary to enter into any consideration of this question, or to determine whether there is any substantial difference between the views of the supreme court of Illinois and those of this court, or whether, in case such difference be found to exist, it becomes the duty of this court to defer to the opinions expressed by that, for there are questions nearer to the surface and controlling. Even if it be conceded 
+
+[152 U.S. 547, 558]
+ 
+ that there is not disclosed by this bill that which is equivalent to a voluntary assignment within the scope of the statute, and that, in the absence of restrictive statutes, a failing debtor has the right to prefer certain creditors, even to the entire exclusion of others (Jewell v. Knight, 
+123 
+U.S. 426, 434
+, 8 S. Sup. Ct. 193, and cases cited; Smith v. Craft, 
+123 U.S. 436
+, 8 Sup. Ct. 196), yet such debtor cannot, under pretense of preferring certain creditors, pay to them sums largely in excess of their demands, and thus prevent his other creditors from receiving any payment. Here the charge distinctly is that, while Heidweyer & Stieglitz claimed to owe the preferred creditors certain sums, for which they gave judgment notes, and which judgment notes were afterwards satisfied in full, yet the amounts in fact due to such creditors were much less than those so named and paid; and that is a wrong of which the creditors who receive no payment can justly complain. It is unnecessary, therefore, to inquire whether the transaction between Heidweyer & Stieglitz and these creditors was within the inhibition of the statute or not.
+ While this is so, we are constrained to hold that the plaintiffs have not shown due promptness in asserting their rights. It is said by counsel for defendants that it was the decision in White v. Cotzhausen which enabled the plaintiffs to perceive that they had been defrauded, and our attention is called to the fact that the opinion in that case was announced January 28, 1889, and this suit was commenced April 23, 1889. Post hoc, propter hoc, is not, however, sufficient, and the rule of causation implies some other sequence than that of time. Nevertheless, the plaintiffs waited nearly five years before commencing any proceedings to charge the preferred creditors, and no satisfactory excuse for the delay is shown. It is well settled that a party who seeks to avoid the consequences of an apparently unreasonable delay in the assertion of his rights on the ground of ignorance must allege and prove, not merely the fact of ignorance, but also when and how knowledge was obtained, in order that the court may determine whether reasonable effort was made by him to ascertain the facts. Thus, in Stearns v. Page, 1 Story, 204, 215, 217, Fed. Cas. No. 13,339, Mr. Justice Story observed: 
+
+[152 U.S. 547, 559]
+ 
+ 'General allegations that there has been fraud or mistake or concealment or misrepresentations are too loose for purposes of this sort. The charges must be reasonable, definite, and certain as to time and occasion and subject-matter. And especially must there be distinct averments of the time when the fraud, mistake, concealment, or misrepresentation was discovered, and how discovered, and what the discovery is; so that the court may clearly see whether, by the exercise of ordinary diligence, the discovery might not have been before made; for if, by such diligence, the discovery might have been before made, the bill has no foundation on which it can stand in equity on account of the laches . ... But the bill does not state what particular discoveries have been obtained, or when they were obtained, or by what inquiries, or in what manner, or at what time.'
+ On appeal this decision was affirmed (7 How. 819), and in delivering the opinion of this court Mr. Justice Grier laid down the rule in this language:
+'And especially must there be distinct averments as to the time when the fraud, mistake, concealment, or misrepresentation was discovered, and what the discovery is, so that the court may clearly see whether, by the exercise of ordinary diligence, the discovery might not have been before made.'
+
+ Similar declarations may be found in several subsequent cases. Badger v. Badger, 2 Wall. 87, in which is found this quotation:
+'The party who makes such appeal should set forth in his bill specifically what were the impediments to an earlier prosecution of his claim; how he came to be so long ignorant of his rights, and the means used by the respondent to fraudulently keep him in ignorance; and how and when he first came to a knowledge of the matters alleged in his bill.'
+
+ Godden v. Kimmell, 
+99 U.S. 201
+, 211; Wood v. Carpenter, 
+101 U.S. 135
+, 140,-in which this court said:
+'A general allegation of ignorance at one time and of knowledge at another is of no effect. If the plaintiff made any particular discovery, it should be stated when it was made, what it was, how it was made, and why it was not 
+
+[152 U.S. 547, 560]
+ 
+ made sooner.' See, also, Lansdale v. Smith, 
+106 
+U.S. 391, 394
+, 1 S. Sup. Ct. 350; Hammond v. Hopkins, 
+143 
+U.S. 224, 251
+, 12 S. Sup. Ct. 418; Felix v. Patrick, 
+145 
+U.S. 317, 332
+, 12 S. Sup. Ct. 862; Foster v. Railroad Co., 
+146 U.S. 88
+, 13 Sup. Ct. 28; Fisher v. Boody, 1 Curt. 206, Fed. Cas. No. 4, 814; Carr v. Hilton, 1 Curt. 390, Fed. Cas. No. 2,437; Moore v. Greene, 2 Curt. 202, Fed. Cas. No. 9,763.
+
+ Tested by this rule, it is apparent that this bill must be held deficient, in not showing how knowledge of the wrongs complained of was obtained by the plaintiffs. It is alleged that they were ignorant, and now have knowledge, and that they acquired such knowledge within a month prior to bringing the suit; but how they acquired it, and why they did not have the same means of ascertaining the facts before, is not disclosed.
+ What were the wrongs complained of? So far as the mere preference is concerned, that was obvious. If the attorneys' fees were improper (Young v. Clapp, ubi supra; Hulse v. Mershon, 125 Ill. 52, 17 N. E. 50), the fact that such attorneys' fees were specified in the notes and included in the judgments was a matter of record. That the stock of goods sold at sheriff's sale for less than its value does not, of itself, show wrong on the part of the parties thereto, plaintiffs or defendants. No act is shown tending to prevent a fair sale, and the result-that of realizing less than the value-is a common experience of such sales, and of itself proves nothing amiss. If these plaintiffs failed to attend such sales they cannot complain of the result, and if they did attend they should have seen to it that the property brought its value. At any rate, there is no pretense of a want of knowledge on the part of these plaintiffs. There remain, therefore, as the concealed wrongs, only these matters: First, that the judgment notes were in excess of the real demands; second, that Heidweyer & Stieglitz transferred their bills and accounts receivable in trust to Florsheim, and that that trust included an individual debt of one of the partners. That the plaintiffs knew of the existence of these bills and accounts is shown, and their alleged ignorance is only of the fact of their transfer in trust.
+ Now, it is a matter of common experience that when there 
+
+[152 U.S. 547, 561]
+ 
+ is so pronounced a failure on the part of a firm carrying such a large stock, there is made by the creditors a thorough examination of the situation. That such an examination, if made, would disclose any substantial difference between the true indebtedness to these preferred creditors, and the amount of the notes given to them seems reasonably certain, and if no such examination was made, it indicated indifference on the part of the other creditors. If the plaintiffs relied on the mere statements of these defendants, why did they cease to rely upon such statements, and how did they become advised of their untruth? So, with reference to the bills and accounts receivable; knowing what they were, they could easily have ascertained whether they were collected, and, if so, by whom. If collected by other than their debtors, that fact certainly should have provoked inquiry. If collected by the debtors, why were the moneys received not appropriated in payment of other than the preferred claims?
+ These are matters in respect to which the bill fails to enlighten us. Indeed, so far as disclosed, it would seem that when the debtors failing, and failing for so large a sum, appropriated all their tangible property to the payment of a few of their creditors, the others, including these plaintiffs, accepted the situation, and made no inquiry or challenge of the integrity of the transaction for nearly five years. Such indifference and inattention must be adjudged laches. Upon this ground alone, and without reference to any other questions discussed by counsel in the briefs, the decree of the circuit court is affirmed. 
+
+
+

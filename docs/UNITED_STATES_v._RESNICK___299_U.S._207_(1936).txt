@@ -1,0 +1,55 @@
+Description: UNITED STATES v. RESNICK , 299 U.S. 207 (1936)
+Date: 1936-12-07 00:00:00
+Docket: 62
+Opinion
+
+
+United States Supreme Court
+UNITED STATES v. RESNICK(1936)
+No. 62
+Argued: November 13, 1936Decided: December 7, 1936
+
+
+
+ Appeals from the District Court of the United States for the Eastern District of Pennsylvania.
+ Messrs. Homer S. Cummings, Atty. Gen., and William 
+
+[299 U.S. 207, 208]
+ 
+ W. Barron, of Washington, D.C., for the United States.
+ Messrs. Samuel L. Einhorn and John Arthur Brown, both of Philadelphia, Pa., for appellees Charles and Joseph Resnick.
+ Messrs. D. Alexander Wieland and John Arthur Brown, both of Philadelphia, Pa., for appellees Acme Can Co.
+
+ Mr. Justice BUTLER, delivered the opinion of the Court.
+ Appellees were indicted for violations of the Act of May 21, 1928, 45 Stat. 685, 15 U.S.C.,  257-257i (15 U.S.C.A.  257-257i). In No. 62, the indictment is in four counts, each of which charges that defendants sold for fruits and vegetables two-quart metal hampers which did not comply with the act in that they were not of any standard size authorized by the act and did not come within any tolerance established by the Secretary of Agriculture. In No. 63, the indictment is in two counts. The first charges that defendant manufactured two-quart metal hampers that were not of any authorized size or within prescribed tolerances without having submitted dimension specifications to the Secretary. The second charges sale of them. In each case, the accused demurred upon the ground that the facts alleged are not sufficient to constitute a violation of the act. The court sustained the demurrers and discharged the defendants. The United States appealed. 18 U.S.C.  682 (18 U.S.C.A.  682).
+ Section 1 of the Act (15 U.S.C.A.  257) declares that 'the standard hampers ... for fruits and vegetables shall be of the following capacities,' and specifies nine sizes based upon a bushel of 2150.42 cubic inches. The sizes so defined are one-eighth, one-fourth, one-half, five- eighths, three-fourths, one bushel, one and one-fourth, one and one-half, and two bushels. Computed according to the standard 
+
+[299 U.S. 207, 209]
+ 
+ fixed, the capacity of a two-quart hamper is 134.4 cubic inches. Section 3 ( 15 U.S.C.A.  257b) directs the Secretary of Agriculture to prescribe such tolerances as he may find necessary to allow in the capacities set forth in section 1. Section 4 (15 U.S.C.A.  257c) commands that 'no manufacturer shall manufacture hampers ... unless the dimension specifications ... shall have been submitted to and approved by the Secretary of Agriculture, who is hereby directed to approve such specifications if he finds that hampers ... made in accordance therewith would not be deceptive in appearance and would comply with' section 1. Section 5 (15 U.S.C.A.  257d) makes it 'unlawful to manufacture for sale ... (or) to sell ... hampers ... for fruits or vegetables ... that do not comply with this Act (subdivision of this chapter).' Any one 'that violates this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be punished by a fine not exceeding $500.'
+ The question is whether the provisions of the act are effective to make the manufacture or sale of two-quart hampers punishable as a crime. The nine sizes standardized in section 1 are the only ones within section 4. The Secretary was not authorized by section 3 to prescribe tolerances in respect to two-quart hampers, and has not attempted to do so. The indictments must be construed to charge merely manufacture and sale of hampers each of capacity of two quarts, one-sixteenth of a bushel, 134.4 cubic inches. They do not charge that any such hamper purported to be of any size defined by section 1, or was in any respect liable to deceive. It follows that, unless the clause of section 5 which forbids manufacture or sale of containers 'that do not comply with this Act' makes criminal the manufacture or sale of two-quart hampers, the facts alleged do not constitute any offense.
+ Statutes creating crimes are to be strictly construed in favor of the accused; they may not be held to extend to cases not covered by the words used. United States v. 
+
+[299 U.S. 207, 210]
+ 
+ Wiltberger, 5 Wheat. 76, 95; Fasulo v. United States, 
+272 
+U.S. 620, 628
+, 47 S.Ct. 200, 201. The clause just quoted is crucial; its words are plain and, having regard to the connection in which they are used, must be given the meaning naturally attributable to them. It is obvious that they do not extend to hampers other than the nine classes defined in section 1. The act applies to none of capacity less than four quarts. Pacific States Box & Basket Co. v. White, 
+296 
+U.S. 176, 183
+, 56 S.Ct. 159, 162, 101 A.L.R. 853. It expresses no condemnation of two-quart hampers. Before one may be punished, it must appear that his case is plainly within the statute; there are no constructive offenses. United States v. Lacher, 
+134 
+U.S. 624, 628
+, 10 S.Ct. 625; United States v. Chase, 
+135 
+U.S. 255, 261
+, 10 S.Ct. 756; Fasulo v. United States, supra, 
+272 U.S. 620
+, at page 629, 47 S.Ct. 200, 202. As in absence of governmental regulation the making and selling of containers is untrammeled, failure expressly to permit is not to prohibit. Mere standardization of a bushel container at 2150.42 cubic inches would not make criminal the manufacture or sale of a half-bushel container having capacity of 1075.21 cubic inches. The prescribing of capacities of containers described in section 1 does not prohibit manufacture or sale of the two-quart hampers described in these indictments.
+ The judgments sustaining the demurrers and discharging the accused must be affirmed.
+AFFIRMED.
+ Mr. Justice STONE took no part in the consideration or decision of this case. 
+
+
+

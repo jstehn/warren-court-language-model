@@ -1,0 +1,224 @@
+Description: ATLANTIC & PACIFIC TEL. CO. v. CITY OF PHILADELPHIA , 190 U.S. 160 (1903)
+Date: 1903-06-01 00:00:00
+Docket: 163
+Opinion
+
+
+United States Supreme Court
+ATLANTIC & PACIFIC TEL. CO. v. CITY OF PHILADELPHIA(1903)
+No. 163
+Argued: February 24, 1903Decided: June 1, 1903
+
+
+
+
+[190 U.S. 160, 161]
+ 
+ Messrs. John F. Dillon, H. B. Gill, Silas W. Pettit, George H. Fearons, Rush Taggart, Henry D. Estabrook, and Messrs. Brown & Wells for plaintiff in error.
+ Messrs. John L. Kinsey and James Alcorn for defendant in error.
+
+ Statement by Mr. Justice Brewer:
+ This action was commenced in the common pleas court of Philadelphia on December 31, 1891, to recover the sum of $3,715 as license fees alleged to be due the city for the six preceding years. The case was removed by the defendant to the circuit court of the United States for the eastern district of Pennsylvania. A trial was had before the court and a jury, which resulted in a verdict and judgment for the plaintiff for a part of the sum claimed, which judgment was thereafter reversed by the circuit court of appeals. A second trial was had in April, 1901, before the court and a jury, which resulted in a verdict and judgment for the full amount claimed, with interest. From such judgment the case was brought to this court directly on writ of error, on the ground that it involved the construction and application of the Constitution of the United States; that the action was brought to recover from the telegraph company certain license charges imposed by the city which the company claimed the city had no right or power to impose, for the reason that it was a regulation of commerce between the states.
+
+ Mr. Justice Brewer delivered the opinion of the court:
+ The question presented is as to the validity of the charges imposed by the ordinances of the city of Philadelphia upon the 
+
+[190 U.S. 160, 162]
+ 
+ defendant (plaintiff in error), a corporation engaged in interstate commerce. Few questions are more important or have been more embarrassing than those arising from the efforts of a state or its municipalities to increase their revenues by exactions from corporations engaged in carrying on interstate commerce. There have been many cases, in whose decision some propositions have been adjudicated so often as to be no longer open to discussion.
+ First. As said by Mr. Justice Bradley, speaking for the court, in Robbins v. Shelby County Taxing Dist. 
+120 
+U.S. 489, 492
+, 30 S. L. ed 694, 696, 1 Inters. Com. Rep. 45, 46, 7 Sup. Ct. Rep. 592, 593:
+'The Constitution of the United States having given to Congress the power to regulate commerce, not only with foreign nations, but among the several states, that power is necessarily exclusive whenever the subjects of it are national in their character, or admit only of one uniform system, or plan of regulation.'
+
+ In addition to the many cases referred to by him, the following subsequent decisions may also be cited: Fargo v. Michigan, 
+121 U.S. 230
+, 246, sub nom. Fargo v. Stevens, 30 L. ed. 888, 894, 1 Inters. Com. Rep. 51, 7 Sup. Ct. Rep. 857; Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 
+122 
+U.S. 326, 336
+, 346 S., 30 L. ed. 1200, 1201, 1205, 1 Inters. Com. Rep. 308, 7 Sup. Ct. Rep. 1118; Western U. Teleg. Co. v. Pendleton, 
+122 
+U.S. 347, 357
+, 30 S. L. ed. 1187, 1189, 1 Inters. Com. Rep. 306, 7 Sup. Ct. Rep. 1126; Bowman v. Chicago & N. W. R. Co. 
+125 
+U.S. 465, 497
+, 31 S. L. ed. 700, 711, 1 Inters. Com. Rep. 823, 8 Sup. Ct. Rep. 689, 1062; Leloup v. Port of Mobile, 
+127 
+U.S. 640, 648
+, 32 S. L. ed. 311, 341, 2 Inters. Com. Rep. 134, 8 Sup. Ct. Rep. 1380; Asher v. Texas, 
+128 
+U.S. 129, 131
+, 32 S. L. ed. 368, 369, 2 Inters. Com. Rep. 241, 9 Sup. Ct. Rep. 1; Stoutenburgh v. Hennick, 
+129 
+U.S. 141, 148
+, 32 S. L. ed. 637, 639, 9 Sup. Ct. Rep. 256; Leisy v. Hardin, 
+135 
+U.S. 100, 110
+, 34 S. L. ed. 128, 132, 3 Inters. Com. Rep. 36, 10 Sup. Ct. Rep. 681; Lyng v. Michigan, 
+135 U.S. 161
+, 34 L. ed. 150, 3 Inters. Com. Rep. 143, 10 Sup. Ct. Rep. 725; McCall v. California, 
+136 
+U.S. 104, 109
+, 34 S. L. ed. 391, 392, 3 Inters. Com. Rep. 181, 10 Sup. Ct. Rep. 881; Re Rahrer, 
+140 U.S. 545
+, 555, sub nom. Wilkerson v. Rahrer, 35 L. ed. 572, 574, 11 Sup. Ct. Rep. 865; Crutcher v. Kentucky, 
+141 
+U.S. 47, 58
+, 35 S. L. ed. 649, 652, 11 Sup. Ct. Rep. 851; Brennan v. Titusville, 
+153 
+U.S. 289, 304
+, 38 S. L. ed. 719, 723, 4 Inters. Com. Rep. 658, 14 Sup. Ct. Rep. 829; Interstate Commerce Commission v. Brimson, 
+154 
+U.S. 447, 471
+, 38 S. L. ed. 1047, 1055, 4 Inters. Com. Rep. 545, 14 Sup. Ct. Rep. 1125; United States v. E. C. Knight Co. 
+156 
+U.S. 1, 21
+, 39 S. L. ed. 325, 332, 15 Sup. Ct. Rep. 249; Schollenberger v. Pennsylvania, 
+171 U.S. 1
+, 43 L. ed. 49, 18 Sup. Ct. Rep. 757; Addyston Pipe & Steel Co. v. United States, 
+175 U.S. 211
+, 44 L. ed. 136, 20 Sup. Ct. Rep. 96; Stockard v. Morgan, 
+185 U.S. 27
+, 46 L. ed. 785, 22 Sup. Ct. Rep. 576.
+ Second. No state can compel a party, individual, or corporation to pay for the privilege of engaging in interstate commerce. Gloucester Ferry Co. v. Pennsylvania, 
+114 
+U.S. 196, 211
+, 29 S. L. ed. 158, 164, 1 Inters. Com. Rep. 382, 5 Sup. Ct. Rep. 826; Pickard v. Pullman Southern Car Co. 
+117 U.S. 34
+, 29 L. ed. 785, 6 Sup. Ct. Rep. 635; Robbins v. Shelby County Taxing Dist. 
+120 U.S. 489
+, 30 L. ed. 694, 1 Inters. Com. Rep. 45, 7 Sup. Ct. Rep. 592; Fargo v. Michigan, 
+121 U.S. 230
+, 245, sub nom. Fargo v. Stevens, 30 L. ed. 888, 894, 1 Inters. Com. Rep. 51, 7 Sup. Ct. Rep. 857; Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 122 U. S. 
+
+[190 U.S. 160, 163]
+ 
+ 326, 336, 30 L. ed. 1200, 1201, 3 Inters. Com. Rep. 308, 7 Sup. Ct. Rep. 1118; Leloup v. Port of Mobile, 
+127 
+U.S. 640, 645
+, 32 S. L. ed. 311, 313, 2 Inters. Com. Rep. 134, 8 Sup. Ct. Rep. 1380; Asher v. Texas, 
+128 U.S. 129
+, 32 L. ed. 368, 2 Inters. Com. Rep. 241, 9 Sup. Ct. Rep. 1; Lyng v. Michigan, 
+135 
+U.S. 161, 166
+, 34 S. L. ed. 150, 153, 3 Inters. Com. Rep. 143, 10 Sup. Ct. Rep. 725; McCall v. California, 
+136 
+U.S. 104, 113
+, 34 S. L. ed. 391, 394, 10 Sup. Ct. Rep. 881; Crutcher v. Kentucky, 
+141 
+U.S. 47, 58
+, 35 S. L. ed. 649, 652, 11 Sup. Ct. Rep. 851; Adams Exp. Co. v. Ohio State Auditor, 
+165 
+U.S. 194, 220
+, 41 S. L. ed. 683, 695, 17 Sup. Ct. Rep. 305.
+ Third. This immunity does not prevent a state from imposing ordinary property taxes upon property having a situs within its territory, and employed in interstate commerce. State Tax on Railway Gross Receipts, 15 Wall. 284, 293, sub nom. Philadelphia & R. R. Co. v. Pennsylvania, 21 L. ed. 164, 167; Delaware Railroad Tax, 18 Wall. 206, 232, sub nom. Minot v. Philadelphia, W. & B. R. Co. 21 L. ed. 888, 896; Western U. Teleg. Co. v. Texas, 
+105 
+U.S. 460, 464
+, 26 S. L. ed. 1067, 1068; Gloucester Ferry Co. v. Pennsylvania, 
+114 
+U.S. 196, 211
+, 29 S. L. ed. 158, 164, 1 Inters. Com. Rep. 382, 5 Sup. Ct. Rep. 836; Western U. Teleg. Co. v. Atty. Gen. 
+125 U.S. 530
+, 31 L. ed. 790, 8 Sup. Ct. Rep. 961; Marye v. Baltimore & O. R. Co. 
+127 
+U.S. 117, 123
+, 32 S. L. ed. 94, 96, 8 Sup. Ct. Rep. 1037; Leloup v. Port of Mobile, 
+127 
+U.S. 640, 649
+, 32 S. L. ed. 311, 314, 2 Inters. Com. Rep. 134, 8 Sup. Ct. Rep. 1380; Pullman Palace Car co. v. Pennsylvania, 
+141 U.S. 18
+, 35 L. ed. 613, 3 Inters. Com. Rep. 595, 11 Sup. Ct. Rep. 876; Atty. Gen. v. Western U. Teleg. Co. 
+141 U.S. 40
+, 35 L. ed. 6, 28, 11 Sup. Ct. Rep. 889; Pittsburgh, C. C. & St. L. R. Co. v. Backus, 
+154 U.S. 421
+, 38 L. ed. 1031, 14 Sup. Ct. Rep. 1114; Western U. Teleg. Co. v. Taggart, 
+163 U.S. 1
+, 41 L. ed. 49, 16 Sup. Ct. Rep. 1054; Adams Exp. Co. v. Ohio State Auditor, 
+165 
+U.S. 194, 220
+, 41 S. L. ed. 683, 695, 17 Sup. Ct. Rep. 305.
+ Fourth. The franchise of a corporation, although that franchise is the business of interstate commerce, is, as a part of its property, subject to state taxation, providing, at least, the franchise is not derived from the United States. Delaware Railroad Tax, 18 Wall. 206, 232, sub nom. Minot v. Philadelphia, W. & B. R. Co. 21 L. ed. 888, 896; Postal Teleg. Cable Co. v. Adams, 
+155 
+U.S. 688, 696
+, 39 S. L. ed. 311, 316, 5 Inters. Com. Rep. 1, 15 Sup. Ct. Rep. 268, 360; New York, L. E. & W. R. Co. v. Pennsylvania, 
+158 
+U.S. 431, 437
+, 39 S. L. ed. 1043, 1045, 15 Sup. Ct. Rep. 896; Central P. R. Co. v. California, 
+162 U.S. 91
+, 40 L. ed. 903, 16 Sup. Ct. Rep. 766; Western U. Teleg. Co. v. Taggart, 
+163 
+U.S. 1, 18
+, 41 S. L. ed. 49, 55, 16 Sup. Ct. Rep. 1054; Western U. Teleg. Co. v. Missouri ex rel. Gottlieb, 190 U. S. --, ante, 730 23 Sup. Ct. Rep. 730.
+ Fifth. No corporation, even though engaged in interstate commerce, can appropriate to its own use property, public or private, without liability to charge therefor. Western Union Packet Co. v. St. Louis, 
+100 U.S. 423
+, 25 L. ed. 688; Cincinnati, P. B. S. & P. Packet Co. v. Catlettsburg, 
+105 U.S. 559
+, 26 L. ed. 1169; Parkersburg & O. River Transp. Co. v. Parkersburg, 
+107 U.S. 691
+, 27 L. ed. 584, 2 Sup. Ct. Rep. 732; Huse v. Glover, 
+119 U.S. 543
+, 30 L. ed. 487, 7 Sup. Ct. Rep. 313; Ouachita & M. River Packet Co. v. Aiken, 
+121 U.S. 444
+, 30 L. ed. 976, 1 Inters. Com. Rep. 379, 7 Sup. Ct. Rep. 907; St. Louis v. Western U. Teleg. Co. 
+148 U.S. 92
+, 37 L. ed. 380, 13 Sup. Ct. Rep. 485, 
+149 U.S. 465
+, 37 L. ed. 810, 13 Sup. Ct. Rep. 990; Postal Teleg. Cable Co. v. Baltimore, 
+156 U.S. 210
+, 39 L. ed. 399, 15 Sup. Ct. Rep. 356; Richmond v. Southern Belt Teleph. & Teleg. Co. 
+174 
+U.S. 761, 771
+, 43 S. L. ed. 1162, 1167, 19 Sup. Ct. Rep. 778. 
+
+[190 U.S. 160, 164]
+ 
+ The tax sought to be collected in this case was not a tax upon the property or franchises of the company, nor in the nature of rental for occupying certain portions of the street. Neither was it a charge for the privilege of engaging in the business of interstate commerce, but it was one for the enforcement of local governmental supervision, such as was presented in Western U. Teleg. Co. v. New Hope, 
+187 U.S. 419
+, ante, 204, 23 Sup. Ct. Rep. 204, where we said (p. 427, ante, p. 205, Sup. Ct. Rep. p. 205):
+'This license fee was not a tax on the property of the company, or on its transmission of messages, or on its receipts from such transmission, or on its occupation or business, but was a charge in the enforcement of local governmental supervision, and, as such, not in itself obnoxious to the clause of the Constitution relied on.'
+
+ Following that decision, we hold that the city of Philadelphia had power to pass such an ordinance as this, requiring the company to pay a reasonable license fee for the enforcement of local governmental supervision. In other words, if a corporation, although engaged in the business of interstate commerce, so carries on its business as to justify, at the hands of any municipality, a police supervision of the property and instrumentalities used therein, the municipality is not bound to furnish such supervision for nothing, and may, in addition to ordinary property taxation, subject the corporation to a charge for the expense of the supervision.
+ But it does not follow from this that a municipality is not subject to any restraint in the amount of the charge which it so exacts. True, it is often said that a license tax is, in its nature, arbitrary; that it is not necessarily graduated by the value of the property invested in the business licensed, or its profitableness. But such observations are pertinent only in case the license is resorted to for the purposes of revenue. When it is authorized only in support of police supervision, the expense of such supervision determines the amount of the charge; and, if it were possible to prove in advance the exact cost, that would be the limit of the tax. In the nature of things, that, however, is ordinarily impossible; and so the municipality is at liberty to make the charge large enough to cover any reasonable antici- 
+
+[190 U.S. 160, 165]
+ 
+ pated expenses. It is authorized to fix such charge in advance, and need not wait until the end of the period for which the license is granted. It may not act arbitrarily or unreasonably, but the risk may rightfully be cast upon the licensee, and the charge cannot be avoided because it subsequently appears that it was somewhat in excess of the actual expense of the supervision, nor can the licensee then recover the difference between the amount of the license and such cost.
+ Now, the license in question is, as stated, confessedly not for the purpose of raising revenue. Indeed, if it were, as it appears by the affidavit of defense that the company had paid all taxes charged upon its property as property, it might be obnoxious to a complaint of double taxation. It is not like the tax in Postal Teleg. Cable Co. v. Adams, 
+155 U.S. 688
+, 39 L. ed. 311, 5 Inters. Com. Rep. 1, 15 Sup. Ct. Rep. 268, 360, which, although called a privilege tax, was in fact a property tax, and the only property tax upon the company, in respect to which we said (p. 696, L. ed. p. 315, Inters. Com. Rep. p. 13, Sup. Ct. Rep. p. 270):
+'Doubtless no state could add to the taxation of property, according to the rule of ordinary property taxation, the burden of a license or other tax on the privilege of using, constructing, or operating an instrumentality of interstate or international commerce, or for the carrying on of such commerce; but the value of property results from the use to which it is put, and varies with the profitableness of that use; and by whatever name the exaction may be called, if it amounts to no more than the ordinary tax upon property, or a just equivalent therefor, ascertained by reference thereto, it is not open to attack as inconsistent with the Constitution.'
+
+ We pass, therefore, to consider the question of the reasonableness of this license charge. Prima facie, it was reasonable. Western U. Teleg. Co. v. New Hope, 
+187 U.S. 419
+, ante, 204, 23 Sup. Ct. Rep. 204. It devolved upon the company to show that it was not. The case, as we have seen, was tried before the court and a jury. Upon the testimony, the court instructed the jury to find for the plaintiff the full amount claimed. In support of this action, it is contended that the question of reasonableness was one to be determined by the court, and not by the jury, and, further, 
+
+[190 U.S. 160, 166]
+ 
+ that there was no testimony from which either a court or jury could find that the charge was unreasonable.
+ It may be conceded that, generally speaking, whether an ordinance be reasonable is a question for the court. As said by Judge Dillon, in his work on Municipal Corporations (4th ed. vol. 1,  327): 'Whether an ordinance be reasonable and consistent with the law or not is a question for the court, and not the jury, and evidence to the latter on this subject is inadmissible.' While that may be correct as a general statement of the law, and especially in cases in which the question of reasonableness turns on the character of the regulations prescribed, yet, when it turns on the amount of a license charge, it may rightly be left for the determination of a jury. There are many matters which enter into the consideration of such a question, not infrequently matters which are disputed and in respect to which there is contradictory testimony. As said by Mr. Justice Shiras, when presiding in the court of appeals in the third circuit, in a similar case (Philadelphia v. Western U. Teleg. Co. 32 C. C. A. 246, 253, 60 U. S. App. 398, 413, 89 Fed. 454, 461):
+'When it is said, in some of the cases, that such a question is for the determination of the court, it is not meant that the question may not properly be submitted to a jury. What is meant by such observations is that courts are not precluded from considering the reasonableness of the legislative act prescribing the terms and amount of the charges. . . . Regarding, then, the issue to be tried as one of fact, we think it is one which, from its nature, is eminently fit for the determination of a jury. The expenses attending direct regulations and oversight are not only to be considered, but also the incidental cost to which the municipality is subjected in providing for and maintaining a proper system of supervision. We cannot undertake to specify all the particulars which should be brought into view where the reasonableness of a municipal ordinance is challenged in a court; but we think that the rule laid down in Cooley, Const. Lim. ( ed. 1886) p. 242, may be safely adopted: 'A municipal corporation may impose, under the police power, such a charge for the license as will cover the necessary ex- 
+
+[190 U.S. 160, 167]
+ 
+ penses of issuing it, and the additional labor of officers and other expenses thereby incurred."
+
+ It is urged by the city that, inasmuch as the license fees here charged are the same as those charged by the borough of New Hope, the validity of which was sustained in Western U. Teleg. Co. v. New Hope, 
+187 U.S. 419
+, ante, 204, 23 Sup. Ct. Rep. 204, it necessarily follows that the charges here imposed are reasonable. But this is a mistake. What is reasonable in one municipality may be oppressive and unreasonable in another. 'In determining this question the court will have to regard all the circumstances of the particular city or corporation, the objects sought to be attained, and the necessity which exists for the ordinance. Regulations proper for a large and prosperous city might be absurd or oppressive in a small and sparsely populated town, or in the country.' 1 Dill. Mun. Corp. 4th ed.  327.
+ The reasonableness of this license charge being tried before a jury, the parties were entitled to a finding of the jury upon that question of fact, unless the testimony was such as to compel a decision one way or the other, in which case the court might be justified in directing a verdict. After a careful review of the evidence, we are constrained to believe that it was not such as to exclude any other conclusion than that directed by the court. We do not hold that it was not sufficient to sustain a finding by the jury to that effect, but simply that there were matters presented from which a jury might rightfully conclude that the ordinance and license charges were unreasonable. Without noticing all the evidence, we content ourselves with these matters. On January 6, 1881, an ordinance was passed by the city councils imposing a license fee of $1 for each and every telegraph pole erected or maintained in the city. Another ordinance, of date March 30, 1883, regulating underground conduits, wires, and cables, and providing for license charges for underground and overhead wires, imposed an annual license charge of $2.50 per mile of wire for overhead telegraph wires, and $1 per mile for underground wires. Upon these ordinances the claim was made against the company. On August 5, 1886, a further ordinance was passed, removing all charges upon underground 
+
+[190 U.S. 160, 168]
+ 
+ wires. The chief of the electrical bureau of the city, without objection, testified that the removal of all charges on underground wires in 1886 was 'as an inducement to have the wires placed underground, and the only requirement was that whoever did it should supply the city or furnish the city with one duct or chamber for the use of the city. There was no other charge connected with it. It was to remove all license charges, to have them place their wires underground.' There was evidence of the expenses of the electrical bureau for the years in question, and that such electrical bureau supervised all electrical work upon the streets, but there was no testimony definitely disclosing how much of the labor of that bureau was in respect to telegraph wires and poles, and how much in respect to electric light wires and poles, although there was evidence of the general manner in which the electrical bureau conducted its work of supervision and the matters which came within the scope of its attention. On the other hand, the company showed the extent of its own supervision and the cost of repair, maintenance, and supervision, which, for the years from 1885 to 1891, inclusive, amounted to only $1.60 3/7 per mile. There was also proof of the number of electric light lamps, poles, and miles of wire within the city, and other kindred facts.
+ Now, the comparison of all this evidence, the determination of its weight and effect, and whether the charge made by the city for supervision was reasonable or not, should have been left to the jury. As there was testimony that the actual cost of maintenance, repair, and supervision by the company was, during the years in question, less than one half that charged by the city for supervision alone, and as it appeared that at first the license fee per mile of overhead wire was $2.50, and of underground wire $1, and that within three years thereafter all charges in respect to underground wire were taken away, and, as the head of the electrical department declared, so taken away for the purpose of inducing the removal of overhead wires and placing them all underground, a jury might have found that the ordinance was unreasonable. It might have come to the conclusion that the charge was not made simply to meet the ex- 
+
+[190 U.S. 160, 169]
+ 
+ penses of supervision, but rather to make a charge so burdensome as to compel the company to remove its wires from poles and put them in conduits. We do not say that a city has not, by virtue of its police powers, authority directly to compel the removal of wires from poles to conduits, but it may be questionable whether a city can seek the same results by an excessive and unreasonable charge upon overhead wires. We think, therefore, the court erred in withdrawing the case from the jury.
+ Before concluding, we repeat that we are not intending to express any opinion as to the effect of the testimony as a whole, or to intimate what the verdict of a jury ought to be, nor do we mean to imply that there must be satisfactory evidence of the actual cost of supervision. All we mean to decide is that there was sufficient testimony to go to the jury, and obtain its judgment whether the ordinance passed by the city, and the charges imposed thereby, were, considering all the circumstances of the case, reasonable or oppressive.
+ The judgment is reversed, and the case remanded, with instructions to set aside the verdict and grant a new trial.
+ Mr. Justice White, Mr. Justice Peckham, and Mr. Justice McKenna concurred in the judgment. 
+
+
+

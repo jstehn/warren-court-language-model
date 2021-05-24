@@ -1,0 +1,82 @@
+Description: HARRISON v. CHAMBERLIN , 271 U.S. 191 (1926)
+Date: 1926-05-03 00:00:00
+Docket: 168
+Opinion
+
+
+United States Supreme Court
+HARRISON v. CHAMBERLIN(1926)
+No. 168
+Argued: Decided: May 3, 1926
+
+
+
+
+[271 U.S. 191, 192]
+ 
+ Messrs. Philip Kates, of Tulsa, Okl., and Samuel A. Mitchell, of St. Louis, Mo., for petitioner.
+ Mr. Henry B. Martin, of Tulsa, Okl., for respondent.
+
+ Mr. Justice SANFORD delivered the opinion of the Court.
+ In the course of the administration of the estate of the bankrupt corporation in the District Court for Eastern Oklahoma, the petitioner Harrison, the trustee in bankruptcy, filed a petition for a summary order requiring Mrs. Chamberlin, the respondent, a stranger to the proceeding, to deliver to him certain money in her possession which, he alleged, was the property of the bankrupt, held by her fraudulently and without color or claim of title. She filed a demurrer for want of jurisdiction in the court to proceed summarily. This was overruled. She then answered, asserting that the money was her individual property, acquired and held by her in good faith; and renewing her jurisdictional objection. The matter was referred to the referee in bankruptcy to report his findings of fact and conclusions of law. He reported, upon the evidence, that the respondent's claim was based on fraud and merely colorable; and that the money was an asset of the estate and subject to the summary jurisdiction of the court. The District Judge confirmed this report and entered a decree finding that the money was an asset of the estate, held by the respondent without color of title and in fraud of the rights of the trustee; and ordering that she deliver it to him forthwith. She appealed from this order to the Circuit Court of Appeals, and also filed a petition for revision in matter of law. The Circuit Court of Appeals, being of opinion that as questions of fact were involved in the hearing, the method of review was by appeal, dismissed the petition to revise. On the appeal, it held that the claim of 
+
+[271 U.S. 191, 193]
+ 
+ the respondent was adverse to the trustee and not merely colorable, and that the District Court was therefore without jurisdiction to proceed against the respondent summarily; and the order of the District Court was reversed, with instructions to dismiss the proceeding without prejudice to the institution of a plenary action by the trustee in any court of proper jurisdiction. Chamberlin v. Harrison (C. C. A.) 298 F. 926. This writ of certiorari was then granted. Harrison v. Chamberlain, 
+266 
+U.S. 598
+, 45 S. Ct. 98.
+ The contentions of the trustee are: (1) That the Circuit Court of Appeals had no jurisdiction to review the order of the District Court under the appeal; and (2) that, even if such jurisdiction existed, the decree reversing that order was erroneous.
+
+ 1. 
+It is clear that the proceeding instituted by the trustee for the recovery of property in the possession of the respondent, to which she asserted an adverse claim, presented 'a controversy arising in a bankruptcy proceeding'-as distinguished from an administrative 'proceeding' in bankruptcy-which might be reviewed by the Circuit Court of Appeals, as to fact and law, by an appeal taken under section 24a of the Bankruptcy Act (Comp. St.  9608). Taylor v. Voss (No. 199) 
+271 
+U.S. 176
+, 46 S. Ct. 461, this day decided and cases therein cited; Hinds v. Moore, 134 F. 221, 223, 67 C. C. A. 149; In re Eilers Music House ( C. C. A.) 270 F. 915, 925.
+
+ 2. 
+It is well settled that a court of bankruptcy is without jurisdiction to adjudicate in a summary proceeding a controversy in reference to property held adversely to the bankrupt estate, without the consent of the adverse claimant; but resort must be had by the trustee to a plenary suit. Mueller v. Nugent, 
+184 
+U.S. 1, 15
+, 22 S. Ct. 269; Louisville Trust Co. v. Comingor, 
+184 
+U.S. 18, 24
+, 22 S. Ct. 293; Jaquith v. Rowley, 
+188 
+U.S. 620, 623
+, 23 S. Ct. 369; Schweer v. Brown, 
+195 
+U.S. 171, 172
+, 25 S. Ct. 15; Galbraith v. Vallely, 
+256 
+U.S. 46, 48
+, 41 S. Ct. 415; Taubel Co. v. Fox, 
+264 
+U.S. 426, 433
+, 44 S. Ct. 396; May v. Henderson, 
+268 
+U.S. 111, 115
+, 45 S. Ct. 456; Board of Education v. Leary, 236 F. 521, 524, 149 C. C. A. 573; Lynch v. Roberson ( C. C. A.) 287 
+
+[271 U.S. 191, 194]
+ 
+ F. 433, 435, 437. However, the court is not ousted of its jurisdiction by the mere assertion of an adverse claim; but, having the power in the first instance to determine whether it has jurisdiction to proceed, the court may enter upon a preliminary inquiry to determine whether the adverse claim is real and substantial or merely colorable. And if found to be merely colorable the court may then proceed to adjudicate the merits summarily; but if found to be real and substantial it must decline to determine the merits and dismiss the summary proceeding. Mueller v. Nugent, supra, 15 (22 S. Ct. 269); Louisville Trust Co. v. Comingor, supra, 25 (22 S. Ct. 293); Taubel Co. v. Fox, supra, 433 (44 S. Ct. 396); May v. Henderson, supra, 116 (45 S. Ct. 456); Board of Education v. Leary, supra, 525 (149 C. C. A. 573); Lynch v. Roberson, supra, 436.
+ In the present case the holding of the District Court that the adverse claim was merely colorable was evidently based upon its conclusion, upon the entire evidence, that the claim was fraudulent; and was, in effect, an adjudication upon the merits. And, on the other hand, the holding of the Circuit Court of Appeals that the claim was of such a substantial character as to require its determination in a plenary suit, was based upon the view 'that a claim alleged to be adverse is only colorably so when, admitting the facts to be as alleged by the claimant, there is, as matter of law, no adverseness in the claim.' It is clear, however, that an actual claim may be adverse and substantil even though in fact 'fraudulent and voidable.' Mueller v. Nugent, supra, 15 (22 S. Ct. 269); Johnston v. Spencer, 195 F. 215, 220, 115 C. C. A. 167; Board of Education v. Leary, supra, 525 (149 C. C. A. 573). And, on the other hand, a claim is merely colorable if 'on its face made in bad faith and without any legal justification.' May v. Henderson, supra, 109 (45 S. Ct. 456).
+ Without entering upon a discussion of various cases in the Circuit Courts of Appeals in which divergent views have been expressed as to the test to be applied in deter- 
+
+[271 U.S. 191, 195]
+ 
+ mining whether an adverse claim is substantial or merely colorable, we are of opinion that it is to be deemed of a substantil character when the claimant's contention 'discloses a contested matter of right, involving some fair doubt and reasonable room for controversy,' Board of Education v. Leary, supra, 527 (149 C. C. A. 573), in matters either of fact or law; and is not to be held merely colorable unless the preliminary inquiry shows that it is so unsubstantial and obviously insufficient, either in fact or law, as to be plainly without color of merit, and a mere pretense. Compare Binderup v. Pathe Exchange, 44 S. Ct. 96, 
+263 U.S. 291
+, 295; and Moore v. New York Cotton Exchange (No. 200) 
+270 
+U.S. 593
+, 46 S. Ct. 367, decided April 12, 1926
+
+
+ In the present case it clearly appears that the validity of the respondent's claim depended upon disputed facts, as to which there was a conflict of evidence, as well as a controversy in matter of law. Its determination invloved 'fair doubt and reasonable room for controversy' both as to fact and law. It was therefore substantial, and not merely colorable; and its merits could only be adjudged in a plenary suit.
+ As the respondent's objection to the summary jurisdiction of the bankruptcy court was well taken, and there was no waiver of her right in this respect, Galbraith v. Vallely, supra, 50 (41 S. Ct. 415), the decree of the Circuit Court of Appeals is
+ Affirmed. 
+
+
+

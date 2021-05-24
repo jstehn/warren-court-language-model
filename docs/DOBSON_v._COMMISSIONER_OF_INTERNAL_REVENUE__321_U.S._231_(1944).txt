@@ -1,0 +1,44 @@
+Description: DOBSON v. COMMISSIONER OF INTERNAL REVENUE, 321 U.S. 231 (1944)
+Date: 1944-02-14 00:00:00
+Docket: 44
+Opinion
+
+
+United States Supreme Court
+DOBSON v. COMMISSIONER OF INTERNAL REVENUE(1944)
+No. 44
+Argued: Decided: February 14, 1944
+
+
+
+ Messrs. Leland W. Scott and William L. Prosser, both of Minneapolis, Minn., for petitioners.
+
+ Mr. Justice JACKSON delivered the opinion of the Court.
+ Petition for rehearing in two of the four cases decided together on December 20, 1943 states that these contained an issue not present and not considered in the main case. In these two cases the Tax Court held that recoveries by these taxpayers in 1939 did constitute taxable income. It held, also, that the recovery was taxable as ordinary income, despite taxpayer's contention that it should be taxed as capital gain under Section 117 of the Internal Revenue Code, 26 U.S.C.A. Int.Rev.Code,  117. This contention, the petition says, presents questions of law to be determined by this Court, rather than of fact finally to be determined by the Tax Court.
+ The weakness of taxpayers' position lies in the fact that not every gain growing out of a transaction concerning 
+
+[321 
+U.S. 231, 232]
+ 
+ capital assets is allowed the benefits of the capital gains tax provision. Those are limited by definition to gains from 'the sale or exchange' of capital assets. Internal Revenue Code  117(a) (2), (3), (4), (5).
+ We certainly cannot say that the items in question were as matter of law proceeds of the 'sale or exchange' of a capital asset. Harwick asserted a claim, and the three other taxpayers involved in these cases filed suit, against the National City Company, demanding rescission of their purchases of stock. Their claims were compromised or admitted; the taxpayers seek to link the recoveries resulting therefrom with their prior sales of the stock, which resulted in losses. The Tax Court did not find as matter of fact, and we decline to say as matter of law, that such a transaction is a 'sale or exchange' of a capital asset in the accepted meaning of those terms. Cf. Helvering v. Flaccus Leather Co., 
+313 
+U.S. 247
+, 61 S.Ct. 878; Fairbanks v. United States, 
+306 
+U.S. 436
+, 59 S.Ct. 607. In Helvering v. Hammel, 
+311 
+U.S. 504
+, 61 S.Ct. 368, 131 A.L.R. 1481; Electro-Chemical Engraving Co. v. Commissioner, 
+311 
+U.S. 513
+, 61 S.Ct. 372; Helvering v. Nebraska Bridge Supply & Lumber Co., 
+312 
+U.S. 666
+, 61 S.Ct. 827, on which petitioner relies, we held as matter of law that losses resulting from a sale were not to be denied the benefits of the capital losses provisions because the sale was a forced or involuntary one, as upon foreclosure. Those cases are no aid to petitioner here.
+ Petition for rehearing is denied.
+ Mr. Justice DOUGLAS dissents. 
+
+
+

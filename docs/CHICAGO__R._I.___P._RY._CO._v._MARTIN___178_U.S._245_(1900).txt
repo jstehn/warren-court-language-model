@@ -1,0 +1,75 @@
+Description: CHICAGO, R. I. & P. RY. CO. v. MARTIN , 178 U.S. 245 (1900)
+Date: 1900-05-21 00:00:00
+Docket: 135
+Opinion
+
+
+United States Supreme Court
+CHICAGO, R. I. & P. RY. CO. v. MARTIN(1900)
+No. 135
+Argued: Decided: May 21, 1900
+
+
+
+ This was an action brought by Lissa Martin as administratrix of William Martin, deceased, against the Chicago, Rock Island, & Pacific Railway Company, in the district court of Clay county, Kansas, to recover damages for the death of the decedent. Plaintiff's petition was filed January 26, 1894, and on February 14, 1894, the Chicago, Rock Island, & Pacific Railroad Company filed its separate answer thereto. February 20, 1894, defendants Clark and others, as receivers, presented their petition and bond, praying for the removal of the cause to the United States circuit court for the district of Kansas, on the ground that the case arose under the Constitution and laws of the United States, which application was overruled by the district court, and the receivers duly excepted. The cause was tried, the jury returned a verdict in favor of plaintiff and against all the defendants, and judgment was entered thereon. The cause was taken on error to the supreme court of Kansas by the defendants, and the judgment was by that court affirmed. 59 Kan. 437, 53 Pac. 461. 
+
+[178 U.S. 245, 246]
+ 
+ The refusal of the state court to remove the cause to the circuit court of the United States on the application of the receivers was relied on as error throughout the proceedings, and the supreme court of Kansas held, among other things, that the application for removal was properly denied because all the defendants were charged with jointly causing the death of plaintiff's intestate, and all did not join in the petition for removal.
+ Messrs. Winslow S. Pierce, A. L. Williams, W. R. Kelly, M. A. Low, N. H. Loomis, and W. F. Evans for plaintiffs in error.
+ Messrs. A. A. Godard and F. B. Dawes for defendant in error.
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ Assuming that as to the receivers the case may be said to have arisen under the Constitution and laws of the United States, the question is whether it was necessary for the Chicago, Rock Island, & Pacific Railroad Company, defendant, to join in the application of its codefendants, the receivers of the Union Pacific Railway Company, to effect a removal to the circuit court.
+ The Rock Island Company was not a corporation of Kansas, and all the receivers of the Union Pacific Railroad Company were citizens of some other state than the state of Kansas. But the receivers applied for removal, after the Rock Island Company had answered, on the ground that the suit was, as to them, 'one arising under the laws of the United States,' in that they were appointed receivers by the circuit court of the United States for the districts of Nebraska and Kansas, to take charge of and to operate a corporation created by the consolidation, under acts of Congress, of a corporation of the United States, a corporation of Kansas, and a corporation of Colorado.
+ The act of March 3, 1887, as corrected by the act of August 13, 1888 ( 25 Stat. at L. 433, chap. 866,  2), provides:
+'That any suit of a civil nature, at law or in equity, arising 
+
+[178 U.S. 245, 247]
+ 
+ under the Constitution or laws of the United States, or treaties made, or which shall be made, under their authority, of which the circuit courts of the United States are given origina j urisdiction by the preceding section, which may now be pending, or which may hereafter be brought, in any state court, may be removed by the defendant or defendants therein to the circuit court of the United States for the proper district. Any other suit of a civil nature, at law or in equity, of which the circuit courts of the United States are given jurisdiction by the preceding section, and which are now pending, or which may hereafter be brought, in any state court, may be removed into the circuit court of the United States for the proper district by the defendant or defendants therein, being nonresidents of that state. And when in any suit mentioned in this section there shall be a controversy which is wholly between citizens of different states, and which can be fully determined as between them, then either one or more of the defendants actually interested in such controversy may remove said suit into the circuit court of the United States for the proper district. And where a suit is now pending, or may be hereafter brought, in any state court, in which there is a controversy between a citizen of the state in which the suit is brought and a citizen of another state, any defendant, being such citizen of another state, may remove such suit into the circuit court of the United States for the proper district, at any time before the trial thereof, when it shall be made to appear to said circuit court that from prejudice or local influence he will not be able to obtain justice in such state court.'
+
+ It thus appears on the fact of the statute that if a suit arises under the Constitution or laws of the United States, or if it is a suit between citizens of different states, the defendant, if there be but one, may remove, or the defendants if there be more than one; but where the suit is between citizens of different states, and there is a separable controversy, then either one or more of the defendants may remove.
+ Under the 1st clause of  2 of the act of 1875 (18 Stat. at L. 470, chap. 137), which applied to 'either party,' but in its re-enactment in the 2d clause of  2 of the act of 1887, 
+
+[178 U.S. 245, 248]
+ 
+ above quoted, is confined to the defendant or defendants, it was well settled that a removal could not be effected unless all the parties on the same side of the controversy united in the petition; and so as to the 2d clause of the 2d section of the act of 1875, which corresponds with the 3d clause of the 2d section of the act of 1887, it was held that that clause only applied where there were two or more controversies in the same suit, one of which was wholly between citizens of different states. Hanrick v. Hanrick, 
+153 U.S. 192
+, 38 L. ed. 685, 14 Sup. Ct. Rep. 835, and cases cited; Torrence v. Shedd, 
+144 U.S. 527
+, 36 L. ed. 528, 12 Sup. Ct. Rep. 726, and cases cited. In the latter case Mr. Justice Gray said: 'As this court has repeatedly affirmed, not only in cases of joint contracts, but in actions for torts, which might have been brought against all or against any one of the defendants, 'separate answers by the several defendants sued on joint causes of action may present different questions for determination, but they do not necessarily divide the suit into separate controversies. A defendant has no right to say that an action shall be several which a plaintiff elects to make joint. A separate defense may defeat a joint recovery, but it cannot deprive a plaintiff of his right to prosecute his own suit to final determination in his own way. The cause of action is the subject-matter of the controversy, and that is for all the purposes of the suit, whatever the plaintiff declares it to be in his pleadings." And see Whitcomb v. Smithson, 
+175 U.S. 635
+, 20 Sup. Ct. Rep. 248, 44 L. ed. --.
+ The was no separable controversy here. The case presented a joint cause of action against all the defendants, and, indeed, the removal was applied for on the ground that the suit arose under the Constitution and laws of the United States. It therefore came within the first clause of the secton quoted, and if the same rule governs proceedings under that clause that obtains in respect of the second clause, the judgment of the supreme court of Kansas must be affirmed. And in view of the language of the statute we think the proper conclusion is that all the defendants must join in the application under either clause.
+ We do not regard Sonnentheil v. Christian Moerlein Brewing Co. 
+172 U.S. 401
+, 43 L. ed. 492, 19 Sup. Ct. Rep. 233, as in point. There an action had been brought in the circuit court of the United States for the eastern dis- 
+
+[178 U.S. 245, 249]
+ 
+ trict of Texas by a citizen of Texas, against an Ohio corporation and a United States marshal, the jurisdiction depending as to one defendant on diverse citizenship, and as to the other on the case arising under the Constitution and laws of the United States, and the question was whether the judgment of the circuit court of appeals was made final by the act of March 3, 1891, which we held it was not, as the jurisdiction was not dependent entirely upon the opposite parties to the suit being citizens of different states.
+ Mitchell v. Smale, 
+140 U.S. 406
+, 35 L. ed. 442, 11 Sup. Ct. Rep. 819, 840, is, however, justly pressed on our attention as of weight in the disposition of the particular question raised in this case.
+ The case was this: Mitchell was a citizen of Illinois, and commenced an action of ejectment in the circuit court of Cook county, in that state, against three defendants, Jabez G. Smale, and John J. and Frank I. Bennett. The Bennetts, who were attorneys, appeared specially for Conrad N. Jordan, and moved that he be substituted as sole defendant. The motion was made upon an affidavit of Jordan that the Bennetts had no interest, having conveyed the property to him before the suit was commenced, and that Smale was a mere tenant under him, Jordan, and had no other interest. The court denied the motion, and thereupon Jordan was admitted to defend the cause as landlord and codefendant. Afterwards, and in due time, Jordan filed a petition, under the act of 1875, for the removal of the cause into the circuit court of the United States, alleging as ground of removal that the plaintiff was a citizen of Illinois, and that he, Jordan, was a citizen of New York, and was the owner of the property, and that the sole controversy in the case was between him, Jordan, and the plaintiff, stating the facts previously affirmed in his affidavit as to the want of interest in the Bennetts, and the tenancy of Smale. Subsequently Jordan obtained leave to amend his petition, and amended it so as to set up that as between him and plaintiff the controversy involved the authority of the Land Department of the United States to grant certain patents, under which he claimed the right to hold the land in dispute, after and in view of the patent under which plaintiff claimed the same land. As Smale was merely a tenant, 
+
+[178 U.S. 245, 250]
+ 
+ the court held that there was no good reason why the contest respecting the title might not have been carried on between Jordan and plaintiff alone so far as Smale was concerned; but as to the Bennetts the court thought there was greater difficulty in sustaining a removal, because they were made defendants apparently in good faith, and were not acknowledged to be tenants of Jordan, and plaintiff might well insist on prosecuting his action against them, as well as against Jordan, in order that, if he should be successful, there might be no failure of a complete recovery of the land claimed by him, but inasmuch as Jordan exhibited a claim under the authority of the United States, which was contested by Mitchell on the ground of the want of that authority, while it was true that laws of the state of Illinois might be invoked by the parties, still it was no less true that the authority of the United States to make the grant relied on would be necessarily called in question. In view of that defense the jurisdiction was sustained apparently on the ground that there was a separable controversy, and the ar ticular terms of the different clauses of the statute were really not discussed.
+ The case was a peculiar one, and we must decline to allow it to control the determination of that before us.
+ In Little York Gold-Washing & Water Co. v. Keyes, 
+96 
+U.S. 199, 203
+, 24 S. L. ed. 656, 658, Mr. Chief Justice Waite said: 'A cause cannot be removed from a state court simply because, in the progress of the litigation, it may become necessary to give a construction to the Constitution or laws of the United States. The decision of the case must depend upon that construction. The suit must, in part at least, arise out of a controversy between the parties in regard to the operation and effect of the Constitution or laws upon the facts involved. . . . Before, therefore, a circuit court can be required to retain a cause under this jurisdiction, it must in some form appear upon the record, by a statement of facts, 'in legal and logical form,' such as is required in good pleading, . . . that the suit is onewhich really and substantially involves a dispute or controversy' as to a right which depends upon the construction or effect of the Constitution, or some law 
+
+[178 U.S. 245, 251]
+ 
+ or treaty of the United States.' Blackburn v. Portland Gold Min. Co. 
+175 U.S. 571
+, 20 Sup. Ct. Rep. 222, 44 L. ed. --.
+ In Mitchell v. Smale the claim of Jordan was treated by the court as coming within that ruling, but the case before us does not. This was an ordinary action under a state statute for wrongfully causing the death of plaintiff's intestate. No Federal question was in fact presented by the pleadings nor litigated at the trial. The liability depended on principles of general law applicable to the facts, and not in any way upon the terms of the order appointing the receivers. Whatever the rights of the receivers to remove the cause if they had been sued alone, the controversy was not a separable controversy within the intent and meaning of the act. This being so, the case came solely within the first clause of the section, and we are of opinion that it was not intended by Congress that, under such circumstances, there should be any difference between the rule applied under the 1st and the 2d clauses of  2 of the act of 1887-8.
+ Judgment affirmed. 
+
+
+

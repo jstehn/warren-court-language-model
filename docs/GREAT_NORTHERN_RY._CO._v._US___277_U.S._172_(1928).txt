@@ -1,0 +1,124 @@
+Description: GREAT NORTHERN RY. CO. v. US , 277 U.S. 172 (1928)
+Date: 1928-05-14 00:00:00
+Docket: 612
+Opinion
+
+
+United States Supreme Court
+GREAT NORTHERN RY. CO. v. U.S.(1928)
+No. 612
+Argued: April 27, 1928Decided: May 14, 1928
+
+
+
+
+[277 U.S. 172, 173]
+ 
+ Mr. F. G. Dorety, of St. Paul, Minn, forappellant.
+
+
+
+[277 U.S. 172, 175]
+ 
+ Mr. Blackburn Esterline, of Washington, D. C., for the United States. 
+
+[277 U.S. 172, 176]
+ 
+ Mr. D. W. Knowlton, of Washington, D. C., for Interstate Commerce commission.
+
+
+
+[277 U.S. 172, 177]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This suit, under the Act of June 18, 1910, c. 309, 36 Stat. 539, as amended by Urgent Deficiencies Act of Octo- 
+
+[277 U.S. 172, 178]
+ 
+ ber 22, 1913, c. 32, 38 Stat. 208, 220 (28 USCA  43-48, 214, 380) was brought by the Great Northern Railway Company against the United States, in the federal court for Minnesota, to annul two certificates issued by the Interstate Commerce Commission to the Secretary of the Treasury, pursuant to section 209 of Transportation Act 1920, February 28, 1920, c. 91, 41 Stat. 456, 464-468 (49 USCA  77; Comp. St.  10071 1/4 dd). The company claims that these certificates are orders of the Commission, that they were issued without authority of law, and that they are void. The United States and the Commission moved to dismiss on the ground that the certificates sought to be annulled are not orders of the Commission within the meaning of the Commerce Court and Urgent Deficiencies Acts, and that the United States had not consented to be sued. The case was heard before three judges, who dismissed the bill for want of jurisdiction. 22 F.(2d) 865. Whether they erred in so doing is the only question presented by the appeal.
+ Certificates under section 209 are an incident of the termination of the federal control of the railroads on March 1, 1920. They are provided for in title 2 of Transportation Act 1920. By section 209(c) of that act ( 49 USCA  77(c); Comp. St.  10071 1/4 dd(c)), the United States guaranteed to each company that its railway operating income for the following six months should be not less than one-half of the amount of the annual compensation to which it was entitled during the period of federal control. Paragraph (g) (49 USCA  77(g); Comp. St.  10071 1/4 dd(g)) provided that:
+'The Commission shall, as soon as practicable after the expiration of the guaranty period, ascertain and certify to the Secretary of the Treasury the several amounts necessary to make good the foregoing guaranty. ...'
+
+ Paragraph (h) (Comp. St.  10071 1/4 dd(h)) provided for the issue, during the guaranty period, of certificates for payment on account, if the carrier furnishes an adequately secured contract to repay to the United 
+
+[277 U.S. 172, 179]
+ 
+ States any amount received in excess of that which shall be finally determined as the sum to which the carrier is entitled under the guaranty. Section 212, added by the Act of February 26, 1921, c. 72, 41 Stat. 1145 ( 49 USCA  79; Comp. St.  10071 1/4 e(1)), provided for payments on account after the expiration of the guaranty period, the Commission being authorized to 'make its certificate for any amount definitely ascertained by it to be due, and ... thereafter in the same manner make further certificates, until the whole amount due has been certified.' Upon receipt of certificates, the Secretary of the Treasury was directed 'to draw warrants in favor of each such carrier upon the Treasury of the United States, for the amount shown in such certificate as necessary to make good such guaranty.'
+ Upon certificates of the Commission issued to the Secretary of the Treasury under paragraph (h), he paid the company $6,500,000 in 1920. Upon certificate issued under section 212, he paid it $6,000,000 in 1921. Several years later, in the course of the proceedings for final settlement of the amount due the company under section 209, the Commission issued to the Secretary of the Treasury the two certificates here in suit. Only the second of them is of importance. It certified that the total amount required to make good to the company the guaranty provided for in section 209 was $11,170,214.02. Guaranty Settlement with Great Northern Railway Co. et al., 99 I. C. C. 231; Id., 111 I. C. C. 318. As the Secretary of the Treasury had paid $12,500,000 to the company, he demanded reimbursement, as an overpayment, of $1,329,785.98, being the difference between the aggregate amounts received by the company and the total amount certified as payable under the guaranty. Pending settlement of that claim, the government withheld payment to the company of all amounts accruing for transportation services, but the payments were resumed upon the company's deposit of Liberty bonds as 
+
+[277 U.S. 172, 180]
+ 
+ collateral. Thereupon this suit was brought by the company to annul the certificates and to restrain the government from enforcing its claim by sale of the Liberty bonds or otherwise.
+ The function imposed upon the Commission by section 209 is solely that of determining the amount required to make good the government's guaranty. It is not an exertion of the delegated power to regulate interstate commerce. It is an incident of the World War-a temporary, nonrecurrent task, which might appropriately have been performed for the Treasury by its Comptroller or auditors, or by other trusted official. Congress selected the Commission for this service, doubtless, because of its special fitness. For the Commission had knowledge of railroads and experience in railroad accounting; it had the custody of the records of railroad operations; and its staff was competent to make speedily the necessary investigations.
+ Transportation Act 1920, did not confer upon the Commission power to order anything in connection with the issue of the certificates. There is in the certificates no direction, no word of command. They are the recital of a finding of act. They are addressed to the Secretary of the Treasury; and only to him. The form of the certificate expresses appropriately the character of the service performed by the Commission. The final certificate does not purport to declare that the carrier is indebted to the United States in any sum. It states the total amount required of the United States to make good the guaranty and the aggregate amount theretofore certified. It discloses the facts, but does not certify that there was an overpayment. 
+1
+ Congress distinguished clearly, in fram- 
+
+[277 U.S. 172, 181]
+ 
+ ing Transportation Act 1920, between provisions which were amendments of the Interstate Commerce Act (49 USCA  1 et seq.; Comp. St.  8563 et seq.) and those which, while relating to railroads, were not. The amendments were grouped under title 4. The provisions here involved, which related solely to the termination of federal control, were grouped under title 2. Those which provided for the Railroad Labor Board under title 3. Because issuing certificates is not a part of the Commission's delegated power to regulate commerce, and is not an incident of such regulation, the special remedy provided by the Urgent Deficiencies Act is not available to review the legality or correctness of its action in doing so.
+ The company points out that the action of the Commission here in question was affirmative, not negative, as in Proctor & Gamble Co. v. United States, 
+225 
+U.S. 282
+, 32 S. Ct. 761; that it relates to a matter of substance and not merely to a step in procedure, as in United States v. Illinois Central R. Co., 
+244 
+U.S. 82
+, 37 S. Ct. 584; that it determines legal rights and 
+
+[277 U.S. 172, 182]
+ 
+ obligations, and is not simply the tentative or final report of an investigation, as were the orders which we declined to review in Delaware & Hudson Co. v. United States, 
+266 
+U.S. 438
+, 45 S. Ct. 153, and United States v. Los Angeles & Salt Lake R. Co., 
+273 
+U.S. 299
+, 47 S. Ct. 413; and that its being entitled as a certificate rather than as an order is not fatal to the equity jurisdiction of the District Court under Urgent Deficiencies Act. Compare Chicago Junction Case, 
+264 
+U.S. 258, 263
+, 44 S. Ct. 317; Colorado v. United States, 
+271 
+U.S. 153
+, 46 S. Ct. 452; Home Furniture Co. v. United States, 
+271 
+U.S. 456
+, 46 S. Ct. 545. But these considerations are irrelevant. For the inapplicability of the special remedy given by the Urgent Deficiencies Act is due to the fact that the certificate deals with a subject-matter not within in the scope of the Commission's duty to regulate commerce, and hence not within the purview of that remedy. In this respect, among others, it differs from the order involved in Dayton-Goose Creek R. Co. v. United States, 
+263 
+U.S. 456
+, 44 S. Ct. 169, 33 A. L. R. 472.
+ It is said that, unless this remedy is available, the company may be without redress. The argument is that the determination by the Commission of the amount required to make good the guaranty, may be likened to an award of arbitrators, that the ground of attack upon the certificates is that they were made under a mistake of law, and that an award can be set aside for mistake of law only in equity. Hartford Fire Insurance Co. v. Bonner Mercantile Co. (C. C.) 44 F. 151, 11 L. R. A. 623; McLaurin v. McLauchlin (C. C. A.) 215 F. 345. We have no occasion to inquire whether a remedy at law or some other remedy in equity is available. The mere fact that the certificate may be conclusive, if it be a fact, would not entitle the company to a judicial review. Compare United States v. Babock, 
+250 
+U.S. 328, 331
+, 39 S. Ct. 464; Work v. Rives, 
+267 
+U.S. 175
+, 45 S. Ct. 252. We find no reason for thinking that, because Congress confided to the Commission the task of certifying the amount to be paid to carriers from the public treasury, as an incident to the World 
+
+[277 U.S. 172, 183]
+ 
+ War, it thereby consented that the United States should be sued in the special proceeding in equity, devised long before to control the Commission's execution of its regular functions in enforcing the Interstate Commerce Act.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] The certificate reads (111 I. C. C. 318, 338, 339):
+'To the Secretary of the Treasury of the United States: ...
+
+'2. The Commission has ascertained, and hereby certifies to the Secretary of the Treasury, that the amount necessary to make good to said Great Northern Railway Company the guaranty provided by section 209 of the Transportation Act, 1920, is $11,170,214.02. ...
+
+'3. The Commission has heretofore certified to the Secretary of the Treasury as advances under section 209(h) to said Great Northern Railway Company an aggregate amount of $6,500,000, as follows:
+
+ -and as partial payment to said Great Northern Railway Company under section 209(g), as amended by section 212, an amount of $6,000,000 on March 1, 1921, under certificate No. A-329.
+'4. The Commission has made final determination as aforesaid of the amount of the guaranty provided for by section 209 of the Transportation Act 1920.
+
+'Dated this 8th day of June, 1926.'
+
+'The two certificates here involved deal with the same subject-matter. The issue of the second canceled the earlier one, which differed as to the amount due to the company, and which had contained a certification of the fact of overpayment. 99 I. C. C. 231, 234, 235. 
+
+
+
+
+

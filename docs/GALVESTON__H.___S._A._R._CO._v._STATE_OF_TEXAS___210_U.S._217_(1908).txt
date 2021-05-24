@@ -1,0 +1,129 @@
+Description: GALVESTON, H. & S. A. R. CO. v. STATE OF TEXAS , 210 U.S. 217 (1908)
+Date: 1908-05-18 00:00:00
+Docket: 207
+Opinion
+
+
+United States Supreme Court
+GALVESTON, H. & S. A. R. CO. v. STATE OF TEXAS(1908)
+No. 207
+Argued: Decided: May 18, 1908
+
+
+
+
+[210 U.S. 217, 218]
+ 
+ Messrs. Hiram M. Garwood, Maxwell Evarts, Robert S. Lovett, and Messrs. Baker, Botts, Parker, & Garwood for plaintiffs in error.
+
+
+
+[210 U.S. 217, 220]
+ 
+ Messrs. William Edward Hawkins and Robert Vance Davidson for defendant in error.
+
+
+[210 U.S. 217, 223]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action against certain railroads to recover taxes and penalties. The supreme court of the state held the penal- 
+
+[210 U.S. 217, 224]
+ 
+ ties to be void under the state Constitution, but upheld the tax. 97 S. W. 71. The railroads bring the case here mainly on the ground that the law upon which the action is based is an attempt to regulate commerce among the states.
+ The act in question is entitled, 'An Act Imposing a Tax upon Railroad Corporations . . . and Other Persons . . . Owning . . . or Controlling Any Line of Railroad in This State . . . Equal to 1 Per Cent of Their Gross Receipts, . . . and Repealing the Existing Tax on the Gross Passenger Earnings of Railroads.' It proceeds in  1 to impose upon such railroads 'an annual tax for the year 1905, and for each calendar year thereafter, equal to 1 per centum of its gross receipts, if such line of railroad lies wholly within the state.' In  2 a report, under oath, of 'the gross receipts of such line of railroad, from every source whatever, for the year ending on the 30th day of June last preceding,' and immediate payment of the tax, 'calculated on the gross receipts so reported,' are required. The comptroller is given power to call for other reports, and is to 'estimate such tax on the true gross receipts thereby disclosed,' etc. The lines of the railroads concerned are wholly within the state, but they connect with other lines, and a part, in some instances much the larger part, of their gross receipts is derived from the carriage of passengers and freight coming from, or destined to, points without the state. In view of this portion of their business, the railroads contend that the case is governed by Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 
+122 U.S. 326
+, 30 L. ed. 1200, 1 Inters. Com. Rep. 308, 7 Sup. Ct. Rep. 1118. The counsel for the state rely upon Maine v. Grand Trunk R. Co. 
+142 U.S. 217
+, 35 L. ed. 994, 3 Inters. Com. Rep. 807, 12 Sup. Ct. Rep. 121, 163, and maintain, if necessary, that the later overrules the earlier case.
+ In Philadelphia & S. Mail S. S. Co. v. Pennsylvania, supra, it was decided that a tax upon the gross receipts of a steamship corporation of the state, when such receipts were derived from commerce between the states and with foreign countries, was unconstitutional. We regard this decision as unshaken and as stating established law. It cites 
+
+[210 U.S. 217, 225]
+ 
+ the earlier cases to the same effect. Later ones are Ratterman v. Western U. Teleg. Co. 
+127 U.S. 411
+, 32 L. ed. 229, 2 Inters. Com. Rep. 59, 8 Sup. Ct. Rep. 1127; Western U. Teleg. Co. v. Pennsylvania, 
+128 U.S. 39
+, 32 L. ed. 345, 2 Inters. Com. Rep. 241, 9 Sup. Ct. Rep. 6; Western U. Teleg. Co. v. Alabama Bd. of Assessment (Western U. Teleg. Co. v. Seay), 
+132 U.S. 472
+, 33 L. ed. 409, 2 Inters. Com. Rep. 726, 10 Sup. Ct. Rep. 161. See also Pullman's Palace Car Co. v. Pennsylvania, 
+141 
+U.S. 18, 25
+, 35 S. L. ed. 613, 617, 3 Inters. Com. Rep. 595, 11 Sup. Ct. Rep. 876; Ficklen v. Taxing District, 
+145 
+U.S. 1, 22
+, 36 S. L. ed. 601, 606, 4 Inters. Com. Rep. 79, 12 Sup. Ct. Rep. 810; New York, L. E. & W. R. Co. v. Pennsylvania, 
+158 
+U.S. 431, 438
+, 39 S. L. ed. 1043, 1045, 15 Sup. Ct. Rep. 896; McHenry v. Alford, 
+168 
+U.S. 651, 670
+, 671 S., 42 L. ed. 614, 621, 18 Sup. Ct. Rep. 242; Atlantic & P. Teleg. Co. v. Philadelphia, 
+190 
+U.S. 160, 162
+, 47 S. L. ed. 995, 999, 23 Sup. Ct. Rep. 817. In Maine v. Grand Trunk R. Co. supra, the authority of the Philadelphia Steamship Company Case was accepted without question, and the decision was justified by the majority as not in any way qualifying or impairing it. The validity of the distinction was what divided the court.
+ It being once admitted, as of course it must be, that not every law that affects commerce among the states is a regulation of it in a constitutional sense, nice distinctions are to be expected. Regulation and commerce among the states both are practical rather than technical conceptions, and, naturally, their limits must be fixed by practical lines. As the property of companies engaged in such commerce may be taxed ( Pullman's Palace Car Co. v. Pennsylvania, 
+141 U.S. 18
+, 35 L. ed. 613, 3 Inters. Com. Rep. 595, 11 Sup. Ct. Rep. 876), and may be taxed at its value as it is, in its organic relations, and not merely as a congeries of unrelated items, taxes on such property have been sustained that took account of the augmentation of value from the commerce in which it was engaged. Adams Exp. Co. v. Ohio State Auditor, 
+165 U.S. 194
+, 41 L. ed. 683, 17 Sup. Ct. Rep. 305; Adams Exp. Co. v. Kentucky, 
+166 U.S. 171
+, 41 L. ed. 960, 17 Sup. Ct. Rep. 527; Fargo v. Hart, 
+193 
+U.S. 490, 499
+, 48 S. L. ed. 761, 765, 24 Sup. Ct. Rep. 498. So it has been held that a tax on the property and business of a railroad operated within the state might be estimated prima facie by gross income, computed by adding to the income derived from business within the state the proportion of interstate business equal to the proportion between the road over which the business was carried within the state to the total length of the road over which it was carried. Wisconsin & M. R. Co. v. Powers, 
+191 U.S. 379
+, 48 L. ed. 229, 24 Sup. Ct. Rep. 107. 
+
+[210 U.S. 217, 226]
+ 
+ Since the commercial value of property consists in the expectation of income from it, and since taxes ultimately, at least, in the long run, come out of imcome, obviously taxes called taxes on property, and those called taxes on income or receipts, tend to run into each other somewhat as fair value and anticipated profits run into each other in the law of damages. The difficulty of distinguishing them became greater when it was decided, not without much debate and difference of opinion, that interstate carriers' property might be taxed as a going concern. In Wisconsin & M. R. Co. v. Powers, supra, the measure of property by income purported only to be prima facie valid. But the extreme case came earlier. In Maine v. Grand Trunk R. Co. supra, 'an annual excise tax for the privilege of exercising its franchise' was levied upon everyone operating a railroad in the state, fixed by percentages, varying up to a certain limit, upon the average gross receipts per mile multiplied by the number of miles within the state, when the road extended outside. This seems at first sight like a reaction from the Philadelphia & Southern Mail Steamship Company Case. But it may not have been. The estimated gross receipts per mile may be said to have been made a measure of the value of the property per mile. That the effort of the state was to reach that value, and not to fasten on the receipts from transportation as such, was shown by the fact that the scheme of the statute was to establish a system. The buildings of the railroad and its lands and fixtures outside of its right of way were to be taxed locally, as other property was taxed, and this excise with the local tax were to be in lieu of all taxes. The language shows that the local tax was not expected to include the additional value gained by the property being part of a going concern. That idea came in later. The excise was an attempt to reach that additional value. The two taxes together fairly may be called a commutation tax. See Ficklen v. Taxing District, 
+145 
+U.S. 1, 23
+, 36 S. L. ed. 601, 607, 4 Inters. Com. Rep. 79, 12 Sup. Ct. Rep. 810; Postal Teleg. Cable Co. v. Adams, 
+155 
+U.S. 688, 697
+, 39 S. L. ed. 311, 316, 5 Inters. Com. Rep. 1, 15 Sup. Ct. Rep. 268, 360; McHenry v. Alford, 
+168 
+U.S. 651, 670
+, 671 S., 42 L. ed. 614, 621, 18 Sup. Ct. Rep. 242. 
+
+[210 U.S. 217, 227]
+ 
+ 'By whatever name the exaction may be called, if it amounts to no more than the ordinary tax upon property or a just equivalent therefor, ascertained by reference thereto, it is not open to attack as inconsistent with the Constitution.' Postal Teleg. Cable Co. v. Adams, supra. See New York, L. E. & W. R. Co. v. Pennsylvania, 
+158 
+U.S. 431, 438
+, 439 S., 39 L. ed. 1043, 1045, 1046, 15 Sup. Ct. Rep. 896. The question is whether this is such a tax. It appears sufficiently, perhaps from what has been said, that we are to look for a practical rather than a logical or philosophical distinction. The state must be allowed to tax the property, and to tax it at its actual value as a going concern. On the other hand, the state cannot tax the interstate business. The two necessities hardly admit of an absolute logical reconciliation. Yet the distinction is not without sense. When a legislature is trying simply to value property, it is less likely to attempt or to effect injurious regulation than when it is aiming directly at the receipts from interstate commerce. A practical line can be drawn by taking the whole scheme of taxation into account. That must be done by this court as best it can. Neither the state courts nor the legislatures, by giving the tax a particular name or by the use of some form of words, can take away our duty to consider its nature and effect. If it bears upon commerce among the states so directly as to amount to a regulation in a relatively immediate way, it will not be saved by name or form. Stockard v. Morgan, 
+185 
+U.S. 27, 37
+, 46 S. L. ed. 785, 794, 22 Sup. Ct. Rep. 576; Asbell v. Kansas, 
+209 
+U.S. 251, 254
+, 256 S., ante, 485, 28 Sup. Ct. Rep. 485.
+ We are of opinion that the statute levying this tax does amount to an attempt to regulate commerce among the states. The distinction between a tax 'equal to' 1 per cent of gross receipts, and a tax of 1 per cent of the same, seems to us nothing, except where the former phrase is the index of an actual attempt to reach the property and to let the interstate traffic and the receipts from it alone. We find no such attempt or anything to qualify the plain inference from the statute, taken by itself. On the contrary, we rather infer from the judgment of the state court and from the argument on behalf of the state 
+
+[210 U.S. 217, 228]
+ 
+ that another tax on the property of the railroad is upon a valuation of that property, taken as a going concern. This is merely an effort to reach the gross receipts, not even disguised by the name of an occupation tax, and in no way helped by the words 'equal to.'
+ Of course, it does not matter that the plaintiffs in error are domestic corporations, or that the tax embraces indiscriminately gross receipts from commerce within as well as outside of the state. We are of opinion that the judgments should be reversed.
+ Judgment reversed.
+
+ Mr. Justice Harland, dissenting:
+ In my opinion the court ought to accept the interpretation which the supreme court of Texas places upon the statute in question. In other words, it should be assumed that, by imposing upon railroads and corporations owning, operating, managing, or controlling any line of railroad in the state, for the transportation of passengers, freight, or baggage, and annual tax 'equal to 1 per centum of its gross receipts, if such line of railroad lies wholly within the state, and, if such line of railroad lies partly within and partly without the state, it shall pay a tax equal to such proportion of the said 1 per centum of its gross receipts as the length of the portion of such line within the state bears to the whole length of such line,'-the state intended to impose only an occupation tax. Such is the construction which the state court places on the statute, and that construction is justified by the words used. We have the authority of the supreme court of Texas for saying that the Constitution of that state authorizes the imposition of occupation taxes upon natural persons and upon corporations, other than municipal, doing business in that state. The plaintiff in error is a Texas corporation, and it cannot be doubted that the state may impose an occupation tax on one of its own corporations 
+
+[210 U.S. 217, 229]
+ 
+ provided such tax does not interfere with the exercise of some power belonging to the United States.
+ But it is said that the tax in question, even if regarded as an occupation tax, is invalid, as constituting a direct burden on interstate commerce, the regulation of which belongs to Congress. It is not, in my opinion, to be taken as a tax on interstate commerce in the sense of the Constitution; for its operation on interstate commerce is only incidental, not direct. A state, in the regulation of its internal affairs, often prescribes rules which, in their operation, remotely or incidentally, affect interstate commerce. But such rules have never been held as in themselves imposing direct burdens upon such commerce, and, on that ground, invalid. The state, in the present case, ascertains the extent of business done by the corporation in the state, and requires an annual occupation tax 'equal' to a named per centum of the amount of such business. It does not lay any tax directly upon the gross receipts as such, as was the case in Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 
+122 U.S. 326
+, 30 L. ed. 1200, 1 Inters. Com. Rep. 308, 7 Sup. Ct. Rep. 1118. In that case the court said: 'The tax was levied directly upon the receipts derived by the company from its fares and freights, for the transportation of persons and goods between different states, and between the states and foreign countries, and from the charter of its vessels, which was for the same purpose. This transportation was an act of interstate and foreign commerce. It was the carrying on of such commerce.' Here there is no levying upon receipts, as such, from interstate commerce. The state only measures the occupation tax by looking at the entire amount of the business done within its limits, without reference to the source from which the business comes. It does not tax any part of the business because of its being interstate. It has reference equally to all kinds of business done by the corporation in the state. Suppose the state, as, under its Constitution, it might do, should impose an income tax upon railroad corporations of its own creation, doing business within the state, equal to a given per cent of all income received by the corporation from its business,-would 
+
+[210 U.S. 217, 230]
+ 
+ the corporation be entitled to have excluded from computation such of its income as was derived from interstate commerce? Such would be its right under the principles announced in the present case. In the case supposed the income tax would, under the principles or rules now announced, be regarded as a direct burden upon interstate commerce. I cannot assent to this view.
+ If it did not delay an announcement of the court's decision longer, perhaps, than is desirable, I should be glad to go into this subject at large, and present such a review of the adjudged cases as would show that the views expressed by me are in harmony with previous cases in this court. The present decision, I fear, will seriously affect the taxing laws of many states, and so impair the powers of the several states, in matters of taxation, that they cannot compel their own corporations to bear their just proportion of such public burden as can be met only by taxation. I dissent from the opinion and judgment of the court.
+ Mr. Chief Justice Fuller, Mr. Justice White, and Mr. Justice McKenna concur in this dissent. 
+
+
+

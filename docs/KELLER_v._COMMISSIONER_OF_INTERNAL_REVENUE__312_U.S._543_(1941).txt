@@ -1,0 +1,43 @@
+Description: KELLER v. COMMISSIONER OF INTERNAL REVENUE, 312 U.S. 543 (1941)
+Date: 1941-03-03 00:00:00
+Docket: 371
+Opinion
+
+
+United States Supreme Court
+KELLER v. COMMISSIONER OF INTERNAL REVENUE(1941)
+No. 371
+Argued: January 10, 1941Decided: March 3, 1941
+
+
+
+ Messrs. Ferdinand T. Weil and J. Smith Christy, both of Pittsburgh, Pa., for petitioners.
+ Mr. Samuel O. Clark, Jr., Asst. Atty. Gen., for respondent.
+
+ Mr. Justice MURPHY delivered the opinion of the Court.
+ This case is companion to Helvering v. Le Gierse, 
+312 
+U.S. 531
+, 61 S. Ct. 646, 85 L.Ed. --, decided this day. In all material respects the facts are alike except for the differences to be noted. Here the annuity contract provided for annual payments of $390.84 and cost decedent $3,258. 20. The 'insurance' policy stipulated for payment of $20,000 to decedent's daughter at de- 
+
+[312 
+U.S. 543, 544]
+ 
+ cedent's death, and the single premium was $17,941.80. Decedent was 74 at the time the contract was executed and died about two years later. Proceeding on the same theory as in the Le Gierse case, the Commissioner assessed a deficiency in the federal estate tax which the Board of Tax Appeals reversed. 39 B.T.A. 1047. The Circuit Court of Appeals in turn reversed the Board of Tax Appeals. 3 Cir., 113 F.2d 833. The case is here because of conflict with the Le Gierse case (2 Cir., 110 F.2d 734). 
+311 
+U.S. 630
+, 61 S.Ct. 50, 85 L.Ed. --.
+ Petitioners contend that this case is distinguishable from the Le Gierse case because here the insurance company found that the total consideration for the two contracts, which was 106% of the face value of the policy, was inadequate. They point out that the rate for this combination of contracts was later increased to 108% and finally to 110%. Further, they contend that absence of physical examination does not establish absence of risk, and that the Board of Tax Appeals found that there was 'some' risk to the insurance company.
+ We find the distinctions insufficient to require a different result.
+ It is not enough to show that the insurance company assumed 'some' risk. A bank assumes a risk when it accepts a depositor's funds and invests them. The investment may prove to be an unsafe one, or the bank may have agreed to pay the depositor a higher rate of interest than it can profitably earn on the funds it invests. Indisputably this is a risk. But it is not an insurance risk in the sense explained in the Le Gierse case. That the insurance company subsequently changed the total charge for this particular combination of contracts because it was unprofitable does not establish the existence of an insurance risk. Rather, it illustrates strikingly the interrelation of the two agreements and emphasizes the effort of the company to remove all possible investment risk. 
+
+[312 
+U.S. 543, 545]
+ 
+ Absence of a physical examination may well be inconclusive as to the existence of an insurance risk. For example, some companies do not require such an examination for group insurance. But there the risk as to one is distributed among the group, an insurance risk squarely within the definition stated in the Le Gierse case. Here the annuity issued with the policy did more than substitute for a physical examination. It removed the necessity for any risk distribution and completely countervailed a risk otherwise assumed in the 'insurance' policy.
+ The finding by the Board of Tax Appeals that there was some risk necessarily is ambiguous in view of their finding that the company annually earned from 3 1/2 to 4 percent on its own investments. It is therefore reasonable to conclude that the 'risk' referred to was a risk that the funds might not earn enough to cover profitably the annuity payable to the decedent, or a risk due to a miscalculation of the proper total consideration. In either event it is not a finding of the existence of an insurance risk.
+ Since the case is not distinguishable from Helvering v. Le Gierse, supra, the judgment of the Circuit Court of Appeals is affirmed.
+ The CHIEF JUSTICE and Mr. Justice ROBERTS think the judgment should be reversed for the reasons stated in the opinion of the Circuit Court of Appeals for the Second Circuit in Commissioner v. Le Gierse, 110 F.2d 734. 
+
+
+

@@ -1,0 +1,135 @@
+Description: BANKERS' TRUST CO. v. TEXAS & P. R. CO. , 241 U.S. 295 (1916)
+Date: 1916-05-22 00:00:00
+Docket: 889
+Opinion
+
+
+United States Supreme Court
+BANKERS' TRUST CO. v. TEXAS & P. R. CO.(1916)
+No. 889
+Argued: Decided: May 22, 1916
+
+
+
+
+
+[241 U.S. 295, 297]
+ 
+ Messrs. Maurice E. Locke and William W. Green for appellant.
+
+
+[241 U.S. 295, 301]
+ 
+ Messrs. George Thompson, Henry C. Coke, Thomas J. Freeman, Arthur J. Shores, Alexander S. Coke, Winslow S. Pierce, and Lawrence Greer for appellees.
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ This is a suit to foreclose a railroad mortgage and for other incidental relief. It was brought in the district court for the northern district of Texas December 27, 1915, was dismissed by that court for want of jurisdiction, and is here upon a direct appeal under  238 of the Judical Code [36 Stat. at L. 1157, chap. 231, Comp. Stat. 1913,  1215].
+ The bill alleges that the plaintiff, the trustee under the mortgage, is a New York corporation and 'a citizen of said state;' that the Texas & Pacific Railway Company, one of the defendants, is a corporation created and existing under the laws of the United States, has its principal place of business and its principal operating and general offices in the northern district of Texas, and 'is a resident and inhabitant' of that district; that the New Orleans Pacific Railway Company, the other de- 
+
+[241 U.S. 295, 302]
+ 
+ fendant, is a Louisiana corporation and 'a citizen of said state;' that one of the acts of Congress under which the Texas & Pacific Railway Company was created and now exists (act March 3, 1871, chap. 122,  1, 16 Stat. at L. 573) provides that such company 'by that name . . . shall be able to sue and be sued, plead and be impleaded, defend and be defended, in all courts of law and equity within the United States;' that under that act and designated amendatory and supplemental acts of Congress (May 2, 1872, chap. 132, 17 Stat. at L. 59; March 3, 1873, chap. 257, 17 Stat. at L. 598; June 22, 1874, chap. 406, 18 Stat. at L. 197) said company came to own and hold on February 1, 1888, certain railroad properties and interests in Texas and Louisiana; that on that date said company, 'acting in pursuance of due authority conferred upon it by said acts of Congress,' the relevant portions of which are copied into the bill, and the New Orleans Pacific Railway Company, acting in pursuance of authority conferred upon it by the laws of Louisiana, executed and delivered the mortgage in suit covering these railroad properties and interests, a substantial part of which is situate in the northern district of Texas; that the mortgage was duly filed and recorded in the Department of the Interior pursuant to such acts of Congress; that the mortgagors have defaulted in the performance of the terms and conditions of the mortgage, and that the suit involves the requisite jurisdictional amount and 'arises under the Constitution and laws of the United States.'
+ By a motion to dismiss, the Texas & Pacific Railway Company challenged the jurisdiction of the district court upon the grounds that the act of January 28, 1915, chap. 22,  5, 38 Stat. at L. 803, provides: 'No court of the United States shall have jurisdiction of any action or suit by or against any railroad company upon the ground that said railroad company was incorporated under an act of Congress;' and that, apart from the Texas & Pacific Rail- 
+
+[241 U.S. 295, 303]
+ 
+ way Company's incorporation under congressional enactments, the suit is not one arising under the Constitution or any law of the United States, and is not one between citizens of different states. The motion was sustained and the bill was dismissed as to both defendants.
+ The plaintiff insists that, in refusing to entertain the suit, the district court erred because (1) the provision before quoted from  1 of the act of March 3, 1871, enables the Texas & Pacific Railway Company to sue and be sued in any court of law or equity within the United States; (2) the bill shows that the suit is one arising under the laws of the United States apart from the incorporation of the Texas & Pacific Railway Company under acts of Congress, and therefore the act of January 28, 1915, is not controlling, and (3) the bill shows that the suit is between citizens of different states.
+
+ 1. 
+Upon reading  1 of the act of 1871 it is plain that the words 'by that name . . . shall be able to sue and be sued, plead and be impleaded, defend and be defended, in all courts of law and equity within the United States' were not intended in themselves to confer jurisdiction upon any court. As the context shows, Congress was not then concerned with the jurisdiction of courts, but with the faculties and powers of the corporation which it was creating; and evidently all that was intended was to render this corporation capable of suing and being sued by its corporate name in any court of law or equity-Federal, state, or territorial-whose jurisdiction as otherwise competently defined was adequate to the occasion. Had there been a purpose to take suits by and against the corporation out of the usual jurisdictional restrictions relating to the nature of the suit, the amount in controversy, and the venue, it seems reasonable to believe that Congress would have expressed that purpose in altogether different words. The case of Bank of United States v. Deveaux, 5 Cranch, 61, 85, 3 L. ed. 38, 44, is well in point. A 
+
+[241 U.S. 295, 304]
+ 
+ provision in the act incorporating the bank (chap. 10,  3, 1 Stat. at L. 191), much like that here relied upon, was invoked as in itself entitling the bank to sue in a circuit court of the United States, but that view was rejected in an opinion by Chief Justice Marshall, wherein it was said:
+'That act creates the corporation, gives it a capacity to make contracts and to acquire property, and enables it 'to sue and be sued, plead and be impleaded, answer and be answered, defend and be defended, in courts of record, or any other place whatsoever.' This power, if not incident to a corporation, is conferred by every incorporating act, and is not understood to enlarge the jurisdiction of any particular court, but to give a capacity to the corporation to appear, as a corporation, in any court which would, by law, have cognizance of the cause, if brought by individuals. If jurisdiction is given by this clause to the Federal courts, it is equally given to all courts having original jurisdiction, and for all sums, however small they may be.'
+
+ Afterwards, when the second bank of the United States was established, a provision was inserted in the incorporating act (chap. 44,  7, 3 Stat. at L. 266), enabling the bank to sue and be sued 'in all state courts having competent jurisdiction, and in any circuit court of the United States;' and in Osborn v. Bank of United States, 9 Wheat. 738, 6 L. ed. 204, it was held (pp. 816-818) that this provision, unlike that in the prior act, amounted to an express grant of jurisdiction to the circuit courts, and (pp. 823 et seq.) was within the power of Congress under the Constitution. It was in the light of these differing precedents in legislation and of the resulting difference in their interpretation that Congress framed the act of 1871. While that act does not literally follow either precedent, its words have the same generality and natural import as did those in the earlier bank act, and this strengthens the conclusion that Congress intended thereby to give to the Texas & 
+
+[241 U.S. 295, 305]
+ 
+ Pacific Railway Company only a general capacity to sue and be sued in courts of law and equity whose jurisdiction as otherwise defined was appropriate to the occasion, and not to establish an exceptional or privileged jurisdiction.
+
+ 2. 
+Under the Constitution Congress undoubtedly possesses power to invest the subordinate Federal courts with original jurisdiction of all suits at law or in equity arising under the Constitution, laws, or treaties of the United States, and, if the act of February 13, 1801, chap. 4,  11, 2 Stat. at L. 89, be not noticed because of its early repeal ( chap. 8,  1, 2 Stat. at L. 132), it is true, as sometimes has been said,1 that this power was broadly exercised for the first time by the act of March 3, 1875, chap. 137,  1, 18 Stat. at L. 470. By that act Congress in express terms gave the circuit courts original jurisdiction, concurrent with the courts of the several states, of all suits of that nature, where the value of the matter in dispute, exclusive of costs, was in excess of $ 500, and this jurisdiction remained with the circuit courts until January 1, 1912, when they were abolished, save as the act of March 3, 1887, chap. 373,  1, 24 Stat. at L. 552, required that the value of the matter in dispute, exclusive of interest and costs, be in excess of $2,000. Upon the discontinuance of the circuit courts this jurisdiction was transferred to the district courts by  24 of the Judicial Code [36 Stat. at L. 1091, chap. 231, Comp. Stat. 1913,  991], subject to a restriction that thereafter the value of the matter in controversy should exceed $3,000, exclusive of interest and costs.
+ As long ago as Osborn v. Bank of United States, supra, it was settled that a suit by or against a corporation chartered by an act of Congress is one arising under a law of the United States, and this because, as was said in that case, pp. 823, 825: 'The charter of incorporation 
+
+[241 U.S. 295, 306]
+ 
+ not only creates it [the corporation], but gives it every faculty which it possesses. The power to acquire rights of any description, to transact business of any description, to make contracts of any description, to sue on those contracts, is given and measured by its charter, and that charter is a law of the United States. This being can acquire no right, make no contract, bring no suit, which is not authorized by a law of the United States. It is not only itself the mere creature of a law, but all its actions and all its rights are dependent on the same law. Can a being, thus constituted, have a case which does not arise literally, as well as substantially, under the law? Take the case of a contract, which is put as the strongest against the bank. . . . The act of Congress is its foundation. The contract could never have been made, but under the authority of that act. The act itself is the first ingredient in the case, is its origin, is that from which every other part arises. That other questions may also arise, as the execution of the contract, or its performance, cannot change the case, or give it any other origin than the charter of incorporation. The action still originates in, and is sustained by, that charter.'
+ After the act of March 3, 1875, extended the jurisdiction of the circuit courts to cases arising under the laws of the United States, the ruling just quoted was uniformly followed and applied in suits by and against Federal corporations (Pacific R. Removal Cases, 
+115 U.S. 1
+, 29 L. ed. 319, 5 Sup. Ct. Rep. 1113; Petri v. Commercial Nat. Bank, 
+142 
+U.S. 644, 648
+, 35 S. L. ed. 1144, 1145, 12 Sup. Ct. Rep. 325; Butler v. National Home, 
+144 U.S. 64
+, 36 L. ed. 346, 12 Sup. Ct. Rep. 581; Northern P. R. Co. v. Amato, 
+144 
+U.S. 465, 471
+, 36 S. L. ed. 506, 508, 12 Sup. Ct. Rep. 740; Texas & P. R. Co. v. Cox, 
+145 
+U.S. 593, 601
+, 36 S. L. ed. 829, 832, 12 Sup. Ct. Rep. 905; Washington & I. R. Co. v. Coeur d' Alene R. & Nav. Co. 
+160 
+U.S. 77, 93
+, 40 S. L. ed. 346, 352, 16 Sup. Ct. Rep. 231; Supreme Lodge, K. P. v. Kalinski, 
+163 
+U.S. 289, 290
+, 41 S. L. ed. 163, 16 Sup. Ct. Rep. 1047; Texas & P. R. Co. v. Swearingen, 
+196 
+U.S. 51, 53
+, 49 S. L. ed. 382, 384, 25 Sup. Ct. Rep. 164, 17 Am. Neg. Rep. 422; Re Dunn, 
+212 
+U.S. 374, 383
+, 384 S., 53 L. ed. 558, 562, 29 Sup. Ct. Rep. 299), save where the particular suit was withdrawn or excluded from that jurisdiction by some specific enact- 
+
+[241 U.S. 295, 307]
+ 
+ ment, like that of July 12, 1882, chap. 290,  4, 22 Stat. at L. 162, Comp. Stat. 1913,  9665, placing most of the suits by and against national banks in the same category with suits by and against banks not organized under the laws of the United States. Leather Mfrs. Nat. Bank v. Cooper, 
+120 
+U.S. 778, 781
+, 30 S. L. ed. 816, 818, 7 Sup. Ct. Rep. 777; Continental Nat. Bank v. Buford, 
+191 
+U.S. 119, 122
+, 48 S. L. ed. 119, 120, 24 Sup. Ct. Rep. 54.
+ It results that if the general jurisdictional provision, now embodied in  24 of the Judicial Code, respecting suits arising under the laws of the United States, were alone to be considered, it would have to be held that the district court had jurisdiction of the present suit as one falling within that class by reason of the incorporation of the Texas & Pacific Railway Company under a law of the United States. But  5 of the act of January 28, 1915, must also be considered. It is a later enactment, is shown by the title to be amendatory of the Judicial Code, and, as has been seen, declares that 'no court of the United States shall have jurisdiction of any action or suit by or against any railroad company upon the ground that said railroad company was incorporated under an act of Congress.' These are direct and comprehensive words, and, when read in the light of the settled course of decision just mentioned, must be taken as requiring that a suit by or against a railroad company incorporated under an act of Congress be not regarded, for jurisdictional purposes, as arising under the laws of the United States, unless there be some adequate ground for so regarding it other than that the company was thus incorporated. Plainly, there was a purpose to effect a real change in the jurisdiction of such suits. Counsel for plaintiff concede that this is so. But they urge that all that is intended is to eliminate the mere creation of a railroad corporation under an act of Congress as a ground for regarding the suit as arising under the laws of the United States. In this there is an evident misapprehension of what constitutes incorporation, as 
+
+[241 U.S. 295, 308]
+ 
+ also of the real basis of the jurisdiction affected. A corporation is never merely created. Being artificial, possessing no faculties or powers save such as are conferred by law, and having in legal contemplation no existence apart from them, its incorporation consists in giving it individuality and endowing it with the faculties and powers which it is to possess. It is upon this theory that the decisions have proceeded. The ruling has been that a suit by or against a Federal corporation arises under the laws of the United States, not merely because the corporation owes its creation to an act of Congress, but because it derives all of its capacities, faculties, and powers from the same source. This is shown in the quotation before made from Osborn v. Bank of United States, supra, and also in the following excerpt from Shoshone Min. Co. v. Rutter, 
+177 
+U.S. 505, 509
+, 510 S., 44 L. ed. 864, 866, 867, 20 Sup. Ct. Rep. 726: 'A corporation has no powers and can incur no obligations except as authorized or provided for in its charter. Its power to do any act which it asumes to do, and its liability to any obligation which is sought to be cast upon it, depend upon its charter, and when such charter is given by one of the laws of the United States there is the primary question of the extent and meaning of that law. In other words, as to every act or obligation the first question is whether that act or obligation is within the scope of the law of Congress; and that being the matter which must be first determined, a suit by or against the corporation is one which involves a construction of the terms of its charter; in other words, a question arising under the law of Congress.' And so, when due regard is had for the terms of the amendatory section of 1915 and for the real basis of the jurisdiction affected, the conclusion is unavoidable that what is intended is to make the fact that a railroad company is incorporated under an act of Congress,-that is to say, derives its existence, faculties, and powers from such an act,-an entirely negligible factor in determining whether a suit by or 
+
+[241 U.S. 295, 309]
+ 
+ against the company is one arising under the laws of the United States.
+ Upon examining the bill in the present suit, it is certain that it does not arise under those laws apart from the incorporation of the Texas & Pacific Company under acts of Congress. We say 'acts' of Congress, because the original act was amended and supplemented by three others, and the four constitute the company's charter. Portions thereof are copied into the bill as showing that the mortgage sought to be enforced was given under a power conferred by Congress, but this does not help the jurisdiction. As, under the amendatory section, the fact that the company derives its existence and all of its faculties and powers from a Federal charter cannot avail to give jurisdiction, it is obvious that to dwell upon the fact that any particular power comes from the common source must be equally unavailing.
+ The case of Male v. Atchison, T. & S. F. R. Co. 
+240 U.S. 97
+, 60 L. ed. --, 36 Sup. Ct. Rep. 351, does not make for a different conclusion, because it was not a suit by or against a railroad company incorporated under an act of Congress, and because it arose and was pending in this court prior to the amendatory act of 1915, and by  6 of that act was excepted from its provisions.
+
+ 3. 
+Whether this is a suit between citizens of different states turns upon whether the Texas & Pacific company is a citizen of Texas. It is doubtful that the pleader intended to state a case of diverse citizenship, but, be this as it may, we are of opinion that the company is not a citizen of any state. It was incorporated under acts of Congress, not under state laws; and its activities and operations were not to be confined to a single state, but to be carried on, as in fact they are, in different states. Of course it is a citizen of the United States in the sense that a corporation organized under the laws of one of the states is a citizen of that state, but it is not within the 
+
+[241 U.S. 295, 310]
+ 
+ clause of the 14th Amendment which declares that native born and naturalized citizens of the United States shall be citizens of the state wherein they reside. Nor has Congress said that it shall be regarded as possessing state citizenship for jurisdictional purposes, as is done in respect of national banks by  24, 16, of the Judicial Code. In short, there is no ground upon which the company can be deemed a citizen of Texas, and this being so, the suit is not one between citizens of different states.
+ Decree affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Tennessee v. Union & Planters' Bank, 
+152 
+U.S. 454, 459
+, 38 S. L. ed. 511, 513, 14 Sup. Ct. Rep. 654; Continental Nat. Bank v. Buford, 
+191 
+U.S. 119, 122
+, 48 S. L. ed. 11., 120, 24 Sup. Ct. Rep. 54. 
+
+
+
+

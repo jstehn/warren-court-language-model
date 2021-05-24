@@ -1,0 +1,131 @@
+Description: NOBLE v. UNION RIVER LOGGING R CO , 147 U.S. 165 (1893)
+Date: 1893-01-09 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+NOBLE v. UNION RIVER LOGGING R CO(1893)
+
+Argued: Decided: January 9, 1893
+
+
+ January 9, 1893.
+ Statement by Mr. Justice BROWN:
+ This was a bill in equity by the Union River Logging Railroad Company to enjoin the secretary of the interior and the commissioner of the general land office from executing a certain order revoking the approval of the plaintiff's maps for a right of way over the public lands, and also from molesting plaintiff in the enjoyment of such right of way secured to it under an act of congress.
+ The bill averred, in substance, that the Union River Logging Railroad Company was organized March 20, 1883, under chapter 185 of the Territorial Code of Washington, authorizing the formation of 'corporations for ... the purpose of building, equipping, and running railroads,' etc. The articles declared the business and objects of the corporation to be 'the building, equipping, running, maintaining, and operating of a railroad for the transportation of saw logs, piles, and other timber, and wood and lumber, and to charge and receive compensation and tolls therefor, ... from tide water in Lynch's cove, at the head of Hood's canal, in said Mason county, and running thence in a general northeasterly direction, by the most practicable route, a distance of about ten miles, more or less,' etc. The capital stock of the company being subscribed, the company proceeded by degrees to con- 
+
+[147 U.S. 165, 166]
+ 
+ struct and equip a road extending from tide water in Lynch's cove, about four miles along the line above mentioned, to transport saw logs and other lumber and timber. On August 17, 1888, amended articles of incorporation were filed, 'to construct and equip a railroad and telegraph line' over a much longer route, with branches, and 'to maintain and operate said railroad and branches, and carry freight and passengers thereon, and receive tolls therefor.' Also 'to engage and carry on a general logging business, and provide for the cutting, hauling, transportation, buying, owning, acquiring, and selling of all kinds of logs, piles, poles, lumber, and timber.'
+ In the spring of 1889, plaintiff proceeded to extend its line of road for three miles beyond the point to which it had previously extended it. It located at intervals a better line of road; made and ballasted a new roadbed of standard gauge; and substituted steel rails and another locomotive in place of those rails and equipments which had been sufficient for its limited purposes, as specified in the original articles. In January, 1889, the company desiring to avail itself of an act of congress of March 3, 1875, (18 St. p. 482,) granting to railroads a right of way through the public lands of the United States, filed with the register of the land office at Seattle a copy of its articles of incorporation, a copy of the territorial law under which the company was organized, and the other documents required by the act, together with a map showing the termini of the road, its length, and its route through the public lands according to the public surveys. These papers were transmitted to the commissioner of the land office, and by him to the secretary of the interior, by whom they were approved in writing. and ordered to be filed. They were accordingly filed at once, and the plaintiff notified thereof.
+ On June 13, 1890, a copy of an order by the appellant, successor in office to the secretary of the interior by whom the maps were approved, was served upon the plaintiff, requiring it to show cause why said approval should not be revoked and annulled.
+ This was followed by an order of the acting secretary of 
+
+[147 U.S. 165, 167]
+ 
+ the interior, annulling and canceling such maps, and directing the commissioner of the land office to carry out the order.
+ The answer admitted all the allegations of fact in the bill, and averred that it became known to the defendants that the plaintiff was not engaged in the business of a common carrier of passengers and freight at the time of its application, but in the transportation of logs for the private use and benefit of the several persons composing the said company, and that, being advised that a railroad company carrying on a merely private business was not such a railroad company as was contemplated by the act of congress, deemed it their duty to vacate and annul the action of Mr. Vilas, then secretary of the interior, approving plaintiff's maps of definite location, and to that end caused the notice complained of in the bill to be served. They further claimed it to be their duty to revoke and annul the action of the former secretary of the interior as having been made improvidently, and on false suggestions, and without authority under the statute.
+ Upon a hearing upon the bill, answer, and accompanying exhibits, the court ordered a decree for the plaintiff, and an injunction as prayed for in the bill. Defendants appealed to this court.
+ Asst. Atty. Gen. Maury, for appellants.
+
+
+[147 U.S. 165, 170]
+ 
+ Fredric D. McKenney and Saml. F. Phillips, for appellee.
+
+ Mr. Justice BROWN, after stating the facts in the foregoing language, delivered the opinion of the court.
+ This case involves not only the power of this court to enjoin the head of a department, but the power of a secretary of 
+
+[147 U.S. 165, 171]
+ 
+ the interior to annul the action of his predecessor, when such action operates to give effect to a grant of public lands to a railroad corporation.
+
+ 1. 
+With regard to the judicial power in cases of this kind, it was held by this court as early as 1803, in the great case of Marbury v. Madison, 1 Cranch, 137, that there was a distinction between acts involving the exercise of judgment or discretion and those which are purely ministerial; that, with respect to the former, there exists, and can exist, no power to control the executive discretion, however erroneous its exercise may seem to have been; but with respect to ministerial duties, an act or refusal to act is, or may become, the subject of review by the courts. The principle of this case was applied in Kendall v. U. S., 12 Pet. 524, and the action of the circuit court sustained in a proceeding where it had commanded the postmaster general to credit the relator with a certain sum awarded to him by the solicitor of the treasury under an act of congress authorizing the latter to adjust the claim, this being regarded as purely a ministerial duty. In Decatur v. Paulding, 14 Pet. 497, a mandamus was refused upon the same principle, to compel the secretary of the navy to allow to the widow of Commodore Decatur a certain pension and arrearages. Indeed, the reports of this court abound with authorities to the same effect. Kendall v. Stokes, 3 How. 87; Brashear v. Mason, 6 How. 92; Reeside v. Walker, 11 How. 272; Commissioner v. Whiteley, 4 Wall. 522; U. S. v. Seaman, 17 How. 231; U. S. v. Guthrie, Id. 284; U. S. v. Commissioner, 5 Wall. 563; Gaines v. Thompson, 7 Wall. 347; Secretary v. McGarrahan, 9 Wall. 298; U. S. v. Schurz, 
+102 U.S. 378
+; Butterworth v. Hoe, 
+112 U.S. 50
+, 5 Sup. Ct. Rep. 25; U. S. v. Black, 
+128 U.S. 40
+, 9 Sup. Ct. Rep. 12. In all these cases the distinction between judicial and ministerial acts is commented upon and enforced.
+ We have no doubt the principle of these decisions applies to a case wherein it is contended that the act of the head of a department, under any view that could be taken of the facts that were laid before him, was ultra vires, and beyond the 
+
+[147 U.S. 165, 172]
+ 
+ scope of his authority. If he has no power at all to do the act complained of, he is as much subject to an injunction as he would be to a mandamus if he refused to do an act which the law plainly required him to do. As observed by Mr. Justice Bradley in Board v. McComb, 
+92 U.S. 531
+, 541: 'But it has been well settled that when a plain, official duty, requiring no exercise of discretion, is to be performed, and performance is refused, any person who will sustain personal injury by such refusal may have a mandamus to compel its performance; and when such duty is threatened to be violated by some positive official act, any person who will sustain personal injury thereby, for which adequate compensation cannot be had at law, may have an injunction to prevent it. In such cases the writs of mandamus and injunction are somewhat correlative to each other.'
+
+ 2. 
+At the time the documents required by the act of 1875 were laid before Mr. Vilas, then secretary of the interior, it became his duty to examine them, and to determine, among other things, whether the railroad authorized by the articles of incorporation was such a one as was contemplated by the act of congress. Upon being satisfied of this fact, and that all the other requirements of the act had been observed, he was authorized to approve the profile of the road, and to cause such approval to be noted upon the plats in the land office for the district where such land was located. When this was done, the granting section of the act became operative, and vested in the railroad company a right of way through the public lands to the extent of 100 feet on each side of the central line of the road. Frasher v. O'Connor, 
+115 U.S. 102
+, 5 Sup. Ct. Rep. 1141.
+ The position of the defendants in this connection is that the existence of a railroad, with the duties and liabilities of a common carrier of freight and passengers, was a jurisdictional fact, without which the secretary had no power to act, and that in this case he was imposed upon by the fraudulent representations of the plaintiff, and that it was competent for his successor to revoke the approval thus obtained; in other words, that the proceedings were a nullity, and that his want of jurisdiction to approve the map may be set up as a defense to this suit. 
+
+[147 U.S. 165, 173]
+ 
+ It is true that, in every proceeding of a judicial nature, there are one or more facts which are strictly jurisdictional, the existence of which is necessary to the validity of the proceedings, and without which the act of the court is a mere nullity; such, for example, as the service of process within the state upon the defendant in a common-law action, ( D'Arcy v. Ketchum, 11 How. 165; Webster v. Reid, Id. 437; Harris v. Hardeman, 14 How. 334; Pennoyer v. Neff, 
+95 U.S. 714
+; Borden v. Fitch, 15 Johns. 141;) the seizure and possession of the res within the bailiwick in a proceeding in rem, (Rose v. Himely, 4 Cranch, 241; Thompson v. Whitman, 18 Wall. 457;) a publication in strict accordance with the statute, where the property of an absent defendant is sought to be charged, (Galpin v. Page, 18 Wall. 350; Guaranty Trust & Safe-Deposit Co. v. Green Cove Springs & M. R. Co., 
+139 U.S. 137
+, 11 Sup. Ct. Rep. 512.) So, if the court appoint an administrator of the estate of a living person, or, in a case where there is an executor capable of acting, (Griffith v. Frazier, 8 Cranch, 9,) or condemns as lawful prize a vessel that was never captured, ( Rose v. Himely, 4 Cranch, 241, 269,) or a court-martial proceeds and sentences a person not in the military or naval service, (Wise v. Withers, 3 Cranch, 331,) or the land department issues a patent for land which has already been reserved or granted to another person,-the act is not voidable merely, but void. In these and similar cases the action of the court or officer fails for want of jurisdiction over the person or subject- matter. The proceeding is a nullity, and its invalidity may be shown in a collateral proceeding.
+ There is, however, another class of facts which are termed 'quasi jurisdictional,' which are necessary to be alleged and proved in order to set the machinery of the law in motion, but which, when properly alleged, and established to the satisfaction of the court, cannot be attacked collaterally. With respect to these facts, the finding of the court is as conclusively presumed to be correct as its finding with respect to any other matter in issue between the parties. Examples of these are the allegations and proof of the requisite diversity of citizenship, or the amount in controversy in a federal court, which, when found by such court, cannot be questioned collaterally, (Des 
+
+[147 U.S. 165, 174]
+ 
+ Moines Nav. & R. Co. v. Iowa Homestead Co., 
+123 U.S. 552
+, 8 Sup. Ct. Rep. 217; In re Sawyer, 
+124 
+U.S. 200, 220
+, 8 S. Sup. Ct. Rep. 482;) the existence and amount of the debt of a petitioning debtor in an involuntary bankruptcy, (Michaels v. Post, 21 Wall. 398; Betts v. Bagley, 12 Pick, 572 ;) the fact that there is insufficient personal property to pay the debts of a decedent, when application is made to sell his real estate, (Comstock v. Crawford, 3 Wall. 396; Grignon's Lessee v. Astor, 2 How. 319; Florentine v. Barton, 2 Wall. 210;) the fact that one of the heirs of an estate had reached his majority, when the act provided that the estate should not be sold if all the heirs were minors, (Thompson v. Tolmie, 2 Pet. 157;) and others of a kindred nature, where the want of jurisdiction does not go to the subject-matter or the parties, but to a preliminary fact necessary to be proven to authorize the court to act. Other cases of this description are: Hudson v. Guestier, 6 Cranch, 281; Ex parte Watkins, 3 Pet. 193; U. S. v. Arredondo, 6 Pet. 691, 709; Dyckman v. City of New York, 5 N. Y. 434; Jackson v. Crawfords, 12 Wend. 533; Jackson v. Robinson, 4 Wend. 436; Fisher v. Bassett, 9 Leigh, 119, 131; Wright v. Douglass, 10 Barb. 97, 111. In this class of cases, if the allegation be properly made, and the jurisdiction be found by the court, such finding is conclusive and binding in every collateral proceeding; and, even if the court be imposed upon by false testimony, its finding can only be impeached in a proceeding instituted directly for that purpose. Simms v. Slacum, 3 Cranch, 300.
+ This distinction has been taken in a large number of cases in this court, in which the validity of land patents has been attacked collaterally, and it has always been held that the existence of lands subject to be patented was the only necessary prerequisite to a valid patent. In the one class of cases it is held that, if the land attempted to be patented had been reserved, or was at the time no part of the public domain, the land department had no jurisdiction over it, and no power or authority to dispose of it. In such cases its action in certifying the lands under a railroad grant, or in issuing a patent, is not merely irregular, but absolutely void, and may be shown to be so in any collateral proceeding. Polk's Lessee v. Wendell, 
+
+[147 U.S. 165, 175]
+ 
+ 9 Cranch, 87; Patterson v. Winn, 11 Wheat. 380; Jackson v. Lawton, 10 Johns. 23; Minter v Crommelin, 18 How. 87; Reichart v. Felps, 6 Wall. 160; Railway Co. v. Dunmeyer, 
+113 U.S. 629
+, 5 Sup. Ct. Rep. 566; U. S. v. Southern Pac. Ry. Co., 
+146 U.S. 570
+, 13 Sup. Ct. Rep. 152.
+ Upon the other hand, if the patent be for lands which the land department had authority to convey, but it was imposed upon, or was induced by false representations to issue a patent, the finding of the department upon such facts cannot be collaterally impeached, and the patent can only be avoided by proceedings taken for that purpose. As was said in Smelting, etc., Co. v. Kemp, 
+104 U.S. 636
+, 640: 'In that respect they [the officers of the land department] exercise a judicial function, and therefore it has been held in various instances by this court that their judgment as to matters of fact, properly determinable by them, is conclusive when brought to notice in a collateral proceeding. Their judgment in such cases is, like that of other special tribunals upon matters within their exclusive jurisdiction, unassailable, except by a direct proceeding for its correction or annulment.' In French v. Fyan, 
+93 U.S. 169
+, it was held that the action of the secretary of the interior identifying swamp lands, making lists thereof, and issuing patents therefor, could not be impeached in an action at law by showing that the lands which the patent conveyed were not in fact swamp and overflowed lands, although his jurisdiction extended only to lands of that class. Other illustrations of this principle are found in Johnson v. Towsley, 13 Wall. 72; Moore v. Robbins, 
+96 U.S. 530
+; Steel v. Smelting, etc., Co., 
+106 U.S. 447
+, 1 Sup. Ct. Rep. 389; Quinby v. Conlan, 
+104 U.S. 420
+; Vance v. Burbank, 
+101 U.S. 514
+; Hoofnagle v. Anderson, 7 Wheat. 212; Ehrhardt v. Hogaboom, 
+115 U.S. 67
+, 5 Sup. Ct. Rep. 1157. In Moore v. Robbins, 
+96 U.S. 530
+, it was said directly that it is a part of the daily business of officers of the land department to decide when a party has by purchase, by pre-emption, or by any other recognized mode, established a right to receive from the government a title to any part of the public domain. This decision is subject to an appeal to the secretary of the interior, if taken in time; 'but, if no such appeal be taken, and the patent, issued under the 
+
+[147 U.S. 165, 176]
+ 
+ seal of the United States and signed by the president, is delivered to and accepted by the party, the title of the government passes with this delivery. With the title passes away all the authority of control of the executive department over the land, and over the title which it has conveyed. ... The functions of that department necessarily cease when the title has passed from the government.'
+ We think the case under consideration falls within this latter class. The lands over which the right of way was granted were public lands, subject to the operation of the statute; and the question whether the plaintiff was entitled to the benefit of the grant was one which it was competent for the secretary of the interior to decide, and, when decided, and his approval was noted upon the plats, the first section of the act vested the right of way in the railroad company. The language of that section is 'that the right of way through the public lands of the United States is hereby granted to any railroad company duly organized under the laws of any state or territory,' etc. The uniform rule of this court has been that such an act was a grant in praesenti of lands to be thereafter identified. Railway Co. v. Alling, 
+99 U.S. 463
+. The railroad company became at once vested with a right of property in these lands, of which they can only be deprived by a proceeding taken directly for that purpose. If it were made to appear that the right of way had been obtained by fraud, a bill would doubtless lie by the United States for the cancellation and annulment of an approval thus obtained. Moffat v. U. S., 
+112 U.S. 24
+, 5 Sup. Ct. Rep. 10; U. S. v. Minor, 
+114 U.S. 233
+, 5 Sup. Ct. Rep. 836. A revocation of the approval of the secretary of the interior, however, by his successor in office, was an attempt to deprive the plaintiff of its property without due process of law, and was, therefore, void. As was said by Mr. Justice Grier in U. S. v. Stone, 2 Wall. 525, 535: 'One officer of the land office is not competent to cancel or annul the act of his predecessor. That is a judicial act, and requires the judgment of a court.' Moore v. Robbins, 
+96 U.S. 530
+. The case of U. S. v. Schurz, 
+102 U.S. 378
+, is full authority for the position assumed by the plaintiff in the case at bar. 
+
+[147 U.S. 165, 177]
+ 
+ In this case the relator had been adjudged to be entitled to 160 acres of the public lands; the patent had been regularly signed, sealed, countersigned, and recorded; and it was held that a mandamus to the secretary of the interior to deliver the patent to the relator should be granted. It was said in this case by Mr. Justice Miller: 'Whenever this takes place, [that is, when a patent is duly executed,] the land has ceased to be the land of the government, or, to speak in technical language, title has passed from the government, and the power of these officers to deal with it has also passed away.'
+ It was not competent for the secretary of the interior thus to revoke the action of his predecessor, and the decree of the court below must therefore be affirmed. 
+
+
+

@@ -1,0 +1,121 @@
+Description: GAUTHIER v. MORRISON , 232 U.S. 452 (1914)
+Date: 1914-02-24 00:00:00
+Docket: 157
+Opinion
+
+
+United States Supreme Court
+GAUTHIER v. MORRISON(1914)
+No. 157
+Argued: December 19, 1913Decided: February 24, 1914
+
+
+
+
+[232 U.S. 452, 453]
+ 
+ Messrs. Fred B. Morrill, W. C. Jones, L. F. Chester, and John J. Skuse for plaintiff in error.
+ Mr. Reese H. Voorhees for defendants in error.
+
+
+
+[232 U.S. 452, 456]
+ 
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ This case originated in the superior court of Spokane county, Washington, and involves the present right of possession of a tract of unsurveyed public land, containing about 75 acres, in that county.
+ Considerably abridged, the facts stated in the complaint are these: In 1877, when the public lands in that vicinity were surveyed, an area embracing approximately 1,200 acres was, by the wrongful act or error of the surveyor, omitted from the survey and meandered as a lake, when in truth it was not such, but was agricultural land susceptible of cultivation. That area still remains unsurveyed and includes the tract in question. On October 30, 1909, this tract was unappropriated public land, open to settlement under the homestead law of the United States. On that day the plaintiff, being in every way qualified so to do, made actual settlement upon the tract with the purpose of acquiring the title under that law by a full and bona fide compliance with its requirements, and, in furtherance of that purpose, erected upon the tract a habitable frame dwelling, furnished the same with all necessary household goods, entered into possession of the tract, and established 
+
+[232 U.S. 452, 457]
+ 
+ his actual residence thereon. Shortly thereafter, during the continuance of his possession and residence, the defendants, with the wrongful purpose of preventing him from complying with the requirements of the homestead law, and of subjecting the tract to their own use, unlawfully compelled him to withdraw therefrom and remain away; and when the action was commenced, a few months later, they were wrongfully withholding the tract from him, and were themselves mere trespassers thereon. It also was alleged: 'That in order to comply with the requirements of the homestead law of the United States, and to acquire title to the land so settled upon by this plaintiff, as aforesaid, under said law, it becomes and is necessary for this plaintiff to reside upon and cultivate such land, and to have possession thereof for a period of five years; and unless this plaintiff can reside upon, cultivate, and have possession of said land for and during such period of time from and after his said settlement, this plaintiff cannot comply with the requirements of the homestead law of the United States, and sustain and maintain his rights to said land, and acquire title thereto from the government of the United States under the homestead law of the United States.' The prayer was for a judgment establishing the plaintiff's right to the possession, declaring the defendants were without any right thereto, and awarding costs.
+ The defendants demurred upon the grounds that the complaint did not state facts sufficient to constitute a cause of action, and that the court was without jurisdiction of the subject-matter. The demurrer was sustained, and, the plaintiff electing to stand upon his complaint, a judgment of dismissal was entered. An appeal resulted in an affirmance by the supreme court of the state, which held, first, that the land was not subject to settlement under the homestead law, because the surveyor had designated and meandered it as a lake; and, second, that 
+
+[232 U.S. 452, 458]
+ 
+ only the Land Department could undo and correct the wrong or error of the surveyor in that regard. 62 Wash. 572, 114 Pac. 501. To secure a reversal of the judgment the plaintiff prosecutes this writ of error.
+ Although challenged by the defendants, our jurisdiction does not admit of any doubt. The plaintiff asserted a right to settle upon the land notwithstanding the wrongful act or error of the surveyor in designating and meandering it as a lake, and also a right to remain in possession to the end that he might perform the acts essential to the acquisition of the title; and he expressly predicated these rights upon the homestead law of the United States. The decision was against the rights so claimed, and this brings the case within  709 of the Revised Statutes (U. S. Comp. Stat. 1901, p. 575) now  237 of the Judicial Code [36 Stat. at L. 1156, chap. 231, U. S. Comp. Stat. Supp. 1911, p. 227].
+ The state courts seem to have proceeded upon the theory (a) that the surveyor's action in designating and meandering the 1,200-acre area as a lake operated as an authoritative determination that it was not agricultural land, but a permanent body of water; and (b) that this determination, while remaining undisturbed by the Land Department, took the land without the operation of the settlement laws, including the homestead law. But in this there was a misconception of the authority of the surveyor. He was not invested with power to determine the character of the land which he surveyed or left unsurveyed, or to classify it as within or without the operation of particular laws. All that he was to do in that regard was to note and report its character, as it appeared to him, as a means of enlarging the sources of information upon that subject otherwise available. In Barden v. Northern P. R. Co. 
+154 
+U.S. 288, 292
+, 320 S., 38 L. ed. 992, 993, 999, 14 Sup. Ct. Rep. 1030, in disposing of a contention that the lands there in question had been determined and reported by the surveyor as agricultural, and not mineral, and that the determination and report remained in force, this court said: 'But 
+
+[232 U.S. 452, 459]
+ 
+ the conclusive answer to such alleged determination and report is that the matters to which they relate were not left to the Surveyor General. Neither he nor any of his subordinates was authorized to determine finally the character of any lands granted, or make any binding report thereon. Information of the character of all lands surveyed is required of surveying officers, so far as knowledge respecting them is obtained in the course of their duties, but they are not clothed with authority to especially examine as to these matters outside of their other duties, or determine them, nor does their report have any binding force. It is simply an addition made to the general information obtained from different sources on the subject.' So, if the area designated and meandered as a lake was in truth agricultural land susceptible of cultivation, as alleged in the complaint and admitted by the demurrer, it was as much public land after the survey, and as much within the operation of the settlement laws, as if its true character had been reported by the surveyor. It merely was left unsurveyed. See Niles v. Cedar Point Club, 
+175 
+U.S. 300, 308
+, 44 S. L. ed. 171, 174, 20 Sup. Ct. Rep. 124; French-Glenn Live Stock Co. v. Springer, 
+185 U.S. 47
+, 46 L. ed. 800, 22 Sup. Ct. Rep. 563; Security Land & Exploration Co. v. Burns, 
+193 
+U.S. 167, 187
+, 48 S. L. ed. 662, 674, 24 Sup. Ct. Rep. 425; Scott v. Lattig, 
+227 
+U.S. 229, 241
+, 57 S. L. ed. 490, 495, 44 L.R.A.(N.S.) 107, 33 Sup. Ct. Rep. 242.
+ It will be perceived that we are not speaking of land which was covered by a permanent body of water at the time of the survey, and thereafter was laid bare by a subsidence of the water, nor yet of comparatively small areas which sometimes lie within meander lines reasonably approximating the shores of permanent bodies of water. See Horne v. Smith, 
+159 U.S. 40
+, 40 L. ed. 68, 15 Sup. Ct. Rep. 988; Kean v. Calumet Canal & Improv. Co. 
+190 U.S. 452
+, 47 L. ed. 1134, 23 Sup. Ct. Rep. 651; Hardin v. Shedd, 
+190 U.S. 508
+, 47 L. ed. 1156, 23 Sup. Ct. Rep. 685. Neither are we concerned with a collateral attack upon a public survey, as was the case in Cragin v. Powell, 
+128 U.S. 691
+, 33 L. ed. 566, 9 Sup. Ct. Rep. 203, and Stoneroad v. Stoneroad, 
+158 U.S. 240
+, 39 L. ed. 966, 15 Sup. Ct. Rep. 822, for the plaintiff is not asking that any of the lines of the survey be rejected or altered, but only that a possessory right ac- 
+
+[232 U.S. 452, 460]
+ 
+ quired by settlement upon public land confessedly left unsurveyed be protected.
+ The homestead law in terms subjects unsurveyed public lands, if agricultural and unappropriated, to settlement by persons having the requisite qualifications and intending to comply with its requirements as a means of acquiring the title, and also plainly confers upon the settler the right of possession, without which compliance with those requirements would be impossible. Rev. Stat.  2289 et seq.; U. S. Comp. Stat. 1901, p. 1388; act May 14, 1880, 21 Stat. at. L. 140, chap. 89,  3; U. S. Comp. Stat. 1901, p. 1392; Rev. Stat.  2266; act March 3, 1891, 26 Stat. at L. 1095, chap. 561,  5, U. S. Comp. Stat. 1901, p. 1535; United States v. Waddell, 
+112 
+U.S. 76, 80
+, 26 S. L. ed. 673, 674, 5 Sup. Ct. Rep. 35; Sturr v. Beck, 
+133 
+U.S. 541, 547
+, 33 S. L. ed. 761, 764, 10 Sup. Ct. Rep. 350; Nelson v. Northern P. R. Co. 
+188 
+U.S. 108, 125
+, 47 S. L. ed. 406, 413, 23 Sup. Ct. Rep. 302; Scott v. Lattig, 
+227 
+U.S. 229, 240
+, 57 S. L. ed. 490, 495, 44 L.R. A.(N.S.) 107, 33 Sup. Ct. Rep. 242; Wadkins v. Producers' Oil Co. 
+227 
+U.S. 368, 373
+, 57 S. L. ed. 551, 555, 33 Sup. Ct. Rep. 380. So, it clearly appears from the allegations of the complaint, as admitted by the demurrer, that the land in question was open to homestead settlement when the plaintiff settled thereon; that by his settlement and subsequent acts he acquired an inceptive homestead right which entitled him to the possession; and that the defendants, in forcing him to withdraw from the land, and in then withholding the same from him, wrongfully invaded this possessory right.
+ The question of the jurisdiction of the court of first instance, although not difficult of solution, remains to be noticed. It was not held by the appellate court that the jurisdiction of the former under the local laws was not broad enough to enable it to entertain the action and award appropriate relief, but only that this jurisdiction could not be exerted consistently with the laws of Congress; and this upon the theory that the latter invested the Land Department with exclusive authority to deal with the subject.
+ It is true that the authority to make surveys of the public lands is confided to the Land Department, and that 
+
+[232 U.S. 452, 461]
+ 
+ the courts possess no power to revise or disturb its action in that regard; but here the court was not asked to make a survey or to revise or disturb one already made. As has been indicated, the land in question was not surveyed, but left unsurveyed; and the plaintiff, whose possession under a lawful homestead settlement had been invaded and interrupted by mere trespasses, was seeking a return of the possession to the end that he might continue his rightful efforts to earn the title. In short, it was not a survey, but the right of possession under an inceptive homestead claim, that was in question.
+ Generally speaking, it also is true that it is not a province of the courts to interfere with the Land Department in the administration of the public-land laws, and that they are to be deemed in process of administration until the proceedings for the acquisition of the title terminate in the issuing of a patent. But no interference with that Department or usurpation of its functions was here sought or involved. It has not been invested with authority to redress or restrain trespasses upon possessory rights, or to restore the possession to lawful claimants when wrongfully dispossessed. Congress has not prescribed the forum and mode in which such wrongs may be restrained and redressed, as doubtless it could, but has pursued the policy of permitting them to be dealt with in the local tribunals according to local modes of procedure. And the exercise of this jurisdiction has been not only sanctioned by the appellate courts in many of the public-land states, but also recognized and approved by this court. Woodsides v. Rickey, 1 Or. 108; Colwell v. Smith, 1 Wash. Terr. 92; Ward v. Moorey, 1 Wash. Terr. 104, 107; Arment v. Hensel, 5 Wash. 152, 31 Pac. 464; Fulmele v. Camp, 20 Colo. 495, 39 Pac. 407; Wood v. Murray, 85 Iowa, 505, 52 N. W. 356; Matthews v. O'Brien, 84 Minn. 505, 88 N. W. 12; Zimmerman v. McCurdy, 15 N. D. 79, 106 N. W. 125, 12 Ann. Cas. 29; Whittaker v. Pendola, 78 Cal. 296, 20 Pac. 680; Sproat v. Durland, 2 Okla. 24, 45, 35 Pac. 682, 886; Peckham v. Faught, 2 Okla. 173, 37 Pac. 1085; 
+
+[232 U.S. 452, 462]
+ 
+ Lytle v. Arkansas, 22 How. 193, 205, 16 L. ed. 306, 310; Marquez v. Frisbie, 
+101 
+U.S. 473, 475
+, 25 S. L. ed. 800, 801; Black v. Jackson, 
+177 U.S. 349
+, 44 L. ed. 801, 20 Sup. Ct. Rep. 648; United States v. Buchanan, 
+232 U.S. 72
+, 58 L. ed. --, 34 Sup. Ct. Rep. 237. See also Cosmos Exploration Co. v. Gray Eagle Oil Co., 
+190 
+U.S. 301, 308
+, 315 S., 47 L. ed. 1064, 1070, 1073, 23 Sup. Ct. Rep. 692; Humbird v. Avery, 
+195 
+U.S. 480, 504
+, 49 S. L. ed. 286, 297, 25 Sup. Ct. Rep. 123; Bunker Hill & S. M. & Concentrating Co. v. United States, 
+226 
+U.S. 548, 550
+, 57 S. L. ed. 345, 346, 33 Sup. Ct. Rep. 138. It was well said by the supreme court of Oklahoma in Sproat v. Durland, 2 Okla. 24, 45, 35 Pac. 682: 'To say that no relief can be granted, or that our courts are powerless to do justice between litigants in this class of cases, pending the settlement of title in the Land Department, would be the announcement of a doctrine abhorrent to a sense of common justice. It would encourage the strong to override the weak; would place a premium upon greed and the use of force, and in many instances lead to bloodshed and crime. Such a state of affairs is to be avoided; and the courts should not hesitate to invoke the powers inherent in them and lend their aid, in every way possible, in aid of justice by preventing encroachments upon the possessory rights of settlers, or by equitably adjusting their differences.'
+ We are accordingly of opinion that the laws of Congress interposed no obstacle to the jurisdiction of the court of first instance, and that, instead of dismissing the case, it should have proceeded to an appropriate disposition of the asserted right of possession. See Rem. & Bal. Code, Wash.  942; Second Employers' Liability Cases (Mondou v. New York, N. H. & H. R. Co.) 
+223 U.S. 1
+, 55-59, 56 L. ed. 327, 348-350, 38 L.R.A.(N.S.) 44, 32 Sup. Ct. Rep. 169, 1 N. C. C. A. 875.
+ Judgment reversed. 
+
+
+

@@ -1,0 +1,100 @@
+Description: FIDELITY & COLUMBIA TRUST CO. v. CITY OF LOUISVILLE , 245 U.S. 54 (1917)
+Date: 1917-11-05 00:00:00
+Docket: 424
+Opinion
+
+
+United States Supreme Court
+FIDELITY & COLUMBIA TRUST CO. v. CITY OF LOUISVILLE(1917)
+No. 424
+Argued: Decided: November 5, 1917
+
+
+
+
+ Mr. William W. Crawford, of Louisville, Ky., for plaintiff in error. 
+
+[245 U.S. 54, 55]
+ 
+ Messrs. Pendleton Beckley, George Cary Tabb, and Stuart Chevalier, all of Louisville, Ky., for defendant in error.
+
+
+[245 U.S. 54, 57]
+ 
+
+ Mr. Justice HOLMES delivered the opinion of the Court.
+ This is a suit brought by the City of Louisville, Kentucky, to recover annual taxes for the years 1907 and 1908 in respect of personal property omitted from the original assessments to the owner L. P. Ewald in his lifetime. The facts as simplified for the purposes of argument here are that Ewald was domiciled in Louisville but continued to carry on a business in St. Louis, Missouri, where he formerly had lived. Deposits coming in part if not wholly from this business were made and kept in St. Louis banks subject to Ewald's order alone. They were not used in the business and belonged absolutely to him. The question is whether they could be taken into account in determining the amount of his Louisville tax. It would seem that some deposits were represented by certificates of deposit but it was stated at the argument that no point was made of that. See Wheeler v. Sohmer, 
+233 
+U.S. 434, 438
+, 34 S. Sup. Ct. 607. We are to take it that all the sums are to be dealt with as ordinary bank accounts. The decision of the State Court upheld the tax. 168 Ky. 71, 181 S. W. 1095; 171 Ky. 509, 188 S. W. 652; 172 Ky. 451, 189 S. W. 438. 
+
+[245 U.S. 54, 58]
+ 
+ So far as the present decision is concerned we may concede without going into argument that the Missouri deposits could have been taxed in that State, under the decisions of this Court. Liverpool & London & Globe Ins. Co. v. Orleans Assessors, 
+221 
+U.S. 346, 354
+, 31 S. Sup. Ct. 550, L. R. A. 1915C, 903. Metropolitan Life Ins. Co. v. New Orleans, 
+205 U.S. 395
+, 27 Sup. Ct. 499. But liability to taxation in one State does not necessarily exclude liability in another. Kidd v. Alabama, 
+188 
+U.S. 730, 732
+, 23 S. Sup. Ct. 401. Hawley v. Malden, 
+232 
+U.S. 1, 13
+, 34 S. Sup. Ct. 201, Ann. Cas. 1916C, 842. The present tax is a tax upon the person, as is shown by the form of the suit, and is imposed, it may be presumed, for the general advantages of living within the jurisdiction. These advantages, if the State so chooses, may be measured more or less by reference to the riches of the person taxed. Unless it is declared unlawful by authority we see nothing to hinder the State from taking a man's credits tnto account. But so far from being declared unlawful, it has been decided by this Court that whether a State shall measure the contribution by the value of such credits and choses in action, not exempted by superior authority, is the State's affair, not to be interfered with by the United States, and therefore that a State may tax a man for a debt due from a resident of another State. Kirtland v. Hotchkiss, 
+100 U.S. 491
+. See also Tappan v. Merchants' Nat. Bank, 19 Wall. 490.
+ It is true that the decision in Kirtland v. Hotchkiss, concerned Illinois bonds, and that if they were physically present in the taxing State, Connecticut, a special principle might apply, as explained in Wheeler v. Sohmer, 
+233 
+U.S. 434, 438
+, 34 S. Sup. Ct. 607. See Commissioner of Stamps v. Hope, 
+
+[245 U.S. 54, 1891]
+ 
+ A. C. 476, 486; Dicey, Confl. of Laws, (2d Ed.) 312. But the decision was not made to turn upon such considerations; indeed its reasoning hardly is reconcilable with them or with anything short of a general rule for all debts. It is argued that in a later case this Court has held the power of taxation not to extend to chattels perma- 
+
+[245 U.S. 54, 59]
+ 
+ nently situated outside the jurisdiction although the owner was within it; Union Refrigerator Transit Co. v. Kentucky, 
+199 U.S. 194
+, 26 Sup. Ct. 36, 4 Ann. Cas. 493; and that the power ought equally to be denied as to debts depending for their validity and enforcement upon a jurisdiction other than that levying the tax. But this Court has not attempted to press the principle so far and there is opposed to it the long established practise of considering the debts due to a man in determining his wealth at his domicile for the purposes of this sort of tax.
+ The notion that a man's personal property upon his death may be regarded as a universitas and taxed as such, even if qualified, still is recognized both here and in England. Bullen v. Wisconsin, 
+240 
+U.S. 625, 631
+, 36 S. Sup. Ct. 473. Eidman v. Martinez, 
+184 
+U.S. 578, 586
+, 22 S. Sup. Ct. 515. Attorney General v. Napier, 6 Exch. 217. It has been carried over in more or less attenuated form to living persons, and the general principle laid down in Kirtland v. Hotchkiss, supra, has been affirmed or assumed to be law in every subsequent case. Bonaparte v. Appeal Tax Court, 
+104 U.S. 592
+. Pullman's Palace Car Co. v. Pennsylvania, 
+141 
+U.S. 18, 29
+, 31 S., 11 Sup. Ct. 876. Savings & Loan Society v. Multnomah County, 
+169 
+U.S. 421, 431
+, 18 S. Sup. Ct. 392. New Orleans v. Stempel, 
+175 
+U.S. 309, 321
+, 20 S. Sup. Ct. 110. Liverpool & London & Globe Ins. Co. v. Board of Assessors for the Parish of Orleans, 
+221 
+U.S. 346, 355
+, 356 S., 31 Sup. Ct. 550, L. R. A. 1915C, 903. It was admitted to apply to debts in Union Refrigerator Transit Co. v. Kentucky, 
+199 
+U.S. 194, 205
+, 26 S. Sup. Ct. 36, 4 Ann. Cas. 493. It is unnecessary to consider whether the distinction between a tax measured by certain property and a tax on that property could be invoked in a case like this. Flint v. Stone-Tracy Co., 
+220 
+U.S. 107, 146
+, 162 S., 31 Sup. Ct. 342, Ann. Cas. 1912B, 1312, et seq. Whichever this tax technically may be, the authorities show that it must be sustained.
+ It is said that the plaintiff in error has been denied the equal protection of the laws because, if the argument is correct, which we have not considered, the decision in this case is inconsistent with earlier decisions of the Ken- 
+
+[245 U.S. 54, 60]
+ 
+ tucky Court. But with the consistency or inconsistency of the Kentucky cases we have nothing to do. Lombard v. West Chicago Park Commission, 
+181 
+U.S. 33, 44
+, 45 S., 21 Sup. Ct. 507. We presume that like other appellate courts the Kentucky Court of Appeals is free to depart from precedents if on further reflection it thinks them wrong.
+ Judgment affirmed.
+ The CHIEF JUSTICE dissents. 
+
+
+

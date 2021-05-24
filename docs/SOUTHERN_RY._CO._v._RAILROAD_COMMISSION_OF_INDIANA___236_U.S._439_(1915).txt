@@ -1,0 +1,72 @@
+Description: SOUTHERN RY. CO. v. RAILROAD COMMISSION OF INDIANA , 236 U.S. 439 (1915)
+Date: 1915-02-23 00:00:00
+Docket: 107
+Opinion
+
+
+United States Supreme Court
+SOUTHERN RY. CO. v. RAILROAD COMMISSION OF INDIANA(1915)
+No. 107
+Argued: December 9, 1914Decided: February 23, 1915
+
+
+
+
+[236 U.S. 439, 440]
+ 
+ Messrs. John D. Welman, Alexander P. Humphrey, and Edward P. Humphrey for plaintiff in error.
+ Messrs. Frank H. Hatifield, John R. Brill, John W. Brady, and T. P. Littlepage for defendant in error.
+
+
+
+[236 U.S. 439, 444]
+ 
+
+ Mr. Justice Lamar delivered the opinion of the court:
+ The Indiana statute requires railway companies to place secure grab irons and hand holds on the sides or ends of every railroad car, under a penalty of $100 fine, to be recovered in a civil action.
+ In March, 1910, the railroad commission of the state brought such a suit against the Southern Railway Company, alleging that the company on February 24, 1910, had transported from Boonsville, Indiana, to Milltown, 
+
+[236 U.S. 439, 445]
+ 
+ Indiana, a car which did not have the required equipment. The defendant filed an answer in which it denied liability under the state law inasmuch as on February 24, 1910, the Federal safety appliance act imposed penalties for failing to equip cars with hand holds, and also designated the court in which they might be recovered. The commission's demurrer to the answer was sustained. The defendant refusing to plead further, judgment was entered against the company. That judgment was affirmed by the state court, and the case was brought here by writ of error.
+ The car alleged to have been without the required equipment, though transporting freight between points wholly within the state of Indiana, was moving on a railroad engaged in interstate commerce, and the company was, therefore, subject to the provisions and penalties of the safety appliance act. 27 Stat. at L. 531,  4, chap. 196, Comp. Stat. 1913,  8608. Southern R. Co. v. United States, 
+222 U.S. 20
+, 56 L. ed. 72, 32 Sup. Ct. Rep. 2.
+ The defendant in error insists, however, that the railroad company was also liable for the penalty imposed by the Indiana statute. In support of this position numerous cases are cited which, like Cross v. North Carolina, 
+132 U.S. 131
+, 33 L. ed. 287, 10 Sup. Ct. Rep. 47, hold that the same act may constitute a criminal offense against two sovereignties, and that punishment by one does not prevent punishment by the other. That doctrine is thoroughly established. But, upon an analysis of the principle on which it is founded, it will be found to relate only to cases where the act sought to be punished is one over which both sovereignties have jurisdiction. This concurrent jurisdiction may be either because the nature of the act is such that at the same time it produces effects respectively within the sphere of state and Federal regulation, and thus violates the laws of both; or where there is this double effect in a matter of which one can exercise control, but an authoritative declaration that the paramount jurisdiction of one shall not 
+ Act March 2, 1903, c. 976, 32 Stat. 943 (Comp. St. 1913,  8613- 8615). 
+
+[236 U.S. 439, 446]
+ 
+ exclude that of the other. Compare, Rev. Stat.  711, 37 Stat. at L. 670, chap. 50, Comp. Stat. 1913,  8603
+
+
+ But the principle that the offender may, for one act, be prosecuted in two jurisdictions, has no application where one of the governments has exclusive jurisdiction of the subject-matter, and therefore the exclusive power to punish. Such is the case here where Congress, in the exercise of its power to regulate interstate commerce, has legislated as to the appliances with which certain instrumentalities of that commerce must be furnished in order to secure the safety of employees. Until Congress entered that field, the states could legislate as to equipment in such manner as to incidentally affect, without burdening, interstate commerce. But Congress could pass the safety appliance act only because of the fact that the equipment of cars moving on interstate roads was a regulation of interstate commerce. Under the Constitution the nature of that power is such that, when exercised, it is exclusive, and ipso facto supersedes existing state legislation on the same subject. Congress, of course, could have 'circumscribed its regulations' so as to occupy a limited field. Savage v. Jones, 
+225 
+U.S. 502, 533
+, 56 S. L. ed. 1182, 1194, 32 Sup. Ct. Rep. 715; Atlantic Coast Line R. Co. v. Georgia, 
+234 
+U.S. 280, 293
+, 58 S. L. ed. 1312, 1318, 34 Sup. Ct. Rep. 829. But so far as it did legislate, the exclusive effect of the safety appliance act did not relate merely to details of the statute and the penalties it imposed, but extended to the whole subject of equipping cars with appliances intended for the protection of employees. The states thereafter could not legislate so as to require greater or less or different equipment; nor could they punish by imposing greater or less or different penalties. For, as said in Prigg v. Com. 16 Pet. 618, 10 L. ed. 1090: 'If Congress have a constitutional power to regulate a particular subject, and they do actually regulate it in a given manner, and in a certain form, it cannot be that the state legislatures have a right to interfere; and, as 
+
+[236 U.S. 439, 447]
+ 
+ it were, by way of complement to the legislation of Congress, to prescribe additional regulations, and what they may deem auxiliary provisions for the same purpose. In such a case, the legislation of Congress, in what it does prescribe, manifestly indicates that it does not intend that there shall be any farther legislation to act upon the subject-matter. Its silence as to what it does not do is as expressive of what its intention is as the direct provisions made by it. . . . the will of Congress upon the whole subject is as clearly established by what it had not declared, as by what it has expressed.'
+ Without, therefore, discussing the many cases sustaining the right of the states to legislate on subjects which, while not burdening, may yet incidentally affect interstate commerce, it is sufficient here to say that Congress has so far occupied the field of legislation relating to the equipment of freight cars with safety appliances as to supersede existing and prevent further legislation on that subject. The principle is too well established to require argument. Its application may be seen in rulings in the closely analogous cases relating to state penalties for failing to furnish cars, and to state penalties for retaining employees at work on cars beyond the time allowed by the hours-of-service law.
+ In St. Louis, I. M. & S. R. Co. v. Edwards, 
+227 U.S. 267
+, 57 L. ed. 506, 33 Sup. Ct. Rep. 262, it was held that the Arkansas statute imposing a penalty for failing to deliver cars had been superseded by the provisions of the Hepburn act, although the provisions of the two statutes were not identical. In Northern P. R. Co. v. Washington, 
+222 U.S. 371
+, 56 L. ed. 237, 32 Sup. Ct. Rep. 160, it was held that congressional legislation as to hours of service so completely occupied the field as to prevent state legislation on that subject. In Erie R. Co. v. New York, 
+233 U.S. 671
+, 58 L. ed. 1149, 51 L.R.A.(N.S.) 1097, 34 Sup. Ct. Rep. 756, a like ruling was made in a case where the New York law punished a railroad company for allowing an employee to work more than eight hours when the Federal statute 
+
+[236 U.S. 439, 448]
+ 
+ punished the company for employing him for more than nine hours-even though it was argued that the state legislation was not in conflict with the Federal act, but rather in aid of it. The same contention is made here, inasmuch as the Indiana law requires hand holds on sides or ends of cars, while the Federal statute requires hand holds to be placed both on the sides and ends of cars.
+ The test, however, is not whether the state legislation is in conflict with the details of the Federal law or supplements it, but whether the state had any jurisdiction of a subject over which Congress had exerted its exclusive control. The safety appliance act having superseded the Indiana statute, the judgment imposing the penalty must be reversed, and the case remanded for further proceedings not inconsistent with this opinion.
+ Reversed. 
+
+
+

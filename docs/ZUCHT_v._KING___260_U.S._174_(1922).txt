@@ -1,0 +1,67 @@
+Description: ZUCHT v. KING , 260 U.S. 174 (1922)
+Date: 1922-11-13 00:00:00
+Docket: 84
+Opinion
+
+
+United States Supreme Court
+ZUCHT v. KING(1922)
+No. 84
+Argued: October 20, 1922Decided: November 13, 1922
+
+
+
+
+[260 U.S. 174, 175]
+ 
+ Mr. Don A. Bliss, of San Antonio, Tex., for plaintiff in error.
+ Messrs. R. L. Ball and A. W. Seeligson, both of San Antonio, Tex., for defendants in error.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Ordinances of the city of San Antonio, Texas, provide that no child or other person shall attend a public school or other place of education without having first presented a certificate of vaccination. Purporting to act under these ordinances, public officials excluded Rosalyn Zucht from a public school because she did not have the required certificate and refused to submit to vaccination. They also caused her to be excluded from a private school. Thereupon Rosalyn brought this suit against the officials in a court of the state. The bill charges that there was then no occasion for requiring vaccination; that the ordinances deprive plaintiff of her liberty without due process of law, by, in effect, making vaccination compulsory; and also that they are void, because they leave to the board of health discretion to determine when and under what circumstances the requirement shall be enforced, without providing any rule by which that board is to be guided in its action, and without providing any safeguards against partiality and oppression. The prayers were for an injunction against enforcing the ordinances, for a writ of mandamus to compel her admission to the public school, and for damages. A general demurrer to the bill of complaint was sustained by the trial court; and, plaintiff having declined to amend, the bill was dismissed. This judgment was affirmed by the Court of Civil Appeals for the Fourth Supreme Judicial District. 225 S. W. 267. A motion for rehearing was overruled, and an application 
+
+[260 U.S. 174, 176]
+ 
+ for a writ of error to the Supreme Court of Texas was denied by that court. A petition for a writ of certiorari filed in this court was dismissed for failure to comply with rule 37 (37 Sup. Ct. v) 
+257 U.S. 650
+, 42 Sup. Ct. 53. The case is now here on writ of error granted by the Chief Justice of the Court of Civil Appeals. It is assigned as error that the ordinances violate the due process and equal protection clauses of the Fourteenth Amendment, and that as administered they denied to plaintiff equal protection of the laws.
+ The validity of the ordinances under the federal Constitution was drawn in question by objections properly taken below. A city ordinance is a law of the state, within the meaning of section 237 of the Judicial Code, as amended (Comp. St.  1214), which provides a review by writ of error where the validity of a law is sustained by the highest court of the state in which a decision in the suit could be had. Atlantic Coast Line v. Goldsboro, 
+232 
+U.S. 548, 555
+, 34 S. Sup. Ct. 364. But, although the validity of a law was formally drawn in question, it is our duty to decline jurisdiction whenever it appears that the constitutional question presented is not, and was not at the time of granting the writ, substantial in character. Sugarman v. United States, 
+249 
+U.S. 182, 184
+, 39 S. Sup. Ct. 191. Long before this suit was instituted, Jacobson v. Massachusetts, 
+197 U.S. 11
+, 25 Sup. Ct. 358, 3 Ann. Cas. 765, had settled that it is within the police power of a state to provide for compulsory vaccination. That case and others had also settled that a state may, consistently with the federal Constitution, delegate to a municipality authority to determine under what conditions health regulations shall become operative. Laurel Hill Cemetery v. San Francisco, 
+216 U.S. 358
+, 30 Sup. Ct. 301. And still others had settled that the municipality may vest in its officials broad discretion in matters affecting the application and enforcement of a health law. Lieberman v. Van de Carr, 
+199 U.S. 552
+, 26 Sup. Ct. 144. A long line of decisions by this court had also settled 
+
+[260 U.S. 174, 177]
+ 
+ that in the exercise of the police power reasonable classification may be freely applied, and that regulation is not violative of the equal protection clause merely because it is not all-embracing. Adams v. Milwaukee, 
+228 U.S. 572
+, 33 Sup. Ct. 610; Miller v. Wilson, 
+236 
+U.S. 373, 384
+, 35 S. Sup. Ct. 342, L. R. A. 1915F, 829. In view of these decisions we find in the record no question as to the validity of the ordinance sufficiently substantial to support the writ of error. Unlike Yick Wo v. Hopkins, 
+118 U.S. 356
+, 6 Sup. Ct. 1064, these ordinances confer not arbitrary power, but only that broad discretion required for the protection of the public health.
+ The bill contains also averments to the effect that in administering the ordinance the official have discriminated against the plaintiff in such a way as to deny to her equal protection of the laws. These averments do present a substantial constitutional question. Neal v. Delaware, 
+103 U.S. 370
+. But the question is not of that character which entitles a litigant to a review by this court on writ of error. The question does not go to the validity of the ordinance; nor does it go to the validity of the authority of the officials. Compare United States v. Taft, 
+203 U.S. 461
+, 27 Sup. Ct. 148; Champion Lumber Co. v. Fisher, 
+227 U.S. 445
+, 33 Sup. Ct. 329; Yazoo & Mississippi Valley R. R. Co. v. Clarksdale, 
+257 
+U.S. 10, 16
+, 42 S. Sup. Ct. 27. This charge is of an unconstitutional exercise of authority under an ordinance which is valid. Compare Stadelman v. Miner, 
+246 U.S. 544
+, 38 Sup. Ct. 359. Unless a case is otherwise properly here on writ of error, questions of that character can be reviewed by this court only on petition for a writ of certiorari.
+ Writ of error dismissed. 
+
+
+

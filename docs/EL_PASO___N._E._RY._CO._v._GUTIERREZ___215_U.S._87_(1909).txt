@@ -1,0 +1,105 @@
+Description: EL PASO & N. E. RY. CO. v. GUTIERREZ , 215 U.S. 87 (1909)
+Date: 1909-11-15 00:00:00
+Docket: 505
+Opinion
+
+
+United States Supreme Court
+EL PASO & N. E. RY. CO. v. GUTIERREZ(1909)
+No. 505
+Argued: Decided: November 15, 1909
+
+
+
+
+[215 U.S. 87, 88]
+ 
+ Messrs. W. C. Keeigh, W. A. Hawkins, and John Franklin for plaintiff in error.
+
+
+
+[215 U.S. 87, 89]
+ 
+ Mr. F. G. Morris for defendant in error.
+
+
+
+[215 U.S. 87, 90]
+ 
+
+ Mr. Justice Day delivered the opinion of the court:
+ In this case an action was commenced by Enedina Gutierrez, as administratrix of the estate of Antonio Gutierrez, in the district court of El Paso county, Texas, against the El Paso & Northeastern Railway Company, to recover damages because of the death of the plaintiff's intestate by wrongful act while engaged in the service of the railway company, a common carrier, in the territory of New Mexico, on June 22, 1906. By way of special plea and answer the railway company set up a statute of the territory of New Mexico, wherein it is provided that no actions for injuries inflicting death, caused by any person or corporation in the territory, shall be maintained unless the person claiming damages shall, within ninety days after the infliction of the injury complained of, and thirty days before commencing suit, serve upon the defendant an affidavit covering certain particulars as to the injuries complained of, and containing the names and addresses of all witnesses of the happening of the alleged acts of negligence. Suit must be brought within one year, and in the district court of the territory in and for the county in which the injuries were received, or where in injured person resides; or, in a claim against a corporation, in the county of the territory where the corporation has its principal place of business. This act is set out in full in the marginal note to the case of Atchison, T. & S. F. R. Co. v. Sowers, 
+213 U.S. 55
+, 53 L. ed. 695, 29 Sup. Ct. Rep. 397.
+ The special answer sets forth that the accident happened in the territory of New Mexico, while the statute was in full force, and that its terms and provisions were not complied with. 
+
+[215 U.S. 87, 91]
+ 
+ To the special answer the plaintiff below interposed a demurrer, and further, by way of supplemental petition, set forth that the injuries complained of happened after the passage of the so-called employers' liability act, June 11, 1906, 34 Stat. at L. 232, chap. 3073, U. S. Comp. Stat. Supp. 1907, p. 891. This act, the plaintiff alleged, controlled the liability of the defendant in the case. The district court sustained the demurrer of the plaintiff to that part of the defendant's answer which set up the territorial act of New Mexico, to which ruling the railway company duly excepted. The case then went to trial to a jury upon issues made concerning the liability of the railway company under the Federal employers' liability act of June 11, 1906. 34 Stat. at L. 232, chap. 3073, U. S. Comp. Stat. Supp. 1907, p. 891. The result was a verdict and judgment in favor of the plaintiff against the railway company. The case was then taken to the court of civil appeals of Texas, and that court held that it would not be governed by the territorial statutes, and that the employers' liability act of June 11, 1906, was unconstitutional, upon the authority of Employers' Liability Cases (Howard v. Illinois C. R. Co.) 
+207 U.S. 463
+, 52 L. ed. 297, 28 Sup. Ct. Rep. 141, and certain cases in the Texas court of appeals. Upon rehearing, a majority of the court held that the provisions of the New Mexico act as to the presentation of notice of claim for damages was a condition precedent to a cause of action, and that the trial court therefore erred in sustaining plaintiff's exception to that part of the defendant's answer which pleaded the territorial act and plaintiff's failure to present her claim in accordance with it. 111 S. W. 159. Thereupon the plaintiff took the case to the supreme court of Texas by writ of error, and that court held that the case was controlled by the act of Congress known as the employers' liability act (34 Stat. at L. 232, chap. 3073, U. S. Comp. Stat. Supp. 1907, p. 891), and that the same was constitutional, and therefore held that the judgment of the court of civil appeals should be reversed, and the original judgment of the district court affirmed. 117 S. W. 426. From the judgment of the supreme court of the state a writ of error was prosecuted to this court.
+ Among other errors assigned is the failure of the supreme 
+
+[215 U.S. 87, 92]
+ 
+ court of Texas to give effect to the defense setting up the statute of New Mexico as a full defense to the action. While the supreme court of Texas in its opinion conceded that, if the territorial act of New Mexico alone controlled the action, the plaintiff must fail for noncompliance with its requirements, it reversed the judgment of the court of civil appeals, and affirmed the judgment of the district court, because, in its opinion, the liability was controlled by the employers' liability act. The effect of this judgment of the supreme court of Texas was to deny the defense set up under the territorial act as a complete bar to the action. The district court sustained the demurrer to the plea setting up this act, and thereby denied the rights specially set up under that statute, the supreme court of Texas overruled the court of civil appeals and affirmed the judgment of the district court. It thereby necessarily adjudicated the defense claimed under the territorial act against the railway company. If this defense sets up a Federal right within the meaning of  709 of the Revised Statutes of the United States (U. S. Comp. Stat. 1901, p. 575), then we have jurisdiction of the case. Wabash R. Co. v. Adelbert College, 
+208 
+U.S. 38, 44
+, 52 S. L. ed. 379, 381, 28 Sup. Ct. Rep. 182.
+ That the claim of immunity under the territorial act, because of the failure of the plaintiff to comply with its provisions as to the affidavit within ninety days, etc., presentd a Federal question within the meaning of  709 of the Revised Statutes, was decided in Atchison, T. & S. F. R. Co. v. Sowers, supra, in which case it was held that, where suit was brought in a state court, a claim of defense under the provisions of the New Mexico statute was a claim of Federal right, which, when adversely adjudicated, gave jurisdiction to this court to review the judgment.
+ Coming to consider the merits: This court, in Atchison, T. & S. F. R. Co. v. Sowers, supra, held that, in order to give due faith and credit to the territorial statute, under  906 of the Revised Statutes of the United 
+
+[215 U.S. 87, 93]
+ 
+ States (U. S. Comp. Stat. 1901, p. 677), the plaintiff suing in a state must show compliance with the preliminaries of notice and demand as required by the territorial law. As the answer in the present case set up noncompliance with these requisites, and the state court sustained a demurrer thereto, the judgment must be reversed, unless the state court was right in denying the benefit of the territorial act thus set up, because the Federal employers' liability act superseded the New Mexico law, and is constitutional so far as the territories are concerned.
+ In view of the plenary power of Congress under the Constitution over the territories of the United States, subject only to certain limitations and prohibitions not necessary to notice now, there can be no doubt that an act of Congress undertaking to regulate commerce in the District of Columbia and the territories of the United States would necessarily supersede the territorial law regulating the same subject.
+ Is the Federal employers' liability act of June 11, 1906, unconstitutional so far of it relates to common carriers engaged in trade or commerce in the territories of the United States? It has been suggested that this question is foreclosed by a decision of this court in the Employers' Liability Cases, supra. In that case this court held that, conceding the power of Congress to regulate the relations of employer and employee engaged in interstate commerce, the act of June 11, 1906 (34 Stat. at L. 232, chap. 3073, U. S. Comp. Stat. Supp. 1907, p. 891), was unconstitutional in this: that, in its provisions regulating interstate commerce, Congress exceeded its constitutional authority in undertaking to make employers responsible not only to employees when engaged in interstate commerce, but to any of its employees, whether engaged in interstate commerce or in commerce wholly within a state. That the unconstitutionality of the act, so far as it relates to the District of Columbia and the territories, was not determined, is evident from a consideration of the opinion of the court in the case. In answering the suggestion that the words 'any employee' in the statute should be so read as to mean only employees en- 
+
+[215 U.S. 87, 94]
+ 
+ gaged in interstate commerce, Mr. Justice White, delivering the opinion of the court, said:
+'But this would require us to write into the statute words of limitation and restriction not found in it. But, if we could bring ourselves to modify the statute by writing in the words suggested, the result would be to restrict the operation of the act as to the District of Columbia and the territories. We say this because, immediately preceding the provision of the act concerning carriers engaged in commerce between the states and territories is a clause making it applicable to 'every common carrier engaged it trade or commerce in the District of Columbia or in any territory of the United States.' It follows, therefore, that common carriers in such territories, even although not engaged in interstate commerce, are, by the act, made liable to 'any' of their employees, as therein defined. The legislative power of Congress over the District of Columbia and the territories being plenary, and not depending upon the interstate commerce merce clause, it results that the provision as to the District of Columbia and the territories, if standing alone, could not be questioned. Thus it would come to passy, if we could bring ourselves to modify the statute by writing in the words suggested, that is, by causing the act to read 'any employee when engaged in interstate commerce,' we would restrict the act as to the District of Columbia and the territories, and thus destroy it in an important particular. To write into the act the qualifying words, therefore, would be but adding to its provisions in order to save it in one aspect, and thereby to destroy it in another; that is, to destroy in order to save, and to save in order to destroy.' 
+207 U.S. 500
+.
+
+ A perusal of this portion of the opinion makes it evident that it was not intended to hold the act unconstitutional in so far as it related to the District of Columbia and the territories, for it is there suggested that to interpolate in the act the qualifying words contended for would destroy the act in respect in the Idstrict of Columbia and the territories by 
+
+[215 U.S. 87, 95]
+ 
+ limiting its operation in a field where Congress had plenary power, and did not depend for its authority upon the interstate commerce clause of the Constitution. The act in question is set forth in full in a note to Employers' Liability cases (Howard v. Illinois C. R. Co.) 
+207 U.S. 490
+, 52 L. ed. 30k, 28 Sup. Ct. Rep. 141 We are concerned in the present case with its section only. This section reads:
+'That every common carrier engaged in trade or commerce in the District of Columbia, or in any territory of the United States, or between the several states, or between any territory and another, or between any territory or territories and any state or states, or the District of Columbia, or with foreign nations, or between the District of Columbia and any state or states or foreign nations, shall be liable to any or its employees, or, in the case of his death, to his personal representative for the benefit of his widow and children, if any; if none, then for his parents; if none, then for his next of kin dependent upon him, for all damages which may result from the negligence of any of its officers, agents or employees, or by reason of any defect or insufficiency due to its negligence in its cars, engines, appliances, machinery, track, roadbed, ways, or works.'
+
+ A perusal of the section makes it evident that Congress is here dealing, first, with trade or commerce in the District of Columbia and the territories; and, second with interstate commerce, commerce with foreign nations, and between the territories and the states. As we have already indicated, its power to deal with trade or commerce in the District of Columbia and the territories does not depend upon the authority of the interstate commerce clause of the Constitution. Upon the other had, the regulation sought to be enacted as to commerce between the states and with foreign nations depends upon the authority of Congress granted to it by the Constitution to regulate commerce among the states and with foregn nations. As to the latter class, Congress was dealiing with a liability ordinarily governed by state statutes, or controlled by the common law as administered in the 
+
+[215 U.S. 87, 96]
+ 
+ sseveral states. The Federal power of regulation within the states is limited to the right of Congress to control transactions of interstate commerce whold of authority to regulate commerce wholly of a domistic character. It was because Congress had exceeded its authority in attempting to regulate the second class of commerce named in the statute that this court was constrained to hold the act unconstitutional. The act undertook to fix the liability as to 'any employee,' whether engaged in interstate commerce or not; and, in the terms of the act, had so interwoven and blended the reuglation of liability within the authority of Congress with that which was not that the whole act was held invailed in the repect.
+ It is hardly necessary to repeat what this court has often affirmed, that an act of Congress is not to be declared invalid except for reasons so clear and satisfactory as to leave no doubt of its unconstitutionality. Furthermore, it is the duty of the court, where it can do so without doing violence to the terms of an act, to construe it so as to maintain its constitutionality; and, whenever an act of Congress contains unobjectionable provisions separable fro those found to be unconstitutional, it is the duty of this court to so declare, and to maintain the act in so far as it valid. It was held in the Employers' Liability Cases that, in order to sustain the act, it woudl be necessary to write into its provision words which it did not contain.
+ Coming to consider the statute in the light of the accepted rules of construction, we are of opinion that the provisions with reference to interstate commerce, which wer declared unconstitutional for the reasons stated, are entirely separable from, and in nowise dependent upon, the provisions of the act regulating commerce within the District of Columbia and the territories. Certainly these provisions could stand in separate acts, and the right to regulate one class of liability in nowise depends upon the other. Congress might have regulated the subject by laws applying alone to the territories, 
+
+[215 U.S. 87, 97]
+ 
+ and left to the various states the regulation of the subject-matter within their borders, as had been the practice for many years.
+ It remains to inquire whether it is plain that Congress would have enacted the legislation had the act been limited to the regulation of the liability to employees engaged in commerce within the District of Columbia and the territories. If we are satisfied that it would not, or that the matter is in such doubt that we are unable to say what Congress would have done omitting the unconstitutional feature, then the statute must fall. Illinois C. R. Co. v. McKendree, 
+203 U.S. 514
+, 51 L. ed. 298, 27 Sup. Ct. Rep. 153; Employers' Liability Cases, supra.
+ When we consider the purpose of Congress to regulate the liability of employer to employee, and its evident intention to change certain rules of the common law which theretofore prevailed as to the responsibility for negligence in the conduct of the business of transportation, we think that it is apparent that, had Congress not undertaken to deal with this relation in the states where it had been regulated by local law, it would have dealt with the subject and enacted the curative provisions of the law applicable to the District of Columbia and the territories, over which its plenary power gave it the undoubted right to pass a controlling law, and to make uniform regulations governing the subject.
+ Bearing in mind the reluctance with which this court interferes with the action of a co-ordinate branch of the government, and its duty, no less than its disposition, to sustain the enactments of the national legislature, except in clear cases of invalidity, we reach the conclusion that, in the aspect of the act now under consideration, the Congress proceeded within its constitutional power, and with the intention to regulate the matter in the District and territories, irrespective of the interstate commerce feature of the act.
+ While not binding as authority in this court, we may note that the act, so far as it relates to the District of Columbia, 
+
+[215 U.S. 87, 98]
+ 
+ was sustained in a well-considered opinion by the court of appeals of the District of Columbia. Hyde v. Southern R. Co. 31 App. D. C. 466.
+ The judgment of the Supreme Court of Texas is affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Laws 1903, p. 51, c. 33. 
+
+
+
+

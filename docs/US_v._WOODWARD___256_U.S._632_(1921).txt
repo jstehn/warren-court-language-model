@@ -1,0 +1,51 @@
+Description: US v. WOODWARD , 256 U.S. 632 (1921)
+Date: 1921-06-06 00:00:00
+Docket: 811
+Opinion
+
+
+United States Supreme Court
+U S v. WOODWARD(1921)
+No. 811
+Argued: April 18, 1921Decided: June 6, 1921
+
+
+
+ Messrs. Solicitor General Frierson and Frank Davis, Jr., of Columbus, Ohio, for the United States.
+ Mr. E. J. Smyer, of Birmingham, Ala., for appellees.
+
+ Mr. Justice VAN DEVANTER delivered the opinion of the Court.
+ This is an appeal from a judgment in favor of the executors of Joseph H. Woodward, deceased, for money 
+
+[256 U.S. 632, 633]
+ 
+ claimed to have been erroneously exacted from them as a tax on the income of his estate while in their hands.
+ The testator died December 15, 1917. The Revenue Act of 19161 'imposed upon the transfer of the net estate of every decedent' dying thereafter a tax which it called an 'estate tax.' The act fixed the amount of the tax at a named percentage 'of the value of the net estate,' made the tax a lien upon the 'entire gross estate,' required that it be paid 'out of the estate' before distribution, declared that it should 'be due one year after the decedent's death,' charged the executor or administrator with the duty of paying it, and declared that the receipt therefor should entitle him to a credit for the amount in the usual settlement of his accounts. Under that act these executors were required to pay an estate tax of $489,834.07. The tax became due December 15, 1918, and they paid it February 8, 1919. Shortly thereafter the executors made a return, under the Revenue Act of 1918,2 of the income of the testator's estate for the taxable year 1918 and claimed in the return that in ascertaining the net income for that year the estate tax of $489,834.07 should be deducted. The Commissioner of Internal Revenue refused to allow the deduction and assessed an income tax of $165,075.78 against the estate. Had the deduction been allowed, there would have been no taxable net income for that year, and no part of the $165,075.78 would have been collectible. Payment of that sum, as so assessed, was pressed on the executors, and they paid it under duress. Then, after taking the necessary steps to entitle them to do so, they brought this suit in the Court of Claims to recover the money thus exacted from them.
+ The sole question for decision is: Was the estate tax 
+
+[256 U.S. 632, 634]
+ 
+ paid by the executors, and claimed by them as a deduction in the income tax return for the year 1918, an allowable deduction in ascertaining the net taxable income of the estate for that year? The Court of Claims held that it was.
+ The solution of the question turns entirely upon the statutory provisions under which the two taxes were severally collected. The act of 1918, by sections 210, 211 and 219, subjects the net income 'received by estates of deceased persons during the period of administration or settlement' to an income tax measured by fixed percentages thereof, by sections 212 and 219 requires that the net income be ascertained by taking the gross income, as defined in section 213, and making the deductions named in section 214, and by section 214 makes express provision for the deduction of 'taxes paid or accrued within the taxable year imposed (a) by the authority of the United States, except income, war profits and excess profits taxes.' This last provision is the important one here. It is not ambiguous, but explicit, and leaves little room for construction. The words of its major clause are comprehensive and include every tax which is charged against the estate by the authority of the United States. The excepting clause specifically enumerates what is to be excepted. The implication from the latter is that the taxes which it enumerates would be within the major clause were they not expressly excepted, and also that there was no purpose to except any others. Estate taxes were as well known at the time the provision was framed as the ones particularly excepted. Indeed, the same act, by sections 400-410 (Comp. St. Ann. Supp. 1919,  6336 3/4 a-6336 3/4 k), expressly provides for their continued imposition and enforcement. Thus their omission from the excepting clause means that Congress did not intend to except them.
+ The act of 1916 calls the estate tax a 'tax' and particularly denominates it an 'estate tax.' This court recently has recognized that it is a duty or excise and is 
+
+[256 U.S. 632, 635]
+ 
+ imposed in the exertion of the taxing power of the United States. New York Trust Co. v. Eisner, 
+256 U.S. 345
+, 41 Sup. Ct. 506, 65 L. Ed. --. It is made a charge on the estate and is to be paid out of it by the administrator or executor substantially as other taxes and charges are paid. It becomes due not at the time of the decedent's death, as suggested by counsel for the government, but one year thereafter, as the statute plainly provides. It does not segregate any part of the estate from the rest and keep it from passing to the administrator or executor for purposes of administration, as counsel contend, but is made a general charge on the gross estate and is to be paid in money out of any available funds, or, if there be none, by converting other property into money for the purpose.
+ Here the estate tax not only 'accrued,' which means became due, during the taxable year of 1918, but it was paid before the income for that year was returned or required to be returned. When the return was made the executors claimed a deduction by reason of that tax. We hold that under the terms of the act of 1918 the deduction should have been allowed.
+ Judgment affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Chapter 463, title II, 39 Stat. 777 (Comp. St.  6336 1/2 a-6336 1/2 m); chapter 159, title III, 39 Stat. 1002 (Comp. St. 1918, Comp. St. Ann. Supp. 1919,  6336 1/2 b, 6336 1/2 bb); chapter 63, title IX, 40 Stat. 324 (Comp. St. 1918, Comp. St. Ann. Supp. 1919,  6336 1/2 bbb, 6336 1/2 bbbb). 
+[
+Footnote 2
+] Chapter 18, title II,  210-214, 219, 1405, 40 Stat. 1062-1067, 1071, 1151 (Comp. St. Ann. Supp. 1919,  6336 1/8 e-6336 1/8 g, 6336 1/8 ii, 6371 3/4 c). 
+
+
+
+

@@ -1,0 +1,59 @@
+Description: THE 6 S , 250 U.S. 269 (1919)
+Date: 1919-06-02 00:00:00
+Docket: 301
+Opinion
+
+
+United States Supreme Court
+THE 6 S(1919)
+No. 301
+Argued: April 24, 1919Decided: June 2, 1919
+
+
+
+
+[250 U.S. 269, 270]
+ 
+ Mr. A. Leo Everett, of New York City, for appellant.
+ Mr. Assistant Attorney General Brown, for the United States.
+
+ Mr. Justice PITNEY delivered the opinion of the Court.
+ This was a libel in rem, brought against a scow under the Act of June 29, 1888, c. 496, 25 Stat. 209 (Comp. St.  9933-9938), as amended by Act Aug. 18, 1894, c. 299,  3, 28 Stat. 360 (Comp. St.  9935), and Act May 28, 1908, c. 212,  8, 35 Stat. 426 (Comp. St.  9935), for illegal dumping in New York Harbor. Appellant, as claimant of the scow, denied the jurisdiction of the court to entertain the suit: First, on the ground that by the statute the vessel was made liable only for such penalties as might be imposed in criminal proceedings upon the persons responsible for the illegal act, and there had been in this case no conviction of such persons or assessment of penalties; and, secondly, that the assessment of such penalties was not within the admiralty or maritime jurisdiction of the court. A motion to dismiss on this ground was overruled, the court gave judgment against the scow (247 Fed. 348), and the claimant appeals to this court upon the jurisdictional question under section 238, Judicial Code ( Act March 3, 1911, c. 231, 36 Stat. 1157 [Comp. St.  1215]).
+ The statute forbids by section 1 the deposit of mud, etc., in the tidal waters of New York Harbor except within limits prescribed by the supervisor, and provides that--
+'Every such act is made a misdemeanor, and every person engaged in or who shall aid, abet, authorize, or instigate a violation of this section, shall, upon conviction. 
+
+[250 U.S. 269, 271]
+ 
+ be punishable by fine or imprisonment, or both, such fine to be not less than two hundred and fifty dollars nor more than two thousand five hundred dollars, and the imprisonment to be not less than thirty days nor more than one year, either or both united, as the judge before whom conviction is obtained shall decide.'
+
+ Section 2 provides that the master, etc., of any vessel towing a scow loaded with prohibited matter to a place of deposit elsewhere than within the limits shall be punishable as provided in section 1, and in addition have his license revoked or suspended.
+ Section 4 contains provisions for disposal of dredged material, and a penalty for violation thereof, and concludes as follows:
+'Any boat or vessel used or employed in violating any provision of this act, shall be liable to the pecuniary penalties imposed thereby, and may be proceeded against, summarily by way of libel in any District Court of the United States, having jurisdiction thereof.'
+
+ The principal contention of appellant is that the purpose of the statute was to make the vessel responsible only for such pecuniary penalties as might be assessed against the offending persons in criminal proceedings, and hence that the conviction and fining of such persons is a condition precedent to the maintenance of a suit against the vessel. In support of this The Strathairly, 
+124 U.S. 558
+, 8 Sup. Ct. 609, is cited. That was a suit brought under sections 4252, 4253, 4255, 4266, and 4270, Rev. St., which contained provisions respecting the carriage of passengers on vessels entering or leaving ports of the United States, and prescribed fines and penalties against the master and owner of the vessel violating such provisions. Section 4270 provided:
+'The amount of the several penalties imposed by the foregoing provisions regulating the carriage of passengers in merchant vessels shall be liens on the vessel violating those provisions, and such 
+
+[250 U.S. 269, 272]
+ 
+ vessel shall be libeled therefor in any Circuit or District Court of the United States where such vessel shall arrive.'
+
+ This court said (
+124 U.S. 580
+, 8 Sup. Ct. 609) that the penalty recoverable against the vessel, and by section 4270 made a lien upon it, was not an additional penalty, but the same which by section 4253 was to be adjudged against the master in the criminal prosecution.
+ We concur with the District Judge in the view that the case is distinguishable from the present one because of the substantial difference in the applicable provisions of law. The act of Congress here in question imposes a direct liability upon the vessel for the pecuniary penalties prescribed, and declares that it may be proceeded against summarily by libel in any District Court of the United States having jurisdiction thereof. This precludes the idea that the proceeding by libel is to be deferred to await the possibly slow course of criminal proceedings against the persons individually responsible. It treats the offending vessel as a guilty thing, upon the familiar principle of the maritime law, and permits a proceeding against her in any court of admiralty 'having jurisdiction thereof'-meaning any court within whose jurisdiction she may be found.
+ Libels of this character, without previous conviction of the responsible persons, have been entertained under this act from the time of its enactment, and dealt with upon the merits, without question as to the jurisdiction until now. United States v. The Sadie (C. C.) 41 Fed. 396; The G. L. Garlic (D. C.) 45 Fed. 380; The Anjer Head (D. C.) 46 Fed. 664; The Bombay (D. C.) 46 Fed. 665; The Emperor (D. C.) 49 Fed. 751; United States v. Various Tugs and Scows (D. C). 225 Fed. 505; The J. Rich Steers, 228 Fed. 319, 142 C. C. A. 611; The Columbia (C. C. A.) 255 Fed. 515.
+ There is no difficulty, on constitutional or other grounds, about assessing an unliquidated fine in the admiralty; *273 
+
+[250 U.S. 269, 273]
+ 
+ and, if it be not a proceeding for enforcement of a penalty or forfeiture incurred under a law of the United States within the meaning of the ninth subdivision of section 24, Judicial Code (Comp. St.  991 
+
+[250 U.S. 269, 9]
+ 
+), the act of 1888 itself confers jurisdiction.
+ Judgment affirmed. 
+
+
+

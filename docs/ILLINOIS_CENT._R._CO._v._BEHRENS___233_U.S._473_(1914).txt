@@ -1,0 +1,76 @@
+Description: ILLINOIS CENT. R. CO. v. BEHRENS , 233 U.S. 473 (1914)
+Date: 1914-04-27 00:00:00
+Docket: 241
+Opinion
+
+
+United States Supreme Court
+ILLINOIS CENT. R. CO. v. BEHRENS(1914)
+No. 241
+Argued: March 6, 1914Decided: April 27, 1914
+
+
+
+
+[233 U.S. 473, 474]
+ 
+ Messrs. Blewett Lee, Hunter C. Leake, and Gustave Lemle for the Illinois Central Railroad Company.
+ Mr. Armand Romain for Joseph Behrens.
+
+
+
+[233 U.S. 473, 475]
+ 
+ Messrs. Alfred L. Becker, Mauice C. Spratt, and Lester F. Gilbert as amici curice.
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ In an action in the circuit court for the eastern district of Louisiana, under the Federal employers' liability act of April 22, 1908 ( 35 Stat. at L. 65, chap. 149, U. S. Comp. Stat. Supp. 1911, p. 1322), against a railroad 
+
+[233 U.S. 473, 476]
+ 
+ company, by a personal representative to recover for the death of his intestate, the plaintiff prevailed, and the defendant took the case by writ of error to the circuit court of appeals. That court, desiring instruction upon a question of law arising in the case, certified the question here under  239 of the Judicial Code [36 Stat. at L. 1157, chap. 231, U. S. Comp. Stat. Supp. 1911, p. 228]. The facts shown in the certificate are these: The intestate was in the service of the railroad company as a member of a crew attached to a switch engine operated exclusively within the city of New Orleans. He was the fireman, and came to his death, while at his post of duty, through a head-on collision. The general work of the crew consisted in moving cars from one point to another within the city over the company's tracks and other connecting tracks. Sometimes the cars were loaded, at other times empty, and at still other times some were loaded and others empty. When loaded the freight in them was at times destined from within to without the state or vice versa; at other times was moving only between points within the state, and at still other times was of both classes. When the cars were empty the purpose was usually to take them where they were to be loaded or away from where they had been unloaded. And oftentimes, following the movement of cars, loaded or empty, to a given point, other cars were gathered up and taken or started elsewhere. In short, the crew handled interstate and intrastate traffic indiscriminately, frequently moving both at once and at times turning directly from one to the other. At the time of the collision the crew was moving several cars loaded with freight which was wholly intrastate, and upon completing that movement was to have gathered up and taken to other points several other cars as a step or link in their transportation to various destinations within and without the state. The question of law upon which the circuit court of appeals desires instruction is whether, upon these facts, it can be said that the intestate, at the time of his fatal injury, was employed in 
+
+[233 U.S. 473, 477]
+ 
+ interstate commerce within the meaning of the employers' liability act.
+ Considering the status of the railroad as a highway for both interstate and intrastate commerce, the interdependence of the two classes of traffic in point of movement and safety, the practical difficulty in separating or dividing the general work of the switching crew, and the nature and extent of the power confided to Congress by the commerce clause of the Constitution, we entertain no doubt that the liability of the carrier for injuries suffered by a member of the crew in the course of its general work was subject to regulation by Congress, whether the particular service being performed at the time of the injury, isolatedly considered, was in interstate or intrastate commerce. Baltimore & O. R. Co. v. Interstate Commerce Commission, 
+221 
+U.S. 612, 618
+, 55 S. L. ed. 878, 882, 31 Sup. Ct. Rep. 621; Southern R. Co. v. United States, 
+222 
+U.S. 20, 26
+, 56 S. L. ed. 72, 74, 32 Sup. Ct. Rep. 2, 3 N. C. C. A. 822; Second Employers' Liability Cases (Mondou v. New York, N. H. & H. R. Co.) 
+223 U.S. 1
+, 56 L. ed. 327, 38 L.R.A.(N.S.) 44, 32 Sup. Ct. Rep. 169, 1 N. C. C. A. 875; Interestate Commerce Commission v. Goodrich Transit Co. 
+224 
+U.S. 194, 213
+, 56 S. L. ed. 729, 737, 32 Sup. Ct. Rep. 436; Minnesota Rate Cases (Simpson v. Shepard) 
+230 
+U.S. 352, 432
+, 57 S. L. ed. 1511, 1555, 48 L.R.A.(N.S.) 1151, 33 Sup. Ct. Rep. 729. The decision in Employer's Liability Cases (Howard v. Illinois C. R. Co.) 
+207 U.S. 463
+, 52 L. ed. 297, 28 Sup. Ct. Rep. 141, is not to the contrary, for the act of June 11, 1906 (34 Stat. at L. 232, chap. 3073, U. S. Comp. Stat. Supp. 1911, p. 1316), there pronounced invalid, attempted to regulate the liability of every carrier in interstate commerce, whether by railroad or otherwise, for any injury to any employee, even though his employment had no connection whatever with interstate commerce.
+ Passing from the question of power to that of its exercise, we find that the controlling provision in the act of April 22, 1908, reads as follows: 'That every common carrier by railroad while engaging in commerce between any of the several states . . . shall be liable in damages to any person suffering injury while he is employed by such carrier in such commerce, or, in case of the death of such employee, to his or her personal representative, . . . for such injury or death resulting 
+
+[233 U.S. 473, 478]
+ 
+ in whole or in part from the negligence of any of the officers, agents, or employees of such carrier, or by reason of any defect or insufficiency, due to its negligence, in its cars, engines, appliances, machinery, track, roadbed, works, boats, wharves, or other equipment.' Giving to the words 'suffering injury while he is employed by such carrier in such commerce' their natural meaning, as we think must be done, it is clear that Congress intended to confine its action to injuries occurring when the particular service in which the employee is engaged is a part of interstate commerce. The act was so construed in Pedersen v. Delaware, L. & W. R. Co. 
+229 U.S. 146
+, 57 L. ed. 1125, 33 Sup. Ct. Rep. 648, 3 N. C. C. A. 779. It was there said (p. 150): 'There can be no doubt that a right of recovery thereunder arises only where the injury is suffered while the carrier is engaged in interstate commerce and while the employee is employed by the carrier in such commerce.' Again (p. 152): 'The true test always is: Is the work in question a part of the interstate commerce in which the carrier is engaged?' And a like view is shown in other cases. Second Employers' Liability Cases (Mondou v. New York, N. H. & H. R. Co.) 
+223 U.S. 1
+, 56 L. ed. 327, 38 L.R.A.(N.S.) 44, 32 Sup. Ct. Rep. 169, 1 N. C. C. A. 875: Seaboard Air Line R. Co. v. Moore, 
+228 U.S. 433
+, 57 L. ed. 907, 33 Sup. Ct. Rep. 580; St. Louis, S. F. & T. R. Co. v. Seale, 
+229 
+U.S. 156, 158
+, 57 S. L. ed. 1129, 1133, 33 Sup. Ct. Rep. 651; North Carolina R. Co. v. Zachary, 
+232 
+U.S. 248, 256
+, 58 S. L. ed. --, 34 Sup. Ct. Rep. 305; Grand Trunk Western R. Co. v. Lindsay, 
+233 U.S. 42
+, 58 L. ed. --, 34 Sup. Ct. Rep. 581.
+ Here, at the time of the fatal injury the intestate was engaged in moving several cars, all loaded with intrastate freight, from one part of the city to another. That was not a service in interstate commerce, and so the injury and resulting death were not within the statute. That he was expected, upon the completion of that task, to engage in another which would have been a part of interstate commerce, is immaterial under the statute, for by its terms the true test is the nature of the work being done at the time of the injury.
+ The question is accordingly answered in the negative. 
+
+
+

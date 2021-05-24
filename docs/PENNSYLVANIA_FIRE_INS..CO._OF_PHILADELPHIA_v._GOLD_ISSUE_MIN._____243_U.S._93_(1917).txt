@@ -1,0 +1,72 @@
+Description: PENNSYLVANIA FIRE INS..CO. OF PHILADELPHIA v. GOLD ISSUE MIN. & , 243 U.S. 93 (1917)
+Date: 1917-03-06 00:00:00
+Docket: 584
+Opinion
+
+
+United States Supreme Court
+PENNSYLVANIA FIRE INS..CO. OF PHILADELPHIA v. GOLD ISSUE MIN. &(1917)
+No. 584
+Argued: January 29, 1917Decided: March 6, 1917
+
+
+
+
+[243 U.S. 93, 94]
+ 
+ Messrs. Fred Herrington, Mason A. Lewis, James B. Grant, and David H. Robertson for plaintiff in error.
+ Messrs. Patrick Henry Cullen, Thomas T. Fauntleroy, and Charles M. Hay for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a suit upon a policy of insurance issued in Colorado by the defendant, the plaintiff in error, to the defendant in error, an Arizona corporation, insuring buildings in Colorado. The defendant insurance company had obtained a license to do business in Missouri, and to that end, in compliance with what is now Missouri Rev. Stat. 1909,  7042, had filed with the superintendent of the insurance department a power of attorney consenting that service of process upon the superintendent should be deemed personal service upon the company so long as it should have any liabilities outstanding in the state. The present suit was begun by service upon the superintendent. The insurance company set up that such service was insufficient except in suits upon Missouri contracts, and that if the statute were construed to govern the 
+
+[243 U.S. 93, 95]
+ 
+ present case, it encountered the 14th Amendment by denying to the defendant due process of law. The supreme court of Missouri held that the statute applied and was consistent with the Constitution of the United States. 267 Mo. 524, 184 S. W. 999.
+ The construction of the Missouri statute thus adopted hardly leaves a constitutional question open. The defendant had executed a power of attorney that made service on the superintendent the equivalent of personal service. If by a corporate vote it had accepted service in this specific case, there would be no doubt of the jurisdiction of the state court over a transitory action of contract. If it had appointed an agent authorized in terms to receive service in such cases, there would be equally little doubt. New York, L. E. & W. R. Co. v. Estill, 
+147 U.S. 591
+, 37 L. ed. 292, 13 Sup. Ct. Rep. 444. It did appoint an agent in language that rationally might be held to go to that length. The language has been held to go to that length, and the construction did not deprive the defendant of due process of law even if it took the defendant by surprise, which we have no warrant to assert. O'Neil v. Northern Colorado Irrig. Co. 
+242 
+U.S. 20, 26
+, 61 S. L. ed. 123, 37 Sup. Ct. Rep. 7. Other state laws have been construed in a similar way; e. g., Bagdon v. Philadelphia & R. Coal & I. Co. 217 N. Y. 432, L.R.A.1916F, 407, 111 N. E. 1075; Johnson v. Trade Ins. Co. 132 Mass. 432.
+ The defendant relies upon Old Wayne Mut. Life Asso. v. McDonough, 
+204 U.S. 8
+, 51 L. ed. 345, 27 Sup. Ct. Rep. 236, and Simon v. Southern R. Co. 
+236 U.S. 115
+, 59 L. ed. 492, 35 Sup. Ct. Rep. 255. But the distinction between those cases and the one before us is shown at length in the judgment of the court below, quoting a brief and pointed statement in Smolik v. Philadelphia & R. Coal & I. Co. 222 Fed. 148,-a statement reinforced by Cardozo, J., in Bagdon v. Philadelphia & R. Coal & I. Co. supra. In the above-mentioned suits the corporations had been doing business in certain states without authority. They had not ap- 
+
+[243 U.S. 93, 96]
+ 
+ pointed the agent as required by statute, and it was held that service upon the agent whom they should have appointed was ineffective in suits upon causes of action arising in other states. The case of service upon an agent voluntarily appointed was left untouched. 
+236 U.S. 129
+, 130. If the business out of which the action arose had been local, it was admitted that the service would have been good, and it was said that the corporation would be presumed to have assented. Of course, as stated by Learned Hand, J., in 222 Fed. 148, 151, this consent is a mere fiction, justified by holding the corporation estopped to set up its own wrong as a defense. Presumably the fiction was adopted to reconcile the intimation with the general rules concerning jurisdiction. Lafayette Ins. Co. v. French, 18 How. 404, 15 L. ed. 451; Michigan Trust Co. v. Ferry, 
+228 
+U.S. 346, 353
+, 57 S. L. ed. 867, 874, 33 Sup. Ct. Rep. 550. But when a power actually is conferred by a document, the party executing it takes the risk of the interpretation that may be put upon it by the courts. The execution was the defendant's voluntary act. The Eliza Lines, 
+199 
+U.S. 119, 130
+, 131 S., 50 L. ed. 115, 120, 26 Sup. Ct. Rep. 8, 4 Ann. Cas. 406.
+ The insurance company also sets up that the supreme court of Missouri failed to give full faith and credit to the public acts of Colorado. The ground is that one condition of the policy was that the insured was the owner in fee simple of the land under the insured buildings; that when the plaintiff bought the land, as it did, it had not taken out a license to do business in Colorado, and that the laws of that state forbade the plaintiff to acquire any real or personal property until the license fees should have been paid. The Missouri court held that it was enough if the plaintiff had paid the fees and got the license before instituting this suit. There is nothing to suggest that it was not candidly construing the Colorado statutes to the best of its ability, and even if it was wrong, something more than an error of construction is necessary in order to entitle a party to come here under article 4,  1. 
+
+[243 U.S. 93, 97]
+ 
+ Johnson v. New York L. Ins. Co. 
+187 
+U.S. 491, 496
+, 47 S. L. ed. 273, 275, 23 Sup. Ct. Rep. 194; Finney v. Guy, 
+189 U.S. 335
+, 47 L. ed. 839, 23 Sup. Ct. Rep. 558; Allen v. Alleghany Co. 
+196 
+U.S. 458, 464
+, 465 S., 49 L. ed. 551, 555, 556, 25 Sup. Ct. Rep. 311; Louisville & N. R. Co. v. Melton, 
+218 
+U.S. 36, 51
+, 52 S., 54 L. ed. 921, 927, 928, 47 L.R.A.(N.S.) 84, 30 Sup. Ct. Rep. 676; Western Life Indemnity Co. v. Rupp, 
+235 
+U.S. 261, 275
+, 59 S. L. ed. 220, 225, 35 Sup. Ct. Rep. 37.
+ The plaintiff suggests that the whole controversy is res judicata by reason of the decision in State ex rel. Fidelity-Phoenix F. Ins. Co. v. Barnett, 239 Mo. 193, 143 S. W. 501, in which the insurance company is said to have been one of the relators, and which followed the decision in State ex rel. Pacific Mut. L. Ins. Co. v. Grimm, 239 Mo. 135, 143 S. W. 483. It also urges that the defendant waived any objection it might have had to the validity of this service by appearing and pleading to the merits. As the facts hardly appear, and as the state court discussed the merits of the case, we do not pass upon these matters, which, in a different state of the record, might need at least a few words.
+ Judgment affirmed. 
+
+
+

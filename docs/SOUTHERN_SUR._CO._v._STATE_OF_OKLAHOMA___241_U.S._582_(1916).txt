@@ -1,0 +1,60 @@
+Description: SOUTHERN SUR. CO. v. STATE OF OKLAHOMA , 241 U.S. 582 (1916)
+Date: 1916-06-12 00:00:00
+Docket: 124
+Opinion
+
+
+United States Supreme Court
+SOUTHERN SUR. CO. v. STATE OF OKLAHOMA(1916)
+No. 124
+Argued: Decided: June 12, 1916
+
+
+
+
+[241 U.S. 582, 583]
+ 
+ Mr. C. S. Arnold for plaintiff in error.
+ Messrs. R. E. Wood, Smith C. Matson, and Mr. S. P. Freeling, Attorney General of Oklahoma, for defendant in error.
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ This is an action on a bail bond given by an accused held upon a charge of adultery to await the action of the grand jury at McAlester, in the Indian Territory. The bond was given shortly before Oklahoma became a state, named the United States as the obligee, and called for the accused's appearance before the temporary court at McAlester at the next term and from term to term until discharged. When the courts of the new state were organized, an indictment for the adultery was returned against the accused in the state court at McAlester. He did not appear, a forfeiture was declared, and the state sued on the bond, the surety alone being reached by the process. There was a judgment for the state, which 
+
+[241 U.S. 582, 584]
+ 
+ was affirmed (34 Okla. 781, 127 Pac. 409), and the surety sued out this writ of error.
+ The Federal questions presented involve the construction and application of the enabling act, and are, first, whether, after the admission of the state, the further proceedings upon the charge of adultery were to be had in a Federal court or in a state court; and, second, whether, by operation of law, the state became the beneficiary of the bond and entitled to sue on it.
+ By reason of the conditions arising out of the presence of the Five Civilized Tribes no organized territorial government was ever established in the Indian Territory. Up to the time it became a part of the state of Oklahoma it was governed under the immediate direction of Congress, which legislated for it in respect of many matters of local or domestic concern which, in a state, are regulated by the state legislature, and also applied to it many laws dealing with subjects which, under the Constitution, are within Federal rather than state control. In what was done Congress did not contemplate that this situation should be of long duration, but, on the contrary, that the territory should be prepared for early inclusion in a state. Courts designated as 'United States Courts' were temporarily established, and invested with a considerable measure of civil and criminal jurisdiction, and there was also provision for beginning public prosecutions before subordinate magistrates. There being no organized local government, such prosecutions, regardless of their nature, were commenced and conducted in the name of the United States, and in taking bail bonds it was named as the obligee.
+ The enabling act (chap 3335, 34 Stat. at L. 267, chap. 2911, 34 Stat. at L. 1286) provided that the new state should embrace the Indian Territory as well as the territory of Oklahoma. It contemplated that the state, by its Constitution, would establish a system of courts of its own, and provided for dividing the state into two dis- 
+
+[241 U.S. 582, 585]
+ 
+ tricts, and creating therein United States courts like those in other states. The temporary courts were to go out of existence, and this made it necessary to provide for the disposition of the business pending before them in various stages. To that end the following provisions, among others, not material here, were embodied in an amendment to the act (34 Stat. at L. 1286, 1287, chap. 2911):
+'Sec. 16. . . . Prosecutions for all crimes and offenses committed within the territory of Oklahoma or in the Indian Territory, pending in the district courts of the territory of Oklahoma or in the United States courts in the Indian Territory upon the admission of such territories as a state, which, had they been committed within a state, would have been cognizable in the Federal courts, shall be transferred to and be proceeded with in the United States circuit or district court established by this act for the district in which the offenses were committed, in the same manner and with the same effect as if they had been committed within a state.'
+
+'Sec. 20. That all causes, proceedings, and matters, civil or criminal, pending in the district courts of Oklahoma territory, or in the United States courts in the Indian Territory, at the time said territories become a state, not transferred to the United States circuit or district courts in the state of Oklahoma, shall be proceeded with, held, and determined by the courts of said state, the successors of said district courts of the territory of Oklahoma, and the United States courts in the Indian Territory; . . . All criminal cases pending in the United States courts in the Indian Territory, not transferred to the United States circuit or district courts in the state of Oklahoma, shall be prosecuted to a final determination in the state courts of Oklahoma under the laws now in force in that territory.'
+
+ Section 28 of the schedule to the state Constitution referred to these and other closely related provisions, and 
+
+[241 U.S. 582, 586]
+ 
+ said, they 'are hereby accepted and the jurisdiction of the cases enumerated therein is hereby assumed by the courts of the state.'
+ Thus, by the concurrent action of Congress and the state, all prosecutions pending in the temporary courts of the Indian Territory, for offenses which would not have been cognizable in a court of the United States had they been committed within a state, were to be proceeded with in the courts of the state, as successors to the temporary courts. In other words, the test of the jurisdiction of the state courts was to be the same that would have applied had the Indian Territory been a state when the offenses were committed. In this view it is plain that the prosecution in question was rightly proceeded with in the state court. Adultery is an offense against the marriage relation, and belongs to the class of subjects which each state controls in its own way. It is a punishable offense only where the common or statute law of the state makes it such; and where punishable, it is cognizable only in the courts of the state. Of course, we exclude from present consideration forts, arsenals, and like places within the exterior limits of a state, but over which exclusive jurisdiction has been ceded to the United States, because they are regarded, not as part of the state, but as excepted out of it. And we pass the question of the power of Congress to deal with such offenses in respect of tribal Indians within a state, because the statute under which this prosecution arose was general in its terms, and because it is not claimed that either of the participants in the adulterous act was an Indian.
+ Some reliance is placed upon  14 of the enabling act, which refers in part to offenses committed prior to the state's admission; but of this section it is enough for present purposes to say that when it is read in connection with the provisions of  16 and 20, before quoted, it is apparent that it was intended to mark the line separating 
+
+[241 U.S. 582, 587]
+ 
+ the jurisdiction of the Federal courts in the two districts, as between themselves, and not the line separating their jurisdiction from that of the state courts.
+ Because no indictment was returned in the temporary court at McAlester before the state was admitted, it is contended that this prosecution was not 'pending' in that court in the sense of  16 and 20. These sections included all pending 'causes, proceedings, and matters,' as well as 'prosecutions' and 'cases,' and evidently were designed to be very comprehensive. The accused not only was held by a magistrate to await the action of the grand jury at the next term of the temporary court, but gave bail for his appearance in the court at that term. After this was done we think a prosecution or proceeding was pending in the court in the sense of the statute. That no indictment was returned in that court in explained by the fact that the court, through the state's admission, went out of existence before an indictment could be found and returned in regular course.
+ The enabling act and the state Constitution united in declaring that the state courts, in repect of the prosecutions which were to be transferred to them, should be the successors of the temporary courts. The bail bond was given several months after the act and the state Constitution were adopted. Indeed, the state's admission was imminent at the time. So, the bond must be taken as given with the approaching change in mind, and as meaning that the accused's appearance should be in the state court as the legal successor of the temporary court, if the latter should go out of existence before the time for appearance arrived. The law existing when a contract is made, and affecting its performance, becomes a part of it. Northern P. R. Co. v. Wall, 
+241 U.S. 87
+, 60 L. ed. --, 36 Sup. Ct. Rep. 493.
+ The enabling act, when taken in connection with the schedule to the state Constitution, leaves no doubt that the state was to take the place of the United States in 
+
+[241 U.S. 582, 588]
+ 
+ dealing with and conducting this prosecution. The bail bond was essentially a part of the proceeding that was transferred, and was without force or value in any other connection. So, when the power and duty resting upon the United States were passed to the state, there went with them the right to use and enforce the bond as the United States might have done, had the proceeding remained in its control; in other words, the state became, by operation of law, the beneficiary of the bond, and was entitled to sue on it when its condition was broken.
+ Judgment affirmed. 
+
+
+

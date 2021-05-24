@@ -1,0 +1,56 @@
+Description: US v. ST LOUIS, S F & T R CO , 270 U.S. 1 (1926)
+Date: 1926-01-18 00:00:00
+Docket: 91
+Opinion
+
+
+United States Supreme Court
+U S v. ST LOUIS, S F & T R CO(1926)
+No. 91
+Argued: November 16, 1925Decided: January 18, 1926
+
+
+
+
+[270 U.S. 1, 2]
+ 
+ Mr. Blackburn Esterline, of Chicago, Ill., for the United states.
+ Mr. Lawrence H. Cake, of Washington, D. C., for appellee St. Louis, S. F. & T. Ry. Co.
+ Mr. F. Carter Pope, of Washington, D. C. for appellee Wabash Ry. Co.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ These cases, which were argued together, present on similar facts the same question of law. In each the railroad had, prior to federal control, rendered to the War Department transportation service, payment for which was disallowed by the Auditor. Each company commenced suit therefor in the Court of Claims more than three years, but within six years from the time when the cause of action accrued, and after the lapse of three years from the enactment of Transportation Act Feb. 28, 1920, c. 91, 41 Stat. 456 ( Comp. St. Ann. Supp. 1923, c. 10071 1/4 et seq.). That act, amending paragraph 3 of section 16 of the Interstate Commerce Act, provides:
+'All actions at law by carriers subject to this act for recovery of their charges, or any part thereof, shall be begun within three years from the time the cause of action accrues, and not after.' Comp. St. Ann. Supp. 1923, s 8584
+
+
+
+ The government defended these suits solely on the ground that the right to sue had been lost by lapse of time. It contended that the three- year limitation ap- 
+
+[270 U.S. 1, 3]
+ 
+ plies to claims against the government prosecuted in the Court of Claims, as well as to actions brought against other shippers in other courts; that it applies to claims which arose prior to the passage of the 1920 act; that the three-year period began at the date when the cause of action accrued, provided there remained, at the passage of the act, a reasonable time before the expiration of the three years within which suit could have been brought; and that, in any event, suit on such claims is barred where, as in the cases at bar, the suit is commenced more than three years after the passage of the 1920 act. In each of these cases judgment was entered for the plaintiff. Wabash Ry. Co. v. United States, 59 Ct. Cl. 322; see also Schaff, Receiver, v. United States, 59 Ct. Cl. 318. An appeal to this court, under sections 242 and 243 of the Judicial Code (Comp. St. ss 1219, 1220), was taken in each case before June 7, 1924.
+ That a statute shall not be given retroactive effect, unless such construction is required by explicit language or by necessary implication, is a rule of general application. It has been applied by this court to statutes governing procedure, United States Fidelity & Guaranty Co. v. United States, 
+209 
+U.S. 306
+, 28 S. Ct. 537; and specifically to the limitation of actions under another section of Transportation Act of 1920, fullerton-Krueger Lumber Co. v. Northern Pacific Ry. Co., 
+266 
+U.S. 435
+, 45 S. Ct. 143. There is nothing in the language of paragraph 3 of section 16, or in any other provision of the act, or in its history, which requires us to hold that the three-year limitation applies, under any circumstances, to causes of action existing at the date of the Act.
+ The government contends that, even if the suits were not barred by Transportation Act of 1920, they were barred by the Act of June 7, 1924, c. 325, 43 Stat. 633 (Comp. St. Supp. 1925, s 8584), which amended paragraph 3, among other things, by making the following addition thereto:
+
+
+[270 U.S. 1, 4]
+ 
+ '(h) The provisions of this paragraph (3) shall extend to and embrace cases in which the cause of action has heretofore accrued as well as cases in which the cause of action may hereafter accrue. ...'
+ The Senate and House reports accompanying the bill (s. 2704) state that the purpose of the amendment was to revive claims barred under the existing law as interpreted in Kansas City Ry. Co. v. Wolf, 
+261 
+U.S. 133
+, 43 S. Ct. 259, 67 L. Ed 571. It is not to be assumed that Congress intended by that amendment to defeat claims on which suits duly brought were then pending, or on which, as in the cases at bar, judgment had already been entered below. Compare Herrick v. Boquillas Land & Cattle Co., 
+200 
+U.S. 96
+, 26 S. Ct. 192.
+ As we hold that paragraph 3 does not apply to any cause of action existing at the date of the passage of Transportation Act of 1920, we have no occasion to consider whether, under any circumstances, it is applicable to claims against the government brought in the Court of Claims pursuant to section 145, Judicial Code (Comp. St. s 1136). See Western Pacific R. R. Co. v. United States, 59 Ct. Cl. 67, 81.
+ Affirmed. 
+
+
+

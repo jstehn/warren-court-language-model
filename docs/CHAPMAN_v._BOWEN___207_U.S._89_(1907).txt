@@ -1,0 +1,58 @@
+Description: CHAPMAN v. BOWEN , 207 U.S. 89 (1907)
+Date: 1907-11-11 00:00:00
+Docket: 168
+Opinion
+
+
+United States Supreme Court
+CHAPMAN v. BOWEN(1907)
+No. 168
+Argued: Decided: November 11, 1907
+
+
+
+ The firm of A. McCoy & Company, a banking copartnership at Rensselaer, Indiana, was composed of Alfred McCoy and Thomas McCoy, and on July 11, 1904, the copartnership and its individual members were respectively adjudicated bankrupts.
+ Abner T. Bowen presented claims, on notes signed by the firm and also by its members, against the estate of the copartnership, which were allowed, and against the individual estate of Alfred McCoy, which were disallowed, by the referee, 'subject only to such right as said claimant may have in said estate as a creditor of the estate of the firm of A. McCoy & Company, bankrupts, after the payment of the individual creditors of the estate of said Alfred McCoy, bankrupt.'
+ Petition for review was filed and the matter certified to the district court for the district of Indiana, by which the decision and order of the referee were approved and affirmed. Thereupon the case was carried by appeal to the circuit court of appeals for the seventh circuit, which reversed the judgment of the district court and remanded the cause 'with instructions . . . to allow the claim as a debt against the individual estate 
+
+[207 U.S. 89, 90]
+ 
+ of Alfred McCoy, to be paid therefrom ratably with other creditors of that estate to the extent that such debt is not paid in the administration of the estate of the firm of McCoy & Company.' 80 C. C. A. 60, 150 Fed. 106.
+ An appeal to this court was allowed by a judge of the circuit court of appeals, and the case having been docketed here was submitted on a motion to dismiss or affirm.
+ Messrs. Harry R. Kurrie, Frank Foltz, and Simon P. Thompson for appellant. 
+
+[207 U.S. 89, 91]
+ 
+ Mr. M. Winfield for appellee.
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ The motion to dismiss was rested on two grounds: (1) That appellant had failed to comply with clause 3 of general order in bankruptcy 36; (2) that the case was not appealable to this court.
+ Clause 3 of general order 36 reads as follows:
+'In every case in which either party is entitled by the act to take an appeal to the Supreme Court of the United States, the court from which the appeal lies shall, at or before the time of entering its judgment or decree, make and file a finding of the facts, and its conclusions of law thereon, stated separately; and the record transmitted to the Supreme Court of the United States on such an appeal shall consist only of the pleadings, the judgment or decree, the finding of facts, and the conclusions of law.'
+
+ No such finding of facts and conclusions of law was made in this case, nor was the court requested to make such finding. The appeal was a general appeal, and the entire record was sent up. The omission cannot be supplied by reference to the opinion, as is attempted in argument. British Queen Min. Co. v. Baker Silver Min. Co. 
+139 U.S. 222
+, 35 L. ed. 147, 11 Sup. Ct. Rep. 523, and cases cited; Lehnen v. Dickson, 
+148 
+U.S. 71, 74
+, 37 S. L. ed. 373, 374, 13 Sup. Ct. Rep. 481.
+ But if the case was not appealable, the appeal must be dismissed, even though clause 3 had been complied with.
+ The bankruptcy act provides,  25b:
+'From any final decision of a court of appeals, allowing or rejecting a claim under this act, an appeal may be had under such rules and within such time as may be prescribed by the Supreme Court of the United States in the following cases and no other:
+
+'1. Where the amount in controversy exceeds the sum of two thousand dollars, and the question involved is one which 
+
+[207 U.S. 89, 92]
+ 
+ might have been taken on appeal or writ of error from the highest court of a state to the Supreme Court of the United States; or
+
+'2. Where some justice of the Supreme Court of the United States shall certify that, in his opinion, the determination of the question or questions involved in the allowance or rejection of such claim is essential to a uniform construction of this act throughout the United States.' [30 Stat. at L. 553, chap. 541, U. S. Comp. Stat. 1901, p. 3432.]
+
+ As to paragraph 2, there was no such certificate here; and as to paragraph 1, we are not able to perceive that a writ of error from the highest court of a state to this court could be maintained. No validity of a treaty or statute of, or an authority exercised under, the United States, was drawn in question; nor the validity of a statute of, or an authority exercised under, any state, on the ground of repugnancy to the Constitution, treaties, or laws of the United States; nor was any title, right, privilege, or immunity claimed under the Constitution, or any treaty or statute of, or commission held or authority exercised under, the United States, and decided against.
+ The decision below proceeded on well-settled principles of general law, broad enough to sustain it without reference to provisions of the bankruptcy act. and, moreover, even if it could be held that by his claim Bowen asserted any right within the meaning of  709, Rev. Stat. (U. S. Comp. Stat. 1901, p. 575), the decision was in his favor, and the trustee's bare denial of the claim could not be relied on under that statute. Jersey City & B. R. Co. v. Morgan, 
+160 U.S. 288
+, 40 L. ed. 430, 16 Sup. Ct. Rep. 276.
+ Appeal dismissed. 
+
+
+

@@ -1,0 +1,98 @@
+Description: CALIFORNIA WATER SERVICE CO. v. CITY OF REDDING, 304 U.S. 252 (1938)
+Date: 1938-05-16 00:00:00
+Docket: 976
+Opinion
+
+
+United States Supreme Court
+CALIFORNIA WATER SERVICE CO. v. CITY OF REDDING(1938)
+No. 976
+Argued: Decided: May 16, 1938
+
+
+
+ Appeal from the District Court of the United States for the Northern District of California. 
+
+[304 
+U.S. 252, 253]
+ 
+ Messrs. Warren Olney, Jr., of San Francisco, Cal., Seth W. Richardson, of Washington, D.C., Francis Carr, of Redding, Cal., and A. Crawford Greene, of San Francisco, Cal., for appellants.
+ Messrs. George Herrington and W. H. Orrick, both of San Francisco, Cal., for appellees.
+
+ PER CURIAM.
+ This suit was brought by appellants, California Water Service Company and Carlo Veglia, to enjoin the City of Redding, California, from receiving a grant of $162,000, allotted by the Federal Administrator of Public Works under title II of the National Industrial Recovery Act and supplemental legislation,1 to aid the city in the construction of a municipal waterworks system; and also to enjoin the city from expending the proceeds of the sale of $200,000 of the city's bonds for the purpose of constructing such a plant. The bill of complaint alleged that the grant of federal funds and the legislation said to authorize it were invalid under the Federal Constitution, article 1,  1, 8 and 9; article 2,  1 and 3; and the Tenth Amendment, and also that the grant was in violation of the federal statutes cited. The suit was brought prior to the decision of this Court in the case of Alabama Power Company v. Ickes, 
+302 
+U.S. 464
+, 58 S.Ct. 300. The bond issue of the city was alleged to be invalid under the constitution and statutes of California.
+ Temporary and permanent injunctions were sought and the District Court, 22 F.Supp. 641, composed of three judges convened under section 3 of the Act of August 24, 1937, 50 Stat. 751, 752, 28 U.S.C.A.  380a, decided that the bill of complaint stated no cause 
+
+[304 
+U.S. 252, 254]
+ 
+ of action within the cognizance of the court. The temporary restraining order was dissolved and the complaint was dismissed. The case comes here on appeal. Appellees move to dismiss or affirm.
+ The District Court held that the federal question sought to be raised was identical with that presented in Alabama Power Company v. Ickes, supra; that the asserted distinction that the proposed action of defendants, the Federal Administrator not being a party, was motivated by a desire or purpose to injure or coerce the plaintiff Company, was of no avail, as the city was free to bargain with the plaintiff and to construct a rival system if the plaintiff chose not to sell its plant and the motive actuating the city in the exercise of its rights was immaterial. See Isbrandtsen-Moller Company v. United States, 
+300 
+U.S. 139, 145
+, 57 S.Ct. 407, 410. In the absence of a substantial federal question, the court ruled that the charge that the bonds of the city were invalid under the state law presented a purely local issue which the court was not required to consider.
+ We are of the opinion that these rulings were correct. We have held that section 266 of the Judicial Code, 28 U.S.C.A.  380, does not apply unless there is a substantial claim of the unconstitutionality of a state statute or administrative order as there described. It is therefore the duty of a district judge, to whom an application for an injunction restraining the enforcement of a state statute or order is made, to scrutinize the bill of complaint to ascertain whether a substantial federal question is presented, as otherwise the provision for the convening of a court of three judges is not applicable. Ex parte Buder, 
+271 
+U.S. 461, 467
+, 46 S.Ct. 557, 559; Ex parte Poresky, 
+290 
+U.S. 30
+, 54 S.Ct. 3. We think that a similar rule governs proceedings under Section 3 of the Act of August 24, 1937, 28 U.S.C.A.  380a, as to the participation of three judges in passing upon applications for injunctions restraining the en- 
+
+[304 
+U.S. 252, 255]
+ 
+ forcement of federal statutes upon the ground of constitutional invalidity. Had the decisions in the cases of Alabama Power Company v. Ickes, supra, and of Duke Power Company v. Greenwood County, 
+302 
+U.S. 485
+, 58 S.Ct. 306, been rendered prior to the filing of the bill of complaint in the instant case, no substantial federal question would have been presented. The lack of substantiality in a federal question may appear either because it is obviously without merit or because its unsoundness so clearly results from the previous decisions of this court as to foreclose the subject. Levering & Garrigues Co. v. Morrin, 
+289 
+U.S. 103, 105
+, 106 S., 53 S.Ct. 549. And, here, although the bill of complaint had been previously filed, and a motion for an interlocutory injunction presented, it was apparent after our decisions in the cases cited that the federal question was without substance and it became the duty of the District Court to dismiss the bill of complaint upon that ground.
+ In Oklahoma Gas & Electric Co. v. Oklahoma Packing Company, 
+292 
+U.S. 386, 391
+, 54 S.Ct. 732, we had occasion to observe (page 734) that 'the three-judge procedure is an extraordinary one, imposing a heavy burden on federal courts, with attendant expense and delay'; that 'that procedure, designed for a specific class of cases, sharply defined, should not be lightly extended'; and that restrictions placed upon appellate review in this court 'would likewise be measurably impaired were groundless allegations thus to suffice.' We concluded that 'when it becomes apparent that the plaintiff has no case for three judges, though they may have been properly convened, their action is no longer prescribed.'
+ It is also clear that the presentation of a local question in the instant case as to the invalidity of the city's bonds under the state law did not suffice to save jurisdiction. While, if the court had jurisdiction by reason of the presence of a substantial federal question, it could 
+
+[304 
+U.S. 252, 256]
+ 
+ proceed to pass upon the local issue (Louisville & Nashville R.R. Co. v. Garrett, 
+231 
+U.S. 298, 303
+, 34 S.Ct. 48; Davis v. Wallace, 
+257 
+U.S. 478, 482
+, 42 S.Ct. 164, 165; Sterling v. Constantin, 
+287 
+U.S. 378, 393
+, 394 S., 53 S.Ct. 190, 193; Railroad Commission v. Pacific Gas & Electric Co., 
+302 
+U.S. 388, 391
+, 58 S.Ct. 334 82 L.Ed. 319), it was the presence of the federal question which gave the court that authority, and in its absence, through lack of substance, the court was not entitled to go further. In Norumbega Company v. Bennett, 
+290 
+U.S. 598
+, 54 S.Ct. 207, the District Court of three judges, considering that a federal constitutional question was involved, passed upon the question of the construction of the state statute and, denying a motion to dismiss for lack of jurisdiction, dismissed the bill of complaint for want of equity. D.C., 3 F.Supp. 500, 502. This Court reversed the decree and remanded the cause with directions to dismiss the bill of complaint for the want of jurisdiction because of the absence of a substantial federal question.
+ We think that the Act of August 24, 1937, did not contemplate that a court of three judges should be convened, or, if convened, should continue to act, merely for the decision of a local question where no substantial federal question is involved. We agree with the District Court that the attempt to blend the contention as to the validity of the bond issue under state law with the question as to the authority to make the federal grant under the federal statutes, so as to give the former the aspect of a federal question, is unavailing. The local question and the federal question are distinct. See Hurn v. Oursler, 
+289 
+U.S. 238, 245
+, 246 S., 53 S. Ct. 586, 589
+
+
+ The court below rightly dismissed the bill of complaint and the motion to affirm its decree is granted.
+AFFIRMED.
+ Mr. Justice CARDOZO took not part in the consideration or decision of this case. 
+
+Footnotes
+
+[
+Footnote 1
+] Acts of June 16, 1933, c. 90, 48 Stat. 200-210, 40 U.S.C.A.  401 et seq.; April 8, 1935, c. 48, 49 Stat. 115-119; June 29, 1937, c. 401,  201-207, 50 Stat. 352, 15 U.S.C.A.  721 et seq. note. 
+
+
+
+

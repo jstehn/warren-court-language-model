@@ -1,0 +1,43 @@
+Description: FRESE v. CHICAGO, B & Q R CO , 263 U.S. 1 (1923)
+Date: 1923-10-15 00:00:00
+Docket: 27
+Opinion
+
+
+United States Supreme Court
+FRESE v. CHICAGO, B & Q R CO(1923)
+No. 27
+Argued: October 3, 1923Decided: October 15, 1923
+
+
+
+ Mr. John G. Parkinson, of St. Joseph, Mo., for petitioner. 
+
+[263 U.S. 1, 2]
+ 
+ Mr. M. G. Roberts, of St. Louis, Mo., for respondent.
+
+ Mr. Justice HOLMES delivered the opinion of the Court.
+ This is an action in Missouri under the federal Employers' Liability Act (Comp. St.  8657-8665) for the death of the plaintiff's ( petitioner's) intestate caused by a collision in Illinois between engines of the defendant and the Wabash Railroad Company at a grade crossing. The deceased, Frese, was the engineer in charge of the defendant's engine. A statute of Illinois required that--
+'All trains running on any railroad in this state, when approaching a crossing with another railroad upon the same level, or when approaching a swing or drawbridge, in use as such, shall be brought to a full stop before reaching the same, and within eight hundred ( 800) feet therefrom, and the engineer or other person in charge of the engine attached to the train shall positively ascertain that the way is clear and that the train can safely resume its course before proceeding to pass the bridge or crossing.' Hurd's Rev. St. Ill. 1921, c. 114,  75.
+
+ See Southern Ry. Co. v. King, 
+217 U.S. 524
+, 30 Sup. Ct. 594.
+ Frese brought his train to a stop somewhat over two hundred feet from the crossing and the Wabash train stopped at about three hundred feet from it. But the view of the 
+
+[263 U.S. 1, 3]
+ 
+ Wabash track from the Burlington was obstructed intermittently until the Wabash track was reached. The two trains did not discover each other, but started on again and collided, killing Frese. The Supreme Court of Missouri held that as the engine was under the control of the engineer who was killed, the statute of Illinois imposed upon him the imperative duty positively to ascertain that the way was clear before entering upon the crossing; that if he had done so he would not have been killed, and that the plaintiff could not recover. Judgment was ordered for the defendant. 290 Mo. 501, 235 S. W. 97.
+ The plaintiff contends that there was evidence of contributory negligence on the part of the fireman, Savage, and therefore that even if Frese was negligent that would not be a bar to this action under the Employers' Liability Act. But the only evidence as to the fireman came from a man who was standing on the ground as the engine passed him. He says that it looked to him that the fireman then was looking through the front window at that time and that he continued in that position up to say fifty or sixty feet from the crossing of the tracks. The fireman was on the left on the side of the other approaching train, the engineer on the right where he could not see so well. But of course the witness could not testify which way the fireman turned his eyes after he saw only his back, and it is a mere speculation to argue that Savage did not do all that he could. Moreover the statute makes it the personal duty of the engineer positively to asscertain that the train can safely resume its course. Whatever may have been the practice he could not escape this duty, and it would be a perversion of the Employers' Liability Act (April 22, 1908, c. 149,  3; 35 Stat. 65, 66 [Comp. St.  8659]) to hold that he could recover for an injury primarily due to his failure to act as required, on the ground that possibly the injury might have been prevented if his subordinate had done more. See Great Northern Ry. Co. v. Wiles, 240 
+
+[263 U.S. 1, 4]
+ 
+ U. S. 444, 448, 36 Sup. Ct. 406. If the engineer could not have recovered for an injury his administratrix cannot recover for his death. Michigan Central R. R. Co. v. Vreeland, 
+227 
+U.S. 59, 70
+, 33 S. Sup. Ct. 192, Ann. Cas. 1914C, 176. There is no doubt that the statute of Illinois applied to this case.
+ Judgment affirmed. 
+
+
+

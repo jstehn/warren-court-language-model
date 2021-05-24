@@ -1,0 +1,59 @@
+Description: ALEXANDER MILBURN CO. v. DAVIS-BOURNONVILLE CO. , 270 U.S. 390 (1926)
+Date: 1926-03-08 00:00:00
+Docket: 107
+Opinion
+
+
+United States Supreme Court
+ALEXANDER MILBURN CO. v. DAVIS-BOURNONVILLE CO.(1926)
+No. 107
+Argued: Decided: March 8, 1926
+
+
+
+ Mr. James A. Watson, of Washington, D. C., for petitioner.[ Alexander Milburn Co. v. Davis-Bournonville Co. 
+270 U.S. 390
+ (1926) ]
+
+
+[270 U.S. 390, 393]
+ 
+ Mr. Dean S. Edmonds, of New York City, for respondent.
+
+
+[270 U.S. 390, 399]
+ 
+
+ Mr. Justice HOLMES delivered the opinion of the Court.
+ This is a suit for the infringement of the plaintiff's patent for an improvement in welding and cutting apparatus alleged to have been the invention of one Whitford. The suit embraced other matters but this is the only one material here. The defence is that Whitford was not the first inventor of the thing patented, and the answer gives notice that to prove the invalidity of the patent evidence will be offered that one Clifford invented the thing, his patent being referred to and identified. The application for the plaintiff's patent was filed on March 4, 1911, and the patent was issued on June 4, 1912. There was no evidence carrying Whitford's invention further back. Clifford's application was filed on January 31, 1911, before Whitford's, and his patent was issued on February 6, 1912. It is not disputed that this application gave a complete and adequate description of the thing patented to Whitford, but it did not claim it. The District Court gave the plaintiff a decree, holding that while Clifford might have added this claim to his application, yet as he did not, he was not a prior inventor. 297 F. 846. The decree was affirmed by the Circuit Court of Appeals. 1 F.(2d) 227. There is a conflict between this decision and those of other Circuit Courts of Appeal, especially the sixth. Lemley v. Dobson-Evans Co., 243 F. 391, 156 C. C. A. 171. Naceskid Service Chain Co. v. Perdue, 1 F.(2d) 924. Therefore a writ of certiorari was granted by this Court. 45 S. Ct. 93, 
+266 U.S. 596
+.
+ The patent law authorizes a person who has invented an improvement like the present, 'not known or used by others in this country, before his invention,' etc., to obtain a patent for it. Rev. Sts. s 4886, amended by Act March 3, 1897, c. 391, s 1, 29 Stat. 692 (Comp. St. s 9430). Among the defences to a suit for infringement the fourth specified by the statute is that the patentee 'was not the original and first in- 
+
+[270 U.S. 390, 400]
+ 
+ ventor or discoverer of any material and substantial part of the thing patented.' Rev. Sts. s 4920, amended by Act March 3, 1897, c. 391, s 2, 29 Stat. 692 (Comp. St. s 9466). Taking these words in their natural sense as they would be read by the common man, obviously one is not the first inventor if, as was the case here, somebody else has made a complete and adequate description of the thing claimed before the earliest moment to which the alleged inventor can carry his invention back. But the words cannot be taken quite so simply. In view of the gain to the public that the patent laws mean to secure we assume for purposes of decision that it would have been no bar to Whitford's patent if Clifford had written out his prior description and kept it in his portfolio uncommunicated to anyone. More than that, since the decision in the case of the Cornplanter Patent, 23 Wall. 181, it is said, at all events for many years, the Patent Office has made no search among abandoned patent applications, and by the words of the statute a previous foreign invention does not invalidate a patent granted here if it has not been patented or described in a printed publication. Rev. Sts. s 4923 (Comp. St. s 9469). See Westinghouse Machine Co. v. General Electric Co., 207 F. 75, 126 C. C. A. 575. These analogies prevailed in the minds of the courts below.
+ On the other hand publication in a periodical is a bar. This as it seems to us is more than an arbitrary enactment, and illustrates, as does the rule concerning previous public use, the principle that, subject to the exceptions mentioned, one really must be the first inventor in order to be entitled to a patent. Coffin v. Ogden, 18 Wall. 120. We understand the Circuit Court of Appeals to admit that if Whitford had not applied for his patent until after the issue to Clifford, the disclosure by the latter would have had the same effect as the publication of the same words in a periodical, although not made the basis of a claim. 1 F.(2d) 233. The invention is made public property 
+
+[270 U.S. 390, 401]
+ 
+ as much in the one case as in the other. But if this be true, as we think that it is, it seems to us that a sound distinction cannot be taken between that case and a patent applied for before but not granted until after a second patent is sought. The delays of the patent office ought not to cut down the effect of what has been done. The description shows that Whitford was not the first inventor. Clifford had done all that he could do to make his description public. He had taken steps that would make it public as soon as the Patent Office did its work, although, of course, amendments might be required of him before the end could be reached. We see no reason in the words or policy of the law for allowing Whitford to profit by the delay and make himself out to be the first inventor when he was not so in fact, when Clifford had shown knowledge inconsistent with the allowance of Whitford's claim, (Webster) Loom Co. v. Higgins, 
+105 U.S. 580
+, and when otherwise the publication of his patent would abandon the thing described to the public unless it already was old, McClain v. Ortmayer, 12 S. Ct. 76, 
+141 U.S. 419
+, 424. Underwood v. Gerber, 13 S. Ct. 854, 
+149 U.S. 224
+, 230.
+ The question is not whether Clifford showed himself by the description to be the first inventor. By putting it in that form it is comparatively easy to take the next step and say that he is not an inventor in the sense of the statute unless he makes a claim. The question is whether Clifford's disclosure made it impossible for Whitford to claim the invention at a later date. The disclosure would have had the same effect as at present if Clifford had added to his description a statement that he did not claim the thing described because he abandoned it or because he believed it to be old. It is not necessary to show who did invent the thing in order to show that Whitford did not.
+ It is said that without a claim the thing described is not reduced to practice. But this seems to us to rest on 
+
+[270 U.S. 390, 402]
+ 
+ a false theory helped out by the fiction that by a claim it is reduced to practice. A new application and a claim may be based on the original description within two years, and the original priority established notwithstanding intervening claims. Chapman v. Wintroath, 40 S. Ct. 234, 
+252 U.S. 126
+, 137. A description that would bar a patent if printed in a periodical or in an issued patent is equally effective in an application so far as reduction to practice goes.
+ As to the analogies relied upon below, the disregard of abandoned patent applications however explained cannot be taken to establish a principle beyond the rule as actually applied. As an empirical rule it no doubt is convenient if not necessary to the Patent Office, and we are not disposed to disturb it, although we infer that originally the practice of the Office was different. The policy of the statute as to foreign inventions obviously stands on its own footing and cannot be applied to domestic affairs. The fundamental rule we repeat is that the patentee must be the first inventor. The qualifications in aid of a wish to encourage improvements or to avoid laborious investigations do not prevent the rule from applying here.
+ Decree reversed. 
+
+
+

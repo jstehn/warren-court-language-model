@@ -1,0 +1,132 @@
+Description: KANSAS CITY, F.S. & M. RY. CO. v. BOTKIN , 240 U.S. 227 (1916)
+Date: 1916-02-21 00:00:00
+Docket: 450
+Opinion
+
+
+United States Supreme Court
+KANSAS CITY, F.S. & M. RY. CO. v. BOTKIN(1916)
+No. 450
+Argued: Decided: February 21, 1916
+
+
+
+
+[240 U.S. 227, 228]
+ 
+ Messrs. R. R. Vermilion and W. F. Evans for plaintiff in error.
+
+
+
+[240 U.S. 227, 229]
+ 
+ Messrs. James P. Coleman, W. P. Montgomery, and J. L. Hunt, and Mr. S. M. Brewster, Attorney General of Kansas, for defendant in error.
+
+
+
+[240 U.S. 227, 230]
+ 
+
+ Mr. Justice Hughes delivered the opinion of the court:
+ By chapter 135 of the Laws of 1913, of Kansas, every domestic corporation is required to pay to the secretary of state an annual fee which is graduated according to the amount of its paid-up capital stock. When this capital stock does not exceed $10,000, the fee is $10; when it exceeds $10,000, but is not over $25,000, the fee is $25; and there are further increases, graduated as stated, until the maximum fee of $2,500 is reached, that sum 
+
+[240 U.S. 227, 231]
+ 
+ being payable in all cases where the paid-up capital stock exceeds $5,000, 000. The plaintiff in error is a railroad corporation organized under the laws of Kansas, and its road extends into several states. It has a paid-up capital stock of $31,660,000. On March 31, 1914, it paid to the secretary of state, under protest, the required fee of $2,500, and brought this action to recover the amount, insisting that the tax is a direct burden upon interstate commerce and is laid upon property outside the state, and hence is invalid under the Federal Constitution. The supreme court of Kansas sustained the tax, thus defining its nature: 'The fee collected is a tax upon the right of corporate existence-the franchise granted by the state to be a corporation-to do business with the advantages associated with that form of organization.' 95 Kan. 261, 147 Pac. 791.
+ It must be assumed, in accordance with repeated decisions, that the state cannot lay a tax on interstate commerce 'in any form,' by imposing it either upon the business which constitutes such commerce or the privilege of engaging in it, or upon the receipts as such derived from it. State Freight Tax Case, 15 Wall. 232, 21 L. ed. 146; Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 
+122 
+U.S. 326, 336
+, 344 S., 30 L. ed. 1200, 1201, 1204, 1 Inters. Com. Rep. 308, 7 Sup. Ct. Rep. 1118; Leloup v. Mobile, 
+127 U.S. 640
+, 32 L. ed. 311, 2 Inters. Com. Rep. 134, 8 Sup. Ct. Rep. 1380; Lyng v. Michigan, 
+135 
+U.S. 161, 166
+, 34 S. L. ed. 150, 153, 3 Inters. Com. Rep. 143, 10 Sup. Ct. Rep. 725; McCall v. California, 
+136 U.S. 104
+, 34 L. ed. 391, 3 Inters. Com. Rep. 181, 10 Sup. Ct. Rep. 881; Galveston, H. & S. A. R. Co. v. Texas, 
+210 
+U.S. 217, 228
+, 52 S. L. ed. 1031, 1038, 28 Sup. Ct. Rep. 638; Western U. Teleg. Co. v. Kansas, 
+216 
+U.S. 1, 36
+, 37 S., 54 L. ed. 355, 369, 370, 30 Sup. Ct. Rep. 190; Pullman Co. v. Kansas, 
+216 
+U.S. 56, 65
+, 54 S. L. ed. 378, 385, 30 Sup. Ct. Rep. 232; Meyer v. Wells F. & Co. 
+223 U.S. 298
+, 56 L. ed. 445, 32 Sup. Ct. Rep. 218; Baltic Min. Co. v. Massachusetts, 
+231 
+U.S. 68, 83
+, 58 S. L. ed. 127, 133, L. R.A. --, --, 34 Sup. Ct. Rep. 15. And, further, in determining whether a tax has such a direct relation to interstate commerce as to be an exercise of power prohibited by the commerce clause, our decision must regard the substance of the exaction,-its operation and effect as enforced,-and cannot depend upon the manner in which the taxing scheme has been characterized. Galveston, H. & S. A. R. Co. 
+
+[240 U.S. 227, 232]
+ 
+ v. Texas, 
+210 
+U.S. 217, 228
+, 52 S. L. ed. 1031, 1038, 28 Sup. Ct. Rep. 638; United States Exp. Co. v. Minnesota, 
+223 
+U.S. 335, 346
+, 56 S. L. ed. 459, 465, 32 Sup. Ct. Rep. 211; St. Louis Southwestern R. Co. v. Arkansas, 
+235 
+U.S. 350, 362
+, 59 S. L. ed. 265, 271, 35 Sup. Ct. Rep. 99.
+ Examining the statute in the present case, we see no reason to doubt the accuracy of the description of the tax by the state court. We take it to be simply a tax on the privilege of being a corporation,-on the primary corporate franchise granted by the state. The authority of the state to tax this privilege, or franchise, has always been recognized, and it is well settled that a tax of this sort is not necessarily rendered invalid because it is measured by capital stock which in part may represent property not subject to the state's taxing power. Thus, in Society for Savings v. Coite, 6 Wall. 594, 606, 607, 18 L. ed. 897, 902, 903, the power to levy the franchise tax was deemed to be 'wholly unaffected' by the fact that the corporation had invested in Federal securities; and in Home Ins. Co. v. New York, 
+134 
+U.S. 594, 599
+, 600 S., 33 L. ed. 1025, 1029, 1030, 10 Sup. Ct. Rep. 593, it was held that a tax upon the privilege of being a corporation was not rendered invalid because a portion of its capital (the tax being measured by dividends) was represented by United States bonds. These cases were cited with distinct approval, and the rule they applied in distinguishing between the subject and the measure of the tax was recognized as an established one, in Flint v. Stone Tracy Co. 
+220 
+U.S. 107, 165
+, 55 S. L. ed. 389, 419, 31 Sup. Ct. Rep. 342, Ann. Cas. 1912B, 1312. It is also manifest that the state is not debarred from imposing a tax upon the granted privilege of being a corporation, because the corporation is engaged in interstate as well as intrastate commerce. Delaware R. Tax, 18 Wall. 206, 231, 232, 21 L. ed. 888, 896; State R. Tax Cases, 
+92 
+U.S. 575, 603
+, 23 S. L. ed. 663, 669; Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 
+122 
+U.S. 326, 336
+, 344 S., 30 L. ed. 1200, 1201, 1204, 1 Inters. Com. Rep. 308, 7 Sup. Ct. Rep. 1118; Ashley v. Ryan, 
+153 U.S. 436
+, 38 L. ed. 773, 4 Inters. Com. Rep. 664, 14 Sup. Ct. Rep. 865; New York ex rel. Cornell S. B. Co. v. Sohmer, 
+235 
+U.S. 549, 559
+, 560 S., 59 L. ed. 355, 359, 360, 35 Sup. Ct. Rep. 162. And, agreeably to the principle above mentioned, it has never been, and cannot be, maintained that an annual tax upon this privilege is in itself, and in all cases, repugnant 
+
+[240 U.S. 227, 233]
+ 
+ to the Federal power merely because it is measured by authorized or paid- up capital stock. The selected measure may appear to be simply a matter of convenience in computation, and may furnish no basis whatever for the conclusion that the effort is made to reach subjects withdrawn from the taxing authority. We have recently had occasion (Baltic Min. Co. v. Massachusetts, 
+231 
+U.S. 68, 83
+, 58 S. L. ed. 127, 133, L.R.A. --, --, 34 Sup. Ct. Rep. 15) to emphasize the necessary caution that 'every case involving the validity of a tax must be decided upon its own facts;' and if the tax purports to be laid upon a subject within the taxing power of the state, it is not to be condemned by the application of any artificial rule, but only where the conclusion is required that its necessary operation and effect is to make it a prohibited exaction.
+ In Philadelphia & S. Mail S. S. Co. v. Pennsylvania, 
+122 
+U.S. 326, 336
+, 344 S., 30 L. ed. 1200, 1201, 1204, 1 Inters. Com. Rep. 368, 7 Sup. Ct. Rep. 1118, the state had laid 'a tax of 8/10 of 1 per centum upon the gross receipts of said company for tolls and transportation.' As the court said: 'The tax was levied directly upon the receipts derived by the company from its fares and freights for the transportation of persons and goods between different states, and between the states and foreign countries, and from the charter of its vessels which was for the same purpose.' It was necessarily concluded that the tax was imposed upon interstate commerce. In Galveston, H. & S. A. R. Co. v. Texas, 
+210 
+U.S. 217, 228
+, 52 S. L. ed. 1031, 1038, 28 Sup. Ct. Rep. 638, the tax upon the railroad company was 'equal to 1 per centum of its gross receipts.' The court held that this was 'merely an effort to reach the gross receipts, not even disguised by the name of an occupation tax, and in no way helped by the words 'equal to." By the statute which was under review in Western U. Teleg. Co. v. Kansas, 
+216 
+U.S. 1, 36
+, 37 S., 54 L. ed. 355, 369, 370, 30 Sup. Ct. Rep. 190,-as was said in Flint v. Stone Tracy Co. supra, summarizing that case,-the state 'undertook to levy a graded charter fee upon the entire capital stock of one hundred millions of dollars on the Western Union Telegraph Company, a foreign corporation, and engaged in 
+
+[240 U.S. 227, 234]
+ 
+ commerce among the states, as a condition of doing local business within the state of Kansas. This court held, looking through forms and reaching the substance of the thing, that the tax thus imposed was in reality a tax upon the right to do interstate business within the state, and an undertaking to tax property beyond the limits of the state; that whatever the declared purpose, when reasonably interpreted, the necessary operation and effect of the act in question was to burden interstate commerce and to tax property beyond the jurisdiction of the state, and it was therefore invalid.' To the same effect were Pullman Co. v. Kansas, 
+216 
+U.S. 56, 65
+, 54 S. L. ed. 378, 385, 30 Sup. Ct. Rep. 232, and Ludwig v. Western U. Teleg. Co. 
+216 U.S. 146
+, 54 L. ed. 423, 30 Sup. Ct. Rep. 280. The act before the court in Meyer v. Wells F. & Co. 
+223 U.S. 298
+, 56 L. ed. 445, 32 Sup. Ct. Rep. 218, which provided for what was called a 'gross revenue tax,' was deemed to be 'so similar to the Texas statute held bad' in the case of Galveston, H. & S. A. R. Co. v. Taxas, as to deserve a similar condemnation. On the other hand, in United States Exp. Co. v. Minnesota, 
+223 
+U.S. 335, 346
+, 56 S. L. ed. 459, 465, 32 Sup. Ct. Rep. 211, it appeared that the reference to gross receipts was only intended fairly to measure a tax upon a subject within the taxing power of the state, and the tax was sustained. And, in the case of Baltic Min. Co. v. Massachusetts, supra, where a tax on foreign corporations was measured by the authorized capital stock and was limited to $2,000, the court also reached the conclusion 'that the authorized capital is only used as the measure of a tax, in itself lawful, without the necessary effect of burdening interstate commerce,' and that hence the legislation was within the authority of the state. It is true that in that case it was pointed out that the taxing act did not apply to corporations engaged in railroad, telegraph, etc., business, or to those corporations whose business is interstate commerce; but it was also distinctly stated that the products of the corporations before the court were 'sold and shipped in interstate commerce,' and that to that extent they were 'engaged 
+
+[240 U.S. 227, 235]
+ 
+ in the business of carrying on interstate commerce,' and were 'entitled to the protection of the Federal Constitution against laws burdening commerce of that character.' It was because the tax, although measured by authorized capital stock, could not, in view of its limitations, be regarded as imposing a disrect burden upon interstate commerce, that the tax was upheld. 231 U. S. pp. 86, 87.
+ In the present case, the tax is not laid upon transactions in interstate commerce, or upon receipts from interstate commerce, either separately or intermingled with other receipts. It does not fluctuate with the volume of interstate business. It is not a tax imposed for the privilege of doing an interstate business. It is a franchise tax,-on the privilege granted by the state of being a corporation,-and while it is graduated according to the amount of paid-up capital stock, the maximum charge is $2,500 in the case of all corporations having a paid-up capital of $5,000,000 or more. This is the amount imposed in the present case, where the corporation has a capital of $31,660,000. We find no ground for saying that a tax of this character, thus limited, is in any sense a tax imposed upon interstate commerce.
+ For similar reasons, the contention cannot be sustained that the tax was one on property beyond the jurisdiction of the state. Undoubtedly, a tax may be in form a privilege tax and yet, in substance, may be a tax on property. But the present tax cannot be regarded as a property tax at all.
+ Judgment affirmed. 
+
+
+

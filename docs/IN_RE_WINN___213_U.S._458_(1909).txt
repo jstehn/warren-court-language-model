@@ -1,0 +1,127 @@
+Description: IN RE WINN , 213 U.S. 458 (1909)
+Date: 1909-05-03 00:00:00
+Docket: 12
+Opinion
+
+
+United States Supreme Court
+IN RE WINN(1909)
+No. 12
+Argued: April 5, 1909Decided: May 3, 1909
+
+
+
+
+[213 U.S. 458, 459]
+ 
+ Messrs. Guy A. Miller, W. H. Bremner, and O. S. Franklin for petitioner.
+
+
+
+[213 U.S. 458, 460]
+ 
+ Messrs. Nathaniel T. Guernsey, Alonzo C. Parker, and William E. Miller for respondent.
+
+
+
+[213 U.S. 458, 462]
+ 
+
+ Mr. Justice Moody delivered the opinion of the court:
+ This is an application for a writ of mandamus to the district judge of the United States, acting as circuit judge for the southern district of Iowa, central division. The prayer of the petition was for a rule to show cause why a writ of mandamus should not issue, commanding the judge to remand the case to the state court in which it was originally brought. The rule was issued and cause was shown by a return. From the petition and the return the following state of facts appears: The petitioner as assignee of the right of action of a shipper, brought, in a state court of Iowa, an action at law against the American Express Company for the negligent transportation of a boar, whereby the animal was killed, to the damage, it was alleged, to the owner of $8,000. The transportation was under a written contract between the owner and the defendant, which was annexed to the declaration as an exhibit. The shipment was from a point in Iowa to a point in Nebraska. The citizenship of the plaintiff or his assignor was not alleged, but the defendant was alleged to be a citizen of New York. The defendant seasonably filed in the state court a petition for removal to the circuit court of the United States, with accompanying bond in proper form. The petition having been denied in the state court, the defendant duly filed a copy of the record in the circuit court of the United States, and it was there docketed, whereupon plaintiff moved to remand the case, and the motion was denied by the circuit judge. The plaintiff thereupon, without further action in the circuit court, began this proceeding. 
+
+[213 U.S. 458, 463]
+ 
+ The petition for removal alleged that the plaintiff was a citizen of Missouri and the defendant 'a joint stock association organized under the laws of the state of New York,' but contained no allegation of the citizenship of the members of the association. It was agreed at the argument that the defendant was not a corporation, but a joint stock association. Therefore the diversity of citizenship required to warrant a removal on that ground does not appear. The petition for removal, which is printed in the margin,1 was not based upon diversity 
+
+[213 U.S. 458, 464]
+ 
+ of citizenship, but upon the ground that the suit was one arising under the laws of the United States.
+ It is well settled that no cause can be removed from the state court to the circuit court of the United States unless it could originally have been brought in the latter court. Boston & M. Consol. Copper & S. Min. Co. v. Montana Ore Purchasing Co. 
+188 
+U.S. 632, 640
+, 47 S. L. ed. 626, 632, 23 Sup. Ct. Rep. 434; Ex parte Wisner, 
+203 U.S. 449
+, 51 L. ed. 264, 27 Sup. Ct. Rep. 150.
+ The only ground of jurisdiction which is or can be suggested 
+
+[213 U.S. 458, 465]
+ 
+ is that the suit was one arising under the Constitution and the laws of the United States. 25 Stat. at L. 433, 434, chap. 866, U. S. Comp. Stat. 1901, pp. 508, 509. It is the settled interpretation of these words, as used in this statute conferring jurisdiction, that a suit arises under the Constitution and laws of the United States only when the plaintiff's statement of his own cause of action shows that it is based upon those laws or that Constitution. It is not enough, as the law now exists, that it appears that the defendant may find in the Constitution or laws of the United States some ground of defense. Louisville & N. R. Co. v. Mottley, 
+211 U.S. 149
+, 53 L. ed. --, 29 Sup. Ct. Rep. 42, and cases cited. If the defendant has any such defense to the plaintiff's claim, it may be set up in the state courts, and, if properly set up, and denied by the highest court of the state, may ultimately be brought to this court for decision.
+ Tested by these principles, the record, including the petition for removal, shows affirmatively that the case was not one arising under the laws of the United States. In substance, the allegations of the petition for removal are, that the defendant was subject to the Federal laws to regulate commerce, and that, under those laws, the defendant had a defense in whole or in part to the cause of action stated in the declaration. But the cause of action itself is not based upon the interstate commerce law or upon any other law of the United States. The case could not have been brought originally in the circuit court of the United States, and was therefore not removable thereto. In holding otherwise we think the learned judge of the circuit court erred.
+ It is, however, argued that mandamus is not the remedy for the correction of such an error as we have pointed out, and that the aggrieved party should be left to his writ of error,-a remedy which he undoubtedly has.
+ Authority to issue writs of mandamus to any courts appointed under the authority of the United States was given to this court by a provision in the original judiciary act, which now appears in  688 of the Revised Statutes (U. S. Comp. Stat. 1901, p. 565). A writ of mandamus issued under this provision is for the purpose of revis- 
+
+[213 U.S. 458, 466]
+ 
+ ing and correcting proceedings in a case already instituted in the courts, and is deemed a part of the appellate jurisdiction of this court, which is subject to such regulations as the Congress shall make. Marbury v. Madison, 1 Cranch, 137, 2 L. ed. 60; Ex parte Yerger, 8 Wall. 85, 97, 19 L. ed. 332, 336; Re Green, 
+141 
+U.S. 325, 326
+, 35 S. L. ed. 765, 12 Sup. Ct. Rep. 11.
+ In Ex parte Crane, 5 Pet. 190, 8 L. ed. 92, the court, of its own motion, considered and sustained its authority to issue mandamus to inferior courts, and in that case directed by mandamus a judge of an inferior court to sign a bill of exceptions duly presented. Since that time writs of mandamus to inferior courts have been issued in all proper cases.
+ In Ex parte Bradley, 7 Wall. 364, 19 L. ed. 214, it was held that a mandamus from this court would lie to an inferior court of the United States, directing it to restore an attorney to the rolls, who had been disbarred, where the court was without jurisdiction in that regard. And it was said, page 377: 'The ground of our decision . . . is, that the court below had no jurisdiction to disbar the relator. . . . No amount of judicial discretion of a court can supply a defect or want of jurisdiction in the case. The subject-matter is not before it; the proceeding is coram non judice and void.'
+ A specific application of the general principle announced in Ex parte Bradley has been made to cases where circuit courts of the United States have, without authority, assumed jurisdiction of a case originally brought in a state court, and it has frequently been held that mandamus from this court would lie to compel a circuit court to remand a case to the state court where it is apparent from the record that the circuit court has no jurisdiction whatever of the case. Virginia v. Rives, 
+100 U.S. 313
+, 25 L. ed. 667; Virginia v. Paul, 
+148 U.S. 107
+, 37 L. ed. 386, 13 Sup. Ct. Rep. 536; Kentucky v. Powers, 
+201 U.S. 1
+, 50 L. ed. 633, 26 Sup. Ct. Rep. 387, 5 A. & E. Ann. Cas. 692; Ex parte Wisner, 
+203 U.S. 449
+, 51 L. ed. 264, 27 Sup. Ct. Rep. 150. And see Re Dunn, 
+212 U.S. 374
+, 53 L. ed. --, 29 Sup. Ct. Rep. 299. In such a situation the remedy by mandamus is available although the aggrieved party may also be entitled to a writ of error or an appeal. Mandamus, it is true, never lies where the party praying for it has another adequate remedy. The writ of mandamus 
+
+[213 U.S. 458, 467]
+ 
+ was introduced to supplement the existing jurisdiction of the courts and to afford relief in extraordinary cases where the law presents no adequate remedy. High, Extr. Legal Rem. 3d ed.  15. But where, without any right, a court of the United States has wrested from a state court the control of a suit pending in it, an appeal or writ of error, at the end of long proceedings, which must go for naught, is not an adequate remedy.
+ In Virginia v. Rives, supra, the state, after the cause had been removed to the circuit court, filed its petition in this court for mandamus, without having made a motion to remand in the circuit court; but, in the opinion, nothing turned on the absence of a motion to remand, and the remedy by mandamus was held to exist 'when the case is outside of the exercise of . . . [judicial] discretion, and outside the jurisdiction of the court . . . to which . . . the writ is addressed. One of its peculiar and more common uses is to restrain inferior courts and to keep them within their lawful bounds.' P. 323. Ex parte Bradley is then referred to and its discussion approved. Then followed Ex parte Hoard, 
+105 U.S. 578
+, 26 L. ed. 1176, where it is held that, if the circuit court had denied a motion to remand to the state court, the party aggrieved must resort to his writ of error, and that mandamus would be denied, without determining whether the case was properly removed or not. In the three following cases, however (Virginia v. Paul, Kentucky v. Powers, and Ex parte Wisner,-supra), the circuit court had denied motions to remand (the denial of the motion in Kentucky v. Powers appearing in the judgment of the court below, 139 Fed. 452) before the petition for mandamus was filed. Nevertheless, the writ of mandamus was issued upon the ground that it was plain as matter of law from the record itself that the circuit court was without jurisdiction. This must now be regarded as the settled law.
+ The respondent, however, insists that mandamus will not lie to control the judgment or judicial discretion of the court to which the writ is proposed to be directed. This is true 
+
+[213 U.S. 458, 468]
+ 
+ where the judgment or judicial discretion is within the limits of jurisdiction, but not otherwise. Wherever the record, including the petition for removal, shows that there are questions of fact upon whose determination the right of removal depends, and upon which it is the duty of the circuit court to pass judicially, then there is jurisdiction to decide those questions. Their decision is the exercise of judicial discretion; and, if that discretion is erroneously exercised, it can be corrected only by a writ of error or appeal. In these cases writs of mandamus must not be permitted to usurp the functions of writs of error or appeals, or take their place where they offer an adequate remedy to the aggrieved party. It is only in cases where the record makes it clear, as matter of law, that the circuit court was without jurisdiction to take any action whatever that the writ of mandamus lies. This distinction has been acted on many times by this court, and it is enough to refer to two very recent cases. Thus, where the removability of a case turned upon the question whether there was a separable controversy, to the trial of which certain of the defendants were not indispensable or necessary parties, it was held that the circuit court had jurisdiction to determine the question of separability; that its decision in that respect was the exercise of judicial discretion, and could not be controlled by a writ of mandamus. Re Pollitz, 
+206 U.S. 323
+, 51 L. ed. 1081, 27 Sup. Ct. Rep. 729. The same point was decided in Ex parte Nebraska, 
+209 U.S. 436
+, 52 L. ed. 876, 28 Sup. Ct. Rep. 581. In each of these cases a distinction was made between it and a case where, on the face of the record, absolutely no jurisdiction has attached, and the right to a writ of mandamus in the latter case was affirmed.
+ As we have shown, the want of jurisdiction of the circuit court appears clearly on the record in the case at bar, and does not, as in Re Pollitz and Ex parte Nebraska, depend upon findings of fact which the circuit court had jurisdiction to make. We think, therefore, it is clear that the writ of mandamus ought to issue.
+ A subordinate question must receive some attention. It is said that the petitioner in this case appeared generally in the 
+
+[213 U.S. 458, 469]
+ 
+ circuit court after the removal of the case, and thereby waived his right to object to the jurisdiction, and Re Moore, 
+209 U.S. 490
+, 52 L. ed. 904, 28 Sup. Ct. Rep. 585, 706, is cited in support of the position. But that case simply held that where there was a diversity of citizenship, which gave jurisdiction to some circuit court, the objection that there was no jurisdiction in a particular district might be waived by appearing and pleading to the merits; and anything to the contrary said in Ex parte Wisner was overruled, though the Wisner Case was otherwise left untouched. See Western Loan & Sav. Co. v. Butte & B. Consol. Min. Co. 
+210 
+U.S. 368, 369
+, 52 S. L. ed. 1101, 1102, 28 Sup. Ct. Rep. 720. Here, however, is a case where, upon its face, no circuit court of the United States had jurisdiction of the controversy, originally or by removal. In such a case the consent of the parties cannot confer jurisdiction. Louisville & N. R. Co. v. Mottley, 
+211 U.S. 149
+, 53 L. ed. --, 29 Sup. Ct. Rep. 42, and cases cited.
+ The rule is made absolute and the writ of mandamus awarded. 
+
+Footnotes
+
+[
+Footnote 1
+] Your petitioner, the American Express Company, respectfully shows that it is the defendant in the above-entitled suit, and that the matter and amount in dispute in the said suit exceeds, exclusive of interest and costs, the sum or value of two thousand dollars ($2,000).
+ That your said petitioner was, at the time of the bringing of this suit, and still is, a joint stock association, organized under the laws of the state of New York, in such cases made and provided, and that the plaintiff was then and still is a citizen of the state of Missouri.
+ Your petitioner further shows that the said suit is one of a civil nature, in which the plaintiff seeks to recover from the defendant the sum of eight thousand dollars ($8,000) as damages on account of an alleged failure on the part of the defendant to comply with its obligations as a common carrier in the shipment and transportation of a hog, which the assignor of plaintiff offered to the defendant and which the defendant received from the assignor of plaintiff on or about the 30th day of August, A. D. 1907, for transportation from the State Fair Grounds at Des Moines, in the state of Iowa, to the city of Lincoln, in the state of Nebraska.
+ That the defendant denies that it failed in any respect to perform its obligations with reference to the transportation of the said hog, and denies that it is liable upon the claim set up in the said suit, in any amount, and denies that, in any event, its liability could exceed the sum or value of fifty dollars ($50).
+ That the said suit is one arising under the laws of the United States. That your petitioner is, and was, at all the times mentioned in the petition in this suit, a common carrier engaged in trade and commerce between the several states of the United States, and between the territories thereof, and between the territories and the several states.
+ That, at the date of the shipment in question, your petitioner was, and ever since that time has been, subject to the provisions of the act of Congress entitled, 'An Act to Regulate Commerce,' approved February 4, 1887 [24 Stat. at L. 379, chap. 104 U. S. Comp. Stat. 1901, p. 3154], and of the acts of Congress amendatory thereof and supplementary thereto, and that the alleged cause of action set up in said suit is based upon, grows out of, and necessarily involves, the construction of said acts of Congress. That among the questions arising under said acts and necessarily involved in said suit are--
+ (a) Whether the contract on which said suit is based is legal and enforceable by the shipper or the plaintiff as his assignee, in view of the fact that it appears on the face of this contract that, if the claim made in the petition as to the value of the hog in question is true, the shipper, by means of its undervaluation, violated the penal provisions of the act to regulate commerce, as amended. 
+ (b) Whether, under the act to regulate commerce, as amended, the plaintiff may assert a claim for damages in an amount in excess of the value declared by the shipper to be the true value, and, upon this declaration, made the basis of the rate for the interstate transportation in question.
+ (c) Whether, under the act to regulate commerce, as amended, the provisions of the contract in suit, limiting the liability of the defendant to the sum declared by the shipper in said contract to be the actual value of the animal in question, are valid and enforceable.
+ (d) Whether, under the act to regulate commerce, as amended, the plaintiff, as assignee of the shipper, is estopped to set up in this suit that the hog in question was a greater value than the value declared to be its true value in the contract sued upon.
+ (e) Whether the undervaluation of the hog in question by the shipper, in order to obtain a rate for its interstate transportation lower than the published established rate, constituted a violation by the shipper of the penal provisions of the act to regulate commerce, as amended.
+ (f) Whether, if said penal provisions were so violated, the plaintiff's suit is founded upon what in law is his own wrong, so as to preclude a recovery by him.
+ (g) Other questions arising under said act to regulate commerce, as amended. 
+
+
+
+

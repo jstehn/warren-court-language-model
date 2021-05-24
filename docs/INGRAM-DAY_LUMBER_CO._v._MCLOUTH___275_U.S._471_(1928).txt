@@ -1,0 +1,65 @@
+Description: INGRAM-DAY LUMBER CO. v. MCLOUTH , 275 U.S. 471 (1928)
+Date: 1928-01-03 00:00:00
+Docket: 126
+Opinion
+
+
+United States Supreme Court
+INGRAM-DAY LUMBER CO. v. MCLOUTH(1928)
+No. 126
+Argued: Decided: January 3, 1928
+
+
+
+ Messrs. Wm. J. Shaw and Ferris D. Stone, both of Detroit, Mich., for petitioner. 
+
+[275 U.S. 471, 472]
+ 
+ Mr. Gardner P. Lloyd, of New York City, for respondent.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Petitioner sued in the District Court for eastern Michigan for the decedent's breach of contract to purchase a quantity of lumber. The defense relied on was that the lumber was to be used by the intestate in the performance of contracts he had made with the United States Shipping Board Emergency Fleet Corporation for the construction of a number of ocean-going tugboats; that acting under the President's Executive Orders of July 11, 1917, and December 3, 1918, and the Emergency Shipping Fund provisions of the Urgent Deficiencies Appropriation Act of June 15, 1917, c. 29, 40 Stat. 182, 183, the Fleet Corporation in 1919, before delivery of all the lumber, had canceled the contract with decedent for building the tugs and directed him 'to make no further commitments or expenditures'; and that this action or the decedent's subsequent order to petitioner to stop delivery of the lumber, or both, amounted to a cancellation of petitioner's contract also.
+ By written stipulation a jury was waived and the case was tried to the court, which made special findings, among others, that petitioner, at the time of entering into its contract with decedent, knew that the lumber was to be furnished for the building of tugs, but did not know that decedent was building the tugs for the Fleet Corporation. The court also found that decedent had stopped deliveries of the lumber, but there is no finding that this was done or purported to be done under the authority of the Fleet 
+
+[275 U.S. 471, 473]
+ 
+ Corporation. It was found that petitioner's damage was $647.65, the difference between the contract price of the lumber ready for delivery when the decedent ordered performance stopped and its market price when recut into salable lengths, but that if the ordinary rule of damages should be applied petitioner's loss of bargain on the whole contract would bring its damages up to $42,789.96. The court gave judgment for the smaller amount ((D. C.) 6 F.(2d) 471), and this was affirmed by the Circuit Court of Appeals for the Sixth Circuit (13 F.(2d) 581). This court granted certiorari. 
+273 
+U.S. 684
+, 47 S. Ct. 239.
+ The Urgent Deficiencies Appropriation Act of 1917 authorized the President '(b) to modify, suspend, cancel, or requisition any existing or future contract for the building, production, or purchase of ships or material.' Section 1 (Comp. St.  3115 1/16 d). It provided that the United States 'shall make just compensation' for any contracts canceled or requisitioned, and authorized the President to delegate the powers conferred upon him. His powers, so far as material here, were delegated to the Fleet Corporation by Executive Orders of July 11, 1917, and December 3, 1918. The statute authorized the cancellation of the government's own contracts, made after its enactment, and just compensation for such cancellation does not include anticipated profits, ordinarily recoverable in an action of assumpsit. Duesenberg Motors Corp. v. United States, 
+260 
+U.S. 115
+, 43 S. Ct. 19; Russell Motor Car Co. v. United States, 
+261 
+U.S. 514
+, 43 S. Ct. 428. It authorized also the expropriation or requisition of private contracts, and in computing the just compensation for these the value of the anticipated performance of the contract may be considered. Brooks-Scanlon Corp. v. United States, 
+265 
+U.S. 106, 125
+, 44 S. Ct. 471.
+ The court below ruled that the petitioner's contract was canceled by the action of the Shipping Board, but upheld 
+
+[275 U.S. 471, 474]
+ 
+ the judgment for $647.65 in favor of petitioner. Although the suit was for breach of contract against a private person, and not against the government, the court purported to apply the rule of 'just compensation,' which by the statute is made the limit of the government's liability, and denied a recovery for anticipated profits on the supposed authority of Duesenberg Motors Corp. v. United States, supra.
+ The question principally argued here was whether there was power in the Fleet Corporation to cancel the petitioner's contract. No such question is presented by the record. There is no finding that in fact the petitioner's contract was either modified, suspended, canceled or requisitioned, nor does the record disclose evidence which would support such a finding. Since a jury was waived in writing, appellate review is limited to the sufficiency of the facts specially found to support the judgment and to rulings excepted to and presented by a bill of exceptions. Rev. Stat.  649, 700 (28 USCA  773, 875; Comp. St.  1587, 1668); Lewellyn v. Electric Reduction Co., 
+275 
+U.S. 243
+, 48 S. Ct. 63 (November 21, 1927); Fleischmann Co. v. United States, 
+270 
+U.S. 349
+, 46 S. Ct. 284; Chicago Tyre & Springs Works Co. v. Spalding, 
+116 
+U.S. 541
+, 6 S. Ct. 498; Boogher v. Insurance Co., 
+106 U.S. 90
+. The special findings already stated establish the right of petitioner to recover damages for breach of contract, including compensation for loss of bargain, in the sum of $42,789.96.
+ As petitioner's contract was framed without reference to or knowledge of decedent's contract with the Fleet Corporation, its rights under its own contract were not dependent on the continued existence of the other. Guerini Stone Co. v. Carlin, 
+240 
+U.S. 264
+, 36 S. Ct. 300.
+ The judgments of the District Court and of the Circuit Court of Appeals are accordingly reversed and set aside, and the judgment of this court will be for the petitioner in the amount stated, with costs.
+ Reversed. 
+
+
+

@@ -1,0 +1,176 @@
+Description: PEOPLE OF PUERTO RICO v. RUSSELL & CO. , 288 U.S. 476 (1933)
+Date: 1933-03-13 00:00:00
+Docket: 492
+Opinion
+
+
+United States Supreme Court
+PEOPLE OF PUERTO RICO v. RUSSELL & CO.(1933)
+No. 492
+Argued: Decided: March 13, 1933
+
+
+
+
+[288 U.S. 476, 477]
+ 
+ Messrs. Wm. Cattron Rigby and Fred W. Llewellyn, both of Washington, D.C., for People of Puerto Rico.
+ Mr. Francis E. Neagle, of New York City, for respondents.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ The people of Puerto Rico, the petitioner, brought this suit in the insular district court of San Juan, Puerto Rico, against the respondent Russell & Co., a sociedad en comandita organized under the laws of Puerto Rico, to recover certain assessments levied on lands of Russell & Co., under an act of the Legislature of Puerto Rico. The individual respondents, members of the sociedad, none of whom are citizens of Puerto Rico or domiciled there, were not named as defendants. They appeared specially in the insular court and removed the cause to the United States District Court for Puerto Rico. That court denied a motion to remand and gave its decree for respondents on the ground, first raised by the answer, that the assess- 
+
+[288 U.S. 476, 478]
+ 
+ ments sued for were levied in violation of section 2 of the Organic Act of Porto Rico, March 2, 1917, c. 145, 39 Stat. 951 (48 USCA  737), forbidding the enactment of any law impairing the obligation of contract. On appeal the Court of Appeals for the First Circuit affirmed, 60 F.(2d) 10; this Court granted certiorari. 
+287 
+U.S. 593
+, 53 S.Ct. 222, 77 L.Ed. --.
+ Section 41 of the Organic Act (48 USCA  863) confers on the United States District Court for Puerto Rico 'jurisdiction of all cases cognizable in the district courts of the United States,' and also 'jurisdiction of all controversies where all of the parties on either side of the controversy are citizens ... of a foreign State or States, or citizens of a State, Territory, or District of the United States not domiciled in Porto Rico, wherein the matter in dispute exceeds, exclusive of interest or cost, the sum or value of $3,000.' By section 42 (48 USCA  864) 'the laws of the United States relating to ... removal of causes, and other matters or proceedings as between the courts of the United States and the courts of the several States shall govern in such matters and proceedings as between the district court of the United States and the courts of Porto Rico. ...' Thus suits arising under the Constitution or laws of the United States are within the jurisdiction of the District Court for Puerto Rico (section 24, Judicial Code, 28 U.S.C.  41 (28 USCA  41)), and civil suits begun in the insular court over which the federal court has original jurisdiction may be removed in accordance with the provisions of section 28 of the Judicial Code (28 U.S.C.  71 (28 USCA  71)).
+ Admittedly, if the individual members of the sociedad are 'parties' within the meaning of the Organic Act,  41, supra, the suit is one within the jurisdiction of the District Court because of their nonresidence, diversity of citizenship being unnecessary. See Porto Rico Ry., Light & Power Co. v. Mor, 
+253 
+U.S. 345
+, 40 S.Ct. 516. And, if the nonresidence of the individual members would confer jurisdiction upon the federal court in a suit against the sociedad 
+
+[288 U.S. 476, 479]
+ 
+ originally instituted there, we will assume, for present purposes, that it would also suffice to justify removal by the individuals, even though the insular court refuses to recognize them as parties. Compare McLaughlin v. Hallowell, 
+228 
+U.S. 278, 290
+, 33 S.Ct. 465. The petitioner argues, nevertheless, that the suit was not removable because of citizenship, for the reason that the sociedad is a juridical entity under Puerto Rican law and, as in the case of a corporation, its domicile rather than that of its members determines citizenship for purposes of federal jurisdiction. If the petitioner's contention is sound, the District Court was without jurisdiction, unless the suit was, as the respondents argue, one arising under the laws of the United States. The questions raised by these contentions must therefore first be answered.
+ For almost a century, in ascertaining whether there is the requisite diversity of citizenship to confer jurisdiction on the federal courts, we have looked to the domicile of a corporation, not that of its individual stockholders, as controlling. Louisville R.R. Co. v. Letson, 2 How. 497; Rundle v. Delaware & Raritan Canal Co., 14 How. 80; Marshall v. Baltimore & Ohio R.R., 16 How. 314; Lafayette Insurance Co. v. French, 18 How. 404; Covington Draw Bridge Co. v. Shepherd, 20 How. 227; St. Louis & San Francisco Ry. Co. v. James, 
+161 
+U.S. 545
+, 16 S.Ct. 621; Patch v. Wabash Ry., 
+207 
+U.S. 277
+, 28 S.Ct. 80, 12 Ann.Cas. 518. In its final form this rule of jurisdiction was stated in terms of a 'conclusive presumption' that the stockholders are citizens of the state of the corporate domicile, see Marshall v. Baltimore & Ohio R.R., supra, 16 How. 328; Covington Draw Bridge Co. v. Shepherd, supra, 20 How. 233; St. Louis & San Francisco Ry. Co. v. James, supra, 
+161 
+U.S. 554
+, 16 S.Ct. 621; but even those who formulated the rule found its theoretical justification only in the complete legal personality with which corporations are endowed. Fictitious that personality may be, in the sense that the fact that the corporation is composed of a plu- 
+
+[288 U.S. 476, 480]
+ 
+ rality of individuals, themselves legal persons, is disregarded, but 'it is a fiction created by law with intent that it should be acted on as if true.' Klein v. Board of Supervisors, 
+282 
+U.S. 19, 24
+, 51 S.Ct. 15, 16, 73 A.L.R. 679. This treatment of the aggregate for other purposes as a person distinct from its members, with capacity to perform all legal acts, made it possible and convenient to treat it so for purposes of federal jurisdiction as well. But status as a unit for purposes of suit alone, as in the case of a joint-stock company, see Chapman v. Barney, 
+129 
+U.S. 677, 682
+, 9 S.Ct. 426; Levering & Garrigues v. Morrin (C.C.A.) 61 F.(2d) 115, 117, or a limited partnership, not shown to have the other attributes of a corporation, Great Southern Fireproof Hotel Co. v. Jones, 
+177 
+U.S. 449
+, 20 S.Ct. 690; compare Thomas v. Board of Trustees, 
+195 
+U.S. 207
+, 25 S.Ct. 24, has been deemed a legal personality too incomplete; what was but an association of individuals for so many ends and a juridical entity for only a few was not easily to be treated as if it were a single citizen.
+ The tradition of the common law is to treat as legal persons only incorporated groups and to assimilate all others to partnerships. Chapman v. Barney, supra; Great Southern Fireproof Hotel Co. v. Jones, supra. The tradition of the civil law, as expressed in the Code of Puerto Rico, is otherwise. 
+1
+ Therefore to call the sociedad en 
+
+[288 U.S. 476, 481]
+ 
+ comandita a limited partnership in the common-law sense, as the respondents and others have done, is to invoke a false analogy. In the law of its creation, the sociedad is consistently regarded as a juridical person. It may contract, own property, and transact business, sue and be sued in its own name and right. Civil Code (1930),  27 to 30; Code of Commerce (1930),  95, 97, 123, 124. Its members are not thought to have a sufficient personal interest in a suit brought against the entity to entitle them to intervene as parties defendant. See People v. Rivera Zayas, 29 Porto Rico, 423, 430. It is created by articles of association filed as public records. Code of Commerce,  95, 98; compare Civil Code,  1558, 1560. Where the articles so provide, the sociedad endures for a period prescribed by them, regardless of the death or withdrawal of individual members. Civil Code,  1591, 1596, 1598; Code of Commerce,  141. Powers of management may be vested in managers designated by the articles from among the members whose participation is unlimited, and they alone may perform acts legally binding on the sociedad. Civil Code,  1583, 1589; Code of Commerce,  102, 106, 125. Its members are not primarily liable for its acts and debts (Code of Commerce,  156), and its creditors are preferred with respect to its assets and property over the creditors of individual members, although the latter may reach the interests of the individual members in the common capital. Civil Code,  1590; see Quintana Bros. & Co. v. S. Ramirez & Co., 22 Porto Rico 707, 716. Although the members whose participation is unlimited are made contingently liable for the debts of the sociedad in the event that its assets are insufficient to satisfy them (Code of Commerce,  125, 156; see Sucrs. of M. Lamadrid & Co. v. Torrens, Mortorell & Co., 28 Porto Rico 824), this liability is of no more consequence for present purposes than that imposed on corporate stockholders by the statutes of some states. Compare Louis- 
+
+[288 U.S. 476, 482]
+ 
+ ville R.R. Co. v. Letson, supra, 2 How. 557, 558; Liverpool Insurance Co. v. Massachusetts, 10 Wall. 566, 575. These characteristics under the Codes of Puerto Rico give content to their declaration that the sociedad is a juridical person. That personality is so complete in contemplation of the law of Puerto Rico that we see no adequate reason for holding that the sociedad has a different status for purposes of federal jurisdiction than a corporation organized under that law. In neither case may nonresidents of Puerto Rico, who have taken advantage of its laws to organize a juridical entity for the purpose of carrying on business there, remove from the insular courts controversies arising under local law.
+ Respondents' contention that the suit is one arising under the laws of the United States, and therefore removable, irrespective of the citizenship of the defendant, rests upon two grounds: First, that the suit was brought pursuant to an Act of Congress of April 23, 1928, 45 Stat. 447; and, second, that the plaintiff in the District Court, the People of Puerto Rico, derives its power as a sovereign political entity from the Organic Act, under which the insular government was organized.
+ The act of Congress first mentioned was adopted as a result of earlier litigation with respect to the present tax. Respondent and others originally brought suits in the federal District Court of Puerto Rico to enjoin collection of the tax, pending which Congress, by Act of March 4, 1927, 44 Stat. 1421 (48 USCA  872), forbade the maintenance of any suit in the United States District Court for Puerto Rico to restrain the collection of any tax imposed by the laws of Puerto Rico. Following that prohibition, this Court, in Smallwood v. Gallardo, 
+275 
+U.S. 56
+, 48 S.Ct. 23, held that all such injunction cases then pending in the federal courts were abated by the statute, and the suit brought by respondents was accordingly dismissed. Gallardo v. Havemeyer (C.C.A.) 21 F.( 2d) 1012. Subsequently, Congress passed the law of 
+
+[288 U.S. 476, 483]
+ 
+ April 23, 1928, by which it was provided that in cases where the taxpayer had by such suits obtained an injunction restraining collection of the tax, the treasurer of Puerto Rico should 'enforce the collection of the tax so enjoined ... by a suit at law instead of by attachment, embargo, distraint or any other form of summary administrative proceeding. ...' Respondents argue that, as the authority to recover the tax by suit rather than by attachment or other summary method was conferred by act of Congress, the suit is one arising under the laws of the United States.
+ We do not stop to examine the answering contention of petitioner that the act of Congress was not an enabling act, but operated only to preclude resort by the insular government to the summary remedies otherwise available for the collection of the tax. For we think that, even though petitioner derived its authority to maintain the suit from the act of Congress, it did not arise under the laws of the United States within the meaning of the jurisdictional statutes.
+ The suit was brought to recover assessments levied under the act of the Puerto Rican Legislature, but not to enforce a right created by a law of the United States. No question of interpretation or enforcement of the federal statute appears upon the face of the complaint. Federal jurisdiction may be invoked to vindicate a right or privilege claimed under a federal statute. It may not be invoked where the right asserted is nonfederal, merely because the plaintiff's right to sue is derived from federal law, or because the property involved was obtained under federal statute. The federal nature of the right to be established is decisive-not the source of the authority to establish it. Shoshone Mining Co. v. Rutter, 
+177 
+U.S. 505
+, 20 S.Ct. 726; Blackburn v. Portland Gold Mining Co., 
+175 
+U.S. 571
+, 20 S.Ct. 222; Little York Gold Washing & Water Co. v. Keyes, 
+96 U.S. 199
+, 203; see McGoon v. Northern Pacific Ry. Co. (D.C.) 204 F. 
+
+[288 U.S. 476, 484]
+ 
+ 998, 1001; compare Swafford v. Templeton, 
+185 
+U.S. 487
+, 22 S.Ct. 783. The case is analogous to those involving rights to land granted under laws or treaties of the United States. Where the complaint shows only that such was the source of the plaintiff's title, the case is not one within the jurisdiction of the federal courts. Barnett v. Kunkel, 
+264 
+U.S. 16, 20
+, 44 S.Ct. 254; Shulthis v. McDougal, 
+225 
+U.S. 561
+, 32 S.Ct. 704; Devine v. Los Angeles, 
+202 
+U.S. 313, 337
+, 26 S.Ct. 652; compare Hopkins v. Walker, 
+244 
+U.S. 486, 489
+, 37 S.Ct. 711; Lancaster v. Kathleen Oil Co., 
+241 
+U.S. 551
+, 36 S.Ct. 711; Wilson Cypress Co. v. Del Pozo, 
+236 
+U.S. 635, 643
+, 35 S.Ct. 446; Northern Pacific Ry. Co. v. Soderberg, 
+188 
+U.S. 526
+, 23 S.Ct. 365.
+ For similar reasons the case stands in no different aspect because the people of Puerto Rico is a political entity, recognized as such by the act of Congress under which its government is organized. A state brought into the federal Union by act of Congress is likewise a political entity, and, although not a citizen of the United States within the meaning of the statutes conferring jurisdiction on federal courts, Stone v. South Carolina, 
+117 
+U.S. 430
+, 6 S.Ct. 799; Postal Telegraph-Cable Co. v. Alabama, 
+155 
+U.S. 482
+, 15 S.Ct. 192; see Arkansas v. Kansas & Texas Coal Co., 
+183 
+U.S. 185
+, 22 S.Ct. 47, a suit brought by it presenting a federal question is within the jurisdiction of the district courts, New Orleans, M. & T. Railroad Co. v. Mississippi, 
+102 U.S. 135
+, 140; Ames v. Kansas, 
+111 
+U.S. 449
+, 4 S.Ct. 437; Southern Pacific R.R. Co. v. California, 
+118 
+U.S. 109
+, 6 S.Ct. 993. But, a suit does not arise under the Constitution or laws of the United States merely because a state is the plaintiff, though the state derives its authority to maintain the suit from the Federal Constitution and laws. Postal Telegraph Cable Co. v. Alabama, supra, 
+155 
+U.S. 487
+, 15 S.Ct. 192; Minnesota v. Northern Securities Co., 
+194 
+U.S. 48
+, 24 S.Ct. 598; Germania Insurance Co. v. Wisconsin, 
+119 
+U.S. 473, 475
+, 7 S.Ct. 260; Arkansas v. Kansas & Texas Coal Co., supra; see Missouri, Kansas & Texas Railway Co. v. Commissioners, 
+183 
+U.S. 53, 58
+, 22 S.Ct. 18; Stone v. South Carolina, supra, 
+117 
+U.S. 433
+, 6 S.Ct. 799. 
+
+[288 U.S. 476, 485]
+ 
+ We do not overlook the point that a suit by a corporation organized under an act of Congress has been held to be within the jurisdiction of the federal courts as one arising under the laws of the United States. Osborn v. Bank of United States, 9 Wheat. 738; Pacific Railroad Removal Cases, 
+115 
+U.S. 1
+, 5 S.Ct. 1113. Whether or not these cases are distinguishable from others on the ground, usually urged in their support, that a corporation has no powers and can incur no obligations except as authorized by federal law, Osborn v. Bank of United States, supra, 9 Wheat. 823; see Pacific Railroad Removal Cases, supra, 13, their doctrine has not been extended to other classes of cases and has been restricted by successive statutes (Act of July 12, 1882, c. 290,  4, 22 Stat. 162, 163, 28 USCA  41(16); Act of January 28, 1915, c. 22,  5, 38 Stat. 803, 804; Act of February 13, 1925, c. 229,  12, 43 Stat. 936, 941, 28 USCA  42), the last of which limits it to cases of government owned corporations alone. We should fly in the face of this legislative policy and disregard precedents which we think controlling were we to extend the doctrine now.
+ The judgment below will be reversed, and the cause remanded, with instructions to remand it to the insular court from which it was removed.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] Compare the decision of the United States and Chilean Claims Commission, established by virtue of the Convention of May 24, 1897, in Chauncey v. The Republic of Chile, No. 3, that a claim by a society en comandita, organized by citizens of the United States under Chilean law was not a claim by 'corporations, companies or private individuals, citizens of the United States.' And see Pic, Socie te  Commerciales (2d Ed. 1925) v. 1, pp. 107, 118, 137, 194, 216; Lastig, Die Accomendatio ( 1907), viii, xi, xviii, 165; Goldschmidt, Universalgeschichte des Handelsrechts (1891), 257 ff.; Gierke, Die Genossenschafts-theorie (1887), 51; Young, Foreign Companies and other Corporations (1912), 114; compare Saleilles, Etude sur l'histoire des Socie te  en Commandite, Annales de Droit Commercial, v. 9 (1895) pp. 10, 49. 
+
+
+
+

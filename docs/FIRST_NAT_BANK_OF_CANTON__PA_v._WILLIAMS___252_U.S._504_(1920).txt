@@ -1,0 +1,92 @@
+Description: FIRST NAT BANK OF CANTON, PA v. WILLIAMS , 252 U.S. 504 (1920)
+Date: 1920-04-19 00:00:00
+Docket: 618
+Opinion
+
+
+United States Supreme Court
+FIRST NAT BANK OF CANTON, PA v. WILLIAMS(1920)
+No. 618
+Argued: March 3, 1920Decided: April 19, 1920
+
+
+
+ Mr. John B. Stanchfield, of New York City, for appellant.
+ Messrs. Solicitor General King and La Rue Brown, of Boston, Mass., for appellee.
+
+
+[252 U.S. 504, 508]
+ 
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ Appellant, whose place of business is within the Middle district of Pennsylvania, brought this suit in the United States District Court for that district, seeking an injunction to prevent John Skelton Williams, Comptroller of the Currency, from doing certain things under color of his office declared to be threatened, unlawful, arbitrary, and oppressive.
+ The bill alleges that, in order to injure complainant's president, towards whom he entertained personal ill will, the Comptroller determined to destroy its business, and to that end he had maliciously persecuted and oppressed it for three years, in the following ways, among others: By often demanding special reports and information beyond the powers conferred upon him by law; by disclosing confidential and official information concerning it to banks, members of Congress, representatives of the press, and the public generally; by inciting litigation against it and its officers; by publishing and disseminating false statements, charging it with unlawful acts and improper conduct and reflecting upon its solvency; and by distributing to depositors, stockholders and others alarming statements intended to affect its credit, etc., etc.-and further that, unless restrained, he would continue these and similar malicious and oppressive practices.
+ Williams is a citizen of Virginia, officially stationed at Washington. He was not summoned while in the Middle district of Penny lvania, but a subpoena was served upon him in Washington by the United States marshal. Having 
+
+[252 U.S. 504, 509]
+ 
+ specially appeared, he successfully challenged the jurisdiction of the court; and the cause is here upon certificate to that effect.
+ Generally, a District Court cannot acquire jurisdiction over an individual without service of process upon him while in the district for which it is held. But here a national bank seeks to enjoin the Comptroller, and the claim is that by statutory direction the proceeding must be had in the district where the association is located, and not elsewhere. The court below took the contrary view. 260 Fed. 674.
+ Determination of the matter requires consideration of three sections of the Judicial Code.
+'Sec. 24. The District Courts shall have original jurisdiction as follows: ...
+
+'Sixteenth. Of all cases commenced by the United States, or by direction of any officer thereof, against any national banking association, and cases for winding up the affairs of any such bank; and of all suits brought by any banking association established in the district for which the court is held, under the provisions of title 'National Banks,' Revised Statutes, to enjoin the Comptroller of the Currency, or any receiver acting under his direction, as provided by said title. And all national banking associations established under the laws of the United States shall, for the purposes of all other actions by or against them, real, personal, or mixed, and all suits in equity, be deemed citizens of the states in which they are respectively located.'
+
+'Sec. 49. All proceedings by any national banking association to enjoin the Comptroller of the Currency, under the provisions of any law relating to national banking associations, shall be had in the district where such association is located.'
+
+'Sec. 51. Except as provided in the five succeeding sections, no person shall be arrested in one district for trial 
+
+[252 U.S. 504, 510]
+ 
+ in another, in any civil action before a District Court; and, except as provided in the six succeeding sections, no civil suit shall be brought in any district court against any person by any original process or proceeding in any other district than that whereof he is an inhabitant; but where the jurisdiction is founded only on the fact that the action is between citizens of different states, suit shall be brought only in the district of the residence of either the plaintiff or the defendant.'
+
+ Comp. St.  991, 1031, 1033
+
+
+ If sections 24 and 49 properly construed restrict this proceeding to the district where the bank is located, they displace section 51 pro tanto and authorize service of process upon defendant wherever found. United States v. Congress Construction Co., 
+222 
+U.S. 199, 203
+, 32 S. Sup. Ct. 44.
+ It is said for appellee that both sections 24 and 49 relate to injunction proceedings brought under the National Banking Law-such proceedings as are thereby expressly authorized and no others. And further that such law only authorizes suit by a bank to enjoin the Comptroller when he undertakes to act because of its alleged refusal to redeem circulating notes. R. S.  5237 (Comp. St.  9824).
+ The Act of February 25, 1863, establishing national banks (12 Stats. 665, 681, c. 58):
+'Sec. 59. And be it further enacted, that suits, actions, and proceedings by and against any association under this act may be had in any circuit, district, or territorial court of the United States held within the district in which such assocaition may be established.'
+
+ An act to provide a national currency, secured by a pledge of United States bonds, approved June 3, 1864 (13 Stats. 99, 116, c. 106):
+'Sec. 57. And be it further enacted, that suits, actions and proceedings, against any association under this act, may be had in any circuit, district, or territorial court of the United States held within the district in which such association may be established; or in any state, county, or 
+
+[252 U.S. 504, 511]
+ 
+ municipal court int he county or city in which said association is located, having jurisdiction in similar cases: Provided, however, that all proceedings to enjoin the Comptroller under this act shall be had in a circuit, district, or territorial court of the United States, held in the district in which the association is located.'
+
+ In Kennedy v. Gibson (1869), 8 Wall. 498, 506 (19 L. Ed. 476) this court ruled that section 57 should be construed as if it read: 'And be it further enacted, that suits, actions and proceedings by and against,' etc., the words 'by and' having been accidentally omitted. 'It is not to be supposed that Congress intended to exclude the associations from suing in the courts where they can be sued.' 'Such suits may still be brought by the associations in the courts of the United States.' And it further held 'that receivers also may sue in the courts of the United States by virtue of the act, without reference to the locality of their personal citizenship.'
+ The Revised Statutes:
+'Sec. 629. The Circuit Courts shall have original jurisdiction as follows: ...
+
+'Tenth. Of all suits by or against any banking association established in the district for which the court is held, under any law providing for national banking associations.
+
+'Eleventh. Of all suits brought by (or against) any banking association established in the district for which the court is held, under the provisions of title 'The National Banks,' to enjoin the Comptroller of the Currency, or any receiver acting under his direction, as provided by said title.'
+
+'Sec. 736. All proceedings by any national banking association to enjoin the Comptroller of the Currency, under the provisions of any law relating to national banking associations, shall be had in the district where such association is located.'
+
+ Parts of the foregoing subsections 10 and 11 were 
+
+[252 U.S. 504, 512]
+ 
+ joined in subsection 16,  24, Judicial Code (Comp. St.  991), and section 736 became section 49, Judicial Code (Comp. St.  1031).
+ What constitutes a cause arising 'under' the laws of the United States has been often pointed out by this court. One does so arise where an appropriate statement by the plaintiff, unaided by any anticipation or avoidance of defenses, discloses that it really and substantially involves a dispute or controversy respecting the validity, construction or effect of an act of Congress. If the plaintiff thus asserts a right which will be sustained by one construction of the law, or defeated by another, the case is one arising under that law. Tennessee v. Union & Planters' Bank, 
+152 U.S. 454
+, 14 Sup. Ct. 654; Boston & Montana Mining Co. v. Montana Ore Purchasing Co., 
+188 U.S. 632
+, 23 Sup. Ct. 434; Devine v. Los Angeles, 
+202 U.S. 313
+, 26 Sup. Ct. 652; Taylor v. Anderson, 
+234 U.S. 74
+, 34 Sup. Ct. 724; Hopkins v. Walker, 
+244 
+U.S. 486, 489
+, 37 S. Sup. Ct. 711. Clearly the plaintiff's bill discloses a case wherein his right to recover turns on the construction and application of the National Banking Law; and we think the proceeding is one to enjoin the Comptroller under provisions of that law within the true intendment of the Judicial Code.
+ The decree below must be
+ Reversed. 
+
+
+

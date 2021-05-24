@@ -1,0 +1,126 @@
+Description: PROVIDENT SAV LIFE ASSUR SOC v. COM. OF KENTUCKY , 239 U.S. 103 (1915)
+Date: 1915-11-15 00:00:00
+Docket: 328
+Opinion
+
+
+United States Supreme Court
+PROVIDENT SAV LIFE ASSUR SOC v. COM. OF KENTUCKY(1915)
+No. 328
+Argued: Decided: November 15, 1915
+
+
+
+
+[239 U.S. 103, 104]
+ 
+ Messrs. William Marshall Bullitt, Charles C. Lockwood, Keith L. Bullitt, and Clarence C. Smith for plaintiff in error.
+
+
+
+[239 U.S. 103, 105]
+ 
+ Mr. John A. Judy and Mr. James Garnett, Attorney General of Kentucky, for defendant in error.
+
+
+
+[239 U.S. 103, 106]
+ 
+
+ Mr. Justice Hughes delivered the opinion of the court:
+ The Provident Savings Life Assurance Society, a New York corporation, transacted business in Kentucky prior 
+
+[239 U.S. 103, 107]
+ 
+ to January 1, 1907, and paid the annual license tax of 2 per cent on premiums. Ky. Stat.  4226. This suit was brought by the commonwealth to recover the tax on premiums received in the years 1907 to 1911, inclusive. The company answered, denying liability upon the ground that on January 1, 1907, it had entirely ceased to do business in Kentucky, and that all premiums received after that date on policies previously issued in Kentucky were received in New York.
+ Prior to the amendments made in the year 1906,  4226 of the Kentucky Statutes provided as follows:
+'Sec. 4226. Every life insurance company, other than fraternal assessment life insurance companies, not organized under the laws of this state, but doing business therein, shall on the first day of July in each year, or within thirty days thereafter, return to the auditor of public accounts for deposit in the insurance department, a statement under oath of all premiums receipted for on the face of the policy for original insurance and all renewal premiums received in cash or otherwise in this state, or out of this state, on business done in this state during the year ending the 30th day of June last preceding, or since the last returns were made and shall at the same time pay into the state Treasury a tax of $ 2 upon each $100 of said premiums as ascertained.' Ky. Stat. 1903 ed.
+
+ This section was amended in 1906 by making the fiscal year to end on December 31st instead of June 30th, by prohibiting deductions for dividends, and by amplifying the description of premium receipts. (See Mutual Ben. L. Ins. Co. v. Com. 128 Ky. 174, 107 S. W. 802; Northwestern Mut. L. Ins. Co. v. James, 138 Ky. 48, 127 S. W. 505.) The amended section was as follows:
+'Sec. 4226. Every life insurance company, other than fraternal assessment life insurance companies, not or- 
+
+[239 U.S. 103, 108]
+ 
+ ganized under the laws of this state, but doing business therein, shall, on the first day of January in each year, or within thirty days thereafter, return to the auditor of public accounts for deposit in the insurance department a statement under oath of all premiums receipted for on the face of the policy for original insurance and all renewal premiums received in cash or otherwise in this state, or out of this state, or business done in this state during the year ending the 31st day of December, and no deduction shall be made for dividends, or since the last returns were made, on all premium receipts, which shall include single premiums, annuity premiums, and premiums received for renewal, revival or reinstatement of policies, annual and periodical premiums, dividends applied for premiums and additions, and all other premium payments received during the preceding year on all policies which have been written in, or on, the lives of residents of this state, or out of this state on business done in this state, and shall at the same time pay into the state treasury a tax of $2 upon each $100 of said premiums as ascertained.'
+
+ In 1906, the legislature added the following provision, which is found in  4230a of the Kentucky Statutes:
+'Sec. 4230a. (2) Any insurance company that has been authorized to transact business in this state shall continue to make the reports required herein as long as it collects any premiums as provided for herein, and shall pay taxes thereon, even after it has voluntarily ceased to write insurance in the state or has withdrawn therefrom, or its license suspended or revoked by the insurance commissioner, and for failure to make report of the premiums collected and pay the taxes due thereon, shall be fined $500 for such offense.'
+
+ It does not appear that the changes in  4226 were involved in the present controversy, as there was no dispute as to the amount of the premiums received in the years 
+
+[239 U.S. 103, 109]
+ 
+ in question, or as to deductions. But the company insisted that  4230a was invalid under the contract clause of the Federal Constitution (art. I .  10), and also that the imposition of the tax on premiums received after the company had withdrawn from the state was contrary to the due process clause of the 14th Amendment. Demurrer to the answer was overruled, the motion of the defendant that the demurrer relate back to the petition was sustained, and the petition was dismissed. Judgment to this effect was reversed by the court of appeals of Kentucky and the cause was remanded with direction to sustain the demurrer to the answer and for further proceedings consistent with the opinion of the appellate court. 155 Ky. 197, 159 S. W. 698.
+ The company then amended its answer, renewing its constitutional objections. Enlarging the statement of facts, it averred that on January 1, 1907, it had withdrawn all its agents from Kentucky, had closed all its offices, and had ceased to solicit or write insurance, or maintain any agent, or collect any premiums, within that jurisdiction. On January 1, 1911, the Postal Life Insurance Company, a New York corporation, had reinsured all the business of the defendant. Between January 1, 1907, and January 1, 1911, all premiums paid to the defendant upon policies theretofore issued in Kentucky were paid to it at its home office in New York city through the mail.
+ The Postal Life Insurance Company did not have at any time an officer or agents in Kentucky, or transact any business in that state, and all premiums that it received were paid to it in New York through the mail.
+ Demurrer to the amended answer was sustained and judgment was entered in favor of the commonwealth. The court of appeals affirmed the judgment ( 160 Ky. 16, 169 S. W. 551) and this writ of error has been sued out. 
+
+[239 U.S. 103, 110]
+ 
+ The court of appeals did not put its decision upon the provision of  4230a. This provision, it was said, was declaratory of the existing law, and the company's obligation was taken to be defined by  4226. The tax was a license tax (Northwestern Mut. L. Ins. Co. v. James, 138 Ky. 48, 52, 127 S. W. 505), payable annually, and by the express terms of the act was payable by the foreign life insurance corporation 'doing business' within the state. Both parties agree that it was imposed 'for the privilege of doing business in Kentucky.' The state contends that it is seeking to enforce an agreement which, by implication from the statutory provision, the company must be deemed to have made when it entered the state. But there is no suggestion that it had ever been decided prior to this litigation that the described companies were bound under  4226 to pay the annual tax irrespective of the continued transaction of business within the jurisdiction during the years to which the tax related. Nor, as we understand it, was the statute so construed in the present case. It is true that the court stated in its opinion that the company, on being admitted to the state, agreed to pay the tax imposed by  4226, and that the company did not have 'the right and power to revoke this agreement as it attempted to do the 1st of January, 1907.' But, immediately following this statement, the court proceeded to hold with an explicitness which does not permit us to doubt the basis of its decision that the company was liable to the tax because it continued, despite the asserted withdrawal, to do business within the state during the period for which the tax was sought to be collected. If the tax in controversy was demanded by the state and was enforced upon the ground that it was payable for a privilege which the company admittedly enjoyed in prior years, it was manifestly immaterial to inquire whether or not the company was continuing to transact a local business during the succeeding period. In 
+
+[239 U.S. 103, 111]
+ 
+ that aspect, the question would be whether, with respect to the alleged agreement, the decision could be deemed to be one which in reality gave effect to the subsequent legislation (of 1906) and involved the application of the contract clause. If, however, the tax now sought to be imposed was for a privilege exercised during the years to which the tax related, it would be necessary to find that the company was doing business within the state at that time. Evidently in view of this necessity, the court of appeals said upon the first appeal:
+'Counsel for appellee mainly rests its case upon the definition of 'what is doing business?' Is a life insurance company doing business in a state only so long as it is writing new business? If this is true, then the appellant has no case. However, counsel for appellant insists that an insurance company is doing business in this state in the meaning of the statute so long as it is insuring the lives of residents of this state and furnishing protection to the beneficiaries named in the policies against loss from death of the insured, this being the chief business for which insurance companies are organized, and we are unable to see how the court [ referring to the court of first instance] held, that a company collecting premiums on policies issued in this state, when it was authorized to do business in this state, can be said 'not to be doing business,' when it was still insuring those same lives and collecting the premiums upon the policies.' 155 Ky. 201.
+
+ Upon the second appeal the court merely referred to its ruling on the first appeal and to other cases (Com. v. Illinois L. Ins. Co. 159 Ky. 589, 167 S. W. 909; Com. v. Washington L. Ins. Co. 159 Ky. 581, 167 S. W. 872) in which that decision had been followed without further discussion of grounds. We do not, therefore, find it necessary to consider the applicability of the contract clause of the Federal Constitution, inasmuch as it 
+
+[239 U.S. 103, 112]
+ 
+ appears that the decision turned upon the conclusion that the company continued after January 1, 1907, to transact business within the jurisdiction. Otherwise, according to the final ruling, the state would have had 'no case.'
+ The present case thus differs from that of Equitable L. Assur. Soc. v. Pennsylvania, 
+238 U.S. 143
+, 59 L. ed. 1239, 35 Sup. Ct. Rep. 829. It was not disputed that the Equitable Company was actually doing business in Pennsylvaina. See Com. v. Equitable Life Assur. Soc. 239 Pa. 288, 293, 86 Atl. 787. The question was as to the permissible measure of a tax exacted for a privilege admittedly exercised. As this court said: 'The tax is a tax upon a privilege actually used. The only question concerns the mode of measuring the tax.' 
+238 U.S. 147
+. In the present case it is not the measure of the tax for doing business, but the very basis of the tax-that is, whether the company was doing business within the state-that is in controversy.
+ Assuming this to be the point in dispute, the question at once arises whether the mater is reviewable in this court. And we cannot doubt that the question whether the state is taxing a foreign corporation for a privilege not granted-that is, whether the acts done by the corporation at the time to which the tax relates are of such a nature as to subject it to the local authority upon the ground that it is doing acts which can only be done with the permission of that authority-must be regarded as a Federal question. Taxation without jurisdiction has been held to be a violation of the 14th Amendment (Louisville & J. Ferry Co. v. Kentucky, 
+188 
+U.S. 385, 398
+, 47 S. L. ed. 513, 519, 23 Sup. Ct. Rep. 463; Delaware, L . & W. R. Co. v. Pennsylvania, 
+198 
+U.S. 341, 358
+, 49 S. L. ed. 1077, 1083, 25 Sup. Ct. Rep. 669; Union Refrigerator Transit Co. v. Kentucky, 
+199 
+U.S. 194, 209
+, 50 S. L. ed. 150, 155, 26 Sup. Ct. Rep. 36, 4 Ann. Cas. 493); and the principle involved applies to the assertion of authority on the part of the state to exact a license tax for the privilege of doing acts which lie beyond the sphere of local control. It follows that the quality of the acts with respect to which the state exercises the taxing 
+
+[239 U.S. 103, 113]
+ 
+ power must be considered when the constitutional protection against the transgression of jurisdictional limits is invoked.
+ It is not controverted that the company, at the time in question, was not soliciting insurance or collecting moneys in that state. Further, it had no offices or agents in Kentucky. Upon the averments which stand admitted in the record it must be assumed that it was not performing any acts within the jurisdiction of Kentucky. It had sought to withdraw itself completely from the state. The conclusion that it continued to do business within the state, notwithstanding this withdrawal, appears to be based solely upon the fact that it continued to be bound to policy holders resident in Kentucky under policies previously issued in that state, and that it received the renewal premiums upon these policies. As the policies remained in force, it is said that the company continued to furnish protection to citizens of Kentucky. The renewal premiums, as already stated, were paid in New York. There is, however, a manifest difficulty in holding that the mere continuance of the obligation of the policies constituted the transaction of a local business for which a privilege tax could be exacted. As a privilege tax, the tax rests upon the assumption that what is done depends upon the state's consent. But the continuance of the contracts of insurance already written by the company was not dependent on the consent of the state. it is true that acts might be done within the state in connection with such policies (as, for example, in maintaining an office or agents, although new insurance was not written or solicited) which could be considered to amount to the continuance of a local business. In such case it would be the actual transaction of business that would furnish the ground of the license exaction, and not the mere existence of the obligation under policies previously written. These policies are contracts already made; the state cannot de- 
+
+[239 U.S. 103, 114]
+ 
+ stroy them or make their mere continuance, independent of acts within its limits, a privilege to be granted or withheld. Neither the continuance of the obligation in itself, nor acts done elsewhere on account of it, can be regarded as being within the state's control. Allgeyer v. Louisiana, 
+165 U.S. 578
+, 41 L. ed. 832, 17 Sup. Ct. Rep. 427; Bedford v. Eastern Bldg. & L. Asso. 
+181 
+U.S. 227, 241
+, 45 S. L. ed. 834, 844, 21 Sup. Ct. Rep. 597; New York L. Ins. Co. v. Had, 
+234 
+U.S. 149, 163
+, 58 S. L. ed. 1259, 1265, 34 Sup. Ct. Rep. 879.
+ The defendant in error relies upon expressions contained in the opinions in Connecticut Mut. L. Ins. Co. v. Spratley, 
+172 
+U.S. 602, 610
+, 43 S. L. ed. 569, 571, 19 Sup. Ct. Rep. 308, and Mutual Reserve Fund Life Asso. v. Phelps, 
+190 
+U.S. 147, 157
+, 47 S. L. ed. 987, 994, 23 Sup. Ct. Rep. 707,-expressions which (in a full review of these cases and others) were explained and limited in Hunter v. Mutual Reserve L. Ins. Co. 
+218 U.S. 573
+, 54 L. ed. 1155, 30 L.R.A. (N.S.) 686, 31 Sup. Ct. Rep. 127. The cases cited related to the validity of the service of process upon foreign corporations. And it was held that a foreign insurance corporation which had transacted business within the jurisdiction of a state continued, notwithstanding its withdrawal from the state, to be subject to service of process within the state, in actions arising out of the business so transacted, where the service was made in accordance with the conditions upon which the business was permitted to be done. Thus, in the Phelps Case, service was made in Kentucky under  631 of the Kentucky Statutes providing for service of process upon the commissioner of insurance. The court of appeals of Kentucky had decided that the withdrawal of the company from the state did not terminate the statutory agency for the acceptance of service which had been created as a condition of the company's admission; the granted authority continued with respect to the business transacted. Home Ben. Soc. v. Muehl, 109 Ky. 479, 484, 59 S. W. 520; Germania Ins. Co. v. Ashby, 112 Ky. 303, 307, 308, 99 Am. St. Rep. 295, 65 S. W. 611. But a distinction obtains when the question is whether the mere continuance of the obligation to resident 
+
+[239 U.S. 103, 115]
+ 
+ policy holders under the existing policies can be regarded as constituting in itself the transaction of a local business. This distinction was made clear in the Hunter Case. There, the action was brought in New York against an insurance company upon judgments which had been obtained against the company in North Carolina. The question turned upon the validity of the service of process in the North Carolina actions. The insurance company, a New York corporation, had been admitted to do business in North Carolina, and had actually transacted business in that state prior to the year 1899. The legislature of North Carolina enacted a statute providing that any corporation desiring to do business in the state after June 1, 1899, must become a domestic corporation. Severe penalties were prescribed for violation. Thereupon, the board of directors of the company passed a resolution 'to withdraw from the state and to dispense with and terminate the services of all its agents.' The agents were withdrawn accordingly and the premiums on policies theretofore issued were subsequently 'remitted by mail to the home office of the company in New York, where the policies and premiums were payable.' There were in that case, outside of this course of business, four transactions within the state after the withdrawal, which were of minor importance and of isolated character. The actions in question, in the North Carolina court, were not brought upon policies issued in North Carolina, and consequently it was sought to sustain the jurisdiction of the court upon the ground that, despite the withdrawal of the company, it was still doing business within the state. The court expressly overruled this contention. The court said: 'It' (the company) 'was given the choice to become a domestic corporation or go out of the state. It chose to go out of the state, and adopted the only way it could to do so. We think such course was open to it and we see no reason to question its good faith.' Id. p. 583. 
+
+[239 U.S. 103, 116]
+ 
+ It was recognized that the authority which the company had given with respect to service of process continued in force as to actions growing out of business which had been transacted within the state. But the continuance of the authority to accept service of process resulted from the nature and construction of that authority, and the view that the mere continuance of the obligation of contracts previously made within the state constituted a continuance of 'doing business' within the state so as to give the company a 'domicil of business,' and thus subject it to the state's jurisdiction, was distinctly disapproved.
+ In the present case, the question is not, as in the Phelps Case, one as to the right to revoke the agency created under  631 of the Kentucky Statutes with respect to the service of process in actions arising out of transactions which had taken place within the state. It is as to the power of the state to treat the mere continuance of the obligation of the existing policies held by resident policy holders as the transaction of a local business justifying the imposition of an annual privilege tax in the absence of the actual conduct of business within the limits of the state.
+ We cannot conclude that the state has this power, and in this view the judgment must be reversed and the cause remanded for further proceedings not inconsistent with this opinion.
+ It is so ordered. 
+
+
+

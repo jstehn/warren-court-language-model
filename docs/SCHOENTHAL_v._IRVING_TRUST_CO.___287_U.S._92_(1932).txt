@@ -1,0 +1,107 @@
+Description: SCHOENTHAL v. IRVING TRUST CO. , 287 U.S. 92 (1932)
+Date: 1932-11-07 00:00:00
+Docket: 14
+Opinion
+
+
+United States Supreme Court
+SCHOENTHAL v. IRVING TRUST CO.(1932)
+No. 14
+Argued: October 18, 1932Decided: November 7, 1932
+
+
+
+
+[287 U.S. 92, 93]
+ 
+ Messrs. Leo Guzik and Horace London, both of New York City, for petitioners.
+ Messrs. George C. Levin and Saul J. Lance, both of New York City, for respondent.
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ This is a suit in equity brought by respondent in the District Court for Southern New York to recover from Morris Schoenthal $500 and from Fannie Schoenthal $1,000 paid them by the bankrupt. The bill alleged facts sufficient to show that each of these payments operated as a preference under section 60b of the Bankruptcy Act, 11 U.S.C.  96(b), 11 USCA  96(b ), asserted that plaintiff had no adequate remedy at law, and prayed decree declaring the payments preferential and directing defendants to account for and pay to plaintiff the amounts so received with interest and costs. October 27, 1930, defendants separately answered and put in issue all the allegations of the bill.
+ The case was advanced to the February, 1931, calendar. February 13, invoking equity rule 22 (28 USCA  723), defendants, on petition and notice of motion to be heard four days 
+
+[287 U.S. 92, 94]
+ 
+ later, applied for an order transferring the suit to the law side of the court and for a trial by jury. On the return day the application was referred to the judge sitting in equity and was taken up February 24. After hearing counsel, the court denied the motion and immediately proceeded to trial in equity. It heard evidence, filed findings of fact and conclusions of law, and entered judgment that plaintiff recover from Morris Schoenthal $538.74 and from Fannie Schoenthal $1,075.84 and have executions therefor. The Circuit Court of Appeals affirmed.
+ The principal question is whether, assuming they made timely application under rule 22, defendants were entitled to have the suit tried at law.
+ Section 267 of the Judicial Code provides: 'Suits in equity shall not be sustained in any court of the United States in any case where a plain, adequate, and complete remedy may be had at law.' 28 U.S.C.  384 (28 USCA  384). That rule has always been followed in courts of equity. The enactment gives it emphasis and indicates legislative purpose that it shall not be relaxed. New York G. & I. Co. v. Memphis Water Co., 
+107 
+U.S. 205, 214
+, 2 S.Ct. 279; Matthews v. Rodgers, 
+284 
+U.S. 521, 525
+, 52 S.Ct. 217. It serves to guard the right of trial by jury preserved by the Seventh Amendment and to that end it should be liberally construed. Cf. In re Yerger, 8 Wall. 85, 101-103. In England, long prior to the enactment of our first Judiciary Act, common- law actions of trover and money had and received were resorted to for the recovery of preferential payments by bankrupts. 
+1
+ Suits to recover preferences constitute no 
+
+[287 U.S. 92, 95]
+ 
+ part of the proceedings in bankruptcy but concern controversies arising out of it. Taylor v. Voss, 
+271 
+U.S. 176, 182
+, 46 S.Ct. 461. They may be brought in the state courts as well as in the bankruptcy courts. Collett v. Adams, 
+249 
+U.S. 545, 549
+, 39 S.Ct. 372. The question whether remedy must be by action at law or may be pursued in equity notwithstanding objection by defendant depends upon the facts stated in the bill. And, in absence of a clear showing that a court of law lacks capacity to give the relief which the allegations show plaintiff entitled to have, a suit in equity cannot be maintained. Boyce v. Grundy, 3 Pet. 210, 215; Buzard v. Houston, 
+119 
+U.S. 347, 352
+, 7 S.Ct. 249; United States v. Bitter Root Dev. Co., 
+200 
+U.S. 451, 472
+, 26 S.Ct. 318. The facts here alleged give no support to plaintiff's assertion that it has no adequate remedy at law. The preferences sued for were money payments of ascertained and definite amounts. The bill discloses no facts that call for an accounting or other equitable relief. It is clear that there may be had at law a remedy 'as practical and efficient to the ends of justice and its prompt administration, as the remedy in equity.' Boyce v. Grundy, ubi supra. The contention that section 267 prohibits the maintenance of this suit in equity is sustained in principle by numerous decisions of this court. 
+2
+ And upon the very question here presented the weight of judicial opinion in the lower federal courts3 and in the state courts4 is that suits such as this cannot be sustained in equity. 
+
+[287 U.S. 92, 96]
+ 
+ Plaintiff insists that defendants waived their right to have the suit transferred to the law side.
+ Rule 22 declares: 'If at any time it appear that a suit commenced in equity should have been brought as an action on the law side of the court, it shall be forthwith transferred to the law side and be there proceeded with, with only such alteration in the pleadings as shall be essential.' As plaintiff's bill shows that it had a plain, adequate, and complete remedy at law, defendants were entitled upon proper application to have the suit transferred and trial by jury. Undoubtedly they might have waived that right. Reynes v. Dumont, 
+130 
+U.S. 354, 395
+, 9 S.Ct. 486; American Mills Co. v. American Surety Co., 
+260 
+U.S. 360, 363
+, 43 S.Ct. 149. But the record discloses no act or omission of theirs at all inconsistent with their denial by answer of the assertion in the bill that plaintiff had no remedy at law or to suggest that they were willing that the case should be 
+___ Boonville Nat. Bank v. Blakey (1906) 166 Ind. 427, 442, 76 N.E. 529; Irons v. Bias (1920) 85 W.Va. 493, 102 S.E. 126; People's Bank v. McAleer (1920) 204 Ala. 101, 103, 85 So. 413. 
+
+[287 U.S. 92, 97]
+ 
+ tried in equity. Their application was noticed to be heard about a week before the case was reached for trial. It is not shown that they delayed the hearing of the motion. Presumably the matter was referred to the judge sitting in equity to serve the convenience of the court. The rule directs the transfer if 'at any time' it shall appear that the suit should have been brought as an action at law. An application for transfer brought on for hearing before the commencement of the trial is not too late. Parkerson v. Borst (C.C.A.) 251 F. 242, 245. Plaintiff's claim that defendants waived their right under the rule is without merit.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] Meggott v. Mills, 1 Ld. Raym. 286; Atkin v. Barwick, 1 Strange, 165; Alderson v. Temple, Burr. 2235; Harman v. Fishar, Cowp. 117; Rust v. Cooper, Cowp. 629; Thompson v. Freeman, 1 Durn. & E. 155; Barnes v. Freeland, 6 Durn. & E. 80; Smith v. Payne, 6 Durn. & E. 152; Nixon v. Jenkins, 2 H.Bl. 135; Marks v. Feldman, L.R. 5 Q.B. 275, 280-281; Cf. Ex parte Scudamore, 3 Ves. 85, 87; Farrow v. Mayes, 18 Q.B. 516. 
+
+[
+Footnote 2
+] Hipp v. Babin, 19 How. 271, 279; Parker v. Winnipiseogee Lake Cotton & Woolen Company, 2 Black. 545, 550 et seq.; Kennedy v. Gibson, 8 Wall. 498, 505; Phoenix Mut. L. Insurance Company v. Bailey, 13 Wall. 616, 620, 621; Grand Chute v. Winegar, 15 Wall. 373, 376; Lewis v. Cocks, 23 Wall. 466, 469; New York G. & I. Co. v. Memphis Water Co., 
+107 
+U.S. 205, 214
+, 2 S.Ct. 279; Buzard v. Houston, 
+119 
+U.S. 347, 352
+, 353 S., 7 S.Ct. 249; Whitehead v. Shattuck, 
+138 
+U.S. 146, 150
+, 151 S., 11 S.Ct. 276; United States v. Bitter Root Dev. Co., 
+200 
+U.S. 451, 472
+, 26 S.Ct. 318. 
+[
+Footnote 3
+] Warmath v. O'Daniel (C.C.A. 6, 1908) 159 F. 87, 90, 16 L.R.A.(N.S.) 414; Sessler v. Nemcof (D.C., E.D. Pa., 1910) 183 F. 656; Grant v. National Bank of Auburn (D.C., N.D.N.Y., 1912) 197 F. 581, 590; First State Bank v. Spencer (C.C.A. 8, 1915) 219 F. 503; Simpson v. Western Hardware & Metal Co. (D.C., W.D. Wash., 1915) 227 F. 304, 313; Edwards Co. v. La Dow (C.C.A. 6, 1916) 230 F. 378, 381; Turner v. Schaeffer (C.C.A. 6, 1918) 249 F. 654; Rosenthal v. Heller (D.C., M.D. Pa., 1920) 266 F. 563; Morris v. Neumann (C.C.A. 8, 1923) 293 F. 974, 978; Adams v. Jones (C.C.A. 5, 1926) 11 F.(2d) 759, certiorari denied, 
+271 
+U.S. 685
+, 46 S.Ct. 637; Lewinson v. Hobart Service Trust Co. (D.C.,N.J., 1931) 49 F.( 2d) 356; Gelinas v. Buffum (C.C.A. 9, 1931) 52 F.(2d) 598.
+ Contra: Pond v. New York National Exch. Bank (D.C., S.D.N.Y., 1903) 124 F. 992. Off v. Hakes (C.C.A. 7, 1905) 142 F. 364, 366; In re Plant (D. C., S.D. Ga., 1906) 148 F. 37; Parker v. Black (C.C.A., 2, 1907) 151 F. 18; Parker v. Sherman (C.C.A. 2, 1914) 212 F. 917, 918; Reed v. Guaranty Security Corporation (D.C., Mass. 1923) 291 F. 580. 
+[
+Footnote 4
+] McCormick v. Page (1901) 96 Ill.App. 447; Detroit Trust Co. v. Old National Bank (1908) 155 Mich. 61, 64, 118 N.W. 729; 
+
+
+
+

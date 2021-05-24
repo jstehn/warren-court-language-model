@@ -1,0 +1,78 @@
+Description: COOPER v. UNITED STATES , 280 U.S. 409 (1930)
+Date: 1930-02-24 00:00:00
+Docket: 93
+Opinion
+
+
+United States Supreme Court
+COOPER v. UNITED STATES(1930)
+No. 93
+Argued: January 15, 1930Decided: February 24, 1930
+
+
+
+ Mr. Wayne Johnson, of New York City, for petitioner.
+ The Attorney General and Mr. Charles E. Hughes, Jr., Sol. Gen., of Washington, D. C., 
+
+[280 U.S. 409, 410]
+ 
+ for the United States.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ Petitioner paid income taxes assessed according to her return for the calendar year 1921; thereafter, by suit in the Court of Claims, she sought to recover a portion of the same ($8,474.90), with interest, which she alleged had been improperly exacted.
+ Her return showed $36,670 as gain derived from the sale of 380 shares of bank stock sold November 7, 1921, at $210 per share. She acquired this stock November 1, 1921, by gift from her husband. On that day its fair market value was $210 per share; in 1918 it cost her husband $113.50 per share.
+ The challenged assessment was made under section 202(a)(2), Revenue Act, November 23, 1921, effective (section 263) January 1, 1921. Chapter 136, 42 Stat. 227, 229.
+'Sec. 202(a). That the basis for ascertaining the gain derived or loss sustained from a sale or other disposition of property, real, personal, or mixed, acquired after February 28, 1913, shall be the cost of such property; except that-...
+
+'(2) In the case of such property, acquired by gift after December 31, 1920, the basis shall be the same as that which it would have in the hands of the donor or the last preceding owner by whom it was not acquired by gift. ... In the case of such property acquired by gift on or before December 31, 1920, the basis for ascertaining gain or loss from a sale or other disposition thereof shall be the fair market price or value of such property at the time of such acquisition. ...'
+
+ The Court of Claims decided against the petitioner; and the cause is here upon certiorari. She maintains- 
+
+[280 U.S. 409, 411]
+ 
+ First, that section 202(a)(2) should not be construed as applicable to transactions fully completed before enactment of the statute. Second, that if construed to apply where both gift and sale were consummated before such enactment, the section is arbitrary and capricious, and, therefore invalid under the due process clause of the Fifth Amendment.
+ The support the first point Shwab v. Doyle, 
+258 
+U.S. 529
+, 42 S. Ct. 391, 26 A. L. R. 1454, is cited; for the second Nichols v. Coolidge, 
+274 
+U.S. 531
+, 47 S. Ct. 710, 52 A. L. R. 1081; Blodgett v. Holden, 
+275 
+U.S. 142
+, 48 S. Ct. 105; Untermyer v. Anderson, 
+276 
+U.S. 440
+, 48 S. Ct. 353, are relied upon.
+ We think the purpose of Congress to apply the provisions of section 202(a)(2) to the transaction here involved is clear. Shwab v. Doyle grew out of the Revenue Act of September 8, 1916 (39 Stat. 758). There, after considering the relevant circumstances, we declared there was no intention to give retroactive effect to the enactment. Here, the contrary design is not doubtful.
+ The power of Congress to tax as part of a donee's income the difference between what the gift cost the donor and the price received therefor when sold by the donee was affirmed in Taft v. Bowers, 
+278 
+U.S. 470
+, 49 S. Ct. 199, and is not now denied.
+ That the questioned provision cannot be declared in conflict with the Federal Constitution merely because it requires gains from prior but recent transactions to be treated as part of the taxpayer's gross income has not been open to serious doubt since Brushaber v. Union Pacific R. R., 
+240 
+U.S. 1
+, 36 S. Ct. 236, L. R. A. 1917D, 414, Ann. Cas. 1917B, 713, and Lynch v. Hornby, 
+247 
+U.S. 339
+, 38 S. Ct. 543
+
+
+ Nichols v. Coolidge, 
+274 
+U.S. 531
+, 47 S. Ct. 710, 52 A. L. R. 1081, held arbitrary and capricious a statute which required executors to pay an excise ostensibly laid upon the transfer of property by death, but reckoned upon its value plus the value of other property conveyed by the decedent before the enactment in entire good faith, and without contemplation of death, and said that to enforce it would amount to confiscation. 
+
+[280 U.S. 409, 412]
+ 
+ Blodgett v. Holden, 
+275 
+U.S. 142
+, 48 S. Ct. 105, and Untermyer v. Anderson, 
+276 
+U.S. 440
+, 48 S. Ct. 353, considered the validity of an enactment which laid a tax upon donors because of gifts fully consummated prior to its passage. We held this was beyond the power of Congress. None of these cases is in point; they gave no consideration to the power of Congress to require that taxable income should include profits from transactions consummated within the year.
+ We can find nothing unusual, arbitrary, or capricious in the provision of the taxing act here involved, and the judgment of the court below must be affirmed. 
+
+
+

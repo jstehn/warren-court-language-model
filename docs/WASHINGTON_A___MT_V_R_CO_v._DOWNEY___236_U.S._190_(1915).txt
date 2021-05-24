@@ -1,0 +1,67 @@
+Description: WASHINGTON A & MT V R CO v. DOWNEY , 236 U.S. 190 (1915)
+Date: 1915-02-23 00:00:00
+Docket: 144
+Opinion
+
+
+United States Supreme Court
+WASHINGTON A & MT V R. CO. v. DOWNEY(1915)
+No. 144
+Argued: Decided: February 23, 1915
+
+
+
+
+[236 U.S. 190, 191]
+ 
+ Messrs. John S. Barbour, John C. Gittings, Basil D. Boteler, and Douglas S. Mackall for plaintiff in error.
+ Messrs. Edmund Burke and Leo P. Harlow for defendant in error.
+
+ Mr. Chief Justice White delivered the opinion of the court:
+ The plaintiff in error, a Virginia corporation whom we shall speak of as the company, operates a trolley line from Washington to Mt. Vernon, in Virginia. The defendant in error, Downey, was employed by the company as a trolley man, and on the 29th of November, 1907, was working on a train of two cars, a motor car and a trailer car, moving from Mt. Vernon to Washington. Downey was on the rear platform of the motor car, and his duty was to hold the rope connecting with the overhead trolley wheel to keep it from getting off the wire, and thus breaking the electrical connection. While in the District of Columbia, on the bridge crossing the Potomac, Downey was thrown from the platform and injured, and the company prosecutes this writ of error to a judgment of the court below (40 App. D. C. 147), affirming one of the supreme court of the District, rendered on a verdict against it and in favor of Downey, upon the finding that his injury was caused by the actionable negligence of the company or of its servants.
+ Various errors are assigned relating to the operation and meaning of the act of Congress (employers' liability act) of June 11, 1906 (34 Stat. at L. 232, chap. 3073), by which the case is governed and the rulings of the trial court admitting 
+
+[236 U.S. 190, 192]
+ 
+ or excluding testimony and instructions given or refused. But before we consider them, whether we have jurisdiction to do so arises, and therefore we primarily consider that question. It depends upon the sixth clause of  250 of the Judicial Code [36 Stat. at L. 1159, chap. 231, Comp. Stat. 1913 ,  1227], and it is not open to controversy that the 'law of the United States' therein referred to 'embraced only laws of the United States of general operation,' and does not therefore include 'laws of the United States local in their application to the District of Columbia.' McGowan v. Parish, 
+228 
+U.S. 312, 317
+, 57 S. L. ed. 849, 851, 33 Sup. Ct. Rep. 462; American Secur. & T. Co. v. District of Columbia, 
+224 U.S. 491
+, 56 L. ed. 856, 32 Sup. Ct. Rep. 553; District of Columbia v. Philadelphia, B. & W. R. Co. 
+232 U.S. 716
+, 58 L. ed. 812, 34 Sup. Ct. Rep. 331.
+ The law here involved, as we have said, is the employers' liability act of 1906. Undoubtedly that law as enacted was in form one of general application, but it was held to be unconstitutional as such a law in Employers' Liability Cases (Howard v. Illinois C. R. Co.) 
+207 U.S. 463
+, 52 L. ed. 297, 28 Sup. Ct. Rep. 141. Notwithstanding that ruling, however, the provisions of the statute, so far as they apply to the District of Columbia, have been decided to be within the power of Congress to enact because of its plenary authority as the local legislature of the District, and because the intention to make the provisions of the law applicable to the District locally was manifest and separable from the purpose to enact a statute which would be applicable generally throughout the United States. El Paso & N. E. R. Co. v. Gutierrez, 
+215 
+U.S. 87, 97
+, 98 S., 54 L. ed. 106, 111, 30 Sup. Ct. Rep. 21; Philadelphia, B. & W. R. Co. v. Schubert, 
+224 
+U.S. 603, 610
+, 56 S. L. ed. 911, 915, 32 Sup. Ct. Rep. 589, 1 N. C. C. A. 892; Santa Fe C. R. Co. v. Friday, 
+232 
+U.S. 694, 698
+, 58 S. L. ed. 802, 34 Sup. Ct. Rep. 468; and see Butts v. Merchants & M. Transp. Co. 
+230 
+U.S. 126, 137
+, 57 S. L. ed. 1422, 1426, 33 Sup. Ct. Rep. 964. Under this condition there is no ground to maintain the proposition that the statute, as applicable to the District of Columbia, was adopted as one of a general character, and that therefore we have power to review the questions involved.
+ But it is said, the trolley cars were in transit from the state of Virginia to the District, and therefore were engaged 
+
+[236 U.S. 190, 193]
+ 
+ in a movement from state to territory not purely local in its character, and hence there is jurisdiction. But this rests upon the mistaken assumption that the test of jurisdiction is the character of the act to which the statute applies, and not the nature of the statute itself; that is, whether it is general or local to the District. And this difficulty is not answered by the argument that because the statute was made controlling concerning acts not purely local, therefore, as the effect cannot be greater than the cause, the statute must itself be said to be, for the purposes of jurisdiction, not of a local character. But again the proposition rests upon an erroneous assumption. The test of whether the statute is general or local depends not upon the particular question to which it may be exceptionally applied in a given case, but upon the exertion of legislative power which the statute manifests and its general operation; that is to say, whether it was enacted as a statute of general application under the general legislative power, or whether it took being as the result of the exercise of the purely local power of Congress to govern the District of Columbia, and was, as a general rule, intended to be so applicable. The error of the argument could not be better illustrated than by saying that if the proposition were admitted, it would necessitate deciding that a statute which has been held to be beyond the constitutional power of Congress to enact so far as it embodied anything but the exertion of local power may yet be enforced and applied as a general statute. The want of foundation for the contention is besides made plainer by looking at the subject from another point of view. While the transit in which the train was engaged was not purely local, the accident complained of occurred within the confines of the District of Columbia, and the statute became applicable concerning it because, as a local statute, it governed in the absence of legislation by Congress of a general 
+
+[236 U.S. 190, 194]
+ 
+ character governing the subject. Chicago, M. & St. P. R. Co. v. Solan, 
+169 U.S. 133
+, 42 L. ed. 688, 18 Sup. Ct. Rep. 289; Pennsylvania R. Co. v. Hughes, 
+191 U.S. 477
+, 48 L. ed. 268, 24 Sup. Ct. Rep. 132; Martin v. Pittsburg & L. E. R. Co. 
+203 U.S. 284
+, 51 L. ed. 184, 27 Sup. Ct. Rep. 100, 8 Ann. Cas. 87. To take jurisdiction, therefore, we would be compelled to decide that a purely local statute which would be void if it were general in character was yet operative in such aspect, and that because a local law was applicable to a given situation solely for the reason that there was no general law to control, the local law was a general one.
+ Dismissed for want of jurisdiction. 
+
+
+

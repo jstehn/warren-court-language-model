@@ -1,0 +1,278 @@
+Description: HELVERING v. GERHARDT, 304 U.S. 405 (1938)
+Date: 1938-03-07 00:00:00
+Docket: 779
+Opinion
+
+
+United States Supreme Court
+HELVERING v. GERHARDT(1938)
+No. 779
+Argued: Decided: March 7, 1938
+
+
+ The basis upon which constitutional tax immunity of a state has been supported is the protection which it affords to the continued existence of the state. To attain that end it in to ordinarily necessary to confer on the state a competitive advantage over private persons in carrying on the operations of its government. There is 
+
+[304 
+U.S. 405, 422]
+ 
+ no such necessity here, and the resulting impairment of the federal power to tax argues against the advantage. The state and national governments must coexist. Each must be supported by taxation of those who are citizens of both. The mere fact that the economic burden of such taxes may be passed on to a state government and thus increase to some extent, here wholly conjectural, the expense of its operation, infringes no constitutional immunity. Such burdens are but normal incidents of the organization within the same territory of two governments, each possessed of the taxing power.
+ During the present term we have held that the compensation of a state employee paid from the state treasury for his service in liquidating an insolvent corporation, where the state was reimbursed from the corporate assets, was subject to income tax. Helvering v. Therrell, McLoughlin v. Commissioner, 
+303 
+U.S. 218
+, 58 S.Ct. 539, decided February 28, 1938. But the Court has never ruled expressly on the precise question whether the Constitution grants immunity from federal income tax to the salaries of state employees performing, at the expense of the state, services of the character ordinarily carried on by private citizens. The Revenue Act of 1917, considered in Metcalf & Eddy v. Mitchell, supra, exempted the salaries of all state employees from income tax. But it was held in that case that neither the constitutional immunity nor the statutory exemption extended to independent contractors. In Brush v. Commissioner, supra, the applicable treasury regulation upon which the Government relied exempted from income tax the compensation of 'state officers and employees' for 'services rendered in connection with the exercise of an essential governmental function of the State'. The sole contention of the Government was that the maintenance of the New York City water supply system was not an essential governmental function of the state. The Government did not attack the regulation. No contention was made 
+
+[304 
+U.S. 405, 423]
+ 
+ by it or considered or decided by the Court that the burden of the tax on the state was so indirect or conjectural as to be but an incident of the co-existence of the two governments, and therefore not within the constitutional immunity. If determination of that point was implicit in the decision it must be limited by what is not decided.
+ The pertinent provisions of the regulation applicable in the Brush Case were continued in Regulations 77, Article 643, under the 1932 Revenue Act, until January 7, 1938, when they were amended to provide that 'Compensation received for services rendered to a State is to be included in gross income unless the person receives such compensation from the State as an officer or employee thereof and such compensation is immune from taxation under the Constitution of the United States.' The applicable provisions of section 116 of the 1932 Act do not authorize the exclusion from gross income of the salaries of employees of a state or a state-owned corporation. If the regulation be deemed to embrace the employees of a state-owned corporation such as the Port Authority, it was unauthorized by the statute. But we think it plain that employees of the Port Authority are not employees of the state or a political subdivision of it within the meaning of the regulation as originally promulgated-an additional reason why the regulation, even before the 1938 amendment, was ineffectual to exempt the salaries here involved.
+ The reasoning upon which the decision in Indian Motocycle Co. v. United States, supra, was rested is not controlling here. Taxation of the sale to a state, which was thought sufficient to support the immunity there, is not now involved. Whether the actual effect upon the performance of the state function differed from that of the present tax we do not now inquire. Compare WheelerLu mber Bridge & Supply Co. v. United States, 
+281 
+U.S. 572
+, 50 S.Ct. 419. 
+
+[304 
+U.S. 405, 424]
+ 
+ As was pointed out in Metcalf & Eddy v. Mitchell, supra, page 524, 46 S.Ct. page 174, there may be state agencies of such a character and so intimately associated with the performance of an indispensable function of state government that any taxation of it would threaten such interference with the functions of government itself as to be considered beyond the reach of the federal taxing power. If the tax considered in Collector v. Day, supra, upon the salary of an officer engaged in the performance of an indispensable function of the state which cannot be delegated to private individuals, may be regarded as such an instance, that is not the case presented here.
+ Expressing no opinion whether a federal tax may be imposed upon the Port Authority itself with respect to its receipt of income or its other activities, we decide only that the present tax neither precludes nor threatens unreasonably to obstruct any function essential to the continued existence of the state government. So much of the burden of the tax laid upon respondents' income as may reach the state is but a necessary incident to the coexistence within the same organized government of the two taxing sovereigns, and hence is a burden the existence of which the Constitution presupposes. The immunity, if allowed, would impose to an inadmissible extent a restriction upon the taxing power which the Constitution has granted to the federal government.
+REVERSED.
+ Mr. Justice CARDOZO and Mr. Justice REED took no part in the consideration or decision of this case.
+
+ Mr. Justice BLACK, concurring.
+ I agree that this cause should be reversed for the reasons expressed in that part of the opinion just read pointing out that: respondents, though employees of the New York Port Authority, are citizens of the United States; 
+
+[304 
+U.S. 405, 425]
+ 
+ the tax levied upon their incomes from the Authority is the same as that paid by other citizens receiving equal net incomes; and payment of this nondiscriminatory income tax by respondents cannot impair or defeat in whole or in part the governmental operations of the State of New York. A citizen who receives his income from a State owes the same obligation to the United States as other citizens who draw their salaries from private sources or the United States and pay Federal income taxes.
+ While I believe these reasons, without more, are adequate to support the tax, I find it difficult to reconcile this result with the principle announced in Collector v. Day, 11 Wall. 113, and later decisions applying that principle. This leads me to the conclusion that we should review and re-examine the rule based upon Collector v. Day. That course would logically require the entire subject of intergovernmental tax immunity to be reviewed in the light of the effect of the U.S.C.A.Const. Sixteenth Amendment authorizing Congress to levy a tax on incomes 'from whatever source derived'; and, in that event, the decisions interpreting the Amendment would also be re-examined. 
+1
+ 
+
+ From time to time, this Court has relied upon a doctrine evolved from Collector v. Day, under which incomes received from State activities thought by the Court to be nonessential are held taxable, while incomes from activities thought to be essential are held nontaxable. The opinion of the Court in this case refers to that doctrine. Application of this test has created 'a zone of debatable ground within which the cases must be put upon one side or the other of the line by what this court has called the gradual process of historical and judicial 'inclusion and exclusion." Brush v. Cmm issioner, 
+300 
+U.S. 352, 365
+, 57 S.Ct. 495, 498, 108 A.L.R. 1428. Under this rule the tax status of every State employee re- 
+
+[304 
+U.S. 405, 426]
+ 
+ mains uncertain until this Court passes upon the classification of his particular employment. The result is a confusion in the field of intergovernmental tax immunity which I believe could be clarified by complete review of the subject. Testing taxability by judicial determination that State governmental functions are essential or nonessential contributes much to the existing confusion. I believe the present case affords occasion for appropriate and necessary abandonment of such a test, particularly since recent decisions2 have already substantially advanced toward a re-examination of the doctrine of intergovernmental immunity.
+ The present controversy illustrates the necessity for further re- examination. New York created the Port Authority with power to engage in activities which that State believed to be essential. Yet, under this test, New York's determination is not final until reviewed in a tax litigation between the government and a single citizen.
+ Conceptions of 'essential governmental functions' vary with individual philosophies. Some believe that 'essential governmental functions' include ownership and operation of water plants, power and transportation systems, etc. Others deny that such ownership and operation could ever be 'essential governmental functions' on the ground that such functions 'could be carried on by private enterprise.' A Federal income tax levied against the manager of the state-operated elevated railway company of Boston was sustained even though this manager was a public officer appointed by the Governor of Massachusetts 'with the advice and consent of the council.' 
+3
+ On the other hand, the Federal government was denied- 
+
+[304 
+U.S. 405, 427]
+ 
+ although with strong dissent-the right to collect an income tax from the chief engineer in charge of New York City's municipally owned water supply. 4 An implied constitutional distinction which taxes income of an officer of a state-operated transportation system and exempts income of the manager of a municipal water works system manifests the uncertainty created by the 'essential' and 'non-essential' test.
+ There is not, and there cannot be, any unchanging line of demarcation between essential and nonessential governmental functions. Many governmental functions of today have at some time in the past been nongovernmental. The genius of our government provides that, within the sphere of constitutional action, the people-acting not through the courts but through their elected legislative representatives-have the power to determine as conditions demand, what services and functions the public welfare requires.
+ Surely, the Constitution contains no imperative mandate that public employees-or others-drawing equal salaries (income) should be divided into taxpaying and nontaxpaying groups. Ordinarily such a result is discrimination. Uniform taxation upon those equally able to bear their fair shares of the burdens of government is the objective of every just government. The language of the U.S.C.A.Const. Sixteenth Amendment empowering Congress to 'collect taxes on incomes, from whatever source derived'-given its most obvious meaning-is broad enough to accomplish this purpose.
+
+ Mr. Justice BUTLER, dissenting.
+ So fa a  concerns liability for federal income tax, the salaries paid by the Port Authority to its officers and employees are not distinguishable from salaries paid by 
+
+[304 
+U.S. 405, 428]
+ 
+ States to their officers and employees. The judgment of the Circuit Court of Appeals should therefore be affirmed on the principle applied in McCulloch v. Maryland, 1819, 4 Wheat. 316, that under the Constitution States are without power to tax instrumentalities of the United States and in Collector v. Day, 1871, 11 Wall. 113, that the United States is without power to tax the salary of a state officer. That principle has been followed in a long line of decisions. In Indian Motocycle Co. v. United States, 1931, 
+283 
+U.S. 570
+, 51 S.Ct. 601, we held the United States without power to tax the sale of a motorcycle to a municipal corporation for use in its police service. The Court, speaking through Mr. Justice Van Devanter, said (page 575, 51 S.Ct. page 602):
+'It is an established principle of our constitutional system of dual government that the instrumentalities, means and operations whereby the United States exercises its governmental powers are exempt from taxation by the states, and that the instrumentalities, means and operations whereby the states exert the governmental powers belonging to them are equally exempt from taxation by the United States. This principle is implied from the independence of the national and state governments within their respective spheres and from the provisions of the Constitution which look to the maintenance of the dual system. Collector v. Day, 11 Wall. 113, 125, 127; Willcuts v. Bunn, 
+282 
+U.S. 216, 224
+, 225 S., 51 S.Ct. 125, 126 (71 A.L.R. 1260). Where the principle applies it is not affected by the amount of the particular tax or the extent of the resulting interference, but is absolute. McCulloch v. Maryland, 4 Wheat. 316, 430; United States v. Baltimore & Ohio R. Co., 17 Wall. 322, 327; Johnson v. Maryland, 
+254 
+U.S. 51
+, 55-56, 41 S.Ct. 16; Gillespie v. Oklahoma, 
+257 
+U.S. 501, 505
+, 42 S.Ct. 171, 172; Crandall v. Nevada, 6 Wall. 35, 44-46.'
+
+ Following that case, we recently applied the principle in N.Y. ex rel. Rogers v. Graves, January 4, 1937, 299 
+
+[304 
+U.S. 405, 429]
+ 
+ U.S. 401, 57 S.Ct. 269, to prevent the State of New York from taxing the salary of counsel of the Panama Railway Company, a federal instrumentality, and in Brush v. Commissioner, March 15, 1937, 
+300 
+U.S. 352
+, 57 S.Ct. 495, 108 A.L.R. 1428, to prevent the United States from taxing the salary of the chief engineer of the bureau of water supply for the city of New York. In Helvering v. Therrell, February 28, 1938, 
+303 
+U.S. 218
+, 58 S.Ct. 539, holding that the federal government has power to tax compensation paid to attorneys and others out of corporate assets for necessary services rendered about the liquidation of insolvent corporations by state officers proceeding under her statutes, we said (page 542):
+'Among the inferences which derive necessarily from the Constitution are these: No state may tax appropriate means which the United States may employ for exercising their delegated powers; the United States may not tax instrumentalities which a state may employ in the discharge of her essential governmental duties-that is those duties which the framers intended each member of the union would assume in order adequately to function under the form of government guaranteed by the Constitution.'
+
+ The Court, seemingly admitting that it would be futile to attempt to distinguish the cases now before us from the Brush Case, overrules it by declaring that it must be limited by what is now decided. The Solicitor General did not in any manner raise the point on which the Court puts this decision. He sought reversal on the grounds that the Port Authority's activities are proprietary in nature; that it is not an agency created by the States alone; that it operates in nt erstate commerce subject to the paramount power of Congress. Indeed, he expressly disclaimed intention to ask re-examination of the doctrine of immunity on which the Brush Case rests. In substance, as well as in the language used, the decision just announced substitutes for that doctrine the 
+
+[304 
+U.S. 405, 430]
+ 
+ proposition that, although the federal tax may increase cost of state governments, it may be imposed if it does not curtail functions essential to their existence. Expressly or sub silentio, it overrules a century of precedents. Cf. James v. Dravo Contracting Co., December 6, 1937, 
+302 
+U.S. 134, 152
+, 161 S., 58 S.Ct. 208, 217, 221, 114 A.L.R. 318; Helvering v. Mountain Producers Corporation, March 7, 1938, 
+303 
+U.S. 376
+, 58 S.Ct. 623, 628, 629. As they stood when the cases now before us were in the Circuit Court of Appeals, our decisions required it to hold that the salaries paid by the Port Authority to respondents are not subject to federal taxation. I would affirm its judgments.
+ Mr. Justice McREYNOLDS concurs in this opinion. 
+
+Footnotes
+
+[
+Footnote *
+] Rehearing denied 59 S.Ct. 57, 83 L.Ed. --.[ Helvering v. Gerhardt 
+304 
+U.S. 405
+ (1938) ] 
+
+[
+Footnote 1
+] It follows that in considering the immunity of federal instrumentalities from state taxation two factors may be of importance which are lacking in the case of a claimed immunity of state instrumentalities from federal taxation. Since the acts of Congress within its constitutional power are supreme, the validity of state taxation of federal instrumentalities must depend (a) on the power of Congress to create the instrumentality and (b) its intent to protect it from state taxation. Congress may curtail an immunity which might otherwise be implied. Van Allen v. Assessors, 3 Wall. 573, or enlarge it beyond the point where, Congress being silent, the Court would set its limits. New York ex rel. Bank of New York v. Supervisors, 7 Wall. 26, 30, 31; see Thomson v. Union Pacific Railroad, 9 Wall. 579, 588, 590; Shaw v. Gibson-Zahniser Oil Corp., 
+276 
+U.S. 575, 581
+, 48 S.Ct. 333, 335, and cases cited; James v. Dravo Contracting Co., 
+302 
+U.S. 134, 161
+, 58 S.Ct. 208, 221, 114 A. L.R. 318.
+ The analysis is comparable where the question is whether federal corporate instrumentalities are immune from state judicial process. Federal Land Bank v. Priddy, 
+295 
+U.S. 229, 234
+, 235 S., 55 S.Ct. 705, 707, 708. 
+
+[
+Footnote 2
+] 'The people of all the States have created the general governen t, and have conferred upon it the general power of taxation. The people of all the States, and the States themselves, are represented in Congress, and, by their representatives, exercise this power. When they tax the chartered institutions of the States, they tax their constituents; and these taxes must be uniform. But, when a State taxes the operations of the government of the United States, it acts upon institutions created, not by their own constituents, but by people over whom they claim no control. It acts upon the measures of a government created by others as well as themselves, for the benefit of others in common with themselves. The difference is that which always exists, and always must exist, between the action of the whole on a part, and the action of a part on the whole- between the laws of a government declared to be supreme, and those of a government which, when in opposition to those laws, is not supreme.' Chief Justice Marshall in McCulloch v. Maryland, 4 Wheat. 316, 435, 436. 
+
+[
+Footnote 3
+] In these cases, and particularly in Weston v. Charleston, 2 Pet. 449, as in McCulloch v. Maryland, emphasis was laid on the fact that by state action an impediment was laid upon the exercise of a power with respect to which the national government was supreme. In Weston v. Charleston, supra, Chief Justice Marshall said (pages 465, 466):
+'Can anything be more dangerous, or more injurious, than the admission of a principle, which authorizes every state and every corporation in the Union which possesses the right of taxation, to burden the exercise of this power (the borrowing power), at their discretion?
+
+'If the right to impose the tax exists, it is a right which in its nature acknowledges no limits. It may be carried to any extent, within the jurisdiction of the state or corporation which imposes it, which the will of each state and corporation may prescribe. A power which is given by the whole American people, for their common good, which is to be exercised, at the most critical periods, for the most important purposes, on the free exercise of which the interests, certainly, perhaps, the liberty of the whole, may depend; may be burdened, impeded, if not arrested, by any of the organized parts of the confederacy.' Compare Holmes, J., in Panhandle Oil Co. v. Mississippi ex rel. Knox, 
+277 
+U.S. 218, 223
+, 48 S.Ct. 451, 453, 56 A.L.R. 583. 
+
+
+[
+Footnote 4
+] In 1871, when Collector v. Day was decided, the Court had not yet been called on to determine how far the Civil War Amendments had broadened the federal power at the expense of the states. The Slaughterhouse Cases, 16 Wall. 36, had not yet been decided, although they had already been once before the Court on motion for supersedeas, 10 Wall. 273. The fact that the taxing power had recently been used with destructive effect upon a state instrumentality, Veazie Bank v. Fenno, 8 Wall. 533, had suggested the possibility of similar attacks upon the existence of states themselves. Compare Lane County v. Oregon, 7 Wall. 71, 76, 77; Slaughterhouse Cases, 16 Wall. 36, 82. 
+
+[
+Footnote 5
+] Compare notes 1 and 2, supra. 
+
+[
+Footnote 6
+] The following classes of taxpayers have been held subject to federal income tax notwithstanding its possible economic burden on the state: Those who derive income or profits from their performance of state functions as independent engineering contractors, Metcalf & Eddy v. Mitchell, 
+269 
+U.S. 514
+, 46 S.Ct. 172, or from the resale of state bonds, Willcuts v. Bunn, 
+282 
+U.S. 216
+, 51 S.Ct. 125, 71 A.L.R. 1260; those engaged as lessees of the state in producing oil from state lands, the royalties from which, payable to the state, are devoted to public purposes, Group No. 1 Oil Corporation v. Bass, 
+283 
+U.S. 279
+, 51 S.Ct. 432; Burnet v. A. T. Jergins Trust, 
+288 
+U.S. 508
+, 53 S.Ct. 439; Bankline Oil Co. v. Commissioner, 
+303 
+U.S. 362
+, 58 S.Ct. 616, and Helvering v. Mountain Producers Corp., 
+303 
+U.S. 376
+, 58 S.Ct. 623, both decided March 7, 1938, overruling Burnet v. Coronado Oil & Gas Co., 
+285 
+U.S. 393
+, 52 S.Ct. 443. Similarly federal taxation of property transferred at death to a state or one of its municipalities was upheld in Snyder v. Bettman, 
+190 
+U.S. 249
+, 23 S.Ct. 803, cf. Greiner v. Lewellyn, 
+258 
+U.S. 384
+, 42 S.Ct. 324; and a federal tax on the transportation of merchandise in performance of a contract to sell and deliver it to a county was sustained in Wheeler Lumber Bridge & Supply Co. v. United States, 
+281 
+U.S. 572
+, 50 S.Ct. 419; cf. Indian Motocycle Co. v. United States, 
+283 
+U.S. 570
+, 51 S.Ct. 601. A federal excise tax on corporations, measured by income, including interest received from state bonds, was upheld in Flint v. Stone Tracy Co., 
+220 
+U.S. 107, 162
+, 31 S.Ct. 342, Ann.Cas.1912B, 1312, et seq .; see National Life Insurance Co. v. United States, 
+277 
+U.S. 508, 527
+, 48 S.Ct. 591, 595; compare the discussion in Educational Films Corp. v. Ward, 
+282 
+U.S. 379, 389
+, 51 S.Ct. 170, 172, 71 A.L. R. 1226, and in Pacific Co., Ltd., v. Johnson, 
+285 
+U.S. 480, 490
+, 52 S.Ct. 424, 426. 
+
+[
+Footnote 7
+] Upon full consideration, the same principle was recently applied in James v. Dravo Contracting Co., 
+302 
+U.S. 134
+, 58 S.Ct. 208, 114 A.L.R. 318, although the limitation there was upon the immunity of the federal government. 
+
+[
+Footnote 1
+] See Brushaber v. Union Pacific R.R. Co., 
+240 
+U.S. 1
+, 36 S.Ct. 236, L.R.A.1917D, 414, Ann.Cas.1917B, 713; Peck & Co.v. Lowe, 
+247 
+U.S. 165, 172
+, 38 S.Ct. 432; Eisner v. Macomber, 
+252 
+U.S. 189
+, 40 S.Ct. 189, 9 A.L.R. 1570; Evans v. Gore, 
+253 
+U.S. 245
+, 40 S.Ct. 550, 11 A.L.R. 519. 
+
+[
+Footnote 2
+] See, James v. Dravo Contracting Co., 
+302 
+U.S. 134
+, 58 S.Ct. 208, 114 A.L.R. 318; Helvering v. Bankline Oil Co., 
+303 
+U.S. 362
+, 58 S.Ct. 616; Helvering v. Mountain Producers Corp., 
+303 
+U.S. 376
+, 58 S.Ct. 623 (overruling Gillespie v. Oklahoma, 
+257 
+U.S. 501
+, 42 S.Ct. 171 and Burnet v. Coronado Oil & Gas Co., 
+285 
+U.S. 393
+, 52 S.Ct. 443). 
+[
+Footnote 3
+] Helvering v. Powers, 
+293 
+U.S. 214, 222
+, 223 S., 55 S.Ct. 171, 172. 
+
+[
+Footnote 4
+] Brush v. Commissioner, 
+300 
+U.S. 352
+, 57 S.Ct. 495, 108 A.L.R. 1428; cf., Metcalf & Eddy v. Mitchell, 
+269 
+U.S. 514
+, 46 S.Ct. 172. 
+
+
+
+

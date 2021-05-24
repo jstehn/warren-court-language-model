@@ -1,0 +1,48 @@
+Description: JONES, EX PARTE , 164 U.S. 691 (1897)
+Date: 1897-01-04 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+JONES, EX PARTE(1897)
+
+Argued: Decided: January 4, 1897
+
+
+ Mr. Justice BROWN, after stating the facts in the foregoint language, delivered the opinion of the court.
+ The circuit court of appeals refused to allow an appeal in this case upon the ground that its jurisdiction of the case was 'dependent entirely upon the opposite parties to the suit or controversy being ... citizens of different states,' and therefore, under section 6 of the court of appeals act of March, 1891, its decree was final, and not the subject of an appeal to this court.
+ Prior to the act of July 12, 1882 (22 Stat. 162), and the jurisdictional act of March 3, 1887, as revised by the act of August 13, 1888 (25 Stat. 436), it had always been held that suits against corporations organized under acts of congress were suits arising under the laws of the United States, and therefore cognizable by the circuit courts, regardless of the citizenship of the parties. This doctrine was applied to the United States Bank more than 79 years ago in Osborne v. Bank, 9 Wheat. 738, 819, and more recently to railways chartered under acts of congress ( Pacific Railroad Removal Cases, 
+115 U.S. 1
+, 5 Sup. Ct. 1113), even since the court of appeals act was passed (Railroad Co. v. Amato, 
+144 U.S. 465
+, 12 Sup. Ct. 740; Railway Co. v. Harris, 
+158 U.S. 326
+, 15 Sup. Ct. 843).
+ But by the act of 1882, and more recently by section 4 of the acts of March 3, 1887, and August 13, 1888, the privi- 
+
+[164 U.S. 691, 693]
+ 
+ lege of suing and being sued under this clause was taken away from national banks by the following language:
+'Sec. 4. That all national banking associtions established under the laws of the United States shall, for the purposes of all actions by or against them, real, personal, or mixed, and all suits in equity, be deemed citizens of the states in which they are respectively located; and in such cases the circuit and district courts shall not have jurisdiction, other than such as they would have in cases between individual citizens of the same states.'
+
+ In Bank v. Cooper, 
+120 U.S. 778
+, 7 Sup. Ct. 777, it was held by this court that, under the act of 1882, which was similar in its terms, an action against a national bank could not be removed to the federal court 'unless a similar suit could be entertained by the same court by or against a state bank in like situation with the national bank. Consequently, so long as the act of 1882 was in force, nothing in the way of jurisdiction could be claimed by a national bank because of the source of its incorporation. A national bank was by that statute placed before the law in this respect the same as a bank not organized under the laws of the United States.' See, also. Whittemore v. Bank, 
+134 U.S. 524
+, 10 Sup. Ct. 592; Petri v. Bank, 
+142 U.S. 644
+, 12 Sup. Ct. 325. The section above cited from the act of 1888 undoubtedly deprives these banks of the privilege of suing or being sued, except in cases where diversity of citizenship would authorize an action to be brough; and in such cases the decree of the court of appeals is final.
+ In this case the original bill averred the complainant to be a citizen of Pennsylvania and the defendant to be a national bank, duly established under the laws of the United States, having its place of business at Boston, and a citizen of the state of Massachusetts. As the bill was filed after the act of 1888 took effect, it must be deemed to be a suit dependent upon citizenship alone. But, even if another ground were developed in the course of the proceedings, the judgment of the court of appeals would be final if the jurisdiction of the circuit court were originally invoked solely upon the ground of 
+
+[164 U.S. 691, 694]
+ 
+ citizenship. Mining Co. v. Turck, 
+150 U.S. 138
+, 14 Sup. Ct. 35; Borgmeyer v. Idler, 
+159 U.S. 408
+, 16 Sup. Ct. 34.
+ The petition for mandamus must be denied. 
+
+
+

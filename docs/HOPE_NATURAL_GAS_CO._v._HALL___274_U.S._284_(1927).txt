@@ -1,0 +1,85 @@
+Description: HOPE NATURAL GAS CO. v. HALL , 274 U.S. 284 (1927)
+Date: 1927-05-16 00:00:00
+Docket: 815
+Opinion
+
+
+United States Supreme Court
+HOPE NATURAL GAS CO. v. HALL(1927)
+No. 815
+Argued: April 21, 1927Decided: May 16, 1927
+
+
+
+
+[274 U.S. 284, 285]
+ 
+ Mr. John W. Davis, of New York City, for plaintiff in error.
+ Mr. Fred O. Blue, of Charleston, W. Va., for defendants in error.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ This writ brings up a decree by the Supreme Court of Appeals, West Virginia, which construed section 2a, chapter 1, Acts of the Legislature, Extraordinary Session 1925,1 and sus- 
+
+[274 U.S. 284, 286]
+ 
+ tained it against objections based upon section 8, article 1, federal Constitution and the Fourteenth Amendment. The grounds relied upon for reversal are without merit and the decree must be affirmed.
+ The original proceeding challenged the validity of the tax prescribed by section 2a and sought an injunction to prevent defendant state officers from attempting to enforce it. The chief objection rested upon the direction of the statute that:
+'The measure of this tax is the value of the entire production in this state, regardless of the place of sale or the fact that deliveries may be made to points outside the state.'
+
+ The trial court held that the tax would substantially burden and interfere with interstate commerce and ordered an appropriate injunction.
+ In an opinion indicating very definite purpose to follow rulings here, the court below, as shown by the authoritative headnote, declared:
+'Under section 
+
+[274 U.S. 284, 287]
+ 
+ 2a, chapter 1, supra, the state may take into consideration the gross proceeds of a commodity produced in this state and sold in another state, but only for the purpose of determining the value of such commodity within the state and before it enters interstate commerce.' 135 S. E. 582.
+
+ And among other things it there said:
+'If the taxation value of the products named in the statute be limited to their value in the state, and before they enter interstate commerce, the statute does not manifest a purpose to violate article 1 of the federal Construction, and we so hold.' 'We therefore hold, under the facts in this case, that the defendants may not treat the gross proceeds of plaintiff's sales outside the state as the worth of its gas within the state, but that they may enforce the act upon the value hereof within the state, and before it enters interstate commerce. The injunction herein will be accordingly so modified.'
+
+ The final order directed:
+'That the decree of the circuit court of Kanawha county, pronounced in this cause on the 25th day of May, 1926, in so far and in so far only as it enjoins the defendants from enforcing against the plaintiff the provisions of section 2a ... by imposing a tax upon the natural gas produced by the plaintiff, based upon the value thereof within the state and before it enters interstate commerce, be and the same hereby is modified and corrected so as to permit defendants to impose and enforce against the plaintiff a tax, under said section, upon the natural gas so produced by it, based upon the value thereof within the state and before it enters upon interstate commerce, and that in all other respects said decree is hereby modified and corrected be and the same hereby is affirmed.'
+
+ The chief business of plaintiff in error is production and purchase of natural gas in West Virginia and the continuous and uninterrupted transportation of this through pipe lines into Pennsylvania and Ohio, where it is sold, deliv- 
+
+[274 U.S. 284, 288]
+ 
+ ered and consumed. The corporation owns 3,178 producing wells located in 25 counties of West Virginia, from which it took in the year ending June 30, 1925, more than 23,000,000,000 cubic feet of gas. And during the same period it purchased from other producers more than 25,000,000,000 cubic feet. Most of this passed into interstate commerce by continuous movement from the wells.
+ Here it has been argued that the challenged act burdens interstate commerce and therefore conflicts with section 8, article 1, of the federal Constitution; also that to enforce the act would deprive plaintiff in error of property without due process of law and deny equal protection of the laws.
+ Counsel admit that without violating the commerce clause the state may lay a privilege or occupation tax upon producers of natural gas reckoned according to the value of that commodity at the well. American Mfg. Co. v. St. Louis, 
+250 
+U.S. 459
+, 39 S. Ct. 552; Heisler v. Thomas Colliery Co., 
+260 
+U.S. 245
+, 43 S. Ct. 83; Oliver Iron Co. v. Lord, 
+262 
+U.S. 172
+, 43 S. Ct. 526. But they insist that, accepting the statute under consideration as construed by the highest court of the state, plaintiff in error will be subjected to an unlawful direct tax upon gross receipts derived from interstate commerce. This argument rests chiefly upon certain language excerpted from the opinion below. But we review the final decree and must accept the statute as authoritatively construed and applied. The plain result of the opinion and final decree is to require that the tax be computed upon the value of the gas at the well, and not otherwise. If, hereafter, executive officers disregard the approved construction and fix values upon any improper basis appropriate relief may be obtained through the courts.
+ The suggestion concerning deprivation of due process goes upon the assumption that the imposition is upon 
+
+[274 U.S. 284, 289]
+ 
+ gross receipts from interstate commerce, in reality upon property beyond the state's jurisdiction. As already pointed out, this assumption conflicts with the definite ruling of the highest court of the state.
+ The claim that equal protection of the laws has been denied rests upon the assertion, first, that an unlawful tax has been imposed upon the gross proceeds from sales regardless of their place and, second, that the exemption of $10,000 from gross income by section 2h creates undue inequality. The true meanof the statute and the thing actually taxed oppose the first assertion. We cannot say that the Legislature acted either arbitrarily or unreasonably by authorizing the deduction. Nothing indicates a purpose to extend different treatment to those of the same class; no actual unreasonable inequality has been shown. Plaintiff in error is permitted to deduct $10,000; the same privilege, and nothing more, is extended to all other producers. Lake Superior Mines v. Lord, 
+271 
+U.S. 577
+, 46 S. Ct. 627; Swiss Oil Corporation v. Shanks, 
+273 
+U.S. 407
+, 47 S. Ct. 393 (Feb. 21, 1927).
+AFFIRMED.
+ The CHIEF JUSTICE took no part in the consideration or decision of this cause. 
+
+Footnotes
+
+[
+Footnote 1
+] An act to provide for the raising of additional public revenue by a tax upon the privilege of engaging in certain occupations; to provide for the ascertainment, assessment and collection of such tax; to provide penalties for violations of the terms hereof; and to repeal certain statutes (passed by the Legislature of West Virginia June 5, 1925).
+ Sec. 2. That from and after the thirtieth day of June, one thousand nine hundred twenty-five, there is hereby levied and shall be collected annual privilege taxes against the persons, on account of the business activities, and in the amounts to be determined by the application of rates against values or gross income, as the case may be, as follows:
+ Sec. 2a. Upon every person engaging or continuing within this state in the business of mining and producing for sale, profit, or use, any coal, oil, natural gas, limestone, sand or other mineral product, or felling and producing timber for sale, profit, or use, the amounts of such tax to be equal to the value of the articles produced as shown by the gross proceeds derived from the sale thereof by the producer (except as hereinafter provided), multiplied by the respective rates as follows: Coal, forty-two one-hundredths of one per cent.; oil, one per cent.; natural gas, one and seventeen-twentieths of one per cent.; limestone, sand or other mineral product, nine-twentieths of one per cent. ... The measure of this tax is the value of the entire production in this state, regardless of the place of sale or the fact that deliveries may be made to points outside the state.
+ Sec. 2h. In computing the amount of tax levied hereunder, however, for any year, there shall be deducted from the values, or from the gross income of the business, as the case may be, an exemption of ten thousand dollars of the amount of such values or gross income. Every person exercising any privilege taxable hereunder for any fractional part of a tax year shall be entitled to an exemption of that part of the sum of ten thousand dollars which bears the same proportion of the total sum that the period of time during which such person is engaged in such business bears to a whole year. 
+
+
+
+

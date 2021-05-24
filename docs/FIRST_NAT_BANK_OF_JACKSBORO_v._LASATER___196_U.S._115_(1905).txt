@@ -1,0 +1,57 @@
+Description: FIRST NAT BANK OF JACKSBORO v. LASATER , 196 U.S. 115 (1905)
+Date: 1905-01-03 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+FIRST NAT BANK OF JACKSBORO v. LASATER(1905)
+
+Argued: Decided: January 3, 1905
+
+
+
+ This case is here on error to the court of civil appeals of the second supreme judicial district of the state of Texas. It was an action brought in the district court of Jack county by J. L. Lasater to recover from the First National Bank of Jacksboro twice a sum claimed to have been paid as usurious interest.
+ The material facts are as follows: J. L. Lasater and W. M. Maggard, as partners, borrowed of the bank $4,000, and executed their joint note with A. M. Lasater as surety. They also mortgaged cattle as further security. Subsequently Maggard sold all his interest in the mortgaged property to J. L. Lasater, the latter assuming all liabilities and renewing the note with the same surety. Thereafter A. M. Lasater, the surety, bought all the mortgaged cattle, and, as part of the consideration, agreed to assume and pay off the note. In pursuance of this agreement he took up the note of J. L. Lasater, and gave his own note therefor. This last note A. M. Lasater paid in full to the bank. After all these transactions, and on November 19, 1900, J. L. Lasater filed his petition in bank- 
+
+[196 U.S. 115, 116]
+ 
+ ruptcy in the district court of the United States. On January 7, 1901, he was discharged of his debts, and on June 11, 1901, the trustee was also discharged of his trust. The bankrupt returned no assets to the trustee, and did not tell him or the creditors about this claim for usury.
+ On July 26, 1901, he brought this action, under the authority of  5198, Revised Statutes, United States, U. S. Comp. Stat. 1901, p. 3493, to recover twice the amount of the interest paid to the bank. The court of appeals found that part of the interest was paid more than two years prior to the commencement of the action, and held that no recovery could be had as to that, but, reversing the district court, entered a judgment in favor of the plaintiff for double the amount of the balance of the interest, on the ground that usury entered into it all.
+ Section 5198, Revised Statutes, provides:
+'The taking, receiving, reserving, or charging a rate of interest greater than is allowed by the preceding section, when knowingly done, shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it, or which has been agreed to be paid thereon. In case the greater rate of interest has been paid, the person by whom it has been paid, or his legal representatives, may recover back, in an action in the nature of an action of debt, twice the amount of the interest thus paid, from the association taking or receiving the same: Provided, such action is commenced within two years from the time the usurious transaction occurred.'
+
+ Messrs. J. W. Nichol, Thomas D. Sporer and E. W. Nicholson for plaintiff in error.
+ No. counsel opposed. 
+
+[196 U.S. 115, 117]
+ 
+
+ Mr. Justice Brewer delivered the opinion of the court:
+ The mere discharge by A. M. Lasater of the note executed 
+
+[196 U.S. 115, 118]
+ 
+ by himself and J. L. Lasater, by giving his own note in renewal thereof, would not uphold a recovery from the bank on account of usurious interest in the former note. Brown v. Marion Nat. Bank, 
+169 U.S. 416
+, 42 L. ed. 801, 18 Sup. Ct. Rep. 390. The payment contemplated by the statute is an actual payment, and not a further promise to pay, and was not made until the bank, in June, 1901, received its money. Prior to the renewal by A. M. Lasater, in October, 1900, there were only two or three small cash payments on the indebtedness.
+ We shall not stop to inquire whether J. L. Lasater can avail himself of the final payment made by A. M. Lasater. The court of appeals held that he could, reaching this conclusion on the authority of cases like Hough v. Horsey, 36 Md. 184, 11 Am. Rep. 484; Richardson v. Baker, 52 Vt. 617, to the effect that the grantee of mortgaged property, who in consideration of the purchase agrees to pay off the mortgage, cannot raise the question of usury, that being a personal right of the original debtor.
+ The court of appeals also held that the claim for usurious interest was one which survived the death of the person in whom the right of action was vested, and under the laws of Texas a part of his estate, and consequently one that could be sold and bought like any other chose in action. If so, that claim passed to the trustee in bankruptcy under  70 of the bankrupt law [30 Stat. at L. 566, chap. 547, U. S. Comp. Stat. 1901, p. 3451], which, in describing the property passing to the trustee, names 'property which prior to filing of the petition he could by any means have transferred.'
+ The question then presented is whether this right of action, having once passed to the trustee in bankruptcy, was retransferred to J. L. Lasater upon the termination of the bankruptcy proceedings, he having returned no assets to his trustee, and having failed to notify him or the creditors of this claim for usury, and beginning this action within less than two months after the final discharge of the trustee. We have held that trustees in bankruptcy are not bound to accept property of an onerous or unprofitable character, and that they have a 
+
+[196 U.S. 115, 119]
+ 
+ reasonable time in which to elect whether they will accept or not. If they decline to take the property, the bankrupt can assert title thereto. American File Co. v. Garrett, 
+110 
+U.S. 288, 295
+, 28 S. L. ed. 149, 152, 4 Sup. Ct. Rep. 90; Sparhawk v. Yerkes, 
+142 U.S. 1
+, 35 L. ed. 915, 12 Sup. Ct. Rep. 104; Sessions v. Romadka, 
+145 U.S. 29
+, 36 L. ed. 609, 12 Sup. Ct. Rep. 799; Dushane v. Beall, 
+161 U.S. 513
+, 40 L. ed. 791, 16 Sup. Ct. Rep. 634. But that doctrine can have no application when the trustee is ignorant of the existence of the property, and has had no opportunity to make an election. It cannot be that a bankrupt, by omitting to schedule and withholding from his trustee all knowledge of certain property, can, after his estate in bankruptcy has been finally closed up, immediately thereafter assert title to the property on the ground that the trustee had never taken any action in respect to it. If the claim was of value (as certainly this claim was, according to the judgment below), it was something to which the creditors were entitled, and this bankrupt could not, by withholding knowledge of its existence, obtain a release from his debts, and still assert title to the property.
+ The judgment of the Court of Civil Appeals is reversed, and the case remanded to that court for further proceedings not inconsistent with this opinion. 
+
+
+

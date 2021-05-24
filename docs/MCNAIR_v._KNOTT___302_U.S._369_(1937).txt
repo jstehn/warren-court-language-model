@@ -1,0 +1,168 @@
+Description: MCNAIR v. KNOTT , 302 U.S. 369 (1937)
+Date: 1937-12-13 00:00:00
+Docket: 32
+Opinion
+
+
+United States Supreme Court
+MCNAIR v. KNOTT(1937)
+No. 32
+Argued: Decided: December 13, 1937
+
+
+
+ Messrs. J. Turner Butler, of Jacksonville, Fla., and George P. Barse, of Washington, D.C., for petitioners.
+ Mr. J. Compton French, of Tallahassee, Fla., for respondents.
+
+ Mr. Justice BLACK delivered the opinion of the Court.
+ The question presented is whether the National Bank Enabling Amendment of June 25, 1930 (12 U.S.C.A.  90), which granted power to national banks to secure deposits of public funds, validates or makes deposits of public funds, validates or makes enforceable previous pledge agreements made to protect such funds deposited before the enabling amendment became effective. 
+
+[302 
+U.S. 369, 370]
+ 
+ That Enabling Act1 provides:
+'Any association may, upon the deposit with it of public money of a State or any political subdivision thereof, give security for the safekeeping and prompt payment of the money so deposited, of the same kind as is authorized by the law of the State in which such association is located in the case of other banking institutions in the State.'
+
+ Before and at the time this Enabling Amendment was passed, the laws of Florida authorized state banks to give security for public deposits and also imposed upon public officials a duty to obtain such security. 
+2
+ In 1929 and 1930, before the passage of this amendment, the First National Bank of Perry, Fla., by agreement with the officials of Taylor County, Fla ., pledged collateral security for the protection of county funds thereafter to be deposited from time to time in the bank.
+ This contractual relationship, established by the pledge agreement and deposits made thereunder, continued to exist until the bank was closed October 18, 1930. The receiver for the closed bank at first recognized the pledge agreement as valid and enforceable and accordingly paid the county the income he received from the pledged securities. In 1935, however, the receiver filed this suit in equity in the federal District Court for the Northern District of Florida, alleging that the pledge agreement was ultra vires and illegal and praying that it be canceled and annulled. Upon motion of the county, the District Court dismissed the bill. Ross v. Knott, 13 F.Supp. 963. The Circuit Court of Appeals for the Fifth Circuit affirmed. 87 F.2d 817. This Court granted certiorari. 
+301 
+U.S. 677
+, 57 S. Ct. 930
+
+
+
+
+[302 
+U.S. 369, 371]
+ 
+ The issues raised require that we determine:
+
+
+ (1)
+ Did Congress intend to validate existing ultra vires pledges?
+
+
+ (2)
+ Could this pledge agreement be validated by changing the law which was in force when the transaction was initiated?
+ First. The language of the amendment, read in the light of the conditions that brought about the necessity for its passage, leads irresistibly to the conclusion that Congress did intend to make existing pledges enforceable.
+ The amendment does not expressly exclude existing contracts from its field of operation. On the contrary it extended a general grant of the broad power to give security for public deposits, with a single limitation relating to the kind of security given by state banks. If Congress had desired to limit the remedial grant to subsequent security contracts, it would doubtless have provided an additional limitation relating to prior agreements. This it did not do. Congress alone had the power to write such a limitation in the bill. 
+ 3
+ 
+
+ Agreements to secure public deposits did not violate any express statutory prohibition; no statute imposed a penalty for making such agreements. Since the banking act of 1863 Congress has passed many laws requiring that security be given to protect deposits of certain public funds. 
+4
+ 
+
+ For many years Comptrollers of the Currency assumed that national banks had power to give security for public deposits and approved the practice of the banks in pledging such security. It has been, and is now, the policy of most states to require security for public funds whether deposited in state or national banks. The 
+
+[302 
+U.S. 369, 372]
+ 
+ weight of judicial authority in the state courts has supported the doctrine that banks could pledge security for public deposits, but not for private deposits. 
+5
+ 
+
+ The Senate Committee on Banking and Currency which made a favorable report on the Enabling Amendment gave information to the Senate in its report that millions of dollars worth of collateral had been pledged by national banks as security for public deposits. 
+6
+ The Senate and House Committee reports show that the sponsors of the amendment desired it not merely to permit future pledges but also to assure that agreements under which 'millions of dollars' of pledges had been made by national banks would be enforceable. One of the chief reasons for the enactment of the amendment was the need for validation of pledges already made. The amendment was designed to meet this need. To determine that Congress did not intend to validate pledge agreements existing when the amendment was passed would greatly limit its curative effect. Such a construction would be an unwarranted departure from the plain intent of this curative and enabling statute.
+ Second. Appellant insists that the contract could not be validated by changing the law which was in force when the pledge agreement was made.
+ There is nothing novel or extraordinary in the passage of laws by the federal government and the States ratifying, confirming, validating, or curing defective contracts. Such statutes, usually designated as 'remedial,' 'curative,' or 'enabling,' merely remove legal obstacles and permit parties to carry out their contracts according to their own desires and intentions. Such statutes have validated transactions that were previously illegal relat- 
+
+[302 
+U.S. 369, 373]
+ 
+ ing to mortgages, deeds, bonds, and other contracts. 
+7
+ Placing the stamp of legality on a contract voluntarily and fairly entered into by parties for their mutual advantage takes nothing away from either of them. No party who has made an illegal contract has a right to insist that it remain permanently illegal. Public policy cannot be made static by those who, for reasons of their own, make contracts beyond their legal powers. No person has a vested right to be permitted to evade contracts which he has illegally made. 
+8
+ 
+
+ This Court held that the Enabling Amendment removed the obstacle that prevented the enforcement of a contract of a national bank to give security to the State of Georgia for its deposits. 
+9
+ In that case as in this case, the bank made an ultra vires agreement to secure public deposits. In that case the deposits were made after the law was passed and were legal. In this case the deposits were made before the law was passed and were legal. In that case as in this case, the only illegal element of the agreement was the attempt to give security for public deposits. In that case as in this case, the parties permitted the original illegal security agreement to remain unaltered in its terms after the amendment was enacted. In that case it was held that the security agreement- 
+
+[302 
+U.S. 369, 374]
+ 
+ originally ultra vires-became enforceable from the date the amendment became effective. In this case, we hold that the security agreement- originally ultra vires-became enforceable from the date the amendment became effective. Let the judgment of the Circuit Court of Appeals be affirmed.
+
+ Mr. Justice McREYNOLDS, concurring.
+ The challenged judgment, I think, should be affirmed upon the theory that, subsequent to the enabling amendment of June 25, 1930, both parties recognized an existing obligation to observe the terms of the pledge agreement, and on this understanding maintained the relationship of debtor and creditor. Discussion of other questions seems unnecessary.
+ Prior to June 25, 1930, the Perry National Bank obtained deposits of public funds by undertaking to hypothecate certain of its assets to secure their payment. This went beyond the corporate power theretofore conferred. Texas & Pacific Railway Company v. Pottorff, 
+291 
+U.S. 245
+, 54 S.Ct. 416; City of Marion v. Sneeden, 
+291 
+U.S. 262
+, 54 S.Ct. 421; Lewis v. Fidelity & Deposit Company, 
+292 
+U.S. 559
+, 54 S.Ct. 848, 92 A.L.R. 794.
+ The amendment empowered the bank to secure such deposits by a pledge of assets. For more than three months thereafter the securities originally hypothecated were allowed to remain in the keeping of the trustee without suggestion of change in the outstanding agreement. And during that period prior deposits were allowed to remain with the bank. It closed October 18, 1930. Earlier insolvency is not relied upon.
+ The receiver claims that as the hypothecation was unlawful when made he became entitled to the assets free of lien.
+ After the amendment the bank had full power to do what it had undertaken to do. For three months it 
+
+[302 
+U.S. 369, 375]
+ 
+ accepted the benefits of the agreement and allowed the assets to remain with the trustee. All parties assumed the validity of the arrangement and acted in reliance upon it. The result was the same as if the assets had been repossessed by the bank after June 25, 1930, and again hypothecated under an agreement identical with the original one. 
+
+Footnotes
+
+[
+Footnote 1
+] Chapter 604, 46 Stat. 809, 12 U.S.C.  90 (12 U.S.C.A.  90). 
+[
+Footnote 2
+] First American Bank & Trust Co. v. Palm Beach, 96 Fla. 247, 117 So. 900, 65 A.L.R. 1398; Davis v. Knott, 109 Fla. 60, 147 So. 276. 
+
+[
+Footnote 3
+] Louisville & Nashville Railroad Co. v. Mottley, 
+219 
+U.S. 467, 479
+, 31 S.Ct. 265, 34 L.R.A.(N.S.) 671; James v. Milwaukee, 16 Wall. 159, 161. 
+[
+Footnote 4
+] Texas & Pacific Railway Co. v. Pottorff, 
+291 
+U.S. 245, 257
+, 54 S.Ct. 416, 418, note 11. 
+
+[
+Footnote 5
+] See cases collected in 42 Harvard Law Rev. 272; 79 University of Pennsylvania Law Rev. 608. 
+[
+Footnote 6
+] Senate Report No. 67, 71st Cong., 2d Sess. 
+
+[
+Footnote 7
+] Watson v. Mercer, 8 Pet. 88 (defective acknowledgment in deed validated by general law); Galveston H. & H.R. Co. v. Cowdrey, 11 Wall. 459 (mortgage validated by general statute); Randall v. Kreiger, 23 Wall. 137 (defective power of attorney validated by general statute); Ewell v. Daggs, 
+108 
+U.S. 143
+, 2 S.Ct. 408 (note validated by general statute); Gross v. U.S. Mortgage Co., 
+108 
+U.S. 477
+, 2 S.Ct. 940 (mortgage validated by general statute); Utter v. Franklin, 
+172 
+U.S. 416
+, 19 S.Ct. 183 (bonds validated by general law); West Side Belt Railroad Co. v. Pittsburgh Const. Co., 
+219 
+U.S. 92
+, 31 S.Ct. 196 (contract validated by general statute; Brown v. Boston & Maine Railroad, 233 Mass. 502, 124 N.E. 322 (agreement to purchase stock validated). 
+[
+Footnote 8
+] Ewell v. Daggs, supra. 
+[
+Footnote 9
+] Lewis v. Fidelity & Deposit Co. of Maryland, 
+292 
+U.S. 559
+, 54 S.Ct. 848, 92 A.L.R. 794. 
+
+
+
+

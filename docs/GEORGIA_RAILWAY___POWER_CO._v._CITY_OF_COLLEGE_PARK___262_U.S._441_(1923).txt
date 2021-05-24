@@ -1,0 +1,39 @@
+Description: GEORGIA RAILWAY & POWER CO. v. CITY OF COLLEGE PARK , 262 U.S. 441 (1923)
+Date: 1923-06-04 00:00:00
+Docket: 464
+Opinion
+
+
+United States Supreme Court
+GEORGIA RAILWAY & POWER CO. v. CITY OF COLLEGE PARK(1923)
+No. 464
+Argued: Decided: June 4, 1923
+
+
+
+ Mr. Walter T. Colquitt, of Atlanta, Ga., for plaintiffs in error.
+ Mr. Geo. P. Whitman, of Atlanta, Ga., for defendant in error.
+
+ Mr. Justice SUTHERLAND delivered the opinion of the Court.
+ The facts in this case and the contentions to be considered, with some exceptions presently to be stated, are essentially the same as those involved in Georgia Railway & Power Co. et al. v. Town of Decatur (No. 463) 
+262 U.S. 432
+, 43 Sup. Ct. 613, 67 L. Ed. --, just decided. From their inception in the state courts the two cases 
+
+[262 U.S. 441, 442]
+ 
+ have been considered together and in each of the three decisions referred to in the Decatur Case the state Supreme Court has disposed of them in a single opinion.
+ The contract here involved was made in 1905. It granted to the electric company the right to convert its single track within the limits of the municipality into a double track line of electric railway and provided:
+'That no greater fare than that of five cents for each passenger be charged for passage from the southern limits of said city of College Park to some central point in the city of Atlanta.'
+
+ The contract, however, unlike the Decatur one, contains no provision on the subject of transfers. Subsequently, by an act of the Legislature, the limits of College Park were extended so as to take in a portion of the College Park line theretofore outside the municipality. Upon the authority of the Decatur Case, we hold that the application of the five-cent fare to the annexed territory impairs the obligation of the contract. In addition to that, the order of the commission requiring the issuance of free transfers to College Park patrons, was erroneous.
+ The state courts, in effect, construed the contract as obliging defendant to carry passengers in both directions between College Park and Atlanta at the stipulated rate, and with this construction we agree. It cannot be supposed to have been within the intention of the contracting parties that one rate of fare should be charged for passage in one direction and a different rate in the opposite direction, for the same distance, over the same line, under the same conditions and entailing the same service. Such a construction of the clause would subvert the plain purpose of the ordinance, which was to fix a five-cent fare between the two cities. We construe the phrase 'from ... College Park to ... Atlanta' as though it read 'between College Park and Atlanta.' See State v. Stone, 20 R. I. 269, 38 Atl. 654. This construction, moreover, 
+
+[262 U.S. 441, 443]
+ 
+ agrees with the practice of the appellant, extending over many years in charging the same fare in each direction.
+ The decree of the state Supreme Court is reversed, and the cause r manded for further proceedings not inconsistent with this opinion.
+REVERSED.
+ Writ of certiorari denied. 
+
+
+

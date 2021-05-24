@@ -1,0 +1,87 @@
+Description: HUGHES BROS. TIMBER CO v. STATE OF MINN. , 272 U.S. 469 (1926)
+Date: 1926-11-23 00:00:00
+Docket: 170
+Opinion
+
+
+United States Supreme Court
+HUGHES BROS. TIMBER CO. v. STATE OF MINN.(1926)
+No. 170
+Argued: October 7, 1926Decided: November 23, 1926
+
+
+
+
+[272 U.S. 469, 470]
+ 
+ Messrs. H. A. Carmichael, W. D. Bailey, and Oscar Mitchell, and of Duluth, Minn., for petitioner.
+
+
+
+[272 U.S. 469, 471]
+ 
+ Messrs. James E. Markham, Clifford Hilton, and G. A. Youngquist, all of St. Paul, Minn., and H. H. Phelps, of Glendale, Cal., for State of Minnesota.
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ This was a special proceeding in the district court of Cook county, Minnesota, by the state, through the county treasurer, to collect taxes on personal property owned by the Hughes Bros. Timber Company. With the penalty and fees and costs, the amount sued for was $2,919.50. The amount claimed by items appeared in a delinquent list furnished by the treasurer to the sheriff of the county for collection for the year 1922. It included a tax upon 10,000 cords of pulp wood of the assessed value of $21,233. In its answer as amended, the timber company pleaded that the pulp wood was not subject to taxation in the state of Minnesota at the time it was assessed, May 1, 1922, but was at that time in actual transit in interstate commerce by continuous route from the state of Minnesota to the state of Michigan. This presents the only question in the case.
+ The issue was submitted, without a jury, to the district court which found that the wood was not being carried in interstate commerce. The result was a judgment against the timber company for $2,456.78, including a penalty. The case was appealed to the Supreme Court, which held that the judgment of the District Court was wrong in the penalty imposed, because the defendants had not been given opportunity to pay the correct amount of the taxes, but with this modification affirmed the judgment of the District Court. 163 Minn. 4, 203 N. W. 436. The case is here by certiorari granted October 12, 1925. 
+269 
+U.S. 542
+, 46 S. Ct. 22. 
+
+[272 U.S. 469, 472]
+ 
+ The Timber Company was a partnership, having its office headquarters at Hovland, Cook county, Minn. The Swamp river flows through the county and empties into the Pigeon river. The latter forms the boundary between Cook county, Minn., and the province of Ontario, Canada, and empties into Lake Superior. The timber company's pulp wood was cut and gathered at various places in the county, but was hauled to the Swamp river and piled up on the ice and on its banks at a point about two miles and a half above its discharge into the Pigeon river. In October, 1921, the Timber Company had made a contract with the Central Paper Company, of Muskegon, Mich. By that contract the timber company agreed to deliver to the paper company, over the rail of the paper company's vessels at the mouth of the Pigeon river, approximately 10,000 cords of spruce pulp wood. The timber company agreed to load the wood into them as promptly as possible after its arrival. The paper company was to give to the timber company three days' notice of the arrival of its vessels at the booms where the logs were held, The wood was to be scaled and measured by a representative of both parties when the first cargo was loaded, and also on arrival at Muskegon, Mich., the measurement at Muskegon to be the basis for final settlement. The price per cord was to be $12. The paper company agreed to make progress estimates or provisional measurements during the months of January, February, and March at river landings, and an advance of $3 per cord for all wood inspected and measured, its inspector to be properly assisted by the timber company. The title to the wood on which advances were made was to be in the name of the paper company and to be branded at the time of provisional inspection and measurement. The paper company agreed to advance the second 25 per cent. or $3 per cord when the wood was delivered in the Pigeon river booms, and the balance, or $6 a cord, within five days after its delivery at Muskegon. 
+
+[272 U.S. 469, 473]
+ 
+ Liability insurance, was to be carried and paid by the timber company, and cargo insurance was to be carried and paid for by the paper company. There was a warranty of title and freedom from all incumbrances by the timber company.
+ The hauling and placing of the logs on the ice and on the banks of the Swamp river were completed the latter part of March. When the ice broke, April 29, 1922, the drive of the logs began; those on the ice moved of themselves, and those on the banks were pushed in. The drive was conducted by the timber company's men. It had lasted 18 days when the logs reached the Pigeon river booms. By the latter part of July, all the logs had been shipped by vessels of the paper company on the lake to Muskegon.
+ We do not think it important, for purposes of this case, to decide where the title to the timber was at the time the drive began. The paper company had an interest in the timber and so had the timber company. Although the point was at first made by the timber company that the logs were not taxable in the name of the timber company May 1, 1922, the day fixed as the tax day, that point is not pressed. The contract and the method of complying with it are all circumstances, however, throwing light on the question whether the transportation in interstate commerce began at the beginning of the drive when the ice broke up or at the point of loading on the lake.
+ The timber company was under contract to float the timber down from the place of piling on the Swamp river and deliver it as promptly as possible. The paper company by payment of $3 a ton had acquired a qualified ownership in the timber, even before it was segregated and put to float. Had the timber company or some one claiming under it attempted to stop the drive after it had begun, and interfered with the passage of the timber 
+
+[272 U.S. 469, 474]
+ 
+ down the Swamp or Pigeon river, it would have been a breach of the contract of sale. All this characterizes what was being done in the drive between the Swamp river entrepot and the mouth of the Pigeon river, That was the beginning or first leg of the interstate journey. The obligations of both parties accorded with that view. The change in the method of transportation by floating to carriage on a vessel did not affect the continuity of the interstate passage, if such a passage was intended by the parties and had begun, any more than did shipment by local railroad bills of lading from a point in a state to a port of the same state, for shipment by vessel to a foreign port, prevent its being interstate or foreign commerce. Southern Pacific Terminal Co. v. Interstate Commerce Commission, 
+219 
+U.S. 498
+, 631 S. Ct. 279; Ohio Railroad Commission v. Worthington, 
+225 
+U.S. 101
+, 32 S. Ct. 653; Texas, etc., R. R. Co. v. Sabine Tram Co., 
+227 
+U.S. 111
+, 33 S. Ct. 229; R. R. Commission v. Texas & Pacific Ry. Co., 
+229 
+U.S. 336
+, 33 S. Ct. 837; Philadelphia & Reading Ry. Co. v. Hancock, 
+253 
+U.S. 284, 286
+, 40 S. Ct. 512; B. & O. S. W. R. R. Co. v. Settle, 
+260 
+U.S. 166, 170
+, 43 S. Ct. 28; Spalding & Bros. v. Edwards, 
+262 
+U.S. 66, 70
+, 43 S. Ct. 485.
+ The case seems to us to come within the ruling of this court in the case of Champlain Co. v. Town of Brattleboro, 
+260 
+U.S. 366
+, 43 S. Ct. 146, 25 A. L. R. 1195. That was a tax case like this. There the owner had cut pulp wood in several towns in Vermont. The wood was placed upon the banks of the West river and its tributaries, to be floated down into the Connecticut river and thence to its destination at the mill of the owner in Hinsdale, on the New Hampshire side of the river. Four thousand of the cords had been floated down the West river on the high water, and reached a boom at the mouth of the West river; but it was thought not safe, in view of the high water, then to let the wood into the Connecticut. It was contended that the logs which were held in the boom at the mouth of the West river were taxable there. We held otherwise; that the interstate journey of the logs had already begun when 
+
+[272 U.S. 469, 475]
+ 
+ the boom was reached; that the boom was not a depot for the gathering of logs preparatory for the final journey; that it was a safety appliance in the course of the final journey, a harbor of refuge from danger to a shipment on its way; that it was not used by the owner for any beneficial purpose of his own except to facilitate the safe delivery of the wood in New Hampshire on the other side of the Connecticut river.
+ This court distinguished the facts in that case from the facts in the main case discussed in Coe v. Errol, 
+116 
+U.S. 517
+, 6 S. Ct. 475, as they can be distinguished here. It is clear that the entrepot or depot for the interstate shipment of logs was in the Swamp river. The drive in the two rivers, though under the direction of the timber company, was not gathering the logs for subsequent interstate shipment, it was the interstate movement itself. Both parties intended interstate shipment, they had bound themselves to it, the logs were segregated and were moving in the contemplated journey which neither could prevent if they carried out their agreement. The delays in the continuity of movement were only incidental to the journey and the necessary change in the mode of transportation by which the logs were carried from a place in one state to a place agreed upon in another.
+ The conclusion in cases like this must be determined from the various circumstances. Mere intention by the owner ultimately to send the logs out of the state does not put them in interstate commerce, nor does preparatory gathering for that purpose at a depot. It must appear that the movement for another state has actually begun and is going on. Solution is easy when the shipment has been delivered to a carrier for a destination in another state. It is much more difficult when the owner retains complete control of the transportation and can change his mind and divert the delivery from the intended interstate destination as in the Champlain Company Case. The character of the shipment in such a case de- 
+
+[272 U.S. 469, 476]
+ 
+ pends upon all the evidential circumstances looking to what the owner has done in the preparation for the journey and in carrying it out. The mere power of the owner to divert the shipment already stated does not take it out of interstate commerce if the other facts show that the journey has already begun in good faith and temporary interruption of the passage is reasonable and in furtherance of the intended transportation, as in the Champlain Case. Here the case is even stronger in that the owner and initiator of the journey could not by his contract divert the logs after they had started from Swamp river without a breach of contract made by him with his vendee who by the agreement of sale divided with him the responsibility for the continuous interstate transportation.
+ The judgment of the Supreme Court of Minnesota is reversed and remanded for further proceedings not inconsistent with this opinion. 
+
+
+

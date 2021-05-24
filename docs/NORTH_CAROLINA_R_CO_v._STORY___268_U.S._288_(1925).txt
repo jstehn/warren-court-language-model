@@ -1,0 +1,86 @@
+Description: NORTH CAROLINA R CO v. STORY , 268 U.S. 288 (1925)
+Date: 1925-05-25 00:00:00
+Docket: 322
+Opinion
+
+
+United States Supreme Court
+NORTH CAROLINA R. CO. v. STORY(1925)
+No. 322
+Argued: April 14, 1925Decided: May 25, 1925
+
+
+
+
+[268 U.S. 288, 289]
+ 
+ Mr. S. R. Prince, of Washington, D. C., for petitioner.
+ Mr. Chapin Brown, of Washington, D. C., for respondents.
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ The questions in this case are two. One is of our jurisdiction to issue the writ of certiorari to review a judgment of the Supreme Court of North Carolina, and turns on its finality. The second is whether a judgment of that court against the North Carolina Railroad Company for injuries caused by the operation of the road by the United States will bar a suit by the company to enjoin the execution of such judgment against its property under section 206 (g) of the Transportation Act of 1920 (chapter 91, 41 Stat. 456, 462 [Comp. St. Ann. Supp. 1923,  10071 1/4 cc]). The relevant part of the section reads as follows:
+'No execution or process ... shall be levied upon the property of any carrier where the cause of action on account of which the judgment was obtained grew out of the possession, use, control, or operation of any railroad or system of transportation by the President under federal control.'
+
+ Maggie Barber was killed in North Carolina by a collision between a locomotive of the Southern Railway 
+
+[268 U.S. 288, 290]
+ 
+ Company and an automobile in which she was riding. It was on the line of the North Carolina Railroad Company, then under a long lease to the Southern Railway Company. King, the administrator of the deceased, sued the North Carolina Company, in the superior court of Guilford county, charging negligence by defendant's lessee. The defendant by answer denied that the death was caused by the negligence of its lessee or its employees, because the railroad was then being operated by the Director General of Railroads. The jury returned a verdict for $2,500 and judgment was entered. An appeal was attempted but was not perfected, due, it is said, to the illness of counsel. Without seeking execution, the administrator instituted a second suit, based on the first judgment, averring that it was unpaid. The company by answer set up section 206 (g), above quoted, as a defense, and averred that the second suit was brought to evade the section. The plaintiff demurred, on the ground that the first judgment had become res judicata. The court rendered judgment with interest and further costs. The company appealed, and the judgment was affirmed. 184 N. C. 442, 115 S. E. 172. The company opposed execution in the lower court, and excepted to the order directing it to Story, the sheriff of Alamance county, to be levied upon certain real estate of the company in that county.
+ The company then brought the present action based on section 206 (g) in the superior court of Guilford county against Story and the administrator, seeking to enjoin permanently the execution. The defendants answering admitted the execution but pleaded the second judgment as res judicata. The company secured a temporary restraining order and a rule on the defendants to show cause why the temporary order should not be continued and made permanent. On hearing, the motion to continue the order and make it permanent was denied. The court, pending plaintiff's appeal, stayed the execution 
+
+[268 U.S. 288, 291]
+ 
+ upon the giving of bond, while the plaintiff was taxed with the costs of the case. On appeal, the action of the lower court was affirmed by the Supreme Court. 187 N. C. 184, 121 S. E. 433. This court then granted a certiorari and brought the case here. 
+264 
+U.S. 579
+, 44 S. Ct. 404.
+ Section 237 of the Judicial Code, as amended by the Act of September 6, 1916, c. 448, 39 Stat. 726 (Comp. St.  1214), provides that final judgments of the highest court of a state are subject to review by certiorari. Is this judgment a final judgment? We think it is. In its terms it affirms the refusal of the lower court to continue the temporary order and to grant a permanent injunction. The Supreme Court based its decision on the facts admitted in the petition and answer. Its judgment was that the previous judgment as between the parties was res judicata, estopped the company from resisting execution and thereby deprived it of any right to either a temporary or permanent injunction. Injunction was the only relief which the company sought or could seek under its petition and prayer. The affirmance of the judgment of the lower court upon the certified opinion of the Supreme Court left nothing for the Guilford county court to do but to dismiss the petition. Something is said about other issues raised by the administrator in his answer; but the ruling of the Supreme Court ignored them and disposed of the case in his favor. Such a decree is a final decree. Chesapeake & Potomac Telephone Co. v. Manning, 
+186 
+U.S. 238
+, 22 S. Ct. 881; Mower v. Fletcher, 
+114 
+U.S. 127
+, 5 S. Ct. 799; Commissioners v. Lucas, Treasurer, 
+93 U.S. 108
+; Flemming v. Roberts, 84 N. C. 532, 539. See, also, Forgay v. Conrad, 6 How. 201; Bronson v. Railroad Company, 2 Black, 524; Beebe v. Russell, 19 How. 283; Crosby v. Buchanan, 23 Wall. 420; Thomson v. Dean, 7 Wall. 342; Compare Headman v. Commissioners, 177 N. C. 261, 98 S. E. 776.
+ It is said that the judge of the lower court, to whom the application for the continuance of the temporary injunction 
+
+[268 U.S. 288, 292]
+ 
+ and the granting of a permanent injunction in this case had been referred by the regular judge of Guilford county, was a judge of a court of another county, and had by the practice of the state no power to grant a permanent injunction, and so that the appeal from his order denying the application to continue the temporary injunction did not bring to the Supreme Court for its decision the question of the issue of a permanent injunction. The report of the case in the Supreme Court shows it as one presenting the question of an application to continue the temporary injunction and to make it permanent, and whatever the power of a judge of a court in another county in North Carolina to allow a permanent injunction in his court, we must assume from the action of the Supreme Court, and the recital of what was before it, that it intended the Guilford county court on the coming down of its mandate to terminate the case by following its opinion. By the ordinary prectice in equity as administered in England and this country, an appellate court has the power on appeal from a temporary or interlocutory order or decree to examine the merits of the case if sufficiently shown by the pleadings and the record and upon deciding them in favor of the defendant to dismiss the bill and save both parties the needless expense of further prosecution of the suit. Smith v. Vulcan Iron Works, 
+165 
+U.S. 518, 523
+, 524 S., 17 S. Ct. 407, and cases cited; Denver v. New York Trust Co., 
+229 
+U.S. 123, 136
+, 33 S. Ct. 657; Meccano, Ltd., v. John Wanamaker, 
+253 
+U.S. 136, 141
+, 40 S. Ct. 463. We think we have jurisdiction.
+ Coming now to the merits, it may be conceded that the first judgment against the company in favor of the administrator, however erroneous it was in view of the cases of Missouri Pacific Railroad v. Ault, 
+256 
+U.S. 554
+, 41 S. Ct. 593, and North Carolina Railroad Company v. Lee, Administrator, 
+260 
+U.S. 16
+, 43 S. Ct. 2, not having been appealed from, was res judicata. Nor could section 206 (g) prevent the second judgment. It was not directed against judgments. It was intended to protect 
+
+[268 U.S. 288, 293]
+ 
+ the property of the company, not by preventing a judgment, but by preventing an execution to satisfy a judgment for injury by government operation of its road, whether that judgment was rendered against the carrier which leased the road, against the carrier which owned the road, or against the government itself. The language of the statute assumes the existence of judgments against carriers for fault of the government management before the section comes into play. There had been so much diversity of practice as to the person against whom the judgment should be rendered in seeking to establish and collect claims for injuries caused in government operation that Congress adopted this unusually broad method of rendering the property of the carriers immune. By virtue of a law of Congress plainly within its power, a distinction was thus made between the judgment and the execution. The state Supreme Court decided that the right to a judgment as between the plaintiff and the railroad company in the second case was established by the first judgment, not that a right to execution thereon was established. 184 N. C. 442, 115 S. E. 172.
+ After considering the contention made by the company against the right to a judgment because of section 206 (g), the court said (page 448 [ 115 S. E. 175]):
+'It might suffice to say in answer to this position that plaintiff thus far has not undertaken to levy any process or execution against the property of the defendant road, and his proceeding, therefore, does not come within the literal terms of the provision on which he here relies, but inasmuch as the answer contains averment that plaintiff is wrongfully seeking in this present suit to avoid the force and effect of the statutory provision just quoted, we consider it pertinent to say that in our opinion the judgment sued on does not come within the inhibition as stated.'
+
+ The court then proceeded to consider section 10 of the Federal Control Act, 40 Stat. 456 (Comp. St. 1918, Comp. St. Ann. Supp. 1919,  3115 3/4j), and paragraphs A, B, C, 
+
+[268 U.S. 288, 294]
+ 
+ D, E, and G, of section 206 of the Transportation Act of 1920, and to hold that the former was a prohibition against physical interference by third persons, creditors or others, while the road was in the possession of the government, and that the latter was a protection of the carriers in possession from physical interference by actions or judgments provided and allowed for by the government. 'But,' said the court, 'this legislation in our view was never intended to protect the carriers from judgments in independent suits by claimants when they have failed to plead or properly insist on the immunity from liability which had been provided for their protection.' In effect, the court gave two reasons for its conclusion, the first of which was that it was not dealing with an execution and the second that section 206 (g) did not apply to either a judgment or an execution in a case like the one before it. But the point adjudged was not the effect of section 206 (g) on an execution, whatever the inference from the court's reasoning. The estoppel of the court's conclusion reached only the judgment.
+ It is well settled that the principle of res judicata is only applicable to the point adjudged and not to points only collaterally under consideration, or incidentally under cognizance or only to be inferred by arguing from the decree. Hopkins v. Lee, 6 Wheat, 109, 114; Norton v. Larney, 
+266 
+U.S. 511, 517
+, 45 S. Ct. 145. The reasoning and opinion of the court are not res judicata unless the subject- matter in issue be definitely disposed of by the decree. Keane v. Fisher, 10 La. Ann. 261; Bridges v. McAlister, 106 Ky. 791, 51 S. W. 603, 45 L. R. A. 800, 90 Am. St. Rep. 267; Probate Court v. Williams 30 R. I. 144, 73 A. 382. 19 Ann. Cas. 554; Scottish-American Mortgage Company v. Bunckley, 88 Miss. 641, 41 So. 502, 117 Am. St. Rep. 763; Braun v. Wisconsin Rendering Company, 92 Wis. 245, 66 N. W. 196; Citizens' Bank of Emporia v. Brigham, 61 Kan. 727, 60 P. 754.
+ The judgment of the Supreme Court of North Carolina is reversed, and the cause remanded for further proceedings not inconsistent with this opinion. 
+
+
+

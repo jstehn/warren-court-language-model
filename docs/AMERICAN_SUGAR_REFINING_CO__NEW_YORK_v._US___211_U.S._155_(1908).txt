@@ -1,0 +1,82 @@
+Description: AMERICAN SUGAR REFINING CO, NEW YORK v. US , 211 U.S. 155 (1908)
+Date: 1908-11-30 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+AMERICAN SUGAR REFINING CO, NEW YORK v. US(1908)
+
+Argued: November 11, 1908Decided: November 30, 1908
+
+
+
+ Messrs. John G. Johnson, Henry B. Closson, and John E. Parsons for appellant. 
+
+[211 U.S. 155, 156]
+ 
+ Mr. J. C. McReynolds for appellee.
+
+
+
+[211 U.S. 155, 157]
+ 
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ The tariff act of July 24, 1897, provides 
+
+[211 U.S. 155, 158]
+ 
+
+'209. Sugars not above number sixteen Dutch standard in color, tank bottoms, sirups of cane juice, melada, concentrated melada, concrete and concentrated molasses, testing by the polariscope not above seventy-five degrees, ninety-five one-hundredths of one cent per pound, and for every additional degree shown by the polariscopic test, thirty-five one thousandths of one cent per pound additional, and fractions of a degree in proportion; and on sugar above number sixteen Dutch standard in color, and on all sugar which has gone through a process of refining, one cent and ninety-five one-hundredths of one cent per pound; molasses testing above forty degrees and not above fifty-six degrees, three cents per gallon; testing fifty-six degrees and above, six cents per gallon; sugar drainings and sugar sweepings shall be subject duty as molasses or sugar, as the case may be, according to polariscopic test.' [30 Stat. at L. 168, chap. 11, U. S. Comp. Stat. 1901, p. 1647.]
+
+ In October, 1897, the Treasury Department issued general regulations ( subsequently modified in particulars not material here) governing sampling and classification of sugars under the above-quoted paragraph, which, among other things, declared:
+'The expression 'testing . . . degrees by the polariscope,' occurring in the act, is construed to mean the percentage of pure sucrose contained in the sugar as ascertained by polarimetric estimation.'
+
+ It was further stated that changes of temperature affect the indications of a polariscope, and to determine by means of it true sucrose contents apparent readings must be corrected as shown by a table accompanying each instrument and embodying the results of careful experiments therewith; when the thermometer is above 17.5ø centigrade, the point of standardization, additions must be made; when below, corresponding subtractions. 
+
+[211 U.S. 155, 159]
+ 
+ The interpretation of the statute and validity of the regulations were at once challenged by importers, who claimed that the reading of a polariscope is not affected by change in temperature; and, further, that the term 'polariscopic test' in the tariff act of 1897, according to its well-settled commercial use, as well as by the language itself, requires testing only in the way theretofore observed by merchants, and forbids any correction of the result observed by the eye. These contentions were denied by the collector.
+ The importers appealed to the board of general appraisers, and in March, 1899, their protest was overruled in a considered opinion. G. A. 4386
+
+
+ Under the titles Bartram Bros. v. United States, Howell v. United States, and American Sugar Ref. Co. v. United States, appeal was taken to the circuit court, southern district of New York, which was decided May 4, 1903. 123 Fed. 327. That court reversed the judgment of the general appraisers, holding that the term, 'testing by the polariscope,' had a well-settled commercial meaning prior to 1897, and must be interpreted according thereto. It declared, however, the preponderance of proof sustained the contention 'that there is a variation in the reading of the polariscope, according to variations in temperature at the place where the sugar is tested, and that the corrections and additions provided for by the regulations merely consist in an addition of .3 per cent for each 10 degrees centigrade of temperature above that at which the polariscope is standardized, and that in this way the actual amount of pure sucrose in each sample is more accurately determined than was the case under the old eye test.'
+ The circuit court of appeals (65 C. C. A. 557, 131 Fed. 833) reversed the circuit court and sustained the general appraisers. It held Congress intended there should be a scientific determination, by means of the polariscope, of sucrose contents, and that the method prescribed by the Treasury regulations was proper in order to secure the desired result. 
+
+[211 U.S. 155, 160]
+ 
+ The rulings are correctly stated in the headnotes thus:
+'In construing the provision in paragraph 209, tariff act July 24, 1897, chap. 11,  1, schedule E, 30 Stat. at L. 168, U. S. Comp. Stat. 1901, p. 1647, regulating duty on sugars according to the polariscopic test, held that the expressions therein, 'testing by the polariscope' and 'shown by the polariscopic test,' are not used with any special trade meaning that would confine them to a particular method of conducting such test, but import an intention on the part of Congress that the method adopted should be the one best calculated to make a scientific determination.
+
+ Under the general power of the Secretary of the Treasury to make customs regulations not inconsistent with law, granted by  251, U. S. Rev. Stat., U. S. Comp. Stat. 1901, p. 138, it is competent for that officer to prescribe the method of 'testing by the polariscope' the sugars dutiable according to such test under paragraph 209, tariff act July 24, 1897, chap. 11,  1, schedule E, 30 Stat. at L. 168, U. S. Comp. Stat. 1901, p. 1647; and so long as he acts in good faith, and it does not appear that his regulations operate to make the polariscopic test less accurate than when Congress adopted it, the courts should not interfere with the administrative details confided to him.
+'Where, for a period of years covering the operation of several tariff acts, the Secretary of the Treasury has made regulations for carrying out certain provisions in those acts, it is to be presumed that subsequent legislation by Congress was enacted with reference to such regulations.'
+
+ At October term, 1904, a petition for a writ of certiorari to bring up these cases for review was presented to this court, and denied. 
+195 U.S. 635
+, 49 L. ed. 354, 25 Sup. Ct. Rep. 792.
+ In the present cause counsel stipulated:
+'It is agreed that the sugars in question were tested and classified in accordance with the Treasury regulations of October 27, 1897, and of February 17, 1899, and that the questions raised are the same as those in the cases of Bartram Bros. v. United States, 
+
+[211 U.S. 155, 161]
+ 
+ Howell v. United States, and American Sugar Ref. Co. v. United States, reported in 123 Fed. 327, and in 65 C. C. A. 557, 131 Fed. 833, and it is agreed that the evidence and exhibits in those cases contained on pages 33 to 364, inclusive, and pages 373 to 734, inclusive, of the transcript of record in those cases prepared for the Supreme Court of the United States and contained in the volume filed herewith . . . are to be treated as duly taken and introduced as evidence in this cause.'
+
+ By  6 of the act of 1891 [26 Stat. at L. 828, chap. 517, U. S. Comp. Stat. 1901, p. 549], the judgments or decrees of the circuit courts of appeals are made final in all cases arising under the revenue law, and can only be carried to the Supreme Court by certificate, or on a certiorari. In the aforementioned cases there was no certificate for instruction on any question or proposition of law, and the application for certiorari was denied. The present direct appeal to this court is a mere attempt to obtain a reconsideration of questions arising under the revenue laws and already determined by the circuit court of appeals in due course. Such direct appeals, under  5 of the act of 1891, cannot be entertained unless the construction or application of the Constitution of the United States is involved.
+ This is conceded, and counsel for appellant attempt to sustain the jurisdiction on the ground that the regulations assumed to add something to the dutiable standard prescribed by the tariff act, and that, in doing so, the Secretary exercised legislative power confided by the Constitution solely to Congress. But this does not constitute a real and substantial dispute or controversy concerning the construction or application of the Constitution upon which the result depends.
+ The admitted duty of the Secretary of the Treasury was to construe as best he could the paragraph relating to collection of duty upon sugars, and to promulgate regulations for carrying it into effect. Rev. Stat.  251. This and this alone he did. The only real, substantial point involved is whether or not he misconstrued the statute, and that gives this court no juris- 
+
+[211 U.S. 155, 162]
+ 
+ diction upon direct appeal. Sloan v. United States, 
+193 
+U.S. 614, 620
+, 48 S. L. ed. 814, 817, 24 Sup. Ct. Rep. 570, and cases cited; United States ex rel. Taylor v. Taft, 
+203 U.S. 461
+, 51 L. ed. 269, 27 Sup. Ct. Rep. 148.
+ Undoubtedly Congress, without violating any constitutional provision, could have in terms directed exactly what was prescribed by the Treasury regulations; and prior decisions have held that the statute was properly construed by the Secretary.
+ We concur with counsel for the government that, if the construction or application of the Constitution of the United States, within the meaning of  5, act of 1891, is involved in every case where one claims that, according to his interpretation of a statute, excessive duty or tax has been demanded by executive officers, the provisions of that act making decisions of the circuit court of appeals in revenue cases final are of very limited value, and this court must entertain direct appeals from the circuit courts in most tariff and tax controversies, which we regard as out of the question.
+ Appeal dismissed. 
+
+
+

@@ -1,0 +1,87 @@
+Description: ORIEL v. RUSSELL , 278 U.S. 358 (1929)
+Date: 1929-01-14 00:00:00
+Docket: 92
+Opinion
+
+
+United States Supreme Court
+ORIEL v. RUSSELL(1929)
+No. 92
+Argued: Decided: January 14, 1929
+
+
+
+
+[278 U.S. 358, 359]
+ 
+ Messrs. Archibald Palmer, of New York City, and Max Rosenstein, of Newark, N. J., for petitioner Prela.
+ Mr. Hugo Levy, of New York City, for petitioners Oriel and others.
+ Messrs. Benjamin Siegel and William E. Russell, both of New York City, for respondent Russell.
+
+
+
+[278 U.S. 358, 360]
+ 
+ Mr. George Lion Cohen, of New York City, for respondent Hubshman.
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ These are writs of certiorari to orders of commitment of bankrupts for contempt, one in No. 92 of Harry Oriel and Joseph Confino, and the other in No. 91 of Samuel 
+
+[278 U.S. 358, 361]
+ 
+ Prela, made by the United States District Court for the Southern District of New York, and affirmed by the Circuit Court of Appeals for the Second Circuit. They were heard together.
+ In the Oriel Case, the order, the breach of which led to the commitment, was against Oriel and Confino, directing them to turn over to their trustee in bankruptcy their books for the year 1925. The turnover order was made upon the report of the referee, October 22, 1926. The books directed to be turned over were a ledger, a purchase book and journal, a cash book and a time book. The petition was filed in August, 1926, the order to turn over granted October 22, 1926, and the order of commitment appealed from was entered March 8, 1927. The excuse offered by the bankrupts for noncompliance was that the books were not in their possession and had not been since they moved from one store to another in January, 1926, before the bankruptcy. It appeared that the only books which were missing were the books of 1925. These were necessary to sustain the entries in the books in 1926, showing the basis for the figures for the books of that critical year. The court discredited the excuse of inability to comply. There was conflicting evidence, but, after an extended hearing, the referee found that the books of account were with the bankrupts or under their control. No appeal was taken from the turnover order, and, after a failure to comply therewith, a motion followed for an order of contempt which committed them to jail, thereto be confined and detained until they purged themselves. On the motion to commit, the bankrupts attempted to introduce evidence on the issue whether at the time of the turnover order they had the books in their possession or under their control. The referee and the District Court refused to retry that issue on the ground that the turnover order could not be collaterally attacked. 17 F.(2d) 800. No attempt was made by the bankrupts to show that there was any change in respect to 
+
+[278 U.S. 358, 362]
+ 
+ the custody of the books after the turnover order. The Circuit Court of Appeals affirmed the action of the District Court. 23 F.(2d) 409.
+ In the Prela Case, the bankrupt was directed to turn over to his trustees merchandise and money amounting in all to about $10,000. An appeal from the turnover order was denied by the Circuit Court of Appeals. Failure to comply resulted in a contempt order similar to that in the Oriel Case. 23 F.(2d) 413. It was attempted to introduce in the Prela Case, as it had been in the Oriel Case, evidence to show that the original turnover order was wrong, and witnesses were called who had been available at the original hearing but had not then been subpoenaed.
+ The cases are brought here on the ground of error in the District Court in holding that the turnover order could not be collaterally attacked, and that the only evidence which was relevant on the motion to commit for contempt was evidence tending to show that, since the turnover order, circumstances had happened disclosing the inability of the bankrupts to comply with the order. It was urged that a finding of contempt required a greater weight of evidence than a turnover order, and hence that the former could not be predicated upon the latter without a re- examination of all the evidence. These rulings present the question before us.
+ We think a proceeding for a turnover order in bankruptcy is one the right to which should be supported by clear and convincing evidence. The charge upon which the order is asked is that the bankrupt, having possession of property which he knew should have been delivered by him to the trustees, refuses to comply with his obligation in this regard. It is a charge equivalent to one of fraud, and must be established by the same kind of evidence required in a case of fraud in a court of equity. A mere preponderance of evidence in such a case is not enough. 
+
+[278 U.S. 358, 363]
+ 
+ The proceeding is one in which coercive methods by imprisonment are probable and are foreshadowed. The referee and the court in passing on the issue under such a turnover motion should therefore require clear evidence of the justice of such an order before it is made. Being made, it should be given weight in the future proceedings as one that may not be collaterally attacked by an effort to try over the issue already heard and decided at the turnover. Thereafter on the motion for commitment the only evidence that can be considered is the evidence of something that has happened since the turnover order was made showing that since that time there has newly arisen an inability on the part of the bankrupt to comply with the turnover order.
+ The proceedings in these two cases have been so long drawn out by efforts on the part of the bankrupts to retry the issue presented on the motion to turn over as to be, of themselves, convincing argument that, if the bankruptcy statute is not to be frittered away in constant delays and failures of enforcement of lawful orders, the rule we have laid down is the proper one.
+ The decision of the court in the case of Gompers v. Buck's Stove & Range Co., 
+221 
+U.S. 418, 442
+, 31 S. Ct. 492 (55 L. Ed. 797, 34 L. R. A. ( N. S.) 874), and the discussion of Mr. Justice Lamar in that case, leave no doubt that a motion to commit the bankrupt for failure to obey an order of the court to turn over to the receiver in bankruptcy the property of the bankrupt is a civil contempt and is to be treated as a mere step in the proceedings to administer the assets of the bankrupt as provided by law, and in aid of the seizure of those assets and their proper distribution. While in a sense they are punitive, they are not mere punishment-they are administrative but coercive, and intended to compel, against the reluctance of the bankrupt, performance by him of his lawful duty. 
+
+[278 U.S. 358, 364]
+ 
+ With reference to the character or degree of proof in establishing a civil fraud, the authorities are quite clear that it need not be beyond reasonable doubt, because it is a civil proceeding. Lalone v. United States, 
+164 
+U.S. 255, 257
+, 17 S. Ct. 74 (41 L. Ed. 425); United States v. American Bell Telephone Co., 
+167 
+U.S. 224, 241
+, 17 S. Ct. 809 (42 L. Ed. 144); 5 Wigmore, Evidence (2d Ed. 1923)  2498, 2, 3, and the cases cited. The Court ought not to issue an order lightly or merely on a preponderance of the evidence, but only after full deliberation and satisfactory evidence, with the understanding that it is rendering a judgment which is only to be set aside on appeal or some other form of review, or upon a properly supported petition for rehearing in the same court.
+ A turnover order must be regarded as a real and serious step in the bankruptcy proceedings, and should be promptly followed by commitment, unless the bankrupt can show a change of situation after the turnover order relieving him from compliance. There is a possibility, of course, of error and hardship, but the conscience of judges in weighing the evidence under a clear perception of the consequences, together with the opportunity of appeal and review, if properly taken, will restrain the courts from recklessness of bankrupt's rights on the one hand and prevent the bankrupt from flouting the law on the other. The cases on this subject are legion, with varying views, but the following seem to us to lay down more nearly the correct view: Toplitz v. Walser (C. C. A.) 27 F. (2d) 196; Epstein v. Steinfeld (C. C. A.) 210 F. 236; Schmid v. Rosenthal (C. C. A.) 230 F. 818; Frederick v. Silverman (C. C. A.) 250 F. 75; Reardon v. Pensoneau (C. C. A.) 18 F.(2d) 244; United States ex rel. Paleais v. Moore ( C. C. A.) 294 F. 852; In re Frankel (D. C.) 184 F. 539; Drakeford v. Adams, 98 Ga. 722, 25 S. E. 833; Collier, Bankruptcy, 652 (Gilbert's Ed. 1927).
+ There are contempt cases where, under a decree for alimony, it is necessary to resort to coercive measures to secure compliance, and the issue of fact arises as to the 
+
+[278 U.S. 358, 365]
+ 
+ ability of the contemnor to pay what is owing. The rules of evidence are much the same as here laid down for bankruptcy. Smiley v. Smiley, 99 Wash. 577, 169 P. 962; Barton v. Barton, 99 Kan. 727, 163 P. 179; Ex parte Von Gerzabek, 58 Cal. App. 230, 208 P. 318; Hurd v. Hurd, 63 Minn. 443, 65 N. W. 728; Heflebower v. Heflebower, 102 Ohio St. 674, 133 N. E. 455; Fowler v. Fowler, 61 Okl. 280, 161 P. 227, L. R. A. 1917C, 89.
+ The conclusive effect in a proceeding of this sort of an order of 'turnover' finds its analogy in the inquiry in contempt proceedings for violating an injunction issued by a court of general jurisdiction. Howat v. Kansas, 
+258 
+U.S. 181
+, 42 S. Ct. 277; Huttig Sash Co. v. Fuelle (C. C.) 143 F. 363; People ex rel. Cauffman v. Van Buren, 136 N. Y. 252, 32 N. E. 775, 20 L. R. A. 446; Hamlin v. New York, N. H. & H. R. R., 170 Mass. 548, 49 N. E. 922; Ketchum v. Edwards, 153 N. Y. 534, 538, 47 N. E. 918; Cape May Railroad v. Johnson, 35 N. J. Eq. 422; Saginaw Lumber Co. v. Griffore, 145 Mich. 287, 108 N. W. 681, 116 Am. St. Rep. 297; Cline v. Whitaker, 144 Wis. 439, 129 N. W. 400, 140 Am. St. Rep. 1039; Hoskins v. Somerset Coal Co., 219 Pa. 373, 68 A. 843, 123 Am. St. Rep. 667; Hake v. People, 230 Ill. 174, 82 N. E. 561; Hilton v. Hilton, 89 N. J. Eq. 472, 106 A. 139; Root v. MacDonald, 260 Mass. 344, 157 N. E. 684, 54 A. L. R. 1422
+
+
+ A number of cases can be found in the decisions of the Circuit Courts of Appeal and the District Courts indicating a hesitation and great reluctance to issue orders of commitment where there be any reasonable doubt of the ability of the bankrupt to comply with the turnover order. Kirsner v. Taliaferro (C. C. A.) 202 F. 51; Stuart v. Reynolds (C. C. A.) 204 F. 709; In re Haring (D. C.) 193 F. 168. We think it would be going too far to adopt the severer rule of criminal cases and would render the bankruptcy system less effective. We find ourselves in general accord on this subject with the remarks of the late Circuit Judge McPherson, of the Third Circuit, who used the following language in the case of In re Epstein (D. C.) 206 F. 568:
+'In the case in hand the consequence is, that, as the order to pay or deliver stands without sufficient reply, it 
+
+[278 U.S. 358, 366]
+ 
+ remains what it has been from the first-an order presumed to be right, and therefore an order that ought to be enforced. In the pending case, or in any other, the court may believe the bankrupt's assertion that he is not now in possession or control of the money or the goods, and in that event the civil inquiry is at an end; but it is also true that the assertion may not be believed, and the bankrupt may therefore be subjected to the usual pressure that follows willful disobedience of a lawful command, namely, the inconvenience of being restrained of his liberty. No doubt this may be unpleasant; it is intended to be unpleasant, but I see no reason why the proceeding should be condemned, as if it interfered with the liberty of the citizen without sufficient reason or excuse. I have known a brief confinement to produce the money promptly, thus justifying the court's incredulity, and I have also known it to fail. Where it has failed, and where a reasonable interval of time has supplied the previous defect in the evidence, and has made sufficiently certain what was doubtful before, namely the bankrupt's inability to obey the order, he has always been released, and I need hardly say that he would always have the right to be released as soon as the fact becomes clear that he cannot obey. Actual or virtual imprisonment for debt has ceased, but imprisonment to compel obedience to a lawful judicial order (if it appear that obedience is being willfully refused) has not yet ceased, and ought not to cease, unless it should be thought expedient to destroy all respect for the courts by stripping them of power to enforce their lawful decrees.'
+
+ In the two cases before us, the contemnors had ample opportunity in the original hearing to be heard as to the fact of concealment, and in the motion for the contempt to show their inability to comply with the turnover order. They did not succeed in meeting the burden which was necessarily theirs in each case, and we think, there- 
+
+[278 U.S. 358, 367]
+ 
+ fore, that the orders of the Circuit Court of Appeals in affirming the judgments of the District Court were the proper ones.
+ The judgments are affirmed. 
+
+
+

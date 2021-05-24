@@ -1,0 +1,43 @@
+Description: NORTHERN ASSUR CO v. GRAND VIEW BLDG ASS'N , 203 U.S. 106 (1906)
+Date: 1906-11-05 00:00:00
+Docket: 40
+Opinion
+
+
+United States Supreme Court
+NORTHERN ASSUR CO. v. GRAND VIEW BLDG ASS'N(1906)
+No. 40
+Argued: Decided: November 5, 1906
+
+
+
+ Messrs.
+Charles J. Greene and Ralph W. Breckenridge for plaintiff in error.
+ Messrs.
+ Joseph R. Webster, Halleck F. Rose, and Wilmer B. Comstock for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a bill to reform a policy and to recover upon it as reformed. An action at law upon the same instrument, between the same parties, has come before this court heretofore. 
+183 U.S. 308
+, 46 L. ed. 213, 22 Sup. Ct. Rep. 133. In that case it was held that the plaintiff could not recover. The question before us at the present time is whether the supreme court of Nebraska failed to give full faith and credit to the judgment in the former case by holding that it was no bar to the relief now sought. ( Neb.) 102 N. W. 246.
+ The policy was conditioned to be void in case of other 
+
+[203 U.S. 106, 107]
+ 
+ insurance, unless otherwise provided by agreement indorsed or added; and it stated, in substance, that no officer or agent had power to waive the condition except by such indorsement or addition. There was other insurance and there was no indorsement. The plaintiff alleged a waiver and an estoppel. The jury found that the agent who issued the policy had been informed on behalf of the insured and knew of the outstanding insurance. But this court held that the attempt to establish a waiver was an attempt to contradict the very words of the written contract, which gave notice that the condition was insisted upon and could be got rid of in only one way, which no agent had power to change. The judgment based upon this decision is what is now relied upon as a bar. Metcalf v. Watertown, 
+153 
+U.S. 671, 676
+, 38 S. L. ed. 861, 863, 14 Sup. Ct. Rep. 947; Hancock Nat. Bank v. Farnum, 
+176 
+U.S. 640, 645
+, 44 S. L. ed. 619, 621, 20 Sup. Ct. Rep. 506.
+ Whether sufficient grounds were shown for the relief which was granted is a matter with which we have nothing to do. But the state court was right in its answer to the question before us. The former decision, of course, is not an adjudication that the contract cannot be reformed. It was rendered in an action at law, and only decided that the contract could not be recovered upon as it stood, or be helped out by any doctrine of the common law. If it were to be a bar it would be so, not on the ground of the adjudication as such, but on the ground of election, expressed by the form in which the plaintiff saw fit to sue. As an adjudication it simply establishes one of the propositions on which the plaintiff relies,-that it cannot recover upon the contract as it stands. The supposed election is the source of the effect attributed to the judgment. If that depended on matter in pais it might be a question, at least, as was argued, whether such a case fell within either U. S. Const. art. 4,  1, or Rev. Stat.  905, U. S. Comp. Stat. 1901, p. 677. It may be doubted whether the election must not at least necessarily appear on the face of the record as matter of law in order to give the judgment a standing under Rev. Stat.  905. 
+
+[203 U.S. 106, 108]
+ 
+ We pass such doubts, because we are of opinion that, however the election be stated, it is not made out. The plaintiff in the former action expressed on the record its reliance upon the facts upon which it now relies. It did not demand a judgment without regard to them and put them on one side, as was done in Washburn v. Great Western Ins. Co. 114 Mass. 175, where this distinction was stated by Chief Justice Gray. Its choice of law was not an election, but an hypothesis. It expressed the supposition that law was competent to give a remedy, as had been laid down by the supreme court of Nebraska and the circuit court of appeals for the circuit. Home F. Ins. Co. v. Wood, 50 Neb. 381, 386, 69 N. W. 941; Fireman's Fund Ins Co. v. Norwood, 16C. C. A. 136, 32 U. S. App. 490, 69 Fed. 71. So long as those decisions stood the plaintiff had no choice. It could not, or at least did not need to, demand reformation, if a court of law could effect the same result. It did demand the result, and showed by its pleadings that the path which it did choose was chosen simply because it was supposed to be an open way. Snow v. Alley, 156 Mass. 193, 195, 30 N. E. 691.
+ A question argued as to the obligation of the contract having been impaired by a statute as construed was not taken below, and is not open here.
+ Decree affirmed. 
+
+
+

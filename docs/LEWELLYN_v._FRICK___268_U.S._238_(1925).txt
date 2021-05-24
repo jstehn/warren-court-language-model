@@ -1,0 +1,72 @@
+Description: LEWELLYN v. FRICK , 268 U.S. 238 (1925)
+Date: 1925-05-11 00:00:00
+Docket: 681
+Opinion
+
+
+United States Supreme Court
+LEWELLYN v. FRICK(1925)
+No. 681
+Argued: April 16, 1925Decided: May 11, 1925
+
+
+
+
+[268 U.S. 238, 239]
+ 
+ The Attorney General and Mr. James A. Fowler, Asst. Atty. Gen., for plaintiff in error.
+
+
+
+[268 U.S. 238, 244]
+ 
+ Messrs. George B. Gordon, John G. Buchanan, S. G. Nolin, and Miles H. England, all of Pittsburgh, Pa., for defendants in error.
+
+
+[268 U.S. 238, 249]
+ 
+
+ Mr. Justice HOLMES delivered the opinion of the Court.
+ This is a suit by the executors of Henry C. Frick to recover the amount of taxes collected by duress under the supposed authority of the Revenue Act of February 24, 1919, c. 18, 40 Stat. 1057, on the ground that the Act is unconstitutional so far as it purports to tax the matters here concerned. The District Court gave judgment 
+
+[268 U.S. 238, 250]
+ 
+ for the plaintiffs for the whole sum demanded. 298 F. 803. The case was tried without a jury and the Court adopted as its findings among others the following facts which were agreed: Henry C. Frick died on December 2, 1919, and his will was admitted to probate on December 6. There were outstanding policies upon his life, four payable to his wife and seven to his daughter. The total amount received under them was $474,629.52, and as his estate apart from this was more than ten million dollars, an additional tax of $108,657.88, or twenty-five per cent. of the sum received less the statutory deduction of $40,000, was required to be paid. All the policies were taken out before the Revenue Act was passed. The largest one, for $114,000, was a paid-up policy issued in 1901, payable to Mrs. Frick without power in Mr. Frick to change the beneficiary. Another, similar so far as material, was for $50,000. Others were assigned or the beneficiary named (Frick's estate) was changed to Frick's wife or daughter before the date of the statute. All premiums were paid by Mr. Frick, and some seem to have been paid after the statute went into force.
+ The tax imposed by the Act is a tax 'upon the transfer of the net estate' of the decedent. Section 401; 40 Stat. 1096 (Comp. St. Ann. Supp. 1919,  6336 3/4 b). 'For the purpose of the tax the value of the net estate shall be determined' by deducting certain allowances from the gross estate. Section 403 (section 6336 3/4 d). By section 402 (section 6336 3/4 c):
+'The value of the gross estate of the decedent shall be determined by including the value at the time of his death of all property. ... ( f) To the extent of the amount receivable by the executor as insurance under policies taken out by the decedent upon his own life; and to the extent of the excess over $40,000 of the amount receivable by all other beneficiaries as insurance under policies taken out by the decedent upon his own life.'
+
+ These last words are the ground of the Collector's claim. 
+
+[268 U.S. 238, 251]
+ 
+ By section 408; 40 Stat. 1100 (section 6336 3/1i):
+'If any part of the gross estate consists of proceeds of policies of insurance upon the life of the decedent receivable by a beneficiary other than the executor, the executor shall be entitled to recover from such beneficiary such portion of the total tax paid as the proceeds, in excess of $40,000, of such policies bear to the net estate.'
+
+ By section 409 (section 6336 3/4 j), a personal liability is imposed upon the beneficiaries if the tax is not paid when due. The defendants in error say that if these policies are covered by the statute these sections show that the beneficiaries are taxed upon their own property, under the guise of a tax upon the transfer of his estate by Mr. Frick, and that this is taking their property without due process of law; citing Matter of Pell, 171 N. Y. 48, 63 N. E. 789, 57 L. R. A. 540, 89 Am. St. Rep. 791, and other cases. In view of their liability the objection cannot be escaped by calling the reference to their receipts a mere measure of the transfer tax. The interest of the beneficiaries is established by statutes of the states controlling the insurance and is not disputed. It also is strongly urged that the tax would be a direct tax. In view of our conclusion it is not necessary to state the position of the defendants in error more in detail.
+ We do not propose to discuss the limits of the powers of Congress in cases like the present. It is enough to point out that at least there would be a very serious question to be answered before Mrs. Frick and Miss Frick could be made to pay a tax on the transfer of his estate by Mr. Frick. There would be another if the provisions for the liability of beneficiaries were held to be separable and it was proposed to make the estate pay a transfer tax for property that Mr. Frick did not transfer. Acts of Congress are to be construed if possible in such a way as to avoid grave doubts of this kind. Panama R. R. Co. v. Johnson, 
+264 
+U.S. 375, 390
+, 44 S. Ct. 391. Not only are such doubts avoided by construing the statute as referring only 
+
+[268 U.S. 238, 252]
+ 
+ to transactions taking place after it was passed, but the general principle 'that laws are not to be considered as applying to cases which arose before their passage' is preserved, when to disregard it would be to impose an unexpected liability that if known might have induced those concerned to avoid it and to use their money in other ways. Schwab v. Doyle, 
+258 
+U.S. 529, 534
+, 42 S. Ct. 391, 26 A. L. R. 1454. This case and the following ones, Union Trust Co. v. Wardell, 
+258 
+U.S. 537
+, 42 S. Ct. 393, Levy v. Wardell, 
+258 
+U.S. 542
+, 42 S. Ct. 395, and Knox v. McElligott, 
+258 
+U.S. 546
+, 42 S. Ct. 396, go far toward deciding the one how before us. They also indicate that the Revenue Act of 1924, c. 234,  302(h); 43 Stat. 253, 305, making (g) (the equivalent of (f) above) apply to past transactions, does not help but if anything hinders the Collector's construction of the present law. Smietanka v. First Trust & Savings Bank, 
+257 
+U.S. 602
+, 42 S. Ct. 223.
+ Decree affirmed. 
+
+
+

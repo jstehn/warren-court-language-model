@@ -1,0 +1,52 @@
+Description: METCALF v. CITY OF WATERTOWN , 153 U.S. 671 (1890)
+Date: 1890-12-16 00:00:00
+Docket: 18
+Opinion
+
+
+United States Supreme Court
+METCALF v. CITY OF WATERTOWN(1890)
+No. 18
+Argued: Decided: December 16, 1890
+
+
+ The supreme court held that they could, and said: 'It is contended by the learned counsel of the appellant that the return of an execution on a judgment in a federal court will not sustain this action, and that such a judgment is that of a foreign court, or the same as one of a sister state. There may have been late decisions to such effect, but the current of authorities, as well as the laws of the United States and of this state, establish the rule that the judgments of the United States courts of the Wisconsin districts are to be treated as domestic judgments of a superior court of this state.' The court referred to various acts of congress under which proceedings and judgments in federal courts are assimilated to those of state courts, and to the fact that in state courts they 'are treated in all respects as to remedies like domestic judgments in the states in which they were rendered;' and, after citing, to the point that United States courts are not foreign within the state where they are held, Turrell v. Warren, 25 Minn. 9; Wandling v. Straw, 25 W. Va. 705; Thomson v. Lee Co., 22 Iowa, 206; Town of St. Albans v. Bush, 4 Vt. 58; Barney v. Patterson's Lessee, 6 Har. & J. 182; McCauley v. Hargroves, 48 Ga. 50; Williams v. Wilkes, 14 Pa. St. 228; Embry v. Palmer, 
+107 U.S. 3
+, 2 Sup. Ct. 25,-thus concluded: 'We are disposed to adopt this rule, so well established, as against any adverse decisions, as it appears more in the spirit of comity, and reasonable. In this proceeding the judgment of the plaintiff will have the same effect as if rendered by any superior court of this state, because it was rendered in a Wisconsin district of a United States court.'
+ It seems to us that if the supreme court had arrived at this conclusion at the time Waterman v. Town of Waterloo was under consideration, a different result might have been reached. It is true that in that case the supreme court said: 'That the circuit courts of the United States are properly called domestic courts of the states wherein they are held could not possibly change the meaning of this language, 'or of any 
+
+[153 U.S. 671, 681]
+ 
+ court of the United States,' without destroying it entirely. What other United States courts except the district and circuit courts* of the United States render judgments upon which the statute of limitations can run?' But we think we may be permitted to assume that if the supreme court had then definitively adjudicated that judgments of the United States courts held in Wisconsin were not to be regarded as those of a foreign court or of a sister state, but were to be treated as domestic judgments of a superior court of that state, it would have found a sufficient subject for the operation of the first paragraph of section 16, in respect of judgments and decrees 'of any court of the United States,' in the judgments and decrees of such courts when held in other states. Moreover, it should be observed that the question of the power under the constitution to control in any way or to discriminate as to federal judgments rendered in the state does not seem to have been brought to the attention of the court, and was not adverted to.
+ Since the domestic character of the federal courts sitting in the state of Wisconsin is conceded, and the principle fully recognized that their judgments are to be treated in all respects as to remedies like the judgments of the state courts, it would seem to follow that the words, 'judgment or decree of any court of record of this state,' in section 15 of chapter 138 of the Revised Statutes of 1858, included the judgments and decrees of federal courts rendered within the state; and but for the words, 'or of any court of the United States,' in section 16, there would be no difficulty in arriving at that conclusion; and, in view of all the legislation upon the subject, we think we are not obliged to take those words literally, but that they are open to construction.
+ By the Revised Statutes of 1849 a limitation of 20 years was prescribed for actions upon all judgments of record, wherever rendered, and upon all specialties, wherever the cause of action accrued. Rev. St. 1849, c. 127,  14, 20, 41.
+ By an act of 1866, as amended in 1868, it was provided that executions might be issued any time within five years, and at any time thereafter, 'upon any judgment which has heretofore 
+
+[153 U.S. 671, 682]
+ 
+ been or may hereafter be rendered or docketed in any court of record in this state, ... provided, that no execution shall issue, nor any action or proceedings be had upon any such judgment after twenty years from the time of the rendition of docketing thereof.' Laws 1866, c. 14, p. 16; Laws 1868, c. 11, p. 14.
+ The Revised Statutes of 1878 provided that actions must be commenced within 20 years 'upon a judgment or decree of any court of record of this state, or of the United States, sitting within this state,' and 'upon a sealed instrument when the cause of action accrues within this state,' with an exception relating to municipal bonds; and within 10 years 'upon a judgment or decree of any court of record of any other state or territory of the United States, or of any court of the United States, sitting without this state,' and 'upon on a sealed instrument when the cause of action accrued without this state,' with a similar exception as to municipal bonds. Rev. St. 1878,  4220, 4221.
+ The provisions of the Revised Statutes of 1858 under consideration ( chapter 138, p. 821) were that the period of time for the commencement of actions other than for the recovery of real property should be:
+'Sec. 15. Within twenty years: 1. An action upon a judgment or decree of any court of record of this state. 2. An action upon a sealed instrument when the cause of action accrues within this state.
+
+'Sec. 16. Within ten years: 1. An action upon a judgment or decree of any court of record of any state or territory within the United States, or of any court of the United States. 2. An action upon a sealed instrument when the cause of action accrued without this state.'
+
+ Thus it is seen that under the statute of 1849 there was no discrimination. Under the statute of 1878 a discrimination was made between causes of action accruing on judgments, decrees, and sealed instruments within and without the state. Under the acts of 1866 and 1868 judgments of courts of record in the state were treated alike.
+ Was it intended by the statute of 1858 to make any other 
+
+[153 U.S. 671, 683]
+ 
+ discrimination than that more accurately expressed in the statute of 1878? Was it intended to discriminate against the judgments and decrees of the federal courts in Wisconsin as if they were foreign courts, or courts of another state? Was it intended to disparage the jurisdiction and authority of the federal courts? It is said in Harrington v. Smith, 28 Wis. 43, 59, that 'the true rule for the construction of statutes is to look to the whole and every part of the statute, and the apparent intention derived from the whole, to the subject-matter, to the effects and consequences, and to the reason and spirit of the law; and thus to ascertain the true meaning of the legislature, though the meaning so ascertained may sometimes conflict with the literal sense of the words.'
+ If we take the words in section 16, 'any court of record of any state or territory of the United States,' literally, they include the courts of Wisconsin as they did in the statute of 1849; yet we should say that the first paragraph of section 15 was not thereby repealed, but, on the contrary, that the cases therein mentioned were to be taken as excepted. And so, while the words in section 16, 'any court of the United States,' are broad enough to cover the courts of the United States in Wisconsin, we do not consider that the latter were embraced thereby, but that section 16 applied to those courts of the United States which were not included in section 15, as those holding courts in Wisconsin were. The distinction intended was between causes of action accruing within and causes of action accruing without the state, and the statute of 1878 was declaratory of a meaning which already existed. Koshkonong v. Burton, 
+104 U.S. 668
+, 671, involved a different question, but it will be found that in the statement of the statute of 1858 the distinction was indicated.
+ We cannot attribute to the legislature of Wisconsin any design to discriminate against the judgments and decrees of the courts of the United States rendered in that state by reducing the statutory period for the commencement of actions thereon to a less number of years than obtained as to the judgments and decrees of the state courts, and so to compel citizens of other states to bring their suits originally in those 
+
+[153 U.S. 671, 684]
+ 
+ courts rather than in the federal courts, as secured to them by the constitution; or their own citizens to do so if they had causes of action arising under the constitution and laws of the United States. We do not entertain the least idea that the legislature was actuated by any such disposition, and are persuaded that the language of the act of 1858 produced no such result.
+ We are of opinion that the 10-year bar constituted no defense to the action of plaintiff, and therefore the judgment is
+ Reversed, and the cause remanded, with a direction to enter judgment for plaintiff on the findings. 
+
+
+

@@ -1,0 +1,58 @@
+Description: UNITED STATES v. MICH. CEMENT CO. , 270 U.S. 521 (1926)
+Date: 1926-04-12 00:00:00
+Docket: 217
+Opinion
+
+
+United States Supreme Court
+UNITED STATES v. MICH. CEMENT CO.(1926)
+No. 217
+Argued: Decided: April 12, 1926
+
+
+
+ The Attorney General and Messrs. William D. Mitchell, Sol. Gen., Blackburn Esterline, Asst. Sol. Gen., both of Washington, D. C., and William H. Bonneville, Sp. Asst. Atty. Gen., for the United States. 
+
+[270 U.S. 521, 522]
+ 
+ Mr. Hal H. Smith, of Detroit, Mich. (Mr. Thomas B. Moore, of Detroit, Mich., of counsel), for defendant in error.
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ This case on its facts is similar to that ofUnited States v. P. Koenig Coal Co., 46 S. Ct. 392, 
+270 U.S. 512
+, just decided. 
+
+[270 U.S. 521, 523]
+ 
+ The indictment against the Cement Company embraces 15 counts, and each count shows that the Cement Company, with the assistance of the Bewley Darst Coal Company, while Service Order No. 23 of the Interstate Commerce Commission was in force, obtained a billing and consignment of cars of coal by the Louisville & Nashville Railroad Company from a mine in Kentucky to the Municipal Light & Power Company at Four Mile Lake in Michigan, where the coal was delivered in accordance with direction and was appropriated by the Cement Company for its use; that the building and the preference were granted by the carrier company on the assumption that the coal was to be delivered and used by a public utility company, which was in class No. 2 under Order No. 23, instead of class No. 5, in which coal for making cement was embraced. The District Court sustained the demurrer to this indictment on the same ground as in the Koenig Case, that the Elkins Act requires the collusion of the carrier with the shipper and the carrier's conscious violation of law in the concession granted, and that when this is negatived in the indictment the indictment must fail. That ground we have held to be without weight in the Koenig Case. It was the only one pressed on us.
+ In this case the counsel for the defendant advances in his brief and argument two other grounds raised by the demurrer on which he contends the indictment should have been held bad. One of them is that section 1 of the Elkins Act (Comp. St. s 8597), under which the indictment is found, must be limited to a concession or discrimination which violates a tariff published and filed by a carrier, that as a rebate without such tariff is not unlawful within that section, so a concession or discrimination is not. The contention is that the published tariff should have indicated that the order of distribution of cars should be as Order 23 requires. 
+
+[270 U.S. 521, 524]
+ 
+ The Elkins Act does not require such a tariff as to any other advantage or discrimination than a rebate. It declares to be an offense any device whereby transportation shall be given at any less rate than named in the published tariff 'or whereby any other advantage is given or discrimination is practiced.' Where the offense consists in a rebate, as that term is usually understood, to wit, transportation at a less rate in dollars and cents than the published rate which the shipping public are charged, a published tariff is, of course, necessary to constitute the standard, departure from which is the crime. Where there is no pecuniary reduction of the rates as published, and the tariff is complied with but the law against favoritism and discrimination is infringed by the making of a concession or the granting of an advantage not specifically measured in dollars and cents, reference to a published tariff is unnecessary There is nothing in the statute that indicates the necessity of a published tariff which should expressly recite the fact that no unfair or unequal concession or advantage in the distribution of coal cars to shippers, or in the priority of their shipment, should be afforded. The fact that the advantage or discrimination is unlawful is plain from the description of its character, as shown in this indictment without reference to the rates fixed in the tariff. See Lambert Run Coal Co. v. B. & O. R. R., 42 S. Ct. 349, 
+258 U.S. 377
+, 378. Such a published tariff seems not to have been present in C., C., C. & St. L. Ry. Co. v. Hirsch, 204 F. 849, 123 C. C. A. 145, and in Central of Georgia Ry. v. Blount, 238 F. 292, 151 C. C. A. 308, in which leases of property by carriers to shippers at inadequate rentals were held to be unlawful concessions. Nor in Vandalia Railway v. United States, 226 F. 713, 141 C. C. A. 469, where a loan by a carrier to shipping interests at less than market rate was held to be an unlawful concession. Nor in Northern Central Railway v. United States, 241 F. 25, 154 C. C. A. 25, where the waiving of royalties for the use of coal lands leased to 
+
+[270 U.S. 521, 525]
+ 
+ shipping interests was held to be an unlawful concession. Nor in Dye v. United States (C. C. A.) 262 F. 6, in which the agent of a railway company who secured an excessive number of cars for one of a great number of mines between which, by order of the Interstate Commerce Commission, in an emergency, cars were to be distributed according to a rule, was convicted under the Elkins Act, and the Fourth Circuit Court of Appeals sustained the conviction.
+ Service Order No. 23 herein was issued under the Transportation Act and had the force of law. Avent v. United States, 45 S. Ct. 34, 
+266 U.S. 127
+, 131; United States v. Grimaud, 31 S. Ct. 480, 
+220 U.S. 506
+. In the absence of a specific requirement for its publication in a tariff either in the act authorizing the service order, or in the Elkins Act, we can find no reason for making it essential in the enforcement of the statute, and no case is cited to suggest one.
+ The other ground urged by counsel for the defendant is, if we understand it, that paragraph 15 of section 402 of the Transportation Act ( Comp. St. Ann. Supp. 1923, s 8563) did not authorize and delegate to the Interstate Commerce Commission the fixing of preference and priorities in transportation, that paragraph 7 of the Commission's order prescribed classes of purposes and order or classes only with respect to car service, and made no rule applicable to the transportation of coal for different classes of purposes and different order of classes, that car service does not include transportation, and that the defendant here is indicted for securing a concession in transportation by which he obtained an improper class under a classification which the Commission therefore had no authority to make and which it did not in fact require. We think the argument does not give proper effect to paragraph 15 and the words and significance of the service order. By paragraph 15 the Commission is authorized, first, to suspend the operation of any or all rules, regulations or practices then established with respect to car service for such time as may be determined 
+
+[270 U.S. 521, 526]
+ 
+ by the Commission; second, to make such just and reasonable directions with respect to car service without regard to the ownership as between the carriers of cars, during such emergency as in its opinion will best promote the service in the interest of the public and the commerce of the people; and, third, to give directions for preference or priority in transportation, embargoes, or movement of traffic under permit and for such periods as it may determine, and to modify, change, suspend or annul them. The service order, after reciting the emergency, directs each common carrier east of the Mississippi river to the extent to which it is unable promptly to transport all freight traffic, to give preference and priority to coal, to give preference and priority to the movement, exchange and return of empty coal cars, to furnish coal mines with certain classes of cars, to require that noncoal loading carriers deliver empty coal cars to the maximum ability of each, to enable the connecting coal loading companies to receive and use the coal cars so delivered for the preferential purposes set forth in the order; to discontinue the use of coal cars for the transportation of commodities other than coal during the order, to place an embargo on the receipt by any consignee of coal in suitable cars who shall fail or refuse to unload the coal seasonably; and finally, in the supply of cars to mines, to place, furnish and assign coal mines with cars suitable for the loading and transportation of coal for certain classes of consignees, and in a certain order, forbidding reconsignment or diversion. It seems to us clear that the order of the Commission affects the furnishing of cars, their loading, their consignment and thus necessarily their movement in transportation and corresponds fully with the powers conferred by paragraph 15; and that paragraph 15 and Service Order No. 23 both apply not only to priority of car service but also to that of transportation. Certainly one who secures reconsignment and diversion from a lower to a higher class of consignees for delivery violates the service order in terms. 
+
+[270 U.S. 521, 527]
+ 
+ In urging this objection to the Indictment, reliance is had by defendant upon the opinion of this court in the case of Peoria & Pekin Union Ry. Co. v. United States, 44 S. Ct. 194, 
+263 U.S. 528
+. There the Interstate Commerce Commission sought under paragraph 15 to compel a terminal carrier to switch, by its own engines and over its own tracks, freight cars tendered by or for another connecting carrier. It was held that the exercise of the emergency power of the Commission in transferring car equipment from one carrier to the use of another under paragraph 15 was strictly to be construed, and that the provision as to car service did not authorize the Commission to impose upon the terminal carrier, without a hearing, the affirmative duty not only of turning over its cars and equipment to another carrier, as contemplated in paragraph 15, but also that of itself doing the work of the transportation of and for another carrier. It was in this connection that this court used the expression that car service connotes the use to which vehicles of transportation are put, but not the transportation service rendered by means of them. The opinion expressly affirms the authority of the Commission under paragraph 15 to give regulatory directions for preference or priority in transportation. The language of this court in the Peoria Case referred to is of no aid to the defendant here.
+ The judgment is reversed. 
+
+
+

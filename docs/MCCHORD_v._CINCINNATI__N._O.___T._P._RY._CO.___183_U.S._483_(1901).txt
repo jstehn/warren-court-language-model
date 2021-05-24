@@ -1,0 +1,29 @@
+Description: MCCHORD v. CINCINNATI, N. O. & T. P. RY. CO. , 183 U.S. 483 (1901)
+Date: 1901-10-25 00:00:00
+Docket: 141
+Opinion
+
+
+United States Supreme Court
+MCCHORD v. CINCINNATI, N. O. & T. P. RY. CO.(1901)
+No. 141
+Argued: Decided: October 25, 1901
+
+
+ In that case the railroad company was indicted under  820, and fined for charging more for a shorter than a longer haul. The indictment was returned before the railroad commission had determined whether the company should be exonerated as provided by that section. The judgment was reversed, and Hobson, J., speaking for the court, said: 
+
+[183 U.S. 483, 501]
+ 
+ 'In the construction of statutes the cardinal aim of the court is to arrive at the intention of the legislature. The court will presume that the legislature meant something by all the provisions of the statute, and will endeavor to give them all a fair effect. If the legislature had intended indictments to be found for each offense, regardless of action by the railroad commission, we see no reason why the section might not have stopped with the first sentence defining the offense and providing for its punishment, for by the next section (Ky. Stat.  821) it is made the duty of the commission 'to see that the laws relating to all railroads, except street, are faithfully executed;' and under this provision it would be the duty of the commission to see to violations of the preceding section. . . . From the section as a whole it is clear that the legislature had in mind providing for the exoneration of the railroad from its provisions in proper cases, and exempting the carrier from criminal liability to this extent. It therefore provided for an investigation by the railroad commission, a determination by it whether it deemed it proper to exonerate the railroad, and for the enforcement of its decision by indictment by the grand jury in case the railroad was not exonerated. To allow the carrier to be indicted in advance of any action by the railroad commission under this section would be to deprive it of all opportunity for exoneration. The legislature had no such result in mind, but clearly aimed to secure to the carrier a hearing on this question.
+'The long and short haul matter is only another form of undue discrimination and preference, which are provided for by  819, and indictments under this section can only be had upon the recommendation of the railroad commission. This has been a settled legislative policy, as shown by the act of April 6, 1882 (see Gen. Stat. 1021), which was in force at the time of the adoption of the Constitution and the present statutes. In other words, the legislature has always acted upon the idea that the interests of the entire people of the state should be looked to in these matters, and that the railroad commission must first determine them before the grand juries of the state should find indictments.'
+
+ The 4th section of the act of the general assembly of 
+
+[183 U.S. 483, 502]
+ 
+ Kentucky of April 6, 1882 (Acts 1881, p. 66, chap. 790), entitled 'An Act to Prevent Extortion and Discrimination in the Transportation of Freight and Passengers by Railroad Corporations, and in Aid of That Purpose to Establish a Board of Railroad Commissioners, and Define its Powers and Duties,' set forth in the edition of the Kentucky Statutes of 1887, p. 1021, and referred to by the court, provided for the infliction of penalties on railroad companies convicted of extortion or unlawful discrimination, and that the offender should be 'prosecuted by indictment or by action in the name of the commonwealth, upon information filed by the board of railroad commissioners;' and also that the companies should be liable in damages to the parties aggrieved. The act of March 0, 1900, does not appear to have been intended to change the settled legislative policy that indictments should be found on the recommendation of the commission.
+ The result of these considerations is that the duty of enforcing its rates rests on the commission, and that none of the consequences alleged to be threatened can be set up as the basis of equity interposition, before the rates are fixed at all. Whether after they are determined their enforcement can be restrained is a question not arising for decision on this record, and we are not called on to dispose of other contentions of grave importance which were pressed in argument as if now requiring adjudication.
+ Decrees reversed and cases remanded to the Circuit Court, with a direction to sustain the demurrers and dismiss the bills. 
+
+
+

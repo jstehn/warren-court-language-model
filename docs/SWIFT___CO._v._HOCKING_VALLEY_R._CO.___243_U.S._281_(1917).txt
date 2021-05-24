@@ -1,0 +1,121 @@
+Description: SWIFT & CO. v. HOCKING VALLEY R. CO. , 243 U.S. 281 (1917)
+Date: 1917-03-06 00:00:00
+Docket: 376
+Opinion
+
+
+United States Supreme Court
+SWIFT & CO. v. HOCKING VALLEY R. CO.(1917)
+No. 376
+Argued: December 5, 1916Decided: March 6, 1917
+
+
+
+
+[243 U.S. 281, 282]
+ 
+ Messrs. M. Hampton Todd and William L. Day for plaintiff in error.
+ Messrs. C. M. Horn and James H. Hoyt for defendant in error.
+
+
+
+[243 U.S. 281, 283]
+ 
+
+ Mr. Justice Brandeis delivered the opinion of the court:
+ The National Convention of Railway Commissioners, an association comprising the commissioners of the several states, adopted in November, 1909, a Uniform Demurrage Code. This action was based upon extensive investigations and thorough discussion, participated in by the railroad commissioners, commercial organizations, representatives of railroads, and individual shippers from all parts of the country. On December 18, 1909, the Interstate Commerce Commission indorsed the rules so adopted, and recommended 'that they be made effective on interstate transportation throughout the country.' Re Demurrage Investigation, 19 Inters. Com. Rep. 496.
+ These rules provide that after two days' free time 'cars held for or by consignors or consignees for loading' or unloading shall (with certain exceptions not here material) pay a demurrage charge of $1 per car per day. Private cars are specifically included by the following note:
+ NOTE.-Private cars while in railroad service, whether on carrier's or private tracks, are subject to these demurrage rules to the same extent as cars of railroad ownership.
+ (Empty private cars are in railroad service from the time they are placed by the carrier for loading or tendered for loading on the orders of a shipper. Private cars under lading are in railroad service until the lading is removed and cars are regularly released. Cars which belong to an industry performing its own switching service are in railroad service from the time they are placed by the industry upon designated interchange tracks, and thereby tendered to the carrier for movement. If such cars are subsequently returned empty, they are out of service when withdrawn by the industry from the interchange; if 
+
+[243 U.S. 281, 284]
+ 
+ returned under load, railroad service is not at an end until the lading is duly removed.)
+ In 1910 the Hocking Valley Railway Company, an interstate carrier, inserted in its freight tariff duly filed and published as required by the Act to Regulate Commerce, the demurrage rules and charges, including that relating to private cars, quoted above. Thereafter, Swift & Company, Chicago meat packers, established on the line of that railroad at Athens, Ohio, a warehouse to which it made, from time to time, shipments in private cars. These cars, which were placed on the switch used in connection with the warehouse, were not unloaded within the forty-eight hours' free time allowed by the tariff; and demurrage charges were assessed by the Railway Company. Payment being refused, this action was brought in the court of common pleas of Cuyahoga county, Ohio, to recover the amount. The amended petition alleged, among other things, that the demurrage rules and charges had been 'approved by the Interstate Commerce Commission by a decision rendered by the Commission on the 14th day of November, 1910, in the case of Procter & G. Co. v. Cincinnati, H. & D. R. Co. which decision is reported in 19 Inters. Com. Rep. 556 to 560, inclusive thereof, and which decision, approving said car demurrage rules and charges, is hereby referred to and made a part hereof, as though the same were fully written out at length herein.'
+ Swift & Company demurred; and defended on the single ground that the cars in question were its private cars, standing on its 'private track;' contended that the demurrage rule which required payment of charges under such circumstances was an arbitrary imposition; that it was unlawful and void; and that it was subject to collateral attack, even though included in a tariff duly filed and published under the Act to Regulate Commerce. Two 
+
+[243 U.S. 281, 285]
+ 
+ lays after the case had been heard on demurrer in the court of common pleas, counsel filed a stipulation as follows:
+'For the purpose only of reviewing the judgment of the common pleas court on defendant's demurrer to the amended petition, it is stipulated by the parties hereto that the track on which the cars in question were placed was the private track of Swift & Company.'
+
+ The next day judgment was rendered for the Railway Company. It was affirmed both by the court of appeals of Cuyahoga county and by the supreme court of Ohio. 93 Ohio St. 143, L.R.A. --, --, 112 N. E. 212.
+ The supreme court of Ohio assumed the track in question to be a 'private track,' as stipulated by the parties, and declared that 'demurrage rules relating to private cars employed in interstate commerce and the charges assessable thereunder are matters properly included in the tariff or schedule required to be filed and published. This tariff containing the demurrage rule having been filed and published according to law was binding alike on carrier and shipper, and so long as it was in force was to be treated as though it were a statute. . . . This rule having been approved by Federal tribunal acting within the scope of its authority, its decision must be followed by the courts of this state and be given full force and effect.'
+ The case was then brought to this court on writ of error. The errors assigned were, in substance, that the demurrage rule was repugnant to the Act to Regulate Commerce, and that the decisions below deprived Swift & Company of its property without the due process of law guaranteed by the 14th Amendment.
+ Prior to the bringing of this action the Interstate Commerce Commission had held in Procter & G. Co. v. Cincinnati, H. & D. R. Co. 19 Inters. Com. Rep. 556, that carriers were 'within their lawful rights in establish- 
+
+[243 U.S. 281, 286]
+ 
+ ing and maintaining' the above rule for demurrage charges on private cars. The commerce court approved the finding. Procter & G. Co. v. United States, 188 Fed. 221, 227. An effort to secure a review of these decisions by this court failed. Procter & G. Co. v. United States, 
+225 U.S. 282
+, 56 L. ed. 1091, 32 Sup. Ct. Rep. 761.
+ We do not find it necessary to decide whether the ruling of the supreme court of Ohio was correct; or whether the rule concerning demurrage charges on private cars is in all respects valid; or whether a shipper who has delivered private cars to a carrier, knowing such rule to be in force, is in a position to question its validity in an action for charges accruing thereunder. For the record discloses, contrary to the statement in the stipulation, that the track in question was not a 'private track.'
+ The facts which determine the character of the switch and the relation to it of carrier and shipper were carefully set forth in the amended petition and the 'license' annexed, copied in the margin. 
+1
+ Under it Swift & COMPANY 
+
+[243 U.S. 281, 287]
+ 
+ occupied a part of the railway company's premises for its warehouse and office and enjoyed the rights in the switch from its main lines. The 'license' recites, among other things, the licensee's desire 'to occupy a track of 
+
+[243 U.S. 281, 288]
+ 
+ ground belonging to the Railway Company . . . for the purpose of maintaining thereon a warehouse and office . . . in such a manner as not in any way to interfere with the . . . tracks . . . of the Railway Company . . .;' that the premises lie on 'the north side of the Railway Company's siding, known as the 'Bank Track' . . .;' that 'the switch of the Railway Company hereby let and connected with its main line shall at all times be under control of the Railway Company;' and that 'the Railway Company shall have the right at all times to enter upon the premises hereby let, for the purpose of repairing or maintaining the track thereon, or switching or removing cars thereover.' A rental of $30 per annum is provided for; but the license is terminable on thirty days' notice.
+ These facts were admitted by the demurrer, upon 
+
+[243 U.S. 281, 289]
+ 
+ them the case was heard by the court of common pleas, and upon them the case must be decided in this court, unaffected by stipulation of counsel made 'for the purpose only of reviewing the judgment of the common pleas court.' The construction and effect of a written instrument is a question of law. Dillon v. Barnard, 21 Wall. 430, 437, 22 L. ed. 673, 676. Clearly the track in question was not a private track of the shipper, but a track of the carrier,-like the spur passed upon in National Ref. Co. v. St. Louis, I. M. & S. R. Co. 150 C. C. A. 361, 237 Fed. 347, affirming 226 Fed. 357.
+ If the stipulation is to be treated as an agreement concerning the legal effect of admitted facts, it is obviously inoperative; since the court cannot be controlled by agreement of counsel on a subsidiary question of law. See cases cited in the margin. 
+2
+ If the stipulation is to be treated as an attempt to agree 'for the purpose only of reviewing the judgment' below, that what are the facts shall be assumed not to be facts, a moot or fictitious case is presented. 'The duty of this court, as of every judicial tribunal, is limited to determining rights of persons or of property, which are actually controverted in the particular case before it . . . . No stipulation of parties or counsel, whether in the case before the court or in any other case, can enlarge the power, or affect the duty, of the court in this regard.' California v. San Pablo & T. R. Co. 
+149 
+U.S. 308, 314
+, 37 S. L. ed. 747, 748, 13 Sup. Ct. Rep. 876. See Mills v. Green, 
+159 
+U.S. 651, 654
+, 40 S. L. ed. 293, 294, 16 Sup. Ct. Rep. 132. The fact that effect was given to the stipulation by the appellate courts of Ohio does not conclude this court. See Tyler v. Judges of Ct. of Registration, 
+179 
+U.S. 405, 410
+, 45 S. L. ed. 252, 254, 21 Sup. Ct. Rep. 206. We treat the stipulation, therefore, as a nullity. 
+
+[243 U.S. 281, 290]
+ 
+ Consignors or consignees of freight shipped in private cars pay the same rates for transportation as if the commodities had been shipped in the cars owned by the carriers; but the owners or lessees of private cars are paid or allowed by the carriers (east of the Mississippi river) a sum equal to three fourths of a cent per mile for refrigerator or tank cars and three fifths to a cent per mile for other cars. The cars are returned by the railroads to the owners without extra charge. The mileage allowance is paid for the return trip as well as on the journey to destination with load. And if the private car owner does not furnish a load for the return journey, the carriers have the right to load the cars. Re Demurrage Charges on Tank Cars, 13 Inters. Com. Rep. 378, 379.
+ Swift & Company's cars were, therefore, though privately owned, still in railroad service while under lading. The cars while on the switch were on track owned by the Railway Company. The 'transportation,' within the meaning of the Act to Regulate Commerce, had not ended. It cannot be said that a charge for detention of a private car and use of a railroad track under such circumstance is unreasonable. Even before the adoption of the Uniform Demurrage Code such a charge had been upheld by the Interstate Commerce Commission. Cudahy Packing Co. v. Chicago & N. W. R. Co. 12 Inters. Com. Rep. 446. Defendant's argument was based wholly upon the assumption that the switch was a 'private track;' and the propriety of such a charge for cars detained on a public track seems not to have been questioned.
+AFFIRMED.
+ Mr. Justice McKenna, Mr. Justice Van Devanter, and Mr. Justice McReynolds dissent. 
+
+Footnotes
+
+[
+Footnote 1
+] Exhibit 'B'-License.-Memorandum of agreement, made this 22d day of March, A. D. 1911, by and between the Hocking Valley Railway Company, a corporation existing under the laws of the state of Ohio, hereinafter known as the 'Railway Company,' party of the first part, and Swift & Company, a corporation whose principal place of business is in Chicago, county of Cook, state of Illinois, hereinafter known as the 'licensee,' party of the second part, witnesseth:
+ Whereas, the licensee, at its own request, desires to occupy a tract of ground belonging to the Railway Company at Athens, Ohio, for the purpose of maintaining thereon a warehouse and office in connection with its business at that point, together with all the improvements and appurtenances thereto, in such a manner as not in any way to interfere with the premises, building, structures, tracks, or business of said Railway Company, upon the following described premises, to wit:
+ The northeast part of outlot No. 112 and the northwest part of outlot No. 113, in the village of Athens, Ohio, fronting 175 feet on the south side of State street, immediately west of the premises occupied 
+ by the Standard Oil Company, said tract extending southward from said street to the north side of the railway company's siding, known as the 'Bank Track,' as will more clearly appear shaded in yellow on blue print hereto attached and made a part thereof, for a period of five (5) years, beginning on the 1st day of November, 1910, at a rental of thirty ($30) dollars per annum, payable annually in advance on the following terms and conditions, to wit:
+ First. This agreement shall not be assigned by the licensee without the written consent of the railway company being first obtained, and in case the said licensee shall permit its interests to be seized or sold under legal process, this agreement shall thereupon become null and void.
+ Second. The switch of the Railway Company hereby let and connected with its main line shall at all times be under control of the Railway Company.
+ Third. The Railway Company shall have the right at all times to enter upon the premises hereby let, for the purpose of repairing or maintaining the track thereon, or switching or removing cars thereover.
+ Fourth. Either party hereto may terminate this agreement at any time, after giving to the other party thirty (30) days' notice in writing, and at or before the termination of said thirty (30) days said licensee shall, at its own expense, remove all said improvements from said premises, without causing damage of any kind to the property of the Railway Company. Upon its failure to do so within said time, the Railway Company may make such removal at the sole cost of the licensee.
+ Fifth. The licensee shall pay all taxes assessed upon improvements upon said premises or said premises by reason thereof and will at all times hereafter indemnify and save harmless the Railway Company, its successors and assigns, from and against all loss, costs, charges, and accidents whatsoever, which it may suffer, sustain, or in any wise be subjected to, on account of injuries accruing to its property, or loss or damage to the property of any other person or corporation, arising out of, resulting from or in any manner caused by the construction, erection, maintenance, presence, or use of said improvements installed or existing under this agreement, and said Railway Company shall not be liable in any way for any loss or damage to said improvements or to any property belonging to or in the possession or control of said li- 
+ censee on or about said premises, resulting from the operation of and use of its railway, engines, cars, or machinery, or by reason of fire or sparks therefrom, or any other casualty arising from the use and operation of its railway, and shall be held forever free and harmless by said licensee from any such liability.
+ Sixth. The licensee shall consign all products shipped to it, intended to be placed on the siding hereby let, where the rates and services are equal, via the line or lines of the Railway Company, and shall give said Railway Company the long hauls thereof.
+ Seventh. The licensee hereby accepts the license herein made with the above specified terms and conditions, and agrees that any failure or default on its part as to either of the same may be held and considered a forfeiture and surrender of this license by it.
+ In witness whereof, the parties hereto have caused this instrument to be executed in duplicate, on the day and year first above written.
+ The Hocking Valley Railroad Company,
+ (Signed)
+ By W. L. Mattoon, Real Estate Agent, Swift & Company,
+ (Signed) By L. B. Swift.
+ Witness:
+ (Signed) E. Osler Hughes.
+ Witness:
+ (Signed) D. E. Hartwell. 
+
+[
+Footnote 2
+] San Francisco Lumber Co. v. Bibb, 139 Cal. 325, 73 Pac. 864; Owen v. Herzihoff, 2 Cal. App. 622, 84 Pac. 274; Aubuchon v. Bender, 44 Mo. 560; Prescott v. Brooks, -- N. D. --, 94 N. W. 88, 94; Holms v. Johnston, 12 Heisk, 155. See also Breeze v. Haley, 11 Colo. 351, 362, 18 Pac. 551; Lyon v. Robert Garrett Lumber Co. 77 Kan. 823, 827, 92 Pac. 589; Wells v. Covenant Mut. Ben. Asso. 126 Mo. 630, 639, 29 S. W. 607. 
+
+
+
+

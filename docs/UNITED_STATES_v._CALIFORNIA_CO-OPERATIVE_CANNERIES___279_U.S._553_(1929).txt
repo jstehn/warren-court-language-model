@@ -1,0 +1,134 @@
+Description: UNITED STATES v. CALIFORNIA CO-OPERATIVE CANNERIES , 279 U.S. 553 (1929)
+Date: 1929-05-20 00:00:00
+Docket: 375
+Opinion
+
+
+United States Supreme Court
+UNITED STATES v. CALIFORNIA CO-OPERATIVE CANNERIES(1929)
+No. 375
+Argued: April 16, 1929Decided: May 20, 1929
+
+
+
+ Mr. Alfred A. Wheat, of Washington, D. C., for the United states.
+ Mr. Nelson T. Hartson, of Washington, D. C., for respondent.[ United States v. California Co-Operative Canneries 
+279 U.S. 553
+ (1929) ]
+
+
+[279 U.S. 553, 555]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This case is a sequel to Swift & Co. v. United States, 
+276 
+U.S. 311
+, 48 S. Ct. 311, decided March 19, 1928. It is here by writ of certiorari for the determination of a question which arose upon the going down of the mandate in the Swift Case.
+ The suit was commenced by the government in the Supreme Court of the District of Columbia on February 27, 1920, against the leading packers to prevent a long feared monopoly in meat and other food products. On that day a consent decree was entered. Nearly five years later, two of the defendants, Swift & Co. and Armour & Co., filed in the cause motions to vacate that decree. From the denial of those motions appeals were taken to the Court of Appeals for the District. That court certified questions to us. We ordered the entire record sent here; and then held that, because the Expediting Act of February 11, 1903, c. 544,  2, 32 Stat. 823 (15 USCA  29), provides for a direct appeal to this court in suits in equity brought by the United States under the Anti-Trust Act (15 USCA  1-7, 15) the Court of Appeals was without jurisdiction. We also held that the Supreme Court of the District had jurisdiction of the subject-matter and of the parties, and that the consent decree entered by it was in all respects valid and enforceable. Its order denying the motions to vacate the consent decree was, therefore, affirmed.
+ An obstacle to the enforcement of the consent decree remains. An order of the Supreme Court of the District, entered May 1, 1925, suspends the operation of the consent decree as a whole 'until further order of the court to be made, if at all, after a full hearing on the merits according to the usual course of chancery proceedings.' That order (as we know judicially from our own records, Aspen Mining & Smelting Co. v. Billings, 
+150 
+U.S. 31, 38
+, 14 S. Ct. 4) was made upon motion of the California Co-operative 
+
+[279 U.S. 553, 556]
+ 
+ Canneries, which, long after the entry of the consent decree was allowed to intervene under the following circumstances.
+ On April 29, 1922, the Canneries made a motion for leave to file an intervening petition. The petition accompanying the motion alleged that the consent decree interferes with the performance by Armour & Co. of a contract theretofore made with it, by which Armour agreed to buy large quantities of California canned fruit. The petition charged that the decree is void because the Supreme Court of the District lacked jurisdiction; and it prayed that the decree be vacated. The Supreme Court denied leave to intervene. The Canneries appealed to the Court of Appeals. That court, so far as appears, did not consider the question whether, in view of the Expediting Act (15 USCA  28, 29), it had jurisdiction on appeal. It did not refer to the decisions which hold that an order denying leave to intervene is not appealable, In re Cutting, 
+94 U.S. 15
+; Credits Commutation Co. v. United States, 
+177 
+U.S. 311
+, 20 S. Ct. 636; Ex parte Leaf Tobacco Board of Trade, 
+222 
+U.S. 578, 581
+, 32 S. Ct. 833; In re Engel-hard, 
+231 
+U.S. 646
+, 34 S. Ct. 358; City of New York v. Consolidated Gas Co., 
+253 
+U.S. 219
+, 40 S. Ct. 511; New York v. New York Telephone Co., 
+261 
+U.S. 312
+, 43 S. Ct. 372, except where he who seeks to intervene has a direct and immediate interest in a res which is the subject of the suit, compare French v. Gapen, 
+105 U.S. 509
+, 524-526; Smith v. Gale, 
+144 
+U.S. 509
+, 12 S. Ct. 674; Leary v. United States, 
+224 
+U.S. 567
+, 32 S. Ct. 599, Ann. Cas. 1913D, 1029; Swift v. Black Panther Oil & Gas Co. (C. C. A.) 244 F. 20, 30. Nor did it refer to the settled rule of practice that intervention will not be allowed for the purpose of impeaching a decree already made. 
+1
+ On June 2, 1924, it reversed the order of the 
+
+[279 U.S. 553, 557]
+ 
+ Supreme Court, directed that leave to intervene be granted, and ordered that 'such further proceedings thereupon be had as are necessary to determine the issues raised.' California Co-operative Canneries v. United States, 55 App. D. C. 36, 299 F. 908. No such proceedings were ever taken.
+ So far as appears, the Supreme Court of the District has not been requested by the government since our decision in the Swift Case, to rescind the order of suspension. Instead the government, upon the coming down of our mandate, moved in the Court of Appeals that its judgment of June 2, 1924, directing that the Canneries have leave to intervene and ordering further proceedings, be vacated. That motion the Court of Appeals denied without either an opinion or a statement of any reason therefor. This writ of certiorari was then granted to review its refusal. 
+278 
+U.S. 592
+, 49 S. Ct. 31, 73 L. Ed. -. In support of the refusal, the Canneries contends that the Court of Appeals had jurisdiction of the appeal from the order denying leave to intervene. It argues that the appeal was not within the purview of section 2 of the Expediting Act,2 because it was not 'an appeal from the final decree'; because the Canneries was not at the 
+
+[279 U.S. 553, 558]
+ 
+ time of its appeal a party to a suit in which the United States was the 'complainant'; and because, under section 226 of the District of Columbia Code, the Court of Appeals has, in its discretion, jurisdiction of an appeal from interlocutory orders. The contention is unsound.
+ Congress sought by the Expediting Act to insure speedy disposition of suits in equity brought by the United States under the Anti-Trust Act. Before the passage of the Expediting Act the opportunities for delay were From a final decree in the trial court under the Anti-Trust Act an appeal lay to the Circuit Court of Appeals; and six months were allowed for taking the appeal. From the judgment of the Court of Appeals an appeal lay to this court; and one year was allowed for taking that appeal. Act of March 3, 1891, c. 517,  6, 11, 26; Stat. 826, 828, 829. See United States v. E. C. Knight Co. (C. C.) 60 F. 306; Id. (C. C. A.) 60 F. 934, 24 L. R. A. 428; Id., 
+156 
+U.S. 1
+, 15 S. Ct. 249, 39 l. Ed. 325; United States v. Trans-Missouri Freight Association (C. C.) 53 F. 440; Id. (C. C. A.) 58 F. 58, 24 L. R. A. 73; Id. 
+166 
+U.S. 290
+, 17 S. Ct. 540. Moreover, there might be an appeal to the Circuit Court of Appeals from a decree granting or denying an interlocutory injunction, Act of June 6, 1900, c. 803, 31 Stat. 660 (28 USCA  227). These provisions governing appeals in general were amended by the Expediting Act so that in suits in equity under the Anti-Trust Act 'in which the United States is complainant' the appeal should be direct to this court from the final decree in the trial court. Thus, Congress limited the right of review to an appeal from the decree which disposed of all matters, see Collins v. Miller, 
+252 
+U.S. 364
+, 40 S. Ct. 347; and it precluded the possibility of an appeal to either court from an interlocutory decree. The time for taking the appeal from the final decree was shortened to 60 days.
+ For the enforcement of the Anti-Trust Act within the District of Columbia, its Supreme Court has jurisdiction 
+
+[279 U.S. 553, 559]
+ 
+ corresponding to that which is exercised by the federal district courts in the several districts; and the appellate jurisdiction of the Court of Appeals of the District corresponds to that of the several Circuit Courts of Appeals. Compare Federal Trade Commission v. Klesner, 
+274 
+U.S. 145
+, 47 S. Ct. 557. In suits in equity brought by the United States under the Anti-Trust Act, an appeal by one who was permitted to intervene, like an appeal by one of the original parties, must be taken direct to this Court. Continental Insurance Co. v. United States, 
+259 
+U.S. 156
+, 42 S. Ct. 540. Compare Buckeye Co. v. Hocking Valley Ry. Co., 
+269 
+U.S. 42, 48
+, 46 S. Ct. 61. The purpose of Congress to expedite such suits would obviously be defeated if in the District of Columbia an appeal lay to the Court of Appeals from a denial of a motion for leave to intervene. Compare Interstate Commerce Commission v. Baird, 
+194 
+U.S. 25, 38
+, 39 S., 24 S. Ct. 563. Even under the Act of 1891, c. 517, in cases where the appeal was taken direct to this court from the final decree in the trial court, every appeal thereafter taken in the cause was necessarily also to this court. Arkadelphia Milling Co. v. St. Louis Southwestern Ry. Co., 
+249 U.S. 134
+, 140-142, 39 S. Ct. 237; St. Louis, Iron Mountain & Southern Ry. Co. v. J. F. Hasty & Sons, 
+255 
+U.S. 252, 254
+, 41 S. Ct. 269. Compare St. Louis, Iron Mountain & Southern Ry. Co. v. McKnight, 
+244 
+U.S. 368
+, 37 S. Ct. 611
+
+
+ The order of the Supreme Court of the District suspending the enforcement of the consent decree was made pursuant to the judgment of the Court of Appeals of June 2, 1924. When our opinion in the Swift Case settled that by reason of the Expediting Act the Court of Appeals was without jurisdiction of an appeal in a suit in equity under the Anti-Trust Act in which the United States is the complainant and that the consent decree is valid, all obstacles to the enforcement of the consent decree should have been promptly removed. In refusing to vacate its 
+
+[279 U.S. 553, 560]
+ 
+ judgment and mandate the Court of Appeals departed from the limits of admissible discretion.
+REVERSED.
+ Mr. Justice SUTHERLAND and Mr. Justice STONE took no part in the consideration or decision of this case. 
+
+Footnotes
+
+[
+Footnote 1
+] See Forbes v. Railroad, Fed. Cas. No. 4,926; Coffin v. Chattanooga Water & Power Co. (C. C.) 44 F. 533; Lombard Investment Co. v. Seaboard Mfg. Co. (C. C.) 74 F. 325, 327; Land Title & Trust Co. v. Asphalt Co. of America (C. C.) 114 F. 484; State Trust Co. v. Kansas City, etc., Co. (C. C.) 120 F. 398, 407-408. This rule of practice is embodied in Equity Rule 37. See Hutchinson v. Philadelphia & G. S. S. Co. (D. C.) 216 F. 795; Hopkins v. Lancaster (D. C.) 254 F. 190; Cauffiel v. Lawrence (D. C.) 256 F. 714; King v. Barr (C. C. A.) 262 F. 56; Mueller v. Adler (C. C. A.) 292 F. 138; In re Veach (C. C. A.) 4 F. (2d) 334; Union Trust Co. v. Jones (C. C. A.) 16 F.(2d) 236; Board of Drainage Com'rs v. Lafayette Bank (C. C. A.) 27 F.(2d) 286. Compare Farmers' Loan & Trust Co. v. Kansas City R. R. (C. C.) 53 F. 182, 186; United States v. Northern Securities Co. (C. C.) 128 F. 808; Horn v. Pere Marquette R. R. (C. C.) 151 F. 626, 634; United States v. McGee (C. C.) 171 F. 209; Jennings v. Smith (D. C.) 242 F. 561, 564; Adler v. Seaman (C. A.) 266 F. 828. 
+
+[
+Footnote 2
+] Section 2. 'That in every suit in equity pending or hereafter brought in any Circuit (District) Court of the United States under ... ( the Anti-Trust Act), wherein the United States is complainant, ... an appeal from the final decree of the Circuit (District) Court will lie only to the Supreme Court and must be taken within sixty days from the entry thereof. ...' 
+
+
+
+

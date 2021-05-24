@@ -1,0 +1,75 @@
+Description: CITY OF BOSTON v. JACKSON , 260 U.S. 309 (1922)
+Date: 1922-12-04 00:00:00
+Docket: 141
+Opinion
+
+
+United States Supreme Court
+CITY OF BOSTON v. JACKSON(1922)
+No. 141
+Argued: Decided: December 4, 1922
+
+
+
+
+
+[260 U.S. 309, 310]
+ 
+ Messrs. Nathan Matthews and J. P. Lyons, both of Boston, Mass., for plaintiff in error.
+
+
+
+[260 U.S. 309, 311]
+ 
+ Messrs. J. Weston Allen, Edwin H. Abbot, Jr., and Alexander Lincoln, all of Boston, Mass., for defendant in error.
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ This is a writ of error to a decree of the Supreme Judicial Court of Massachusetts sustaining a demurrer to a bill in equity against the treasurer and receiver general of the commonwealth of Massachusetts, the Boston Elevated Railway Company, and the trustees who are operating the railway of that company under a special statute of the commonwealth (Sp. St. 1918, c. 159), and dismissing the bill for want of equity, the plaintiff not wishing to plead further. It now comes before us on a motion by the Attorney General of Massachusetts to dismiss or affirm.
+ The case as made by the bill is an impeachment of the validity of the special act of 1918. By acts of 1902 and 1911 (Stat. 1902, c. 534, and Stat. 1911, c. 741), the city of Boston was given power to construct and did construct subways and tunnels at a cost of $31,000,000, and by the same authority leased these and also others built by it under earlier statute to the Boston Elevated Railway Company for a fixed rental until July 1, 1936, and the whole property and its rents and profits are by the express terms of the statute held by the city 'in its private or proprietary capacity, for its own property,' never to be taken by the commonwealth except upon payment of just compensation. The railway company got into financial difficulty. It served the residents of Boston and other towns of the commonwealth. The General Court in the public interest passed the special act of 1918 to relieve the situation. In general the act provided for the appointment 
+
+[260 U.S. 309, 312]
+ 
+ of trustees who were to take the railway out of the hand of the company and operate it under the leases to the company by the city of Boston, on condition that the stockholders of the railway company accepted the provisions of the act. It is not necessary to set out what these provisions in detail are, except to say that they provide for the payment of dividends on the stock of the company, the repair and maintenance of the railway, the raising of $3,000,000 by the company for the improvement of the property and a reserve fund, and the payment of any deficit in operation out of the treasury of the commonwealth. If the commonwealth is called upon to make payments, to meet deficits or diminution of the reserve fund, such amounts are to be assessed upon the several cities and towns in which the railway operates, as an addition to the regular state tax, in proportion to the number of persons in said cities and towns using the service of the company at the time of the payments as determined by the trustees. The trustees are to fix the fares to meet the cost of service, including taxes, rentals and interest on the indebtedness of the company, fixed dividends on the preferred stock, and 5 per cent. on the common stock for two years, 5 1/2 per cent. for the next two years and 6 per cent. for the remainder of public operation, which is for a period of ten years and thereafter as the commonwealth shall determine.
+ The company's stockholders having accepted the act, the trustees took over the possession and operation of the railway. They found the railway in bad repair and charged $2,000,000 for depreciation and $2,300,000 for maintenance and repair in the year 1919. This led to a deficit for that year of $4,000,000, although in previous years the company had not expended more than $100,000 a year on such account. The treasurer and receiver general under the act of 1918 paid the deficit out of the treasury of the commonwealth, and was about to include 
+
+[260 U.S. 309, 313]
+ 
+ the same in the state taxes to be collected by the city of Boston and the other towns through which the railway runs in the proportion fixed by the act. The object of the bill was to prevent this levy and collection and further proceedings under the act.
+ The motion to dismiss is urged first on the ground that Charles L. Burrill as treasurer and receiver general was the defendant in the original bill and that the present defendant Jackson, his successor in office, has been substituted without legal sanction. The substitution took place in the Supreme Judicial Court of Massachusetts before that court considered the case on its merits and in the court's opinion the objection to the substitution was noted and overruled. This settles conclusively so far as we are concerned, that the state law authorized the substitution. The case of Irwin v. Webb, 
+258 U.S. 219
+, 42 Sup. Ct. 293, decided by this court March 20, 1922, has no application. That was an appeal from a federal District Court in which this court had to consider the substitution in this court of county officers newly elected for those in office when the suit was brought and the decree entered in the District Court. It was not authorized by the federal statute and we could find no state law which permitted it to be done.
+ The second ground urged for dismissal is that the tax for 1919 sought to be enjoined, has been collected from the taxpayers of the city by the city and paid over to the treasurer of the commonwealth so that the case here becomes a moot one. But the tax had been paid before the Supreme Judicial Court took up, considered and decided the case. It must, therefore, have found, as it was entirely justified in doing, that the bill in its averments, prayer and real object was directed not only against the collection of the tax then pending but against future payments out of the treasury of the commonwealth and against the continued operation by the trustees under the statute of 1918 with the possible incurring 
+
+[260 U.S. 309, 314]
+ 
+ of future deficits to be assessed against the city for collection. The action of the state court upon such a matter relieves us from its consideration. BiMetallic Co. v. State Board of Equalization, 
+239 
+U.S. 441, 444
+, 36 S. Sup. Ct. 141.
+ Having disposed thus of the grounds presented for dismissing the writ of error, we come to the alternative prayer for affirmance. Under paragraph 5 of rule 6 of this court (32 Sup. Ct. vi), when the questions presented on such a motion are found by the court, in view of our previous decisions, to be so wanting in substance as not to need further argument, we dispose of the case. Chicago & Rock Island R. R. v. Devine, 
+239 
+U.S. 52, 54
+, 36 S. Sup. Ct. 27; Missouri Pacific Railway Co. v. Castle, 
+224 
+U.S. 541, 544
+, 32 S. Sup. Ct. 606.
+ The plaintiff in error comes to this court because, as it says, the statute of 1918 of the commonwealth, by which the trustees took over and are now operating the railway, impairs the obligation of the contract of lease of its property in the tunnels and subways to the railway company, and so violates the contract clause of the federal Constitution. It further contends that the imposition of a tax merely to aid a private corporation, as in the act of 1918 complained of, is not for a public purpose, and taxes collected therefor from it is taking its property without due process of law. Thirdly, it avers that vesting power in the trustees to fix the deficit in operation of the railway and to assess the city for a large part thereof is also taking its property without due process of law.
+ We are relieved from full or detailed consideration of these grounds urged for reversal by the satisfactory opinion of the Supreme Judicial Court in this case. Boston v. Treasurer and Receiver General, 237 Mass. 403, 130 N. E. 390.
+ What the commonwealth did was to help the people of the towns which the railway served when the railway's finances threatened its collapse, by taking over the lease of the railway company for a valuable consideration. 
+
+[260 U.S. 309, 315]
+ 
+ There was no restriction upon the power of the railway company to assign the lease if the company had the corporate power and that, if it did not exist before, was supplied by the act itself. The law provided for keeping the property in good repair and the payment of the rentals due the city. There was nothing in the contract of assignment which in the slightest decree impaired the obligation of the company to the city under the lease. Indeed it secured the performance of those obligations.
+ But it is said the contract was impaired because the act provided that any deficit incurred in the operation of the road under the assignment was to be paid out of the treasury of the commonwealth and finally was to be collected in large part from the city of Boston, and thus that though Boston was to receive its rental, it was required to pay a deficit in operation into which the rental must enter as an important factor. The effect, therefore, was to take away or impair its beneficial interest in the profits of the contract of lease and its property. To this the Supreme Court answered that this tax was not imposed on Boston in its proprietary capacity in which it built the subways and leased them. The taxes collected were state taxes to achieve a state purpose and Boston in its public and political character was a mere state tax agency for the collection. The taxpayers were to be called upon to bear the burden of the public purpose of the state in furnishing this important service of transportation in and between the communities in which they lived. If this was in accord with the state constitution and statutes, as we must and do find it to be from the well-reasoned opinion of the Supreme Judicial Court, we can not see that in any respect the levy of the tax for deficits impairs Boston's contract with the railway company.
+ In disposing of this objection we have in effect disposed of those objections to the act of 1918 based on the Fourteenth 
+
+[260 U.S. 309, 316]
+ 
+ Amendment. If the Constitution and laws of Massachusetts authorize the commonwealth to operate a railway company for the public benefit, there is nothing in the Fourteenth Amendment to prevent. Nor is there anything in it preventing the state from using the trustees as agents to operate the railway and in such operation to determine the needed expenditures to comply with the obligations of the lease or the requirements of adequate public service. This is delegating to proper agents the decision of a proper administrative policy in the management of a state enterprise and the ascertainment of facts peculiarly within their field of authorized action.
+ In this conclusion, we assume as did the Supreme Judicial Court, that the state may confer on one of its subdivisions like a city or town the private proprietary capacity by which it may acquire contract or property rights protected by the federal Constitution against subsequent impairment by its creator the state. Mt. Hope Cemetery v. Boston, 158 Mass. 509, 33 N. E. 695, 35 Am. St. Rep. 515. We do not wish to be understood as accepting such assumption as an established rule. Pawhuska v. Pawhuska Oil Co., 
+250 U.S. 394
+, 39 Sup. Ct. 526. All we now decide is that even if the city of Boston may invoke the contract clause of the federal Constitution to protect its rights under the lease as against infringing legislation by the commonwealth, the act of 1918 does not infringe.
+ Decree affirmed. 
+
+
+

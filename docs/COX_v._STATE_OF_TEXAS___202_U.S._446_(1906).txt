@@ -1,0 +1,109 @@
+Description: COX v. STATE OF TEXAS , 202 U.S. 446 (1906)
+Date: 1906-05-21 00:00:00
+Docket: 266
+Opinion
+
+
+United States Supreme Court
+COX v. STATE OF TEXAS(1906)
+No. 266
+Argued: Decided: May 21, 1906
+
+
+
+ Messrs. J. C. McReynolds, F. E. Albright, E. C. Orrick, J. C. Terrell, Jr., and Dewey Langford for plaintiffs in error.
+
+
+[202 U.S. 446, 447]
+ 
+
+ Messrs. Charles K. Bell, R. V. Davidson, and Claude Pollard for defendants in error.
+
+
+
+[202 U.S. 446, 448]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ These are two suits upon a statutory bond executed by the plaintiffs in error as principal and sureties. There were ver- 
+
+[202 U.S. 446, 449]
+ 
+ dicts and judgments against the plaintiffs in error, whereupon motions were made for new trials, setting up that the act under which the bond was given was contrary to the 14th Amendment of the Constitution of the United States, as denying to persons within the jurisdiction the equal protection of the law. The motions were overruled, and an appeal was taken to the court of civil appeals. That court affirmed the judgments below (85 S. W. 1199; 85 S. W. 34), a motion for a rehearing was overruled, an application for a writ of error was refused by the supreme court of the state, and thereupon the cases were taken to this court.
+ The bond in suit was given by a liquor seller, and was conditioned, among other things, against selling intoxicating liquors to minors, or allowing minors to enter and remain in the obligor's place of business. The breaches found were breaches of the conditions recited. These suits were brought by the defendants in error respectively, the state of Texas and the parent of the minor. They seem to have been tried together, and the records are so similar that they properly have been treated by counsel as one.
+ The statutes of Texas provide for taxes on sellers of spirituous, vinous, or malt liquors, or medicated bitters. Rev. Civ. Stat. 1895, arts. 5060a, 5060b. They require an application for a license, giving details a payment of the annual tax as a condition of obtaining the same, and the giving of a bond like the one in suit. Arts. 5060c-5060g. See amendments, Stat. 1897, chap. 158; 1901, chap. 136. They also enact, however, that 'the provisions of this chapter shall not apply to wines produced from grapes grown in this state, while the same is in the hands of the producers or manufacturers thereof.' Art. 5060i. This article is thought to invalidate those which precede. The matters of discrimination relied upon are the tax and the requirement of the bond. It may be proper to add that there was a demurrer, setting up generally that the statute was unconstitutional because of this article, but, until the motion for a new trial was made, there was no sufficient setting up of a 
+
+[202 U.S. 446, 450]
+ 
+ defense under the Constitution of the United States. Kipley v. Illinois, 
+170 U.S. 182
+, 45 L. ed. 998, 18 Sup. Ct. Rep. 550; Layton v. Missouri, 
+187 U.S. 356
+, 47 L. ed. 214, 23 Sup. Ct. Rep. 137.
+ The main argument addressed to us was rested on the notion that the statutes discriminate unconstitutionally between two classes of persons in the state, naturally existing there, as in Connolly v. Union Sewer Pipe Co. 
+184 U.S. 540
+, 46 L. ed. 679, 22 Sup. Ct. Rep. 431, there was a discrimination with regard to trusts in favor of producers and raisers of agricultural products and live stocks. This argument seems to us a fallacy. Farmers and stock raisers are classes naturally existing in the community, carrying on distinct callings, and not likely to be engaged in any thing else. Hence, although farmers and stock raisers equally with others were prohibited from forming trusts for other purposes, to permit then to form trusts in their regular business was practically, and in fact, to discriminate between two classes and others. The case was discussed throughout on the footing of classification. But, so far as we know, there is no natural distinction of classes among liquor sellers,-one class selling their own domestic wines alone, another selling all intoxicants except domestic wines. The statutes regulate the doing of certain things, which, presumably, all liquor sellers would prefer to be free to do. Therefore, whatever other objections there may be to them, they do not deny the equal protection of the laws by forbidding, without justification, to one what they permit to another class.
+ There is one slight qualification necessary to what we have said. It is true that there is granted to the producers and manufacturers of wine from grapes grown in Texas an immunity in respect of that wine which is not granted to other sellers of the same wine. To that extent, but to that extent alone, favor is shown to a class. But this is not the class discrimination put forward and insisted upon. The attack is not mainly on the distinction between producers and other sellers of domestic wine, but upon that between those producers and the sellers of other wine. The latter, as we have said, is not a true class distinction. Whether there is a difference in the scope of a state's general power to legislate and its power to tax or 
+
+[202 U.S. 446, 451]
+ 
+ not (Kidd v. Pearson, 
+128 
+U.S. 1, 26
+, 32 S. L. ed. 346, 352, 2 Inters. Com. Rep. 232, 9 Sup. Ct. Rep. 6; Connolly v. Union Sewer Pipe Co. 
+184 
+U.S. 540, 562
+, 563 S., 46 L. ed. 679, 690, 691, 22 Sup. Ct. Rep. 431), the former does not need an extended defense so far as the 14th Amendment alone is concerned. See American Sugar Ref. Co. v. Louisiana, 
+179 U.S. 89
+, 45 L. ed. 102, 21 Sup. Ct. Rep. 43; Reymann Brewing Co. v. Brister, 
+179 U.S. 445
+, 45 L. ed. 269, 21 Sup. Ct. Rep. 201; St. John v. New York, 
+201 U.S. 633
+, 50 L. ed. --, 26 Sup. Ct. Rep. 554.
+ That part of the 14th Amendment which forbids the abridgment of the privileges or immunities of citizens of the United States was not referred to or relied upon in the motion for a new trial or in the assignment of errors before the court of civil appeals. It is mentioned for the first time in the assignment of errors before this court. Chicago I. & L. R. Co. v. McGuire, 
+196 
+U.S. 128, 132
+, 49 S. L. ed. 413, 417, 25 Sup. Ct. Rep. 200. In view of the decisions, we hardly suppose that the omission was by mistake. Bartemeyer v. Iowa, 18 Wall. 129, 21 L. ed. 929; Crowley v. Christensen, 
+137 U.S. 86
+, 34 L. ed. 620, 11 Sup. Ct. Rep. 13; Giozza v. Tiernan, 
+148 U.S. 657
+, 37 L. ed. 599, 13 Sup. Ct. Rep. 721; Cronin v. Adams, 
+192 U.S. 108
+, 48 L. ed. 365, 24 Sup. Ct. Rep. 219. The truth is that the 14th Amendment does not touch the case, standing alone, and, if so, other provisions of the Constitution which were not invoked cannot be brought in now, under cover of the reference to the 14th Amendment, to give the latter a more extensive application to the case than it would have when taken by itself. If the states were restricted by the 14th Amendment only, and saw fit to encourage domestic production, or thought to promote temperance, or to help to secure pure wine, by statutes such as those before us, there would be nothing to hinder them. If the statutes are open to objection as improperly interfering with commerce among the states (Tiernan v. Rinker, 
+102 U.S. 123
+, 26 L. ed. 103; Walling v. Michigan, 
+116 U.S. 446
+, 29 L. ed. 691, 6 Sup. Ct. Rep. 454), the right which springs from art. 1,  8, of the Constitution cannot be used to enlarge, for the purposes of this case, the privileges and immunities or the equal protection of the laws secured by the 14th Amendment. Dewey v. Des Moines, 
+173 
+U.S. 193, 198
+, 43 S. L. ed. 665, 666, 19 Sup. Ct. Rep. 379. The converse case of a right set up under art. 1,  8, and an attempt to support it by the 14th Amendment, was decided in Keokuk & H. Bridge Co. v. Illinois, 
+
+[202 U.S. 446, 452]
+ 
+ 
+175 
+U.S. 626, 633
+, 44 S. L. ed. 299, 302, 20 Sup. Ct. Rep. 205. See further, Harding v. Illinois, 
+196 
+U.S. 78, 86
+, 49 S. L. ed. 394, 396, 25 Sup. Ct. Rep. 176.
+ It is proper to say that art. 1,  8, is referred to in the assignments of error before the court of civil appeals and before this court. But it does not appear that the court of civil appeals dealt with the point, and probably it refused to do so on the ground that the section was not relied upon before the trial court. We cannot say that it erred, even if it did, unless that ground is excluded. Jacobi v. Alabama, 
+187 U.S. 133
+, 47 L. ed. 106, 23 Sup. Ct. Rep. 48; Erie Railroad v. Purdy, 
+185 U.S. 148
+, 46 L. ed. 847, 22 Sup. Ct. Rep. 605. The case was argued before us on the 14th Amendment alone, and although there is some slight reference to interference with commerce in one of the briefs, it is rather in aid of the argument based on Connolly v. Union Sewer Pipe Co. 
+184 U.S. 540
+, 46 L. ed. 679, 22 Sup. Ct. Rep. 431, than as an independent point. At all events, the question is not open here.
+ We believe that we have said enough to dispose of the cases. Whether, even if the statute is invalid as to wines made in other states, the bond may be valid, in view of the applications having extended to the sale of spirituous liquors (Tiernan v. Rinker, supra), or otherwise, it is unnecessary to inquire.
+ Judgments affirmed.
+
+ Mr. Justice Harlan, dissenting:
+ I do not understand that the court modifies the principles announced in Walling v. Michigan, 
+116 U.S. 446
+, 29 L. ed. 691, 6 Sup. Ct. Rep. 454, or in Connolly v. Union Sewer Pipe Co. 
+184 U.S. 540
+, 46 L. ed. 679, 22 Sup. Ct. Rep. 431. In my judgment, those cases are applicable to and control this case, and require a reversal of the judgment below upon the ground that the statute of Texas is in violation of the Constitution of the United States. I therefore dissent from the opinion and judgment of the court.
+ Mr. Justice Brewer and Mr. Justice Brown concur in this dissent. 
+
+
+

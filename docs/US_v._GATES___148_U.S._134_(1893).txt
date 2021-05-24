@@ -1,0 +1,54 @@
+Description: US v. GATES , 148 U.S. 134 (1893)
+Date: 1893-03-13 00:00:00
+Docket: 
+Opinion
+
+
+United States Supreme Court
+U S v. GATES(1893)
+
+Argued: Decided: March 13, 1893
+
+
+ Sol. Gen. Aldrich, for the United States.
+ Charles King, George A. King, and William B. King, for appellee.
+
+ Mr. Justice BLATCHFORD delivered the opinion of the court.
+ In this case, Frank Gates filed a petition in the court of claims May 27, 1891, setting forth that from May 24, 1888, to July 31, 1888, he was a letter carrier in the post office at the city of New York, of the class entitled to a salary of $1,000 a year; that during that period he was, from time to time, actually and necessarily employed in excess of eight hours a day, in the performance of the duties assigned to him as such carrier, aggregating a specified excess; that by the act of May 24, 1888, ( set forth in case No. 1,061, U. S. v. Post, 13 Sup. Ct. Rep. 567, just decided,) he became entitled to extra pay for all the time during which he was so employed in excess of eight hours a day; that he had applied to the post-office department for payment, and it had not been paid; and that he claimed judgment for a specified amount, besides costs. A traverse of the petition was filed July 14, 1891, and the case was heard by the court of claims, which, on the evidence, found the facts to be as follows: 
+
+[148 U.S. 134, 135]
+ 
+ '(1) The claimant was, during the months of May, June, and July, 1888, a letter carrier of the first class, salary $1,000 a year, in the city of New York, in the state of New York.
+'(2) From May 24, 1888, to July 31, 1888, he was actually and necessarily employed, in the performance of his duties, more than eight hours a day, the excess over such eight hours being as follows:
+
+ Hrs. Min May, 1888 16 53 June, 1888 78 58 July, 1888 69 18 ___ ___ Total 165 9
+'He has received no extra pay for the excess.
+
+'(3) For the said period of time, claimant performed only fifteen hours of service on the ten Sundays, and four hours and thirty minutes on Decoration day, and the same time on the 4th day of July.'
+
+ On such findings of fact the court found, as a conclusion of law, that Gates was entitled to recover for the 165 hours and 9 minutes of extra work performed by him, without being required to deduct therefrom the deficit of less than 8 hours a day worked on Sundays and holidays, as shown by finding 3, amounting, at 34.2 cents per hour, to $56.48; and for that amount a judgment was entered for him, to review which the United States has appealed.
+ In the opinion of the court of claims, reported in 27 Ct. Cl. 244, 259, it is stated that No. 1,061, U. S. v. Post, 13 Sup. Ct. Rep. 567, ( just decided,) embraced, with a single exception, all the questions presented by the present case, No. 1,060, besides many more questions, and that No. 1,060 presented one question which was not presented in the other case. That question is stated in the opinion as follows: 'On week days the carriers were employed more than eight hours, but on Sundays less, and the deficit of the latter nearly equals the excess of the former. The post- office department, by its circular February 19, 1891, has directed postmasters 'to determine the time a letter carrier may have 
+
+[148 U.S. 134, 136]
+ 
+ been required to work during any month in excess of eight hours per day, as follows:
+"Ascertain the aggregate hours worked during the month. Multiply the number of days worked during the month by eight, and subtract the product thus obtained from the aggregate number of hours worked, and the remainder will be the extra time for which the carrier is entitled to pay at the following rates:
+
+ []
+ Third and fourth Salary. First quarter. Second quarter. quarters. Average []
+ $600 20 7/8 cents 20 5/8 cents 20 3/8 cents 20 5/8 cents per hour. per hour. per hour. per hour. 800 27 3/4 cents 27 1/2 cents 27 1/8 cents 27 5/8 cents per hour. per hour. per hour. per hour. 850 29 1/2 cents 29 1/4 cents 28 7/8 cents 29 5-24 cents per hour. per hour. per hour. per hour. 1,000 34 3/4 cents 34 3/8 cents 34 cents 34 1/2 cents per hour. per hour. per hour. per hour. []
+"The time necessarily consumed in the performance of the service between 'Report for duty' and 'End of duty' is the 'actual time' to be allowed, and the interim between deliveries is the carrier's own time, and cannot in any case be charged against the United States.'
+
+'The carrier's eight-hour law declares 'that hereafter eight hours shall constitute a day's work,' but it allows compensation to continue in the form of an annual salary, and requires no deduction to be made if the duties of the day do not extend through the prescribed time. It also declares that, 'if any letter carrier is employed a greater number of hours per day than eight, he shall be paid extra for the same.' To sustain the interpretation given to the act by the department, it will be necessary to read in it, by construction, the words 'on an average,' i. e. if any letter carrier is employed on an average a greater number of hours per day than eight, he shall be paid extra for the same. This the court is not at liberty to do. The carrier is entitled to eight hours' work, and to his pay if work is not furnished to him. For any excess on any day he is entitled to extra pay. The only set-off that can be maintained is when he is absent from duty without leave. The department is at liberty to keep a carrier employed eight hours 
+
+[148 U.S. 134, 137]
+ 
+ every day, but not to give him a deficit of work one day and an excess another.'
+
+ In the brief of the solicitor general in the present case, it is stated that in his opinion the decision of the court of claims was correct; that he is prevented from dismissing the appeal only by the fact that another department of the government has differed from that view, and declines to follow it until the question is decided authoritatively by this court; and that justice to the letter carriers seems, therefore, to require that the case be submitted to this court for its determination, which he does without argument.
+ The conclusions which we have reached in No. 1,061 cover the same questions arising in this case which are presented in that; and, as the appellant does not challenge the decision of the court of claims as to the question presented in this case which is not presented in No. 1,061, it is sufficient to say that we concur with the views of that court, above stated, as to that question.
+ Judgment affirmed.
+ Mr. Justice JACKSON took no part in the decision of this case. 
+
+
+

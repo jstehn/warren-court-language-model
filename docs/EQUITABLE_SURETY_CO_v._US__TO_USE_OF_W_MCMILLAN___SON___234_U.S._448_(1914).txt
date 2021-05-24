@@ -1,0 +1,105 @@
+Description: EQUITABLE SURETY CO v. US, TO USE OF W MCMILLAN & SON , 234 U.S. 448 (1914)
+Date: 1914-06-08 00:00:00
+Docket: 861
+Opinion
+
+
+United States Supreme Court
+EQUITABLE SURETY CO. v. U S, TO USE OF W MCMILLAN & SON(1914)
+No. 861
+Argued: April 15, 1914Decided: June 8, 1914
+
+
+
+
+[234 U.S. 448, 449]
+ 
+ The court of appeals of the District of Columbia certifies that the record in the above-entitled cause, now pending in said court upon appeal from the supreme court of the District of Columbia, discloses the following:
+ The declaration of the United States to the use of W. McMillan & Son, filed February 11, 1913, against the Equitable Surety Company, alleges:
+ That Allen T. Howison, as principal, and the Equitable Surety Company, as surety, on July 24, 1911, executed a bond to the United States in the penal sum of $110,350, conditioned for the faithful performance by Howison of a certain contract made by him with the commissioners of the District of Columbia on that date. A copy of the bond, made an exhibit, shows that the contract was for the erection of a school building fronting on Eleventh street, N. W., between Harvard and Girard streets, in the city of Washington. The conditions of the bond are that if Howison shall perform to the satisfaction of the commissioners the work to be done by him in accordance with the stipulations of the contract, and shall save harmless and indemnify the District of Columbia from any and all claims, delays, suits, charges, damages, judgments, etc., on account of any accidents to persons or property after the commencement of the work and prior to completion and acceptance, and pay the same; and 'will promptly make payments to all persons supplying him 
+
+[234 U.S. 448, 450]
+ 
+ with labor and material in the prosecution of the work provided for in said contract,' etc., the obligation shall be void; otherwise to remain in force.
+ That thereafter W. McMillan & Son, at the request of the Butt-Chapple Stone Company, agreed to furnish to said contractor certain stone materials to be used in the prosecution of the work provided for in the contract by the contractor, and did furnish to said contractor materials of the kind and quality specified in his contract to the value of $4,452. 84, of which material the contractor used on the building a quantity of the value of $3,952.84, for which he has failed to make payment. And that defendant, though requested so to do, has refused to pay the same. The affidavit of the plaintiff in support of the declaration follows the requirements of rule 73.
+ After the general issue, defendant filed a special plea denying liability on said bond because, after the execution and delivery of the same, and without the knowledge or consent of defendant, the commissioners of the District of Columbia and the said Howison, its principal, altered the contract the performance of which was guaranteed by said bond. That said alteration consisted in the entire changing of the building from one fronting on Eleventh street to one fronting on Harvard street, which alteration involved the contractor in considerable expense not contemplated in the original contract, and prejudicial to defendant. That said relocation of the building necessitated a material change in grading the ground. That prior to the change of location the contractor had graded the ground as required in the contract, and expended therein the sum of $2, 393.90. And that by reason of the change said sum was a total loss to the contractor, and the further excavation made necessary by the change of location was done at a cost of $1,300.90.
+ The affidavit of defense alleged the said change in the contract without its knowledge or consent; and that the 
+
+[234 U.S. 448, 451]
+ 
+ same necessitated a material change in the grading of the land, which had been previously performed by the contractor, at a considerable expenditure not contemplated in the original contract, and prejudicial to the defendant.
+ On motion under the 73d rule of the supreme court of the District of Columbia, the court entered judgment for the plaintiff for the amount of the demand; and defendant has appealed therefrom.
+ By stipulation two other cases involving the same question here presented are to abide the result of this case.
+ The act of Congress, in compliance with the requirements of which the aforesaid bond was executed (30 Stat. at L. 906, chap. 218), reads as follows:
+ An Act Relative to the Payment of Claims for Material and Labor Furnished for District of Columbia Buildings.
+ Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That hereafter any person or persons entering into a formal contract with the District of Columbia for the construction of any public building, or the prosecution and completion of any public work, or for repairs upon any public building or public work, shall be required, before commencing such work, to execute the usual penal bond, with good and sufficient sureties, with the additional obligations that such contractor or contractors shall promptly make payments to all persons supplying him or them labor and materials in the prosecution of the work provided for in such contract; and any person or persons making application therefor and furnishing affidavit to the department under the direction of which said work is being or has been prosecuted that labor or materials for the prosecution of such work has been supplied by him or them, and payment for which has not been made, shall be furnished with a certified copy of said contract and bond, upon which said person or persons supplying such labor and materials shall have a right of action, and shall be authorized to 
+
+[234 U.S. 448, 452]
+ 
+ bring suit in the name of the District of Columbia or the United States, for his or their use and benefit, against said contractor and sureties, and to prosecute the same to final judgment and execution: Provided, That such action and its prosecution shall not involve the District of Columbia or the United States in any expense: Provided, That in such case the court in which such action is brought is authorized to require proper security for costs in case judgment is for the defendant.
+ Approved, February 28, 1899
+
+
+ The court of appeals further certifies that the following question of law arises upon the record; that its decision is necessary to the proper disposition of the cause; and, to the end that a correct result may be reached, desires the instruction of the Supreme Court of the United States upon that question, to wit:
+ Did the alteration of the terms of the contract by the District of Columbia and the contractor, without the knowledge or consent of the surety, have the effect to release the surety from the obligation of the bond?
+
+
+ Messrs. J. J. Darlington, Joseph A. Burkart, and William E. Ambrose for the Equitable Surety Company. 
+
+[234 U.S. 448, 453]
+ 
+ Messrs. Wharton E. Lester, Lucas P. Loving, and Daniel W. Baker for the United States to the use of W. McMillan & Son.
+
+ Statement by Mr. Justice Pitney: 
+
+[234 U.S. 448, 454]
+ 
+ Mr. Justice Pitney, after making the foregoing statement, delivered the opinion of the court:
+ The act of February 28, 1899 (30 Stat. at L. 906, chap. 218), under which the bond in question was given, was modeled after an act of August 13, 1894, entitled, 'An Act for the Protection of Persons Furnishing Materials and Labor for the Construction of Public Works' (28 Stat. at L. 278, chap. 280, U. S. Comp. Stat. 1901, p. 2523). In an action founded upon a bond given under the latter act, it was held by the circuit court of appeals for the eighth circuit, in United States use of Anniston Pipe & Foundry Co. v. National Surety Co. 34 C. C. A. 526, 92 Fed. 549, 551, that the obligation has a dual aspect, it being given, in the first place, to secure to the government the faithful performance of all obligations which a contractor may assume towards it; and, in the second place, to protect third persons from whom the contractor may obtain materials or labor; and that these two agreements are as distinct as if contained in separate instruments. It was consequently held that the sureties in such a bond could not claim exemption from liability to persons who had supplied labor or materials to their principal, to enable him to execute his contract with the United States, simply because the government and the 
+
+[234 U.S. 448, 455]
+ 
+ contractor, without the surety's knowledge, had made changes in the contract subsequent to the execution of the bond, the changes being such as did not alter the general character of the work contemplated by the contract, or the general character of the materials necessary for its execution.
+ In support of this decision several cases from the state courts were cited, among them Dewey v. State, 91 Ind. 173, 185; Conn. v. State, 125 Ind. 514, 518, 25 N. E. 443; Steffes v. Lemke, 40 Minn. 27, 29, 41 N. W. 302; and Doll v. Crume, 41 Neb. 655, 660, 59 N. W. 806. They fairly sustain the conclusion reached. The cases cited from the Indiana and Minnesota reports antedated the passage of the act of 1894, and may have furnished the suggestion for that enactment.
+ The decision of the circuit court of appeals in United States ex rel. Anniston Pipe & Foundry Co. v. National Surety Co. supra, although never until now brought under the review of this court, has been many times cited and followed in the other Federal courts. Brown & H. Co. v. Ligon, 92 Fed. 851, 857; United States use of Fidelity Nat. Bank v. Rundle, 40 C. C. A. 450, 100 Fed. 400, 402; United States Fidelity & G. Co. v. Omaha Bldg. & Constr. Co. 53 C. C. A. 465, 116 Fed. 145, 147; Chaffee v. United States Fidelity & G. Co. 63 C. C. A. 644, 128 Fed. 918; United States ex rel. Maxwell v. Barrett, 135 Fed. 189, 190; Henningsen v. United States Fidelity & G. Co. 74 C. C. A. 484, 143 Fed. 810, 813; City Trust, S. D. & Surety Co. v. United States, 77 C. C. A. 397, 147 Fed. 155, 156; United States use of Phoenix Iron Co. v. California Bridge & Constr. Co. 152 Fed. 559, 562; Title Guaranty & Trust Co. v. Puget Sound Engine Works, 89 C. C. A. 618, 163 Fed. 168, 174.
+ In United States Fidelity & G. Co. v. Golden Pressed & Fire Brick Co. ( United States Fidelity & G. Co. v. United States) 
+191 U.S. 416
+, 48 L. ed. 242, 24 Sup. Ct. Rep. 142; and United States use of Hill v. American Surety Co. 
+200 
+U.S. 197, 203
+, 50 S. L. ed. 437, 440, 26 Sup. Ct. Rep. 168, this court adopted a reasonably liberal construction of the act of 1894, in view of the fact that it was evidently designed to furnish the obligation of a bond as a substitute for the security which might otherwise be obtained by attaching a lien to the property; such lien not being permissible in the case of a government work. 
+
+[234 U.S. 448, 456]
+ 
+ It seems to us that the construction given to that act in the case in 92 Fed. is correct, and that it applies equally to the act of 1899, now under consideration; and that this act, like the other, should receive a reasonably liberal interpretation in aid of the public object whose accomplishment is so evidently intended. Its title is, 'An Act Relative to the Payment of Claims for Material and Labor Furnished for District of Columbia Buildings.' The enacting clause, as well as the title, shows that Congress recognized that no legislation was necessary in order to enable the commissioners of the District to require 'the usual penal bond, with good and sufficient sureties,' from a contractor engaged for the construction of a public building. The object of the legislation was to give legal sanction to the 'additional obligation that such contractor or contractors shall promptly make payments to all persons supplying him or them labor and materials in the prosecution of the work provided for in such contract,' and to give to such a laborer or materialman the right to bring an action, if necessary, upon the bond, either in the name of the District of Columbia or of the United States, for his own benefit, against the contractor and sureties. The nominal obligee is, with respect to these third parties, a mere trustee, and the obligors, including the surety as well as the principal contractor, enter into the obligation in full view of this. The public is concerned not merely because laborers and materialmen (being without the benefit of a mechanics' lien in the case of public buildings) would otherwise be subject to great losses at the hands of insolvent or dishonest contractors, but also because the security afforded by the bond has a substantial tendency to lower the prices at which labor and material will be furnished, because of the assurance that the claims will be paid.
+ Stress is placed by counsel for the surety company upon the fact that the building was materially altered, and in a 
+
+[234 U.S. 448, 457]
+ 
+ manner that involved the contractor in considerable expense not contemplated in the original contract. If these alterations were made pursuant to a stipulation for that purpose contained in the contract, they were binding upon the surety, unless they were so extensive and material as to amount to a departure from the original contract rather than a permissible modification of its details. United States v. Freel, 92 Fed. 299, 39 C. C. A. 491, 99 Fed. 237, 
+186 U.S. 309
+, 46 L. ed. 1177, 22 Sup. Ct. Sup. 875.
+ So far as the certificate shows, however, the contract here in question contained no clause permitting changes. In such case it is beside the question to inquire whether the changes were important, or, indeed, whether they prejudiced or benefited the contractor. The rule that obtains in ordinary cases is that any change in the contract made between the principals without the consent of the surety discharges the obligation of the latter, even though the change be beneficial to the principal obligor.
+ But it lies at the foundation of this rule of strictissimi juris that the agreement altering the undertaking of the principal must be participated in by the obligee or creditor, in order that it may have the effect of discharging the surety. This is expressed or implied in all the cases. Miller v. Stewart, 9 Wheat, 680, 703, 708, 709, 6 L. ed. 189, 195- 197; Sprigg v. Bank of Mt. Pleasant, 14 Pet. 201, 208, 10 L. ed. 419, 422; Magee v. Manhattan L. Ins. Co. 
+92 
+U.S. 93, 98
+, 23 S. L. ed. 699, 700; Union Mut. L. Ins. Co. v. Hanford, 
+143 
+U.S. 187, 191
+, 36 S. L. ed. 118, 120, 12 Sup. Ct. Rep. 437; Prairie State Nat. Bank v. United States, 
+164 
+U.S. 227, 233
+, 41 S. L. ed. 412, 416, 17 Sup. Ct. Rep. 142; United States v. Freel. 
+186 
+U.S. 309, 310
+, 371 S., 46 L. ed. 1177, 1178, 1181, 22 Sup. Ct. Rep. 875.
+ In the case of a bond given under a statute such as the act of February 28, 1899, there is no single obligee or creditor. The surety is charged with notice that he is entering into what is, in a very proper sense, a public obligation, and one that will be relied upon by persons who can in no manner control the conduct of the nominal obligee, and with respect to whom the latter is a mere 
+
+[234 U.S. 448, 458]
+ 
+ trustee, and therefore incapable, upon general principles of equity, of bartering away, for its own benefit or convenience, the rights of the beneficiaries. In the light of the statute, the surety becomes bound for the performance of the work by the principal in accordance with the stipulations of the contract, and for the prompt payment of the sums due to all persons supplying labor and material in the prosecution of the work provided for in the contract.
+ What would be the result of a change not contemplated in the original contract, as between the District of Columbia, consenting to the change, and the surety company, not consenting thereto, is a question not now before us, and respecting which we express no opinion. But, with respect to obligations incurred by the contractor to laborers and materialmen, at least, so far as their labor and materials are supplied in accordance with the original contract, it is obvious, we think, that a construction which would discharge the surety because of any change to which the laborers and materialmen were not parties would defeat the principal object that Congress had in view in enacting the statute. If the change were so great as to amount to an abandonment of the contract and the substitution of a substantially different one, so that persons supplying labor and materials would necessarily be charged with notice of such abandonment, a different question would be presented. But, in the case of such a change as was here made,-a mere change of position and location of the building, without affecting its general character; involving changes in grading, but having nothing to do with the furnishing of the materials upon which the action is based,-it seems to us that the responsibility of the surety to the materialman remains unaffected.
+ The question certified will be answered in the negative. 
+
+
+

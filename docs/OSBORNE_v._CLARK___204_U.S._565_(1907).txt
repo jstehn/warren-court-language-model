@@ -1,0 +1,53 @@
+Description: OSBORNE v. CLARK , 204 U.S. 565 (1907)
+Date: 1907-02-25 00:00:00
+Docket: 159
+Opinion
+
+
+United States Supreme Court
+OSBORNE v. CLARK(1907)
+No. 159
+Argued: January 16, 1907Decided: February 25, 1907
+
+
+
+ Messrs. Floyd Estill, James J. Lynch, Jesse M. Littleton, Isaac W. Crabtree, and Felix D. Lynch for plaintiffs in error.[ Osborne v. Clark 
+204 U.S. 565
+ (1907) ]
+
+
+[204 U.S. 565, 567]
+ 
+ Messrs. Charles C. Trabue and William L. Granbery for defendants in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a bill to set aside a lease made by former trustees of Carrick Academy to the trustees of the Winchester Normal College, in pursuance of an act of the general assembly of Tennessee, authorizing the letting of the academy property to said lessees. The bill alleged that the act was contrary to the Constitution of the state for various reasons, but said nothing of the Constitution of the United States, and in no way implied a reliance upon any of its terms. An act of Congress of April 18, 1806 [2 Stat. at L. 381, chap. 31], was referred to, but was not alleged to be contravened. The defendants demurred, and the demurrer, after being overruled by the court of chancery appeals, was sustained by the supreme court of the state. 112 Tenn. 483, 80 S. W. 64. The case then was brought here by writ of error, and was argued both on the merits and upon a motion to dismiss.
+ The assignment of errors sets up that the above-mentioned state law impairs the obligation of contracts, contrary to the Constitution of the United States, although it does not show definitely what contract, or how that contained in the charter of Carrick Academy is impaired. It sets up, also, that the act is repugnant to the act of Congress of April 18, 1806; and it alleges that the plaintiffs in error specially set up and claimed their rights in these respects in the chancery court of the state.
+ To show that the Constitution of the United States was relied upon below, the plaintiffs in error refer to passages in the opinions of the court of chancery appeals and the supreme court, in which Dartmouth College v. Woodward, 4 Wheat. 518, 4 L. ed. 629, was discussed, as establishing the point. But we are 
+
+[204 U.S. 565, 568]
+ 
+ unable to see that those passages prove the fact. The court of chancery appeals states the violations of the state Constitution set up in the bill, summarizes the questions presented by the bill and demurrer, and then addresses itself to answering those questions, suggesting no others, and saying nothing about the Constitution of the United States. After a statement of historical facts, it says that if the act authorizing the lease is constitutional, and the subject-matter of the act was under the control of the state, the case is at an end. If Carrick Academy is a public corporation, the state is assumed to have control. If it is a private corporation, the state Constitution is assumed to invalidate the statute by one of the clauses set up in the bill. The judge, speaking for himself, would regard the academy as a public corporation, but he yields to the weight of the decision in the Dartmouth College Case, or, at least, to the principle of that case, according to which, as he conceives, the academy is a private corporation, and therefore exempt from a diversion from its original charter purposes, such as the act authorizing the lease is assumed to effect. The objections to such a diversion that he is considering are those that he has stated as presented by the bill. The supreme court, after stating the nature of the corporation and the relations and course of dealing of the state with it, and citing cases to prove that Carrick Academy is a public agency, refers to the decision below and the citation there of the Dartmouth College Case only in order to show that that case was misapplied.
+ But the plaintiffs in error say further that the question of their rights under the Constitution of the United States necessarily was involved in a decision upon the bill, and that that is enough when the validity of a state law is concerned. Columbia Water Power Co. v. Columbia Electric Street R. Light & P. Co. 
+172 
+U.S. 475, 488
+, 43 S. L. ed. 521, 525, 19 Sup. Ct. Rep. 247; McCullough v. Virginia, 
+172 
+U.S. 102, 117
+, 43 S. L. ed. 382, 387, 19 Sup. Ct. Rep. 134. These and similar cases, however, are not to be pressed to the point that, whenever it appears that the state law logically might have been assailed as invalid 
+
+[204 U.S. 565, 569]
+ 
+ under the Constitution of the United States, upon grounds more or less similar to those actually taken, the question is open. If a case is carried through the state courts upon arguments drawn from the state Constitution alone, the defeated party cannot try his chances here merely by suggesting for the first time when he takes his writ of error that the decision is wrong under the Constitution of the United States. Crowell v. Randell, 10 Pet. 368, 398, 9 L. ed. 458, 470; Simmerman v. Nebraska, 
+116 U.S. 54
+, 29 L. ed. 535, 6 Sup. Ct. Rep. 333; Hagar v. California, 
+154 U.S. 639
+, 24 L. ed. 1044, 14 Sup. Ct. Rep. 1186; Erie R. Co. v. Purdy, 
+185 
+U.S. 148, 153
+, 46 S. L. ed. 847, 850, 22 Sup. Ct. Rep. 635.
+ We are the less uneasy at the conclusion to which we are forced, that we do not apprehend that the statute of Tennessee is invalid for the reason now put forward. That reason is that the general assembly of the state had no authority to authorize the taking of the property of this corporation for the private use of another. This objection might be urged with some force, perhaps, to the lease that was made. But the statute, which alone could be brought in question here, merely authorized the trustees of Carrick Academy to let the academy property to the trustees of the Winchester Normal College for not more than fifty years, and required the trustees of the college to keep the property in good condition and free from debt or encumbrance, if the lease was made. It said nothing about terms. It left the academy free. There was no taking of property, but, at most, an authority to change an investment. So far as the act shows on its face, which is all that we have before us, it might have contemplated a lease of the present grounds merely as a means to keeping up the academy with increased resources in a better place elsewhere.
+ Writ of error dismissed. 
+
+
+

@@ -1,0 +1,107 @@
+Description: SUPREME COUNCIL OF ROYAL ARCANUM v. BEHREND , 247 U.S. 394 (1918)
+Date: 1918-06-03 00:00:00
+Docket: 267
+Opinion
+
+
+United States Supreme Court
+SUPREME COUNCIL OF ROYAL ARCANUM v. BEHREND(1918)
+No. 267
+Argued: April 25, 1918Decided: June 3, 1918
+
+
+
+ Messrs. Howard C. Wiggins, of Rome, N. Y., and Philip Walker, of Washington, D. C., for petitioner.
+ Mr. W. Gwynn Gardiner, of Washington, D. C., for respondent. 
+
+[247 U.S. 394, 395]
+ 
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ The Supreme Council of the Royal Arcanum is incorporated under the laws of Massachusetts as a fraternal benefit society, and it is licensed as a fraternal beneficial association in the District of Columbia. 
+1
+ The character and purposes of the organization and the relation to its members are described in Supreme Council of the Royal Arcanum v. Green, 
+237 U.S. 531
+, 35 Sup. Ct. 724, L. R. A. 1916A, 771. Samuel K. Behrend became a member of a local lodge of the order in Washington, known as 'Oriental Council, No. 312, Royal Arcanum.' On March 1, 1899, a $3,000 'benefit certificate' was issued to him there, payable on his death to his wife, Sue, as beneficiary; and there the first premium or assessment was paid. He delivered the certificate to her, giving it as a wedding present. From that time on, the certificate remained in her possession; and until August, 1913, most of the premiums and assessments were paid by her. On August 8, 1913, Behrend, having ceased to live with his wife, requested the order to change the beneficiary from his wife to his son and his daughter. As the original certificate was still in the wife's possession and she refused to surrender it, Behrend made affidavit that the certificate was beyond his control and in writing relinquished all interest therein. Thereupon a new certificate was issued by the order payable to the children, as requested; and the wife was notified that the certificate held by her had been canceled. On October 20, 1914, Behrend died. On December 21, 1914, the order paid to his son and to his daughter each $1,500 upon surrender of the new certificate. Thereafter the widow brought, in the Supreme Court of the District of Columbia, this action to recover $3,000 under the original certificate. 
+
+[247 U.S. 394, 396]
+ 
+ The order set up, by plea and affidavit of defense, the facts showing the change of beneficiary and payment to the new beneficiaries, which it alleged was in accordance with the contract contained in the benefit certificate and the constitution and laws of the organization. The case was heard by the Supreme Court on motion for judgment against the defendant for failure to file a good and sufficient affidavit of defense; and judgment was entered for $3,000 with interest. The Court of Appeals of the District reversed this judgment, but later granted a rehearing, the order reciting:
+'The question to be argued is this: Had the beneficiary of the certificate a vested interest in the same that could not be divested by the issue of a substitute certificate without the surrender of the original and without the consent of the beneficiary named in the original certificate?'
+
+ Upon the rehearing the judgment of the lower court was affirmed. 45 App. D. C. 260. The case comes here on writ of certiorari under section 251 of the Judicial Code (Act March 3, 1911, c. 231, 36 Stat. 1159 [Comp. St. 1916,  1228]).
+ The benefit certificate provided, among other things, that the corporation will pay 'out of its Widows and Orphans' Benefit Fund to Sue B. Behrend (wife) a sum not exceeding three thousand dollars in accordance with and under the provisions of the laws governing said fund, upon satisfactory evidence of the death of said member, and upon the surrender of this certificate; provided that said member is in good standing in this order at the time of his death, and provided also that this certificate shall not have been surrendered by said member and another certificate issued at his request, in accordance with the laws of this order.' On the back of said certificate appears the following:
+'Form for Change of Beneficiary.
+
+'_____ Council No. ___, R. A.
+
+'To _____, Sup. Sec., S. C. R. A.: I herewith surrender and return to the Supreme Council 
+
+[247 U.S. 394, 397]
+ 
+ of the Royal Arcanum, the within benefit certificate No. ___, and direct that a new one be issued to me, payable to _____, residing at _____, related to me as _____.
+
+ ________.
+ (Member will write his name in full.)
+'Attest:
+
+'[Seal of Sub. Council.]
+
+'________, Secretary.'
+
+ The general laws of the order, in force at latest when the new certificate was issued, provide that a member in good standing may at any time make 'a written surrender of his benefit certificate, and direct that a new certificate be issued to him, payable to such beneficiary or beneficiaries as such member may designate' and that the issue of such new certificate shall cancel all previous certificates. They also provide that, in case 'a benefit certificate is lost or beyond a member's control,' he may, upon making satisfactory proof of the fact by affidavit or otherwise and paying the required fee of fifty cents, 'in writing, surrender all claim thereto, and direct that a new certificate be issued to him, payable to the same or a new beneficiary or beneficiaries.' These conditions were complied with before the new certificate making the son and daughter beneficiaries was issued.
+ Act of Congress January 26, 1887, c. 46,  6 (24 Stat. 367), provided that each life insurance company doing business within the district should attach to each ploicy a copy of the application 'so that the whole contract may appear in said application and policy.' Section 657 of the District of Columbia Code, as amended June 30, 1902 (32 Stat. 534, c. 1329 ), extended the provision to benefit orders and associations and declared that, in case of failure to furnish a copy of the application, 'no defense shall be allowed to such policy on account of anything contained in, or omitted from, such application.' The 
+
+[247 U.S. 394, 398]
+ 
+ Court of Appeals decided that Mrs. Behrend acquired a vested interest in the benefit certificate which could not be divested by the issue of a substitute certificate without the surrender of the original and without her consent as beneficiary; that the rights of the parties were governed by the laws of the District of Columbia; that the benefit certificate was an insurance policy within the meaning of both the above acts; that the order was an assessment insurance company and as such came within the scope of both acts, so that the fact that the benefit certificate was issued before the amendment of 1902 was immaterial; that it did not appear that there had been attached to the certificate a copy of the application therefor; that the failure to annex the application precluded allowing as a defense any matter not appearing on the face of the benefit certificate; that the change of beneficiary was such a defense; and that since matters found only in the application and laws of the association could not be availed of, the court must 'look solely to the terms of the contract, t at is, to the terms of this so-called benefit certificate, to determine the measure of the insured's rights to change the beneficiary'; and that by its terms there was no such right.
+ This court held in Washington Central Bank v. Hume, 
+128 
+U.S. 195, 206
+, 9 S. Sup. Ct. 41, that under the ordinary policy of life insurance, when no right is reserved to surrender the policy or to change beneficiaries, the beneficiary named therein acquires, at the moment it is issued, a vested right which cannot be affected by any act of the insured subsequent to the execution of the policy. The rule there declared was deemed by the Court of Appeals to control the case at bar. But it was not applicable, because the contract sued on was a benefit certificate of a fraternal benefit association, not an ordinary policy of life insurance, and also because the benefit certificate on its face reserves the right to change beneficiaries. 
+
+[247 U.S. 394, 399]
+ 
+ First. The difference between ordinary life insurance and that furnished by the fraternal benefit societies has been universally recognized in legislation and is a matter of common knowledge. The differences in the legal incidents of these different forms of protection have been illustrated by numerous decisions. The difference in respect to the insured's right to change the beneficiary has been frequently commented on and is firmly established. In the absence of a special provision of law or of a rule of the association to the contrary, the naming of a person as beneficiary in the benefit certificate of a fraternal benefit association confers not a vested right, but an expectancy merely which may be defeated at any time by act of the insured member.2. A different case is presented where the insured has contracted with the beneficiary that he shall remain such. A contract of that nature may be enforced by appropriate proceeding if 
+
+[247 U.S. 394, 400]
+ 
+ consistent with the general law and with the laws of the association. 
+3
+ But the remedy to enforce rights arising out of such a contract would obviously not be a suit, like that at bar, upon the certificate. Nor is it contended that Behrend made any such contract concerning the certificate with his wife. The mere fact that she paid some, and possibly all, of the assessment, prior to the change of beneficiary, even if paid out of her separate estate, raises no legal claim. 
+4
+ Perhaps there was not even a moral claim; since throughout the period during which she paid assessments, she enjoyed the full protection which the order agreed to furnish; and for this alone payments were made. Under the form of insurance furnished by fraternal beneficial associations no reserve is accumulated.
+ Second. The certificate, on its face, expressed not an unconditional promise to make payment to the wife therein named, but a conditional promise to pay provided the 'certificate shall not have been surrendered by said member and another certificate issued at his request, in accordance with the laws of this order.' The plaintiff alleged that the certificate had not been surrendered and 
+
+[247 U.S. 394, 401]
+ 
+ that she had not been requested to surrender or deliver up the same for change of beneficiary. The latter allegation is denied by the affidavit of defense and the statements therein contained must be taken as true. But the fact is not material. As indicated by the printed 'Form for Change of Beneficiary' indorsed on the certificate, which refers to both 'surrender and return,' the requirement of a surrender does not necessarily imply a return to the order of the original paper called the benefit certificate. Furthermore, requirements of that character are made for the protection of the society and, if complied with to its satisfaction or if waived by it during the lifetime of the insured, cannot be availed of to support the claim of a former beneficiary. 
+5
+ It is unnecessary therefore to determine whether, under this form of certificate, the burden rested upon the plaintiff to prove, as she alleged, that she had remained the beneficiary. As the judgment of the Court of Appeals must be reversed for the reasons stated above, we express no opinion upon other questions argued by counsel and, in part, passed upon below.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] District Code,  749 (Act of Congress March 3, 1897, c. 382,  1, 29 Stat. 630). 
+
+[
+Footnote 2
+] Slaughter v. Grand Lodge, 192 Ala. 301, 68 South. 367; Jory v. Supreme Council A. L. H., 105 Cal. 20, 38 Pac. 524, 26 L. R. A. 733, 45 Am. St. Rep. 17; Masonic Mutual Benefit Ass'n v. Tolles, 70 Conn. 537, 544, 40 Atl. 448; Smith v. Locomotive Engineers Mutual Life & Accident Ins. Ass'n, 138 Ga. 717, 76 S. E. 44; Delaney v. Delaney, 175 Ill. 187, 51 N. E. 961; Masonic Mutual Benefit Society v. Burkhart, 110 Ind. 189, 194-195, 10 N. E. 79, 11 N. E. 449; Carpenter v. Knapp, 101 Iowa, 712, 70 N. W. 764, 38 L. R. A. 128; Titsworth v. Titsworth, 40 Kan. 571, 20 Pac. 213; Marsh v. American Legion of Honor, 149 Mass. 512, 21 N. E. 1070, 4 L. R. A. 382; Schoenau v. Grand Lodge A. O. U. W., 85 Minn. 349, 88 N. W. 999; Carson v. Vicksburg Bank, 75 Miss. 167, 22 South. 1, 37 L. R. A. 559, 65 Am. St. Rep. 596; Masonic Benevolent Association v. Bunch, 109 Mo. 560, 19 S. W. 25; Knights of Maccabees v. Sackett, 34 Mont. 357, 363, 86 Pac. 423, 115 Am. St. Rep. 532; Ogden v. Sovereign Camp, W. O. W., 78 Neb. 804, 111 N. W. 797; Barton v. Provident Mutual Relief Association, 63 N. H. 535, 3 Atl. 627; Spengler v. Spengler, 65 N. J. Eq. 176, 55 Atl. 285; Lahey v. Lahey, 174 N. Y. 146, 66 N. E. 670, 61 L. R. A. 791, 95 Am. St. Rep. 554; Pollock v. Household of Ruth, 150 N. C. 211, 63 S. E. 940; Lentz, Ex'r, v. Fritter, 92 Ohio St. 186, 110 N. E. 637; Noble v. Police Beneficiary Association, 224 Pa. 298, 73 Atl. 336, 132 Am. St. Rep. 783; Catholic Knights of America v. Morrison, 16 R. I. 468, 17 Atl. 57; Christenson v. El Riad Temple, 37 S. D. 68, 71, 156 N. W. 581; Alfsen v. Crouch, 115 Tenn. 352, 89 S. W. 329; Byrne v. Casey, 70 Tex. 247, 8 S. W. 38; Cade v. Head Camp, W. O. W., 27 Wash. 218, 67 Pac. 603; Supreme Conclave, Royal Adelphia v. Cappella (C. C.) 41 Fed. 1.
+ The right of a member of a fraternal benefit society to change the beneficiary has been denied in a few cases which have failed to distinguish between benefit certificates and ordinary life policies. See Pittinger v. Pittinger, 28 Colo. 308, 64 Pac. 195, 89 Am. St. Rep. 193. 
+
+[
+Footnote 3
+] Grimbley v. Harrold, 125 Cal. 24, 57 Pac. 558, 73 Am. St. Rep. 19; McGrew v. McGrew, 190 Ill. 604, 60 N. E. 861; In re Reid's Estate, 170 Mich. 476, 136 N. W. 476; Catholic Benevolent Legion v. Murphy, 65 N. J. Eq. 60, 55 Atl. 497; Stronge v. Knights of Pythias, 189 N. Y. 346, 82 N. E. 433, 12 L. R. A. (N. S.) 1206, 121 Am. St. Rep. 902, 12 Ann. Cas. 941; Supreme Lodge, Knights and Ladies of Honor v. Ulanowsky, 246 Pa. 591, 92 Atl. 711. Section 758 of the Code of the District of Columbia (section 10 of the Act of March 3, 1897, supra) provides in regard to fraternal beneficiary associations, that 'no contract with any such association shall be valid when there is a contract, agreement, or understanding between the member and the beneficiary prior to or at the time of becoming a member of the association that the beneficiary, or any person for him, shall pay such member's assessments and dues, or either of them.' 
+[
+Footnote 4
+] Jory v. Supreme Council A. L. H., 105 Cal. 20, 30, 38 Pac. 524, 26 L. R. A. 733, 45 Am. St. Rep. 17; Supreme Lodge, N. E. O. P. v. Hine, 82 Conn. 315, 320, 73 Atl. 791; Schiller-Bund v. Knack, 184 Mich. 95, 150 N. W. 337; Spengler v. Spengler, 65 N. J. Eq. 176, 180, 55 Atl. 285; Fischer v. Fischer, 99 Tenn. 629, 636, 42 S. W. 448; Preusser v. Supreme Hive L. O. T. M., 123 Wis. 164, 101 N. W. 358. 
+
+[
+Footnote 5
+] Ladies of the Modern Maccabees v. Daley, 166 Mich. 542, 545, 131 N. W. 1127; Fischer v. Malchow, 93 Minn. 396, 101 N. W. 602; Lentz, Ex'r, v. Fritter, 92 Ohio St. 186, 194-195, 110 N. E. 637; Noble v. Police Beneficiary Association, 224 Pa. 298, 73 Atl. 336, 132 Am. St. Rep. 783; Schardt v. Schardt, 100 Tenn. 276, 279, 280, 45 S. W. 340. 
+
+
+
+

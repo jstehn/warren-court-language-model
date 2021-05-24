@@ -1,0 +1,83 @@
+Description: MICHIGAN CENT. R. CO. v. MIX , 278 U.S. 492 (1929)
+Date: 1929-02-18 00:00:00
+Docket: 118
+Opinion
+
+
+United States Supreme Court
+MICHIGAN CENT. R. CO. v. MIX(1929)
+No. 118
+Argued: Decided: February 18, 1929
+
+
+
+
+[278 U.S. 492, 493]
+ 
+ Mr. Charles A. Houts, of St. Louis, Mo., for petitioner.
+ Messrs. Arthur Staal and E. D. Andrews, both of St. Louis, Mo., for respondents.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Thomas Doyle, a switchman employed by the Michigan Central Railroad, was killed in Michigan in the performance of his duties. He was then a resident of Lansing in that state, and there his wife Augusta lived with him until his death. Shortly after, she removed to Mossouri, was appointed administratrix of his estate at St. Louis, and, as such, brought in the circuit court of that city an action for damages against the railroad under the Federal Safety Appliance Act (45 USCA  1-46) and the Federal Employers' Liability Act (45 USCA  51-59). The railroad is a Michigan corporation. No part of its line runs into Missouri. It has not consented to be sued there, has never been admitted to do business there, and has never done any business there, except soliciting freight for transportation in interstate commerce over its lines in other states. For this limited purpose it 
+
+[278 U.S. 492, 494]
+ 
+ maintains an office at St. Louis. Upon its agent in charge of that office the sheriff made service of the summons.
+ The railroad, appearing specially, filed a petition for removal of the cause to the federal court. This the state court denied. Thereupon the railroad filed a transcript of the record in the federal court and moved there to quash the summons. Upon objection of the administrix, that court declined to pass on the motion and remanded the case to the state court. The did so apparently on the ground that the suit was one under the Federal Employers' Liability Act. The railroad, again appearing specially, pressed in the state court the motion to quash. It was denied on the authority of State ex rel. Texas Portland Cement Co. v. Sale, 232 Mo. 166, 132 S. W. 1119, and Davis v. Jacksonville Southeastern Line, 126 Mo. 69, 28 S. W. 965, which hold that service upon a soliciting freight agent confers jurisdiction and that a petition to remove to the federal court is equivalent to a general appearance. After denial of the motion to quash the summons this application for a writ of prohibition was filed by the railroad, in the highest court of the state, in accordance with what appears to be the appropriate local practice. It prays that the judges of the circuit court be enjoined from acting in the suit commenced by Mrs. Doyle. The application for the writ of prohibition was denied without an opinion. That judgment is final within the meaning of section 237(a) of the Judicial Code (28 USCA  344(a). State of Mossouri ex rel. St. Louis, Brownsville & Mexico Ry. Co. v. Taylor, 
+266 
+U.S. 200
+, 45 S. Ct. 47, 42 A. L. R. 1232. This court granted a writ of certiorari. 
+277 
+U.S. 581
+, 48 S. Ct. 562.
+ The railroad claims that it was not subject to suit in Missouri, among other reasons, because to maintain it would violate the commerce clause. In order to show that trial of the action for damages in Missouri would entail a heavy burden upon, and unreasonably obstruct, interstate commerce, it set forth facts substantially identical with those held sufficient for that purpose in Davis v. Farmers' 
+
+[278 U.S. 492, 495]
+ 
+ Co-operative Co., 
+262 
+U.S. 312
+, 43 S. Ct. 556, and Atchison, Topeka & Santa Fe Ry. Co. v. Wells, 
+265 
+U.S. 101
+, 44 S. Ct. 469. From those cases that here involved differs only in this: There, the plaintiff was a nonresident. Here the plaintiff had become a resident in Missouri after the injury complained of, but before instituting the action. For aught that appears, her removal to St. Louis shortly after the accident was solely for the purpose of bringing the suit, and because she was advised that her chances of recovery would be better there than they would be in Michigan. The mere fact that she had acquired a residence within Missouri before commencing the action does not make reasonable the imposition upon interstate commerce of the heavy burden which would be entailed in trying the cause in a state remote from that in which the accident occurred and in which both parties resided at the time.
+ The case is unlike others in which the jurisdiction was sustained against a nonresident railroad. In State of Missouri ex rel. St. Louis, Brownsville & Mexico Ry. Co. v. Taylor, 
+266 
+U.S. 200
+, 45 S. Ct. 47, 42 A. L. R. 1232, it appeared that the shipment out of which the cause of action arose was of goods deliverable in Missouri, and also that the negligent acts complained of may have occurred within the state. In Hoffman v. Missouri ex rel. Foraker, 
+274 
+U.S. 21
+, 47 S. Ct. 485, the railroad was organized under the laws of the state, and operated a part of its line in the county in which the action was brought.
+ The contention that filing the petition for removal to the federal court was equivalent to the entry of a general appearance is obviously unsound. General Investment Co. v. Lake Shore Ry. Co., 
+260 
+U.S. 261, 268
+, 269 S., 43 S. Ct. 106 (67 L. Ed. 244); Hassler v. Shaw, 
+271 
+U.S. 195
+, 46 S. Ct. 479. There is also a suggestion that the motion to quash the summons made by the railroad, in the state court after the remand, operated, under the Missouri practice, as a general appearance, York v. Texas, 
+137 
+U.S. 15
+, 11 S. Ct. 9, 34 S. Ct. 604; and that this precluded it from objecting to a trial of the cause within that state. We have no occasion 
+
+[278 U.S. 492, 496]
+ 
+ to inquire into the local practice. The constitutional claim sustained in Davis v. Farmers' Co-operative Co., 
+262 
+U.S. 312
+, 43 S. Ct. 556, was not that under the Fourteenth Amendment as in Rosenberg Bros. & Co. v. Curtis Brown Co., 
+260 
+U.S. 516
+, 43 S. St. 170. It was assumed that the carrier had been found within the state. The judgment was reversed on the ground that to compel it to try the cause there would burden interstate commerce and, hence, would violate the commerce clause. No local rule of practice can prevent the carrier from laying the appropriate foundation for the enforcement of its constitutional right by making a seasonable motion. Compare Sioux Remedy Co. v. Cope, 
+235 
+U.S. 197
+, 35 S. Ct. 57; Yazzo & Mississippi Valley R. R. v. Mullins, 
+249 
+U.S. 531
+, 39 S. Ct. 368; Davis v. Wechsler, 
+263 
+U.S. 22, 24
+, 44 S. Ct. 13 (68 L. Ed. 143).
+ Reversed. 
+
+
+

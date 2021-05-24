@@ -1,0 +1,58 @@
+Description: WESTERN UNION TEL. CO. v. BROWN , 234 U.S. 542 (1914)
+Date: 1914-06-22 00:00:00
+Docket: 355
+Opinion
+
+
+United States Supreme Court
+WESTERN UNION TEL. CO. v. BROWN(1914)
+No. 355
+Argued: May 5, 1914Decided: June 22, 1914
+
+
+
+
+[234 U.S. 542, 543]
+ 
+ Messrs. Rush Taggart, Francis Raymond Stark, George H. Fearons, and Julian Mitchell for plaintiff in error.
+
+
+
+[234 U.S. 542, 544]
+ 
+ Messrs. Frank J. Hogan, W. Turner Logan, and John P. Grace for defendant in error.
+
+
+
+[234 U.S. 542, 546]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action of tort brought by the party to whom a telegraphic message was addressed. The message was delivered to the company in South Carolina, addressed to the plaintiff in Washington, District of Columbia, and read, 'Come at once. Your sister died this morning.' It was forwarded without delay to Washington, but there, through negligence, as the jury found, was not delivered. The declaration alleges that the failure caused the plaintiff to miss attending her sister's funeral in South Carolina, and subjected the plaintiff to mental anguish, which of itself is made a cause of action by a statute of South Carolina. Civil Code,  2223. The defendants in error state that the action was brought under this section. There was a trial at which, by the instructions to the jury, a recovery was allowed under the act for the negligence in Washington, irrespective of the law prevailing here. The jury found a verdict for $750, which was sustained by the supreme court of the state. 92 S. C. 354, 75 S. E. 542. The plaintiff in error saved its rights under the Constitution of the United States (so plainly that it is not necessary to discuss the matter), and brought the case here.
+ Whatever variations of opinion and practice there may 
+
+[234 U.S. 542, 547]
+ 
+ have been, it is established as the law of this court that when a person recovers in one jurisdiction for a tort committed in another, he does so on the ground of an obligation incurred at the place of the tort that accompanies the person of the defendant elsewhere, and that is not only the ground but the measure of the maximum recovery. Slater v. Mexican Nat. R. Co. 
+194 
+U.S. 120, 126
+, 8 S. L. ed. 900, 902, 24 Sup. Ct. Rep. 581; Cuba R. Co. v. Crosby, 
+222 
+U.S. 473, 478
+, 480 S., 56 L. ed. 274-276, 38 L.R.A.(N.S.) 40, 32 Sup. Ct. Rep. 132. (A limitation of liability may stand on different grounds. Oceanic Steam Nav. Co. v. Mellor, May 25, 1914 [
+233 U.S. 718
+, 58 L. ed. --, 34 Sup. Ct. Rep. 754]). The injustice of imposing a greater liability than that created by the law governing the conduct of the parties at the time of the act or omission complained of is obvious; and when a state attempts in this manner to affect conduct outside its jurisdiction, or the consequences of such conduct, and to infringe upon the power of the United States, it must fail. The principle would be illustrated by supposing a direct clash between the state and Federal statutes; but it is the same whenever the state undertakes to go beyond its jurisdiction into territory where the United States has exclusive control. Western U. Teleg. Co. v. Chiles, 
+214 U.S. 274
+, 53 L. ed. 994, 29 Sup. Ct. Rep. 613; see also Western U. Teleg. Co. v. Commercial Mill. Co. 
+218 
+U.S. 406, 416
+, 54 S. L. ed. 1088, 1091, 36 L.R.A.(N.S.) 220, 31 Sup. Ct. Rep. 59, 21 Ann. Cas. 815.
+ What we have said is enough to dispose of the case. But the act also is objectionable in its aspect of an attempt to regulate commerce among the states. That is, as construed, it attempts to determine the conduct required of the telegraph company in transmitting a message from one state to another or to this District by determining the consequences of not pursuing such conduct, and in that way encounters Western U. Teleg. Co. v. Pendleton, 
+122 U.S. 347
+, 30 L. ed. 1187, 1 Inters. Com. Rep. 306, 7 Sup. Ct. Rep. 1126, a decision in no way qualified by Western U. Teleg. Co. v. Commercial Mill. Co. 
+218 U.S. 406
+, 54 L. ed. 1088, 36 L.R.A.(N.S.) 220, 31 Sup. Ct. Rep. 59, 21 Ann. Cas. 815.
+ Judgment reversed. 
+
+
+

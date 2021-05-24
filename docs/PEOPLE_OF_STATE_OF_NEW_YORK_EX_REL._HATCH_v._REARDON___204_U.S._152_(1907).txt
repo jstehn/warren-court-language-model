@@ -1,0 +1,126 @@
+Description: PEOPLE OF STATE OF NEW YORK EX REL. HATCH v. REARDON , 204 U.S. 152 (1907)
+Date: 1907-01-07 00:00:00
+Docket: 310
+Opinion
+
+
+United States Supreme Court
+PEOPLE OF STATE OF NEW YORK EX REL. HATCH v. REARDON(1907)
+No. 310
+Argued: Decided: January 7, 1907
+
+
+
+
+[204 U.S. 152, 153]
+ 
+ Messrs. John G. Milburn, John F. Dillon, and John G. Johnson for plaintiff in error.
+
+
+
+
+ Messrs. Julius M. Mayer, 
+
+[204 U.S. 152, 156]
+ 
+ E. Crosby Kindleberger, Horace McGuire, and James C. Graham for defendant in error.  
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a writ of error to revise an order dismissing a writ of 
+
+[204 U.S. 152, 157]
+ 
+ habeas corpus and remanding the relator to the custody of the defendant in error. The order was made by a single justice and affirmed successively by the appellate division of the supreme court (110 App. Div. 821, 97 N. Y. Supp. 535), and by the court of appeals (184 N. Y. 431, 77 N. E. 970). The facts are these: The relator, Hatch, a resident of Connecticut, sold in New York to one Maury, also a resident of Connecticut, but doing business in New York, 100 shares of the stock of the Southern Railway Company, a Virginia corporation, and 100 shares of the stock of the Chicago, Milwaukee, & St. Paul Railroad Company, a Wisconsin corporation, and on the same day and in the same place received payment and delivered the certificates, assigned in blank. He made no memorandum of the sale and affixed to no document any stamp, and did not otherwise pay the tax on transfers of stock imposed by the New York Laws of 1905, chap. 241. He was arrested on complaint, and thereupon petitioned for this writ, alleging that the law was void under the 14th Amendment of the Constitution of the United States.
+ The statute in question levies a tax of 2 cents on each hundred dollars of face value of stock, for every sale or agreement to sell the same, etc.; to be paid by affixing and canceling stamps for the requisite amount to the books of the company, the stock certificate, or a memorandum required in certain cases. Failure to pay the tax is made a misdemeanor punishable by fine, imprisonment, or both. There is also a civil penalty attached. The petition for the writ sets up only the 14th Amendment, as we have mentioned, but both sides have argued the case under the commerce clause of the Constitution (art. 1,  8) as well, and we shall say a few words on that aspect of the question.
+ It is true that a very similar stamp act of the United States, the act of June 13, 1898, chap. 448,  25, Schedule A, 30 Stat. at L. 448, 458, U. S. Comp. Stat. 1901, p. 2300, was upheld in Thomas v. United States, 
+192 U.S. 363
+, 48 L. ed. 481, 24 Sup. Ct. Rep. 305. But it is argued that different considerations apply to the states, and the tax is said to be bad under the 14th Amend- 
+
+[204 U.S. 152, 158]
+ 
+ ment for serveral reasons. In the first place it is said to be an arbitrary discrimination. This objection to a tax must be approached with the greatest caution. The general expressions of the Amendment must not be allowed to upset familiar and long-established methods and processes by a formal elaboration of rules which its words do not import. See Michigan C. R. Co. v. Powers, 
+201 
+U.S. 245, 293
+, 50 S. L. ed. 744, 761, 26 Sup. Ct. Rep. 459. Stamp acts necessarily are confined to certain classes of transactions, and to classes which, considered economically or from the legal or other possible points of view, are not very different from other classes that escape. You cannot have a stamp act without something that can be stamped conveniently. And it is easy to contend that justice and equality cannot be measured by the convenience of the taxing power. Yet the economists do not condemn stamp acts, and neither does the Constitution.
+ The objection did not take this very broad form, to be sure. But it was said that there was no basis for the separation of sales of stock from sales of other kinds of personal property; for instance, especially, bonds of the same or other companies. But bonds in most cases pass by delivery, and a stamp tax hardly could be enforced. See further, Nicol v. Ames, 
+173 
+U.S. 509, 522
+, 523 S., 43 L. ed. 786, 794, 795, 19 Sup. Ct. Rep. 522. In Otis v. Parker, 
+187 U.S. 606
+, 47 L. ed. 323, 23 Sup. Ct. Rep. 168, practical grounds were recognized as sufficient to warrant a prohibition, which did not apply to sales of other property, of sales of stock on margin, although this same argument was pressed with great force. A fortiori do they warrant a tax on sales which is not intended to discriminate against or to discourage them, but simply to collect a revenue for the benefit of the whole community in a convenient way.
+ It is urged further that a tax on sales is really a tax on property, and that therefore the act, as applied to the shares of a foreign corporation owned by nonresidents, is a taking of property without due process of law. Union Refrigerator Transit Co. v. Kentucky, 
+199 U.S. 194
+, 50 L. ed. 150, 26 Sup. Ct. Rep. 36. This argument presses the expressions in Brown v. Maryland, 12 Wheat. 419, 444, 6 L. ed. 678, 687; Fairbank v. United States, 
+181 U.S. 283
+, 45 L. ed. 862, 21 Sup. Ct. Rep. 648, and intervening cases, 
+
+[204 U.S. 152, 159]
+ 
+ to new applications, and farther than they properly can be made to go. Whether we are to distinguish or to identify taxes on sales and taxes on goods depends on the scope of the constitutional provision concerned. Compare Foppiano v. Speed, 
+199 
+U.S. 501, 520
+, 50 S. L. ed. 288, 292, 26 Sup. Ct. Rep. 138. A tax on foreign bills of lading may be held equivalent to a tax on exports as against article 1,  9; a license tax on importers of foreign goods may be held an unauthorized interference with commerce; and yet it would be consistent to sustain a tax on sales within the state as against the 14th Amendment, so far as that alone is concerned. Whatever the right of parties engaged in commerce among the states, a sale depends in part on the law of the state where it takes place for its validity and, in the courts of that state, at least, for the mode of proof. No one would contest the power to enact a statute of frauds for such transactions. Therefore the state may make parties pay for the help of its laws, as against this objection. A statute requiring a memorandum in writing is quite as clearly a regulation of the business as a tax. It is unnecessary to consider other answers to this point.
+ Yet another ground on which the owners of stock are said to be deprived of their property without due process of law is the adoption of the face value of the shares as the basis of the tax. One of the stocks was worth $30.75 a share of the face value of $100, the other $172. The inequality of the tax, so far as actual values are concerned, is manifest. But, here again equality in this sense has to yield to practical considerations and usage. There must be a fixed and indisputable mode of ascertaining a stamp tax. In another sense, moreover, there is equality. When the taxes on two sales are equal, the same number of shares is sold in each case; that is to say, the same privilege is used to the same extent. Valuation is not the only thing to be considered. As was pointed out by the court of appeals, the familiar stamp tax of 2 cents on checks, irrespective of amount, the poll tax of a fixed sum, irrespective of income or earning capacity, and many others, illustrate the 
+
+[204 U.S. 152, 160]
+ 
+ necessity and practice of sometimes substituting count for weight. See Bell's Gap R. Co. v. Pennsylvania, 
+134 U.S. 232
+, 33 L. ed. 892, 10 Sup. Ct. Rep. 533; Merchants' & M. Nat. Bank v. Pennsylvania, 
+167 U.S. 461
+, 42 L. ed. 236, 17 Sup. Ct. Rep. 829. Without going farther into a discussion which, perhaps, could have been spared in view of the decision in Thomas v. United States, 
+192 U.S. 363
+, 48 L. ed. 481, 24 Sup. Ct. Rep. 305, and the constitutional restrictions upon Congress, we are of opinion that the New York statute is valid, so far as the 14th Amendment is concerned.
+ The other ground of attack is that the act is an interference with commerce among the several states. Cases were imagined, which, it was said, would fall within the statute, and yet would be cases of such commerce; and it was argued that if the act embraced any such cases it was void as to them, and, if void as to them, void altogether, on a principle often stated. United States v. Ju Toy, 
+198 
+U.S. 253, 262
+, 49 S. L. ed. 1040, 1043, 25 Sup. Ct. Rep. 644. That the act is void as to transactions in commerce between the states, if it applies to them, is thought to be shown by the decisions concerning ordinances requiring a license fee from drummers, so called, and the like. Robbins v. Taxing District, 
+120 U.S. 489
+, 30 L. ed. 694, 1 Inters. Com. Rep. 45, 7 Sup. Ct. Rep. 592; Stockard v. Morgan, 
+185 U.S. 27
+, 46 L. ed. 785, 22 Sup. Ct. Rep. 576; Rearick v. Pennsylvania, 
+203 U.S. 507
+, 51 L. ed. 295, 27 Sup. Ct. Rep. 159.
+ But there is a point beyond which this court does not consider arguments of this sort for the purpose of invalidating the tax laws of a state on constitutional grounds. This limit has been fixed in many cases. It is that unless the party setting up the unconstitutionality of the state law belongs to the class for whose sake the constitutional protection is given, or the class primarily protected, this court does not listen to his objections, and will not go into imaginary cases, notwithstanding the seeming logic of the position that it must do so, because if, for any reason, or as against any class embraced, the law is unconstitutional, it is void as to all. Albany County v. Stanley, 
+105 
+U.S. 305, 311
+, 26 S. L. ed. 1044, 1049; Clark v. Kansas City, 
+176 
+U.S. 114, 118
+, 44 S. L. ed. 392, 396, 20 Sup. Ct. Rep. 284; Lampasas v. Bell, 
+180 
+U.S. 276, 283
+, 284 S., 45 L. ed. 527, 530, 531, 21 Sup. Ct. Rep. 368; Cronin v. Adams, 
+192 
+U.S. 108, 114
+, 48 S. L. ed. 365, 368, 24 Sup. Ct. Rep. 219. If the law is valid when confined to the 
+
+[204 U.S. 152, 161]
+ 
+ class of the party before the court, it may be more or less of a speculation to inquire what exceptions the state court may read into general words, or how far it may sustain an act that partially fails. With regard to taxes, especially, perhaps it might be assumed that the legislature meant them to be valid to whatever extent they could be sustained, or some other peculiar principle might be applied. See, e. g., People's Nat. Bank v. Marye, 
+191 
+U.S. 272, 283
+, 48 S. L. ed. 180, 186, 24 Sup. Ct. Rep. 68.
+ Whatever the reason, the decisions are clear, and it was because of them that it was inquired so carefully in the drummer cases whether the party concerned was himself engaged in commerce between the states. Stockard v. Morgan, 
+185 
+U.S. 27, 30
+, 35 S., 36, 46 L. ed. 785, 789, 793, 794, 22 Sup. Ct. Rep. 576; Caldwell v. North Carolina, 
+187 U.S. 622
+, 47 L. ed. 336, 23 Sup. Ct. Rep. 229; Rearick v. Pennsylvania, supra. Therefore we begin with the same inquiry in this case, and it is plain that we can get no farther. There is not a shadow of a ground for calling the transaction described such commerce. The communications between the parties were not between different states, as in Western U. Teleg. Co. v. Texas, 
+105 U.S. 460
+, 26 L. ed. 1067, and the bargain did not contemplate or induce the transport of property from one state to another, as in the drummer cases. Rearick v. Pennsylvania. The bargain was not affected in any way, legally or practically, by the fact that the parties happened to have come from another state before they made it. It does not appear that the petitioner came into New York to sell his stock, as it was put on his behalf. It appears only that he sold after coming into the state. But we are far from implying that it would have made any difference if he had come to New York with the supposed intent before any bargain was made.
+ It is said that the property sold was not within the state. The immediate object of sale was the certificate of stock present in New York. That document was more than evidence, it was a constituent of title. No doubt, in a more remote sense, the object was the membership or share which the certificate conferred or made attainable. More remotely still it was an 
+
+[204 U.S. 152, 162]
+ 
+ interest in the property of the corporation, which might be in other states than either the corporation or the certificate of stock. But we perceive no relevancy in the analysis. The facts that the property sold is outside of the state, and the seller and buyer foreigners, are not enough to make a sale commerce with foreign nations or among the several states, and that is all that there is here. On the general question there should be compared with the drummer cases the decisions on the other side of the line. Nathan v. Louisiana, 8 How. 73, 12 L. ed. 992; Woodruff v. Parham, 8 Wall. 123, 19 L. ed. 382; Brown v. Houston, 
+114 U.S. 622
+, 29 L. ed. 257, 5 Sup. Ct. Rep. 1091; Emert v. Missouri, 
+156 U.S. 296
+, 39 L. ed. 430, 5 Inters. Com. Rep. 68, 15 Sup. Ct. Rep. 367. A tax is not an unconstitutional regulation in every case where an obsolute prohibition of sales would be one. American Steel & Wire Co. v. Speed, 
+192 U.S. 500
+, 48 L. ed. 538, 24 Sup. Ct. Rep. 365. We think it unnecessary to explain at greater length the reasons for our opinion that the petitioner has suffered no unconstitutional wrong.
+ Order affirmed. 
+
+
+

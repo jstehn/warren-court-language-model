@@ -1,0 +1,93 @@
+Description: STOTESBURY v. US , 146 U.S. 196 (1892)
+Date: 1892-11-21 00:00:00
+Docket: 30
+Opinion
+
+
+United States Supreme Court
+STOTESBURY v. U S(1892)
+No. 30
+Argued: Decided: November 21, 1892
+
+
+ Statement by Mr. Justice BREWER:
+ On December 19, 1870, the firm of Harris & Stotesbury appealed to the commissioner of internal revenue for the refunding of $67,335.85, internal revenue taxes claimed to have been erroneously assessed and collected from them. This claim was examined and rejected, and notice thereof given to the claimants. An application for a rehearing was made and sustained. On July 26, 1871, the commissioner, having examined the claim, signed and transmitted to the secretary of the treasury the following schedule:
+
+"No. 99.-A schedule of claims for the refunding of taxes erroneously assessed and paid, which have been examined and allowed, and are transmitted to the secretary of the treasury for his consideration and advisement in accordance with regulations dated January 12, 1866. []
+ District. Claimants. Amount. Disposition. Reason of Disposition. []
+ 1st Penn... Harris & Stotesbury $67,335 85 Allowed Were not sugar refiners " " Harris Heyle & Co. 26,642 96 " within the definition of section 75 of "An act to provide internal revenue," etc., approved July 1, 1862. as amended by the act approved March 3, 1963. []
+"I hereby certify that the foregoing claims for the refunding of taxes erroneously assessed and paid have been examined and allowed, and are transmitted to the secretary of the treasury for his consideration and advisement. A. PLEASONTON, Commissioner." 
+
+[146 U.S. 196, 197]
+ 
+ On August 8, 1871, Commissioner Pleasonton resigned, and on the next day J. W. Douglass, having been duly appointed his successor, entered upon the discharge of the duties of the office. On that day the secretary of the treasury sent to him this letter:
+
+'Treasury Department,
+
+'Washington, D. C., August 9, 1871.
+
+'Sir: The inclosed refunding claims of Harris & Stotesbury and Harris, Heyle & Co., transmitted by your predecessor to this office for approval, would seem to have been passed by a reversal of the construction of the law relative to sugar manufactures which obtained during the whole period of its existence.
+
+'Under these circumstances, I deem it proper to return them to you for re-examination, declining to consider them unless again submitted by your office. Respectfully yours,
+
+'GEO. S. BOUTWELL, 'Secretary of the Treasury.
+
+'Hon. J. W. Douglass, Com'r of Int. Revenue.'
+
+ And on the 9th of November, 1871, the commissioner indorsed on the claim these words: 'November 9, 1871. Rejected on re-examination. J. W. Douglass, Commissioner,'-notice of which action was duly given to the claimants. On the wrapper or jacket inclosing the papers in this claim appear the following indorsements:
+'(Office of Internal Revenue. Rec'd Dec. 19, '70. Div. 1, sec. 3.)
+
+ Coll'r not'd Dec. 20, '70. J. D. 3395.
+ Wrote claimants Nov. 13, '71. J. D. 12, 21, '70.
+ (46) Claim for refunding taxes collected.
+ Serial No. 18. No. of draft, ___. $67,335.85.
+ Harris & Stotesbury, claimant--. Post-office address, Philadelphia.
+ Verified by-- W. J. POLLOCK,
+ Collector.
+ 1 district of Penna. 
+
+[146 U.S. 196, 198]
+ 
+ Assessed upon sp. tax sugar refiners.
+ Basis of claim: Claims that they do not refine sugar.
+ Nov. 9, 1871, rejected on re-examination.
+ [Signed] J. W. DOUGLASS, Comm'r.
+ Examined and rejected Dec. 19, 1870, by--
+ [Signed] CHS. CHESLEY.
+ Allowed by commissioner, July 26, 1871.
+ [Signed] A. PLEASONTON,
+ Commissioner.'
+ No notice was given to the claimants of the action of Commissioner Pleasonton, and it does not appear that they were aware of it until 1880, when, on being informed thereof, they made application for the payment of the money as having been duly allowed them by such decision of Commissioner Pleasonton. This application was denied, but the question of the liability of the government was transmitted by the secretary of the treasury to the court of claims. A petition in that court was filed in the name of Thomas P. Stotesbury, sole surviving partner of Harris & Stotesbury, and afterwards, on his death, the suit was revived in the name of the present appellants, his executors. The decision was in favor of the government, (23 Ct. Cl. 285,) from which decision the executors brought this appeal.
+ Enoch Totten and Thomas W. Neill, for appellants.
+ Asst. Atty. Gen. Cotton, for the United States.
+
+ Mr. Justice BREWER, after stating the facts in the foregoing language, delivered the opinion of the court.
+ The court of claims decided that the action of Commissioner Pleasonton did not constitute a final award binding the government; and whether it was so or not is the question presented to us for decision.
+ The law under which the commissioner acted is found in 
+
+[146 U.S. 196, 199]
+ 
+ section 3220, Rev. St.: 'The commissioner of internal revenue, subject to regulations prescribed by the secretary of the treasury, is authorized, on appeal to him made, to remit, fefund, and pay back all taxes erroneously or illegally assessed or collected, all penalties collected without authority, and all taxes that appear to be unjustly assessed, or excessive in amount, or in any manner wrongfully collected.' Regulations were prescribed by the secretary of the treasury, the only ones of importance in this case being the 3d, 4th, 5th, and 7th, as follows:
+'(3) When the appeal has been fully heard and examined, the commissioner of internal revenue must put into the case a certificate of his decision or judgment, with the amount in writing which should be paid back.
+
+'(4) A proper book or docket must be carefully kept in the office of the commissioner of internal revenue, in which should be entered, under its proper date, the name of the claimant, with the amount of the tax which is the subject of appeal, and the final decision of the said commissioner.
+
+'(5) When, from time to the, and as the commissioner of internal revenue in the course of his public duties shall complete his examination and give his judgment on these appeal cases, he will transmit a weekly list of them to the first comptroller of the treasury, together with all the vouchers upon which, as evidence, he rests his decision, as a matter of account, giving upon the list the proper date, the name of the claimant, and the amount found due each claimant.'
+
+'(7) Where the case of an appeal involves an amount exceeding two hundred and fifty dollars, and before it is finally decided, the commissioner of internal revenue will transmit the case, with the evidence in support of it, to the secretary of the treasury for his consideration and advisement.'
+
+ It is contended by appellants that the duty of determining whether any, and, if so, how much, shall be returned to claim- 
+
+[146 U.S. 196, 200]
+ 
+ ants, is committed by section 3220 to the commissioner; that the secretary has no revising power; and that the regulations which he may prescribe are in respect to the manner of payment, and cannot determine the procedure to be followed by the commissioner in hearing and deciding upon claims. It may be conceded that the power of final decision is vested in the commissioner, and that there is no appeal from him to the secretary of the treasury; but without inconsistency the power of decision may be vested in one person, and the ordering of rules of procedure in another. Indeed, in ordinary litigation the one is given to the judiciary, while the other is largely prescribed by the legislature. Here the authority to the secretary to prescribe regulations is given in full and general terms, and certainly it is a very reasonable regulation that the chief financial officer of the government shall be heard by the commissioner before a final decision is made.
+ Further, the original internal revenue act, in which, by section 44, 'the commissioner of internal revenue, subject to regulations prescribed by the secretary of the treasury,' was authorized to pay back duties erroneously and illegally collected by the government, etc., was enacted on June 30, 1864. 13 St. pp. 223, 239. These regulations were prescribed by the secretary of the treasury on January 12, 1866, and on July 13, 1866, the internal revenue act was amended, (14 St. pp. 98, 111,) section 44 being amended by striking out all after the enacting clause, and inserting in lieu thereof that which now appears as section 3220 of the Revised Statutes. It might well be held that congress, having knowledge of the secretary's regulations of January, 1866, by re-enacting in modified form section 44 approved these regulations, among them the seventh,-the one in question. If that be so, of course there could have been no final action by the commissioner, but only a transmission of the matter to the secretary for his consideration and advice.
+ But, if this be not so, and the regulation be considered as in excess of the authority vested in the secretary of the treasury, in that it is an attempt to regulate the procedure before the commissioner, still it cannot be held that there was a final 
+
+[146 U.S. 196, 201]
+ 
+ determination by the commissioner. Whether these regulations were valid or invalid, the commissioner acted under them, and therefore the meaning and scope of his action must be interpreted by them. The schedule purports to be transmitted to the secretary for consideration and advisement, in accordance with the regulations. The certificate made to the secretary repeats the statement. Read in the light of the seventh regulation, it is as though the commissioner said: 'I have examined this claim, and think it should be allowed, but before final decision I await your consideration and advisement.' Certainly, if the commissioner was waiting for such consideration and advisement, he was not making or intending to make a final decision. Not only is this the plain import of the language of the schedule, but the further fact that the commissioner did not comply with either the 3d, 4th, or 5th regulations emphasizes the correctness of such construction. He made no formal certificate of his decision or judgment, with the amount in writing which should be paid back; no entry of a decision appears in any docket; and no list including this award was ever transmitted by him to the first comptroller of the treasury; and the fifth regulation surely is within the competency of the secretary of the treasury. The facts that he ignored those three provisions, and that he expressly adopted the seventh regulation as the guide to his procedure, make it perfectly clear that no final determination was made or intended by Commissioner Pleasonton. Therefore the matter was one still pending until the action of Commissioner Douglass, on November 9, 1871, rejecting the claim.
+ The decision of the court of claims was right, and its judgment is affirmed. 
+
+
+

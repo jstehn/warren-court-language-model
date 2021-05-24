@@ -1,0 +1,48 @@
+Description: TEXAS & P R CO v. MUGG & DRYDEN , 202 U.S. 242 (1906)
+Date: 1906-05-14 00:00:00
+Docket: 233
+Opinion
+
+
+United States Supreme Court
+TEXAS & P R. CO. v. MUGG & DRYDEN(1906)
+No. 233
+Argued: Decided: May 14, 1906
+
+
+
+ The railroad company, plaintiff in error in this record, appealed to the court of civil appeals of the second supreme judicial district of the state of Texas from a judgment which had been rendered in favor of Mugg & Dryden, defendants in error herein. The appellate court certified to the supreme court of Texas the question of the liability of the railroad company, upon a statement of facts which correctly set forth the controversy, and which was as follows:
+'The cause originated in the justice court, from which it was appealed to the county court of Tarrant county, where a trial was had on the following statement of appellees' cause of action, to wit: 'Statement of plaintiffs' cause of action. Damages in the sum of $140.18, as follows: By reason of defendant making and quoting to plaintiffs a rate of $1.25 per ton on two cars of coal and $1.50 per ton on one car of coal, in January and February, 1903, respectively, from Coal Hill, Arkansas, to Weatherford, Texas, on which rates so made and 
+
+[202 U.S. 242, 243]
+ 
+ quoted plaintiff relied in contracting said coal shipped and sold at prices based on said rates; whereas defendant assessed and collected of plaintiff freight at the rate of $2.75 per ton on said two cars, and $2.85 on said one car, which said freight rate plaintiff was forced to pay and did pay under protest in order to obtain said coal and deliver the same in compliance with sales previously made. That plaintiffs' loss and damage in the sum aforesaid were occasioned by defendant's negligence in making and quoting to plaintiff the said rates, on which rate quoted defendant knew plaintiffs relied and based their sales of said three cars of coal shipped and sold thereafter, and then forcing plaintiffs to pay a greater rate, amounting in the aggregate to the sum of $140.18, on said three cars of coal, thereby causing plaintiffs loss and damage in the said sum.'
+
+'To this pleading the appellant answered by general demurrer and general denial, and especially denied that it ever entered into any contract for the shipment of coal for appellees from Coal Hill, Arkansas, to Weatherford, Texas, at the rate alleged in appellees' statement; and further, that if it ever quoted any such rate to appellees, such quotation was a violation of the interstate commerce act, and was a lower rate than the interstate rate in effect at the time shipment was made, which had been duly published, printed, and posted in its depot and stations, as required by the terms of the act; and further, that it collected from appellees the exact rate prescribed for such commodity under such act, and that such contract, if any was made, was in violation of law, and void. Upon a trial without a jury judgment was rendered for the appellees for the amount sued for and all costs of suit.
+
+'It is agreed by the parties that the rate charged and collected on the shipments of coal in controversy from Coal Hill, Arkansas, to Weatherford, Texas, as shown in appellees' statement of cause of action, was the regular rate in effect at the time the shipments were made, as shown by the printed and published schedules of the Texas & Pacific Railway Company 
+
+[202 U.S. 242, 244]
+ 
+ on file with the Interstate Commerce Commission, and posted in the stations of said railway company, as required by the interstate commerce act. There is no assignment challenging the sufficiency of the evidence to support the material allegations of appellees' pleadings.'
+
+ The supreme court of Texas having answered that the railroad company was liable 'for damages occasioned by the misrepresentation of the rate of freight as shown by the statement of facts' (98 Tex. 352, 83 S. W. 800), the court of civil appeals affirmed the judgment against the railroad company. Thereupon this writ of error was prosecuted.
+ Messrs. John F. Dillon, Winslow S. Pierce, David D. Duncan, and Thomas J. Freeman for plaintiff in error.
+ No counsel for defendants in error.
+
+ Statement by Mr. Justice White:
+
+ Mr. Justice White delivered the opinion of the court:
+ This case is within the principle of and is ruled by the decision in Gulf, C. & S. F. R. Co. v. Hefley, 
+158 U.S. 98
+, 39 L. ed. 910, 15 Sup. Ct. Rep. 802. Upon the authority of that case the supreme court of Alabama denied the liability of a railroad company in a case of similar character to that under review. Southern R. Co. v. Harrison, 119 Ala. 539, 43 L. R. A. 385, 72 Am. St. Rep. 936, 24 So. 552. The opinion of Chief Justice Brickell so aptly reviewed and declared the effect of the decision in the Hefley Case that we adopt the same in disposing of the present controversy. The Alabama court said:
+'In Gulf, C. & S. F. R. Co. v. Hefley, supra, the plaintiff sued to recover damages for the refusal by the carrier to deliver goods consigned to him, after tender of payment of the stipulated charges named in the bill of lading. The goods, a lot of furniture, had been received by the carrier at St. Louis, Missouri, for transportation to Cameron, Texas, at a stipulated rate, specified in the bill of lading, of 69 cents per 
+
+[202 U.S. 242, 245]
+ 
+ 100 pounds, the charges amounting to $82.80, whereas the published schedule rate in force at the time was 84 cents, and the charges should have been $100.80; and the plaintiff, as in this case, was ignorant of the fact that the rate obtained was less than the schedule rate. It was held, in an opinion by Brewer, J., that the plaintiff was not entitled to recover. It is true that the only question discussed in the opinion was whether or not the interstate act superseded the Texas statute, which prohibited a common carrier from charging or collecting from the owner or consignee of freight a greater sum than that specified in the bill of lading, and this question was decided in the affirmative. . . . But this was not the only effect of the decision, and it is by its effect on the rights of the parties to such a contract, by whatever process of reasoning the decision may be reached, that the state courts are bound. The clear effect of the decision was to declare that one who has obtained from a common carrier transportation of goods from one state to another at a rate, specified in the bill of lading, less than the published schedule rates filed with and approved by the Interstate Commerce Commission, and in force at the time, whether or not he knew that the rate obtained was less than the schedule rate, is not entitled to recover the goods, or damages for their detention, upon the tender of payment of the amount of charges named in the bill of lading, or of any sum less than the schedule charges; in other words, that, whatever may be the rate agreed upon, the carrier's lien on the goods is, by force of the act of Congress, for the amount fixed by the published schedule of rates and charges, and this lien can be discharged, and the consignee can become entitled to the goods, only by the payment, or tender of payment, of such amount. Such is now the supreme law, and by it this and the courts of all other states are bound.'
+
+ The judgment of the Court of Civil Appeals for the Second Supreme Judicial District of Texas is reversed and the case remanded to that court for further proceedings not inconsistent with this opinion. 
+
+
+

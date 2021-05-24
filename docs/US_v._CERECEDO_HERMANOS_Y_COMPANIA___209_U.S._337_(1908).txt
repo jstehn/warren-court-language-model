@@ -1,0 +1,51 @@
+Description: US v. CERECEDO HERMANOS Y COMPANIA , 209 U.S. 337 (1908)
+Date: 1908-04-06 00:00:00
+Docket: 152
+Opinion
+
+
+United States Supreme Court
+U S v. CERECEDO HERMANOS Y COMPANIA(1908)
+No. 152
+Argued: Decided: April 6, 1908
+
+
+
+
+[209 U.S. 337, 338]
+ 
+ Assistant Attorney General Sanford for appellant.
+ No appearance for appellees.
+
+ Mr. Justice McKenna delivered the opinion of the court:
+ The appellee imported into Porto Rico from France 30 cases of red wine, 24 bottles to the case, and each bottle containing more than one pint and less than a quart of wine.
+ The wine was classified by appraisers at the port of San Juan under paragraph 296 of the present tariff act [30 Stat. at L. 174, chap. 11, U. S. Comp. Stat. 1901, p. 1654] and the reciprocity treaty with France of May 30, 1898, as being dutiable at $1.25 per dozen bottles, making a total of $75. Upon this classification the entry was liquidated and the duty paid.
+ The appellee in due time protested against the classification and the decision of the collector, stating that 'the wine in question has been assessed at $1.25 per dozen bottles, when it should be by cases of 24/2 bottles.'
+ The board of appraisers decided against the collector and in favor of the protest, saying:
+'The wine in question, being contained in cases of 24 bottles, and each bottle containing over a pint, was clearly subject to duty at $1.60 per case; and any excess beyond this quantity found in such bottles would be subject to a duty only of 5 cents per pint or fractional part thereof.'
+
+ The district court affirmed the decision of the board of appraisers.
+ The only question in the case is the construction of parapraph 296, the material portions of which are as follows:
+'In bottles or jugs, per case of one dozen bottles or jugs, containing each not more than one quart and more than one pint, or 24 bottles or jugs containing each not more than one pint, $1.60 per case; and any excess beyond these quantities found in such bottles or jugs shall be subject to a duty of 5 cents per pint or fractional part thereof. . . .' 
+
+[209 U.S. 337, 339]
+ 
+ It is the contention of the government that the paragraph separates still wines in bottles into three classes and fixes a specific rate of duty on each, as follows:
+
+'(a) Bottles 'containing each not more than one pint,' which are to be assessed as full pints at $1.60 per 24 bottles, or at the rate of 6 2/3 cents per pint; (b) bottles 'containing each not more than one quart and more than one pint,' which are to be assessed as full quarts at $1.60 per dozen bottles; that is, at the same rate of 6 2/3 cents per pint; and (c) bottles containing 'any excess beyond these quantities,' which are to be assessed at the rate of $1.60 per dozen, plus 5 cents per pint or fractional pint on the excess over a quart contained in each bottle.'
+
+ We think the contention is right, and needs nor comment to make it clear.
+ Counsel for the government also points out that the provisions of the tariff act of 1875 and subsequent acts were substantially similar to paragraph 296, and that the Treasury decisions thereunder were in accordance with the interpretation for which the government now contends. The first of these decisions was made in 1879. Re De Luze, T. D. 4,060. The ruling was repeated in 1893. Re Sheldon, T. D. 14,461. And again in 1899. Re Wyman, T. D. 20,843.
+ We have said that, when the meaning of a statute is doubtful, great weight should be given to the construction placed upon it by the department charged with its execution. Robertson v. Downing, 
+127 U.S. 607
+, 32 L. ed. 269, 8 Sup. Ct. Rep. 1328; United States v. Healey, 
+160 U.S. 136
+, 40 L. ed. 369, 16 Sup. Ct. Rep. 247. And we have decided that the re- enactment by Congress, without change, of a statute which had previously received long-continued executive construction, is an adoption by Congress of such construction. United States v. G. Falk & Bro. 
+204 
+U.S. 143, 152
+, 51 S. L. ed. 411, 414, 27 Sup. Ct. Rep. 191.
+ Judgment reversed.
+ Mr. Justice White and Mr. Justice Peckham concur solely because of the prior administrative construction. 
+
+
+

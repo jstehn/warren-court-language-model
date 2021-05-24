@@ -1,0 +1,84 @@
+Description: EX PARTE JOHNSON , 167 U.S. 120 (1897)
+Date: 1897-05-10 00:00:00
+Docket: 13
+Opinion
+
+
+United States Supreme Court
+EX PARTE JOHNSON(1897)
+No. 13
+Argued: Decided: May 10, 1897
+
+
+ From the petition, and the return to the rule to show cause, it appears that on July 24, 1896, a warrant was issued by a commissioner for the Southern district of the Indian Territory to arrest Johnson upon the charge of rape, alleged to have been committed upon one Pearl McCormick on the same day; that subsequently, and on the 9th of October, at a regular term of the United States court for that district, he was indicted, and on the 17th of October was arraigned, tried, and convicted by a jury, and is now under sentence of death.
+ It further appears that on July 25th, the day following the commission of the offense, a warrant issued by a commissioner for the Eastern district of Texas, charging him with the same crime, was placed in the hands of the marshal for that district, who demanded of the marshal of the Southern district of the Indian Territory the surrender of the petitioner, in obedience to said writ, but the same was refused. It does not appear when this demand was made, or whether it was before or after the 1st day of September. It further appeared that, at the time of the commission of the offense, the United States court for the Eastern district of Texas was not in session, and that no term of said court was held until 
+
+[167 U.S. 120, 122]
+ 
+ the third Monday of November, after petitioner had been tried, convicted and sentenced to death.
+ Upon this state of facts, the petitioner claimed that the United States court for the Southern district of the Indian Territory had no jurisdiction of the case; but that under the provisions of an act of congress, cited in the opinion, the court for the Eastern district of Texas retained jurisdiction of all offenses committed within the Southern district of the Indian Territory, where the punishment was death or imprisonment at hard labor, until September 1, 1896, and that the United States court for the Eastern district of Texas had sole and exclusive jurisdiction over his offense.
+ John J. Weed, for petitioner.
+ Sol. Gen. Conrad, for respondent.
+
+ Mr. Justice BROWN, after stating the facts in the foregoing language, delivered the opinion of the court.
+ This case raises the question whether the United States court for the Southern district of the Indian Territory had jurisdiction to try and condemn the petitioner under the circumstances above set forth.
+ The following statutes are pertinent in this connection: By the fifth section of the act 'to establish a United States court in the Indian Territory,' etc., approved March 1, 1889 (25 Stat. 783), it is enacted 'that the court hereby established shall have exclusive original jurisdiction over all offenses against the laws of the United States, committed within the Indian Territory as in this act defined, not punishable by death or imprisonment at hard labor'; by the seventeenth section, 'that the Chickasaw Nation, and the portion of the Choctaw Nation,' within certain described boundaries (including the locus of this crime), 'and all that portion of the Indian Territory not annexed to the district of Kansas by the act approved January 6, 1883, and not set apart and occupied by the five civilized tribes, shall, from and after the passage of 
+
+[167 U.S. 120, 123]
+ 
+ this act, be annexed to and constitute a part of the Eastern judicial district of the state of Texas for judicial purposes.'
+ The eighteenth section provides that sessions of said court shall be held twice in each year at Paris; 'and the United States courts, herein provided to be held at Paris, shall have exclusive original jurisdiction of all offenses committed against the laws of the United States within the limits of that portion of the Indian Territory attached to the Eastern judicial district of the state of Texas by the provisions of this act, of which jurisdiction is not given by this act to the court herein established in the Indian Territory.'
+ Taking these sections together, it is clear that jurisdiction was vested in the new court, created by the act, over all minor offenses against the laws of the United States committed within the Indian Territory; but that jurisdiction of all offenses punishable by death or by imprisonment at hard labor was conferred upon the United States court for the Eastern district of Texas over that portion of the Indian Territory described in section 17.
+ This jurisdiction was expressly continued by section 33 of the act of May 2, 1890 (26 Stat. 81), 'to provide a temporary government for the territory of Oklahoma.'
+ On March 1, 1895, an act was passed 'to provide for the appointment of additional judges of the United States court in the Indian Territory,' etc. 28 Stat. 693. The ninth section of that act reads as follows:
+'Sec. 9. That the United States court in the Indian Territory shall have exclusive original jurisdiction of all offenses committed in said territory, of which the United States court in the Indian Territory now has jurisdiction, and after the first day of September, 1896, shall have exclusive original jurisdiction of all offenses against the laws of the United States committed in said territory, except such cases as the United States court at Paris, Texas, Fort Smith, Arkansas, and Fort Scott, Kansas, shall have acquired jurisdiction of before that time. ...
+
+'All laws heretofore enacted conferring jurisdiction upon United States courts held in Arkansas, Kansas, and Texas, outside of the limits of the Indian Territory, as defined by 
+
+[167 U.S. 120, 124]
+ 
+ law, as to offenses committed in said Indian Territory, as herein provided, are hereby repealed, to take effect on September 1, 1896; and the jurisdiction now conferred by law upon said courts is hereby given from and after the date aforesaid to the United States court in the Indian Territory: provided, that in all criminal cases where said courts outside of the Indian Territory shall have on September 1, 1896, acquired jurisdiction, they shall retain jurisdiction to try and finally dispose of such cases.'
+
+ The case evidently turns upon the construction of this last section. This section had three purposes: First, to enable the United States court in the Indian Territory to retain the jurisdiction it then had under the fifth section of the act of March 1, 1889, of all offenses against the laws of the United States, not punishable by death or by imprisonment at hard labor; second, to give it jurisdiction after September 1, 1896, of all offenses whatever, except of such cases as the courts in Texas, Arkansas, and Kansas had acquired jurisdiction before that time; third, to repeal all laws conferring jurisdiction upon these courts after that date, and to vest jurisdiction of the same upon United States courts in the Indian Territory, with a proviso repeating the exception above indicated.
+ Now, if the United States court for the Eastern district of Texas had 'acquired jurisdiction' of this case, manifestly it was entitled to try the petitioner, but otherwise not. The fact that the crime was committed on the 24th of July had no bearing upon the question, since jurisdiction was vested in the United States court in the Indian Territory, not of crimes or offenses committed after September 1st, but of all offenses in that territory of which the Texas court had not acquired jurisdiction before that date. In this view, the date when the crime was committed is wholly immaterial, and the case of Caha v. U. S., 
+152 U.S. 211
+, 14 Sup. Ct. 513, is inapplicable. Jurisdiction is acquired under this statute, not by the commission of an offense, but by service of process upon the person. Herndon v. Ridgway, 17 How. 424; Chaffee v. Hayward, 20 How. 208, 215; Boswell's Lessee v. Otis, 9 How. 336, 348; Pennoyer v. Neff, 
+95 U.S. 714
+; Railway Co. 
+
+[167 U.S. 120, 125]
+ 
+ v. Pinkney, 
+149 U.S. 194
+, 13 Sup. Ct. 859. In this connection, jurisdiction of the 'case'-i. e. the crime-is indistinguishable from jurisdiction of the preson who is charged with the crime.
+ We know of no reason why the rule, so frequently applied in cases of conflicting jurisdiction between federal and state courts, should not determine this question. Ever since the case of Ableman v. Booth, 21 How. 506, it has been the settled doctrine of this court that a court having possession of a person or property cannot be deprived of the right to deal with such person or property until its jurisdiction is exhausted, and that no other court has the right to interfere with such custody or possession. This rule was reaffirmed in Trable's Case, 13 Wall. 397, in Robb v. Connolly, 
+111 U.S. 624
+, 4 Sup. Ct. 544, and in Re Spangler, 11 Mich. 298, and with reference to personal property has been so often restated as to have become one of the maxims of the law. Taylor v. Carryl, 20 How. 583; Freeman v. Howe, 24 How. 450; Ellis v. Davis, 
+109 U.S. 485
+, 3 Sup. Ct. 327; Krippendorf v. Hyde, 
+110 U.S. 276
+, 4 Sup. Ct. 27; Covell v. Heyman, 
+111 U.S. 176
+, 4 Sup. Ct. 355; Byers v. McAuley, 
+149 U.S. 608
+, 13 Sup. Ct. 906; Moran v. Sturges, 
+154 U.S. 256
+, 14 Sup. Ct. 1019; In re Chetwood, 
+165 U.S. 443
+, 17 Sup. Ct. 385.
+ The material facts of the case, upon which the petitioner relies, are that on July 25th a warrant was issued by a United States commissioner for the Eastern district of Texas, charging him with the crime for which a warrant had already been issued against him by a commissioner of the Indian Teritory, and upon which he seems to have been arrested by the marshal. A demand was made by the Texas marshal upon the marshal of the Indian Territory, but neither the petition nor the return to the rule to show cause shows that the demand was made before September 1st. Assuming that the commissioner for the Southern district of the Indian Territory exceeded his authority in issuing and the marshal in executing his warrant of arrest, it does not follow that the subsequent indictment and conviction were void. If the petitioner was in the actual custody of the marshal on September 1st, his subsequent indictment and trial were valid, though in the first instance he might have been illegally arrested. 
+
+[167 U.S. 120, 126]
+ 
+ Thus, in The Richmond v. U. S., 9 Cranch, 102, an illegal seizure of a vessel was made in the waters of a foreign power by a vessel belonging to the navy for a violation of the embargo act, and it was held that, although the seizure within the territorial jurisdiction of a foreign power was an offense against that power, this court could take no cognizance of it; and the majority of the court was of opinion that the law did not connect that trespass with the subsequent seizure by the civil authorities under the process of the district court, so as to annul the proceedings of that court against the vessel. This ruling was approved in The Merino, 9 Wheat. 391, 402. Indeed, there are many authorities which go to the extent of holding that in criminal cases a forcible abduction is no sufficient reason why the party sould not answer when brought within the jurisdiction of the court which has the right to try him for such an offense, and presents no valid objection to his trial in such court. Kerr v. People, 
+119 
+U.S. 436, 444
+, 7 S. Sup. Ct. 225; Ex parte Scott (1829) 9 Barn. & C. 446; Lopez's Case, 1 Dears. & B. Crown Cas. 525; State v. Smith ( 1829) 1 Bailey, 283; State v. Brewster (1835) 7 Vt. 118; Dow's Case (1851) 18 Pa. St. 37; State v. Ross (1866) 21 Iowa, 467. Although it has been frequently held that, if a defendant in a civil case be brought within the process of the court by a trick or device, the service will be set aside, and he will be discharged from custody. Sugar Refinery v. Mathiesson, 2 Cliff. 304, Fed. Cas. No. 14,397; Wells v. Gurney, 8 Barn. & C. 769; Snelling v. Watrous, 2 Paige, 315; Wilson v. Bacon, 10 Wend. 636; Metcalf v. Clark, 41 Barb. 45; Stein v. Valkenhuysen, El., Bl. & El. 65; Wilson v. Reed, 29 N. J. Law, 385; Carpenter v. Spooner, 2 Sandf. 917; Perfner v. Rupert, 28 Iowa, 27; Moynahan v. Wilson, 2 Flip. 130, Fed. Cas. No. 9,897; Small v. Montgomery, 17 Fed. 865; Kaufman v. Kennedy, 25 Fed. 785. The law will not permit a person to be kidnapped or decoyed within the jurisdiction for the purpose of being compelled to answer to a mere private claim, but in criminal cases the interests of the public override that which is, after all, a mere privilege from arrest. 
+
+[167 U.S. 120, 127]
+ 
+ But in this case there was nothing of the kind. The crime was committed and the prisoner arrested within the territory, and within the local jurisdiction of the territorial court. Had he been arrested without warrant by the marshal, or even by a private individual, and detained in custody until after the 1st of September, he might then have been indicted, although, perhaps, an action might have lain against the person so arresting him for false imprisonment. If the jurisdiction of the Texas court had attached, or, in the language of the statute, had been 'acquired,' before September 1st, that would have been a good defense; but, as already stated, all that had been done was to issue a warrant which was never served, and there is nothing to show that a demand was made for the petitioner before the 1st of September. Whether, if such demand had been made, that would have itself vested the Texas court with priority of jurisdiction, is a question we are not called upon to discuss. It is clear that the mere issue of a warrant was not sufficient.
+ The petition must be denied. 
+
+
+

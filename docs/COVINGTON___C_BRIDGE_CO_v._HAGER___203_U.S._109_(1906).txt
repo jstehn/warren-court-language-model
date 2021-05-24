@@ -1,0 +1,36 @@
+Description: COVINGTON & C BRIDGE CO v. HAGER , 203 U.S. 109 (1906)
+Date: 1906-11-05 00:00:00
+Docket: 37
+Opinion
+
+
+United States Supreme Court
+COVINGTON & C BRIDGE CO. v. HAGER(1906)
+No. 37
+Argued: Decided: November 5, 1906
+
+
+
+ Messrs.
+Shelley D. Rouse and Charlton B. Thompson for plaintiff in error. 
+
+[203 U.S. 109, 110]
+ 
+ Messrs. N. B. Hays, John W. Ray, and C. H. Morris for defendant in error.
+
+ Mr. Justice Day delivered the opinion of the court:
+ In this case an original action in mandamus was begun in the circuit court of the United States for the eastern district of Kentucky. It was brought by the bridge company to compel the auditor of public accounts for the state to issue his warrant on the state treasury for the amount of a franchise tax collected under authority of  4079 and 4080 of the Kentucky statutes. The return of the tax was asked upon the ground that it levied a burden on the interstate commerce business of the bridge company, pertaining exclusively to commerce between Kentucky and Ohio, and was therefore repugnant to the Federal Constitution.
+ The auditor appeared by counsel, and, by general demurrer, raised the question of the sufficiency of the allegations of the petition, and by special demurrer challenged the jurisdiction of the court to entertain the action. The circuit court, passing the question of jurisdiction, held that levying the tax in question did not violate the commerce clause of the Federal Constitution, as it was a tax upon property, and not upon the business of the company, sustained the general demurrer, and dismissed the petition.
+ We are of opinion that the court below had no jurisdiction of this action. It has been too frequently decided in this court to require the citation of the cases that the circuit courts of the United States have no jurisdiction in original cases of mandamus, and have only power to issue such writs in aid of their jurisdiction in cases already pending, wherein jurisdicton has been acquired by other means and by other process. 
+
+[203 U.S. 109, 111]
+ 
+ Many of the cases are collected in 4 Fed. Stat. Annotated, 503.
+ The question was before this court recently in Knapp v. Lake Shore & M. S. R. Co. 
+197 U.S. 536
+, 49 L. ed. 870, 25 Sup. Ct. Rep. 538, an action by the Interstate Commerce Commission, by petition for mandamus in the circuit court of the United States for the northern district of Ohio, against the Lake Shore & Michigan Southern Railroad Company, to compel it to file reports required by the act to regulate interstate commerce. It was argued for the government that while decisions of this court under the judiciary act of 1789 (1 Stat. at L. 73, chap. 20) and the act of 1875 (18 Stat. at L. 470, chap. 137, U. S. Comp. Stat. 1901, p. 508) had been construed to confer no original jurisdiction in mandamus in the United States courts, yet the act of March 3, 1887 (24 Stat. at L. 552, chap. 373, U. S. Comp. Stat. 1901, p. 508), in view of the modern development in proceedings by mandamus, should be held to confer the jurisdiction upon the circuit courts to entertain original suits in mandamus. The contention was rejected and the prior cases adhered to.
+ We deem it settled beyond controversy, until Congress shall otherwise provide, that circuit courts of the United States have no power to issue a writ of mandamus in an original action brought for the purpose of securing relief by the writ, and this result is not changed because the relief sought concerns an alleged right secured by the Constitution of the United States.
+ It follows that the circuit court should have dismissed the case for want of jurisdiction instead of determining it upon the merits. The judgment dismissing the petition is therefore modified so as to show that the case was dismissed for want of jurisdiction, and, as thus modified, the judgment is affirmed. 
+
+
+

@@ -1,0 +1,50 @@
+Description: RASQUIN v. HUMPHREYS, 308 U.S. 54 (1939)
+Date: 1939-11-06 00:00:00
+Docket: 37
+Opinion
+
+
+United States Supreme Court
+RASQUIN v. HUMPHREYS(1939)
+No. 37
+Argued: October 19, 1939Decided: November 6, 1939
+
+
+
+ Mr. Frank Murphy, Atty. Gen., and Miss Helen R. Carloss, Sp. Asst. Atty. Gen., for petitioner. 
+
+[308 
+U.S. 54, 55]
+ 
+ Messrs. Sidney W. Davidson, and Allin H. Pierce, both of New York City, for respondent.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Decision in this case turns on the question, differing only in form from that this day decided in Sanford v. Com'r, Helvering, 
+308 
+U.S. 39
+, 60 S.Ct. 51, whether, in case of an inter vivos transfer of property in trust, reserving to the donor power to designate new beneficiaries other than himself, the gift becomes complete at the time of the creation of the trust and subject to the gift tax imposed by the Revenue Act of 1932
+
+
+ In December, 1934, respondent created a trust of personal property for his own benefit for life, with remainders over to specified classes of beneficiaries. By the trust indenture he reserved to himself a power to change the beneficiaries of the trust and to prescribe the conditions under which the new beneficiaries should take an interest in the trust, but without any power to increase his own beneficial interest in the trust property.
+ Respondent paid the gift tax assessed against him with respect to the transfer of the remainder interests upon creation of the trust, and brought the present suit in the district court to recover the tax as illegally collected. Judgment in his favor was affirmed by the Circuit Court of Appeals for the second circuit, 101 F.2d 1012, on the authority of Hesslein v. Hoey, 2 Cir., 91 F.2d 954. We granted certiorari May 22, 1939, 
+307 
+U.S. 619
+, 59 S.Ct. 1034, so that this case might be considered with the Sanford case.
+ The gift tax,  319 et seq. of the 1924 Act, 43 Stat. 313, 26 U.S.C.A. Int.Rev.Acts, page 79 et seq., so far as now material, reappeared in  501 et seq. of the 1932 Act, 47 Stat. 169, 26 U.S.C.A. Int.Rev.Acts, page 580 et seq. Other pertinent provisions of the earlier act 
+
+[308 
+U.S. 54, 56]
+ 
+ were reenacted without change of present moment in  501, 510, 801, 26 U. S.C.A. Int.Rev.Acts, pages 580, 589, 640. The applicable estate tax provisions are  302(c)(d) of the 1926 Act, 44 Stat. 40, 71, 26 U.S.C.A. Int.Rev.Acts, pages 227, 228. Section 501(c) of the 1932 Act, 26 U.S.C.A. Int.Rev.Acts, page 580, added a new provision that transfers in trust, with power of revocation in the donor, should be taxed on relinquishment of the power. This was repealed by  511 of the Act of 1934, 48 Stat. 680, 26 U.S.C.A. Int.Rev.Acts, page 769, because Burnet v. Guggenheim, 
+288 
+U.S. 280
+, 53 S.Ct. 369, had declared that such was the law without specific legislation. H.R. No. 704, 73rd Cong., 2d Sess., p. 40; Sen.Rep. No. 558, 73rd Cong., 2d Sess., p. 50.
+ For the reasons stated in our opinion in the Sanford case we conclude that the reserved power in the donor at the time of the creation of the trust rendered the gift incomplete and not subject to the gift tax. As pointed out in our opinion in the Sanford case the Treasury regulation under the 1932 Act, Art. III, Regulation 79 (1933 edition), in force when the trust was created, affords no basis for modification of our construction of the statute. Whatever validity the amended regulation of 1936 may have in its prospective operation, we think it is so plainly in conflict with the statute as to preclude its application retroactively so as to subject to tax such transfer as was made by the creation of the trust in 1934. Cf. Helvering v. R. J. Reynolds Tobacco Co., 
+306 
+U.S. 110
+, 59 S.Ct. 423.
+AFFIRMED.
+ Mr. Justice BUTLER took no part in the consideration or decision of this case. 
+
+
+

@@ -1,0 +1,160 @@
+Description: WORCESTER COUNTY TRUST CO. v. RILEY , 302 U.S. 292 (1937)
+Date: 1937-12-06 00:00:00
+Docket: 34
+Opinion
+
+
+United States Supreme Court
+WORCESTER COUNTY TRUST CO. v. RILEY(1937)
+No. 34
+Argued: Decided: December 6, 1937
+
+
+
+
+
+[302 
+U.S. 292, 293]
+ 
+ Messrs. Merrill S. June and Bradley B. Gilman, both of Worcester, Mass., for petitioner.
+ Mr. James J. Ronan, of Salem, Mass., for Henry F. Long, Commissioner of Corporations and Taxation of Massachusetts, intervener by special leave of court.
+ Mr. George S. Fuller, of Boston, Mass., for respondent.
+
+
+
+[302 
+U.S. 292, 294]
+ 
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ The question for decision is whether the Federal Interpleader Act, section 24(26) of the Judicial Code as amended January 20, 1936, c. 13,  1, 49 Stat. 1096 (28 U.S.C.A.  41(26), may be availed of for the litigation and final disposition of the rival claims of two states, each asserting through its officers the right to recover death taxes on the ground that decedent was last domiciled within its boundaries.
+ Petitioner is the duly qualified executor named in the last will of decedent, which has been probated in Massachusetts. Ancillary administration of the estate has been granted in California. Petitioner brought the present suit in the District Court for Massachusetts, joining as defendants Commissioner of Corporations and Taxation of the commonwealth of Massachusetts, and respondents, officers of the state of California, all charged with the duty of administering death tax statutes of their respective states. The bill of complaint is founded upon the Interpleader Act, and seeks the remedy which it affords. 
+
+[302 
+U.S. 292, 295]
+ 
+ Section 24(26) confers jurisdiction on the District Courts in suits of interpleader or in the nature of interpleader, by plaintiffs who are under an obligation to the amount of $500 or more, the benefits of which are demanded by two or more adverse claimants who are citizens of different states. By subsection 26(a), 'Such a suit in equity may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.' And by subsection 26(a)(ii) and (d), complainant, upon satisfying jurisdictional requirements of the act, and depositing the money or property in the registry of the court, or upon giving a prescribed bond, is entitled to a decree discharging him from further liability and enjoining the claimants from further proceedings in other courts to recover the sum claimed.
+ The bill of complaint alleges that decedent left bank deposits and other intangibles in California and Massachusetts, a substantial part of which has come into the possession or custody of petitioner; that respondents, the California taxing officials, have determined and assert that decedent at death was domiciled in California, and that under the law of that state his estate is subject to death taxes upon all his intangibles; that respondents threaten to assess and collect there a tax in excess of any which would be due if decedent were domiciled in Massachusetts; that the Massachusetts Commissioner, in behalf of the state, asserts a similar claim that decedent at death was domiciled in Massachusetts, and that his estate is subject to taxes there upon all his intangibles; that it is impossible in law and in fact for decedent to have been domiciled in both states at the time of his death, or for his estate to be subject to death taxes in both states as asserted; and that the attempted collection of the tax is a threatened deprivation of property without due proc- 
+
+[302 
+U.S. 292, 296]
+ 
+ ess of law and a denial of equal protection of the laws. Petitioner prays that the Court order respondent officials of the two states to interplead their respective claims for the tax; that the Court determine the domicil of decedent, the amount of the tax, and the person or persons to whom it is payable; and that respondents be enjoined from any other proceedings to collect it.
+ Respondents, the California officers, appeared specially and moved to dismiss the complaint upon the ground, among others, that the suit was brought against respondents in their official capacity, and was in substance a suit against the state forbidden by the Eleventh Amendment. The District Court overruled this contention, and granted a temporary injunction restraining defendants until further order of the court, from taking any action to assess the tax. The Court of Appeals for the First Circuit reversed, 89 F.2d 59, holding that the maintenance of the suit is an infringement of the Eleventh Amendment, which provides that: 'The Judicial power ... shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State.' We granted certiorari, 
+301 
+U.S. 678
+, 57 S.Ct. 931; the decision below being of an important question of federal law which has not been but should be settled by this Court. Supreme Court Rules, rule 38, subd. 5(b), 28 U.S.C.A. following section 354.
+ Petitioner does not deny that a suit nominally against individuals, but restraining or otherwise affecting their action as state officers, may be in substance a suit against the state, which the Constitution forbids, Louisiana v. Jumel, 
+107 
+U.S. 711
+, 2 S.Ct. 128; Hagood v. Southern, 
+117 
+U.S. 52
+, 6 S.Ct. 608; In re Ayers, 
+123 
+U.S. 443
+, 8 S.Ct. 164; North Carolina v. Temple, 
+134 
+U.S. 22, 30
+, 10 S.Ct. 509; Smith v. Reeves, 
+178 
+U.S. 436
+, 20 S.Ct. 919; Lankford v. Platte Iron Works, 
+235 
+U.S. 461
+, 35 S.Ct. 173; Ex parte State of New York, No. 1, 
+256 
+U.S. 490, 500
+, 41 S. Ct. 588, 590; Missouri v. Fiske, 
+290 
+U.S. 18, 28
+, 54 S.Ct. 18, 21; see Cunningham v. Macon & Brunswick R. Co., 109 
+
+[302 
+U.S. 292, 297]
+ 
+ U.S. 446, 3 S.Ct. 292, 609; cf. Wells v. Roper, 
+246 
+U.S. 335
+, 38 S.Ct. 317, or that generally suits to restrain action of state officials can, consistently with the constitutional prohibition, be prosecuted only when the action sought to be restrained is without the authority of state law or contravenes the statutes or Constitution of the United States. Cf. Ex parte Young, 
+209 
+U.S. 123
+, 28 S.Ct. 441, 13 L.R.A.(N.S.) 932, 14 Ann.Cas. 764; Scully v. Bird, 
+209 
+U.S. 481
+, 28 S.Ct. 597; Old Colony Trust Co. v. Seattle, 
+271 
+U.S. 426
+, 46 S.Ct. 552, with Louisiana v. Jumel, supra; Hagood v. Southern, supra; In re Ayers, supra; Lankford v. Platte Iron Works, supra. The Eleventh Amendment, which denies to the citizen the right to resort to a federal court to compel or restrain state action, does not preclude suit against a wrongdoer merely because he asserts that his acts are within an official authority which the state does not confer.
+ Petitioner's contention is that here the prospective official action of respondents involves a threatened violation of the Constitution for which state law can afford no sanction. It is said that as the officers of each state assert the right to collect the tax out of decedent's property within the state, they may succeed in establishing that right by a judicial determination in each that decedent was last domiciled there, cf. Dorrance's Estate, 309 Pa. 151, 163 A. 303; In re Estate of Dorrance, 115 N.J.Eq. 268, 170 A. 601; Id., 116 N.J.Eq. 204, 172 A. 503, with New Jersey v. Pennsylvania, 
+287 
+U.S. 580
+, 53 S.Ct. 313; Dorrance v. Pennsylvania, 
+287 
+U.S. 660
+, 53 S.Ct. 222; Hill v. Martin, 
+296 
+U.S. 393
+, 56 S.Ct. 278, although he could not be domiciled in both; that neither state could constitutionally authorize its officials to impose the tax if decedent was last domiciled elsewhere, and petitioner is thus exposed to the danger of double taxation, which the Constitution forbids. See First National Bank v. Maine, 
+284 
+U.S. 312
+, 52 S. Ct. 174, 77 A.L.R. 1401; Farmers' Loan & Trust Co. v. Minnesota, 
+280 
+U.S. 204
+, 50 S.Ct. 98, 65 A.L.R. 1000. As those officials threaten acts whose consequence may be taxation which is unauthorized by any valid state enactment, petitioner in- 
+
+[302 
+U.S. 292, 298]
+ 
+ sists that the suit brought to restrain such action does not run against the state.
+ But this argument confuses the possibility of conflict of decisions of the courts of the two states, which the Constitution does not forestall, with other types of action by state officers which, because it passes beyond the limits of a lawful authority, is within the reach of the federal judicial power, notwithstanding the Eleventh Amendment. This Court has held that state statutes, construed to impose death taxes upon the intangibles of decedents domiciled elsewhere, infringe the Fourteenth Amendment, and it has accordingly reversed judgments of state courts enforcing such liability. First National Bank v. Maine, supra; Farmers' Loan & Trust Co. v. Minnesota, supra. But petitioner does not assert that there are such statutes in California or Massachusetts, or that the courts in those states have ever held or threaten to hold that their laws taxing inheritances apply to intangibles of those domiciled in other states.
+ Although the bill of complaint states that respondents California officials 'have determined' that decedent was domiciled in California, it is not contended that they have or are assuming authority to assess the tax, independently of the judgment of a court. Under California statutes, inheritance taxes are assessed by judicial proceedings resulting, after full opportunity for presentation of evidence and a hearing, in a judgment which is reviewable on appeal by the state courts, and by this Court if it involves any denial of federal right. Sections 14, 15, 17 and 18, Cal. Inheritance Tax Act of June 3, 1921, Stats.1921, pp. 1500, 1514, 1515, 1517-1520, and section 16, as amended by St.1929 p. 1848; see Stebbins v. Riley, 
+268 
+U.S. 137
+, 45 S.Ct. 424, 44 A.L.R. 1454; Estate of Haskins, 170 Cal. 267, 149 P. 576; Estate of Brown, 196 Cal. 114, 236 P. 144.
+ Petitioner does not contend that respondents, the California officers, propose to do more than invoke the action 
+
+[302 
+U.S. 292, 299]
+ 
+ of its courts to assess a lawful tax and to seek there a judicial determination that decedent was domiciled in California as the basis of its power to impose the tax. Nor is it denied that in so doing they are acting in the performance of official duty imposed upon them by state statutes, which conform to all constitutional requirements. Petitioner's real concern is that the judgment of the California court, if it should decide that decedent was domiciled there, may be erroneous or may conflict with that of the Massachusetts courts. But conflicting decisions upon the same issue of fact do not necessarily connote erroneous judicial action. Differences in proof and the latitude necessarily allowed to the trier of fact in each case to weigh and draw inferences from evidence and to pass upon the credibility of witnesses, might lead an appellate court to conclude that in none is the judgment erroneous. In any case the Constitution of the United States does not guarantee that the decision of state courts shall be free from error, Central Land Co. v. Laidley, 
+159 
+U.S. 103
+, 16 S.Ct. 80; Tracy v. Ginzberg, 
+205 
+U.S. 170
+, 27 S.Ct. 461; or require that pronouncements shall be consistent. Milwaukee Electric Railway & Light Co. v. Wisconsin, 
+252 
+U.S. 100, 106
+, 40 S.Ct. 306, 309, 10 A.L.R. 892. Neither the Fourteenth Amendment nor the full faith and credit clause (article 4,  1) requires uniformity in the decisions of the courts of different states as to the place of domicil, where the exertion of state power is dependent upon domicil within its boundaries. Thormann v. Frame, 
+176 
+U.S. 350
+, 20 S.Ct. 446; Overby v. Gordon, 
+177 
+U.S. 214
+, 20 S.Ct. 603; Burbank v. Ernst, 
+232 
+U.S. 162
+, 34 S.Ct. 299; Baker v. Baker, Eccles & Co., 
+242 
+U.S. 394
+, 37 S.Ct. 152; Iowa v. Slimmer, 
+248 
+U.S. 115, 120
+, 121 S., 39 S.Ct. 33; cf. Tilt v. Kelsey, 
+207 
+U.S. 43
+, 28 S.Ct. 1. Hence it cannot be said that the threatened action of respondents involves any breach of state law or of the laws or Constitution of the United States. Since the proposed action is the performance of a duty imposed by the statute of the state upon state officials through whom alone 
+
+[302 
+U.S. 292, 300]
+ 
+ the state can act, restraint of their action, which the bill of complaint prays, is restraint of state action, and the suit is in substance one against the state which the Eleventh Amendment forbids. We do not pass on the construction of the Interpleader Act or its applicability in other respects.
+ Unlike that in Ex parte Young, supra, and in the many cases which have followed it, the present suit is not founded on the asserted unconstitutionality of any state statute and the consequent want of lawful authority for official action taken under it. In City Bank Farmers' Trust Co. v. Schnader, 
+291 
+U.S. 24
+, 54 S.Ct. 259, on which petitioner relies, it was held that the bill of complaint stated a cause of action in equity to enjoin a state official from proceeding to assess and collect an inheritance tax upon chattels alleged to have no tax situs within the state. The objection that the suit was one against the state within the meaning of the Eleventh Amendment was not urged or considered on the appeal to this Court.
+ Affirmed. 
+
+
+

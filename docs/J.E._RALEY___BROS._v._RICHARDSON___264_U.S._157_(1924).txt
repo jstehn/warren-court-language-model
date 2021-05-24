@@ -1,0 +1,41 @@
+Description: J.E. RALEY & BROS. v. RICHARDSON , 264 U.S. 157 (1924)
+Date: 1924-02-18 00:00:00
+Docket: 152
+Opinion
+
+
+United States Supreme Court
+J.E. RALEY & BROS. v. RICHARDSON(1924)
+No. 152
+Argued: Decided: February 18, 1924
+
+
+
+
+[264 U.S. 157, 158]
+ 
+ Messrs. John P. Ross and E. B. Weatherly, both of Macon, Ga., for plaintiffs in error.
+ Messrs. Geo. M. Napier, T. R. Gress, and Frank Carter, all of Atlanta, Ga., for defendants in error.
+
+ Mr. Justice SUTHERLAND delivered the opinion of the Court.
+ A statute of Georgia (Acts 1921, p. 46,  2, par. 30) imposes a flat tax of $100 upon any broker or commission merchant buying or selling merchandise on commission for another, or engaged in the business of receiving or distributing articles of merchandise shipped to such broker or merchant for distribution on account of the shipper. The bill filed below sought to enjoin the collection of the tax on the ground that the statute violates the commerce clause of the federal Constitution, and also, contingently, upon the further ground that the statute is void under the equal protection clause of the Fourteenth Amendment.
+ The complainants were divided into two classes, A and B. The business of those in class B was to solicit orders for goods from dealers in Georgia, which orders were sent to be filled, sometimes to nonresident and sometimes to resident principals; the greater part of the business being with nonresident principals. The business of those in 
+
+[264 U.S. 157, 159]
+ 
+ class A was wholly confined to representation of nonresident principals. Upon acceptance of an order the goods are shipped by the principal to the purchaser, but remain the property of the former until the time of sale.
+ The trial court sustained the tax as to class B and enjoined its collection as to class A, and its judgment was affirmed by the Supreme Court. 154 Ga. 140, 113 S. E. 531. We are concerned here with the judgment only in so far as it affects class B.
+ The contention is that the tax is laid, expressly, upon all brokers and commission merchants in the state, and upon the business done by them, whether interstate or intrastate, without separating one from the other. The state courts, by whose construction we are bound, held that the statute did not apply to interstate business, and we consider it as though it so provided in terms. It was held, however, that inasmuch as class B complainants were engaged in intrastate business they were subject to the tax, and none the less because they were also engaged in interstate business. With this conclusion we fully agree.
+ The complainants were definitely engaged in the domestic business described in the statute and were liable to the tax, irrespective of the extent of it, and whether they engaged in interstate business in addition or not. That the former was small in comparison with the latter makes no difference; nor does the fact that both were carried on at the same time and in the same establishment. If the two were not distinct, but the former a mere incident of the latter, the burden was upon complainants to furnish the proof, in which case a different question would arise. Kehrer v. Stewart, 
+197 
+U.S. 60, 69
+, 25 S. Sup. Ct. 403. Certainly one cannot avoid a tax upon a taxable business by also engaging in a nontaxable business.
+ There is nothing in the contention that because, under the construction placed upon the statute by the state 
+
+[264 U.S. 157, 160]
+ 
+ courts, the tax falls upon those engaged in domestic business and does not fall upon those engaged in interstate business, it is void for inequality. It would be a strange application of the equality provision of the Fourteenth Amendment to say that, because a state is forbidden by paramount law to impose a tax upon some merchants, it is therefore powerless to impose it upon other merchants to whom the restriction does not apply. It is enough if the state observe the rule of equality among the persons subject to its taxing power.
+ Affirmed. 
+
+
+

@@ -1,0 +1,78 @@
+Description: ELECTRICAL FITTINGS CORPORATION v. THOMAS & BETTS CO., 307 U.S. 241 (1939)
+Date: 1939-05-22 00:00:00
+Docket: 582
+Opinion
+
+
+United States Supreme Court
+ELECTRICAL FITTINGS CORPORATION v. THOMAS & BETTS CO.(1939)
+No. 582
+Argued: April 19, 1939Decided: May 22, 1939
+
+
+
+ Mr. Samuel E. Darby, Jr., of New York City, for petitioners.
+ Mr. George Whitefield Betts, Jr., of New York City, for respondents.
+
+ Mr. Justice ROBERTS delivered the opinion of the Court.
+ This was a suit in equity by the respondents for alleged infringement of a patent. The District Court held claim 
+
+[307 
+U.S. 241, 242]
+ 
+ 1 valid but not infringed and claim 2 invalid. 
+1
+ Instead of dismissing the bill without more, it entered a decree adjudging claim 1 valid but dismissing the bill for failure to prove infringement.
+ The respondents did not appeal, but filed in the Patent Office a disclaimer of claim 2. The petitioners appealed to the Circuit Court of Appeals from so much of the decree as adjudicated claim 1 valid. The appeal was dismissed on the ground that the petitioners had been awarded all the relief to which they were entitled, the litigation having finally terminated in their favor. 
+2
+ The court was of opinion that the decree would not bind the petitioners in subsequent suits on the issue of the validity of claim 1.
+ We granted certiorari because of an alleged conflict of decision. 
+3
+ 
+
+ A party may not appeal from a judgment or decree in his favor, for the purpose of obtaining a review of findings he deems erroneous which are not necessary to support the decree. 
+4
+ But here the decree itself purports to adjudge the validity of claim 1, and though the adjudication was immaterial to the disposition of the cause, it stands as an adjudication of one of the issues litigated. We think the petitioners were entitled to have this portion of the decree eliminated, and that the Circuit Court of Appeals had jurisdiction,5 as we have held this court has,6 to entertain the appeal, not for the purpose of passing on the merits, but to direct the reformation of the decree. 
+
+[307 
+U.S. 241, 243]
+ 
+ The judgment is reversed, and the cause is remanded to the Circuit Court of Appeals with instructions to entertain the appeal and direct the District Court to reform its decree in accordance with the views herein expressed.
+ Reversed and remanded. 
+
+Footnotes
+
+[
+Footnote 1
+] D.C., 23 F.Supp. 920. 
+[
+Footnote 2
+] 2 Cir., 100 F.2d 403. 
+[
+Footnote 3
+] Electrical Fittings Corp. v. Thomas, 
+306 
+U.S. 624
+, 59 S.Ct. 488, 83 L.Ed. --, See Oliver-Sherwood Co. v. Patterson-Ballagh Corp., 9 Cir., 95 F. 2d 70, 71. 
+[
+Footnote 4
+] Lindheimer v. Illinois Bell Tel. Co., 292$U.S. 151, 176, 54 S.Ct. 658, 668. 
+[
+Footnote 5
+] See 28 U.S.C.  225, 28 U.S.C.A.  225. 
+[
+Footnote 6
+] Gully v. Interstate Nat. Gas Co., 
+292 
+U.S. 16
+, 54 S.Ct. 565; Oklahoma Gas & Elec. Co. v. Oklahoma Packing Co., 
+292 
+U.S. 386
+, 54 S.Ct. 732; William Jameson & Co. v. Morgenthau, 
+307 
+U.S. 171
+, 59 S.Ct. 804, 83 L.Ed. --, decided May 15, 1939. 
+
+
+
+

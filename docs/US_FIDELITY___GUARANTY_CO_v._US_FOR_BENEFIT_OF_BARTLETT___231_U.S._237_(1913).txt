@@ -1,0 +1,60 @@
+Description: US FIDELITY & GUARANTY CO v. US FOR BENEFIT OF BARTLETT , 231 U.S. 237 (1913)
+Date: 1913-12-01 00:00:00
+Docket: 50
+Opinion
+
+
+United States Supreme Court
+U S FIDELITY & GUARANTY CO. v. U S FOR BENEFIT OF BARTLETT(1913)
+No. 50
+Argued: Decided: December 1, 1913
+
+
+
+
+[231 U.S. 237, 238]
+ 
+ The United States, for the benefit of Frank P. Bartlett, brought suit in the circuit court of the United States for the southern district of New York against the plaintiff in error, as surety upon a bond given pursuant to the provisions of an act of Congress (28 Stat. at L. 278, chap. 280, U. S. Comp. Stat. 1901, p. 2523), to the effect that any person or persons contracting with the government for the prosecution of public work should be required to furnish a bond conditioned that the contractor or contractors would 'promptly make payments to all persons supplying him or them labor and materials in the prosecution of the work provided for in such contract.' Upon trial a verdict was rendered in his favor, and judgment entered accordingly. The circuit court of appeals for the second circuit affirmed the judgment (111 C. C. A. 71, 189 Fed. 339), and this writ of error is brought to review its judgment.
+ The record shows: The United States government contracted with one Donovan on February 18, 1903, for the construction of a breakwater off Point Judith, Rhode Island, it being provided in the contract that he should be 'responsible for and pay all liabilities incurred in the prosecution of the work for labor and material.' Donovan executed a bond containing the obligation required by the act, with the plaintiff in error as surety. Donovan was associated with Hughes & Bangs, and it was agreed that they should perform the contract, and that he would turn over the government's estimates to them, this fact being known to the plaintiff in error.
+ An arrangement was made between Hughes Brothers & 
+
+[231 U.S. 237, 239]
+ 
+ Bangs and Bartlett that he should engage the labor, open the quarry of the former, located at Sachems Head, Connecticut, about 50 miles from the breakwater, and superintend the furnishing of stone for the construction of the breakwater. Bartlett was also to maintain a commissary at the quarry from which the men might be supplied with provisions and merchandise, an account to be kept of the articles purchased, and, after approval by the men, forwarded to the office of Hughes Brothers & Bangs, who would deduct the amount from the wages of the laborers, this practice being with their consent, and credit Bartlett's account.
+ The quarry was operated, labor being employed in various ways, from clearing the surface preparatory to blasting to loading the stone on scows, and the stone was transported to the breakwater and there deposited according to the direction of a government inspector. All, save the inspector and a few of the more skilled workmen, were provided for at the commissary, and, under the arrangement described, the amount of their purchases was deducted from their wages by Hughes Brothers & Bangs. Separate account was kept of the men who were actually employed at the breakwater, for the reason that Bartlett had to wait for them to come back to procure their approval of his charges, before he could send in his statement to Hughes Brothers & Bangs.
+ The contract was completed November 8, 1903, and on December 22, 1903, the last retained percentage of $8,956.44 was paid by the United States. Hughes Brothers & Bangs became insolvent in 1907 or 1908. Suit on the bond was begun June 4, 1909
+
+
+ Messrs. Emanuel J. Myers, Gordon S. P. Kleeberg, and Leonidas Dennis for plaintiff in error.
+
+
+[231 U.S. 237, 242]
+ 
+ Messrs. Edward W. Norris, Horace L. Cheyney, and Henry B. Hammond for defendant in error.
+
+ Statement by Mr. Justice Day:
+
+ After making the foregoing statement, Mr. Justice Day delivered the memorandum opinion of the court:
+ The nature of liability upon bonds given in pursuance of the act of Congress has been the subject of frequent consideration in this court, and the former discussions and conclusions need not be repeated here. United States Fidelity & G. Co. v. Golden Pressed & Fire Brick Co. (United States Fidelity & G. Co. v. United States) 
+
+[231 U.S. 237, 243]
+ 
+ 
+191 U.S. 427
+, 48 L. ed. 247, 24 Sup. Ct. Rep. 142; United States use of Hill v. American Surety Co. 
+200 U.S. 197
+, 50 L. ed. 437, 26 Sup. Ct. Rep. 168; Mankin v. United States, 
+215 U.S. 533
+, 54 L. ed. 315, 30 Sup. Ct. Rep. 174.
+ The First contention of the plaintiff in error is that the work done at the quarry and the hauling and delivering of stone at the breakwater, or, at least, certain parts of such work, are not within the terms of the contract and bond, as work done or material furnished in the prosecution of the work provided for in the contract. This contention was rejected by the court below, and we think properly. The object of the contract was to put the stone in place, much of it being merely dropped into the water, with a view to the construction of the breakwater. To accomplish this purpose it was, of course, necessary to have the material taken from the quarry, using tools and labor for that purpose, and transported to the location of the breakwater, and there deposited. This material could not be had immediately at the breakwater, and bids were required to show samples of stone and names and locations of quarries to be used as the source of supply. The work involved in the claim here made was all necessary to the performance of the contract, and in our view comes clearly within the class of labor accounts the satisfaction of which it was the purpose of the act of Congress to secure by a proper bond.
+ It is next contended that the laborers had not assigned their claims to Bartlett in such way as to give him any more than an equitable right thereto, and had not clothed him with the legal right to maintain an action at law upon the bond. But we think that the testimony discloses that so much of the laborers' wages as were necessary to satisfy Bartlett's advances were assigned to him with their consent, and deductions to that extent made from such wages with their approval in such wise as to consummate the assignment.
+ It is next urged that in making the claim for an excessive 
+
+[231 U.S. 237, 244]
+ 
+ amount there was such gross fraud that no recovery can be had in the case. It is sought to bring this contention within that class of cases which have held that mechanics' liens, when wilfully and intentionally made, for an amount in excess of that fairly due, cannot be enforced for any sum. We do not think the record displays a case of that character. It appears that some of the books of Bartlett, left in a building at the quarry, had been destroyed, and that efforts were made to obtain the amount of payments from other sources. At the trial it appeared that the credits to be made upon the account were contained upon certain cards which were in the possession of counsel for the plaintiff in error. Upon production at the trial they were admitted and accepted as containing proper credits to be made upon the account, and the judge charged the jury that the credits shown on the cards should be made the basis of calculations by the jury, if they found, under the facts shown, that any statement of the account was required, and the verdict was rendered accordingly.
+ As to the contention that the suit of defendant in error, in view of the delay in bringing it and want of previous demand or notice to the surety, shows gross laches, we agree with the circuit court of appeals that the record does not disclose any such laches or change of relation affecting the rights of the surety as would relieve it of liability. Nor do we think there was such confusion of accounts or error in the admission of testimony as to require a reversal.
+ It therefore follows that the judgment of the Circuit Court of Appeals, affirming the judgment of the Circuit Court, must be affirmed. 
+
+
+

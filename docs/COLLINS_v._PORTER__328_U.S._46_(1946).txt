@@ -1,0 +1,57 @@
+Description: COLLINS v. PORTER, 328 U.S. 46 (1946)
+Date: 1946-04-22 00:00:00
+Docket: 393
+Opinion
+
+
+United States Supreme Court
+COLLINS v. PORTER(1946)
+No. 393
+Argued: February 26, 1946Decided: April 22, 1946
+
+
+
+ The Supreme Court is powerless to decide a case if its decision cannot affect the rights of the litigants.
+ A decision of Emergency Court of Appeals sustaining validity of bulk whisky price regulations in a proceeding under section 204(e), on a complaint filed by stockholders of dissolved distillery corporation against Price Administrator by leave of district court in which enforcement proceeding was pending, did not render moot a judgment of Emergency Court dismissing complaint in proceeding under section 203(a) protesting validity of regulation, where decision in section 204(e) proceeding left the question of applicability of regulation to stockholders to district court in enforcement proceeding, and Emergency Court in the section 203(a) proceeding could rule on such question and its ruling, if made before district court rendered judgment, would be binding on district court. Emergency Price Control Act of 1942,  203(a), 204(e), 205(e), as amended, 50 U.S.C.A.Appendix,  923(a), 924(e), 925(e).
+ The 1944 amendment to Emergency Price Control Act authorizing a proceeding under section 204(e) questioning validity of price regulation by leave of district court in which enforcement proceeding is pending does not repeal or qualify protest proceeding under section 203(a), and the two modes of securing a hearing on validity and applicability of price regulation are cumulative and not alternative. Emergency Price Control Act of 1942,  203(a), 204(e), as amended, 50 U.S.C.A.Appendix,  923(a), 924(e).
+ Stockholders, in dissolved distilling corporation selling bulk whisky warehouse receipts received as their share of assets at a price in excess of maximum price regulation for bulk whisky, were 'persons subject to the regulation' within provision in Emergency Price Control Act permitting such persons to file a proceeding protesting validity of regulations, where stockholders would be liable for some $6,800,000 should their arguments as to invalidity of regulation be rejected when case is considered on the merits. Emergency Price Control Act of 1942,  203(a), as amended, 50 U.S.C.A.Appendix,  923(a). 
+
+[328 
+U.S. 46, 47]
+ 
+ Mr. Mac Asbill, of Washington, D.C., for etitioner.
+ Mr. Richard H. Field, of Washington, D.C., for respondent.
+
+ Mr. Justice FRANKFURTER delivered the opinion of the Court.
+ Petitioners were stockholders in a distilling corporation on the dissolution of which in December, 1942, they received as their share of the assets warehouse receipts covering the bulk whiskey owned by the corporation. Early in January, 1943, they sold these receipts at a price above that fixed by the Administrator for bulk whiskey, Maximum Price Regulation 193, 7 Fed.Reg. 6006 (August 4, 1942), on the assumption that the receipts constituted 'securities' expressly exempt from the pricing provisions.
+ On the basis of the sale of these certificates the Administrator, under  205(e) of the Emergency Price Control Act, 56 Stat. 23, 34, 50 U.S. C.App.  925(e), 50 U.S.C.A.Appendix,  925(e), brought a suit for treble damages against the petitioner to recover approximately $6,800,000. That suit is still pending. In May, 1945, petitioners, invoking the authority of  203(a), 56 Stat. 23, 31, 58 Stat. 632, 638, 50 U.S.C.App.  923(a), 50 U.S.C.A.Appendix,  923(a), sought to have the regulation on which the enforcement proceedings against them were based de- 
+
+[328 
+U.S. 46, 48]
+ 
+ clared invalid or inapplicable by a protest filed with the Administrator. He dismissed it on the authority of Thomas Paper Stock Co. v. Bowles, Em. App., 148 F.2d 831, the ruling of which we have reversed in Utah Junk Co. v. Porter, 
+328 
+U.S. 39
+, 66 S.Ct. 889. Petitioners then went to the Emergency Court, which dismissed the complaint without opinion, and we granted certiorari. 
+326 
+U.S. 710
+, 66 S.Ct. 139. Prior to the petition for certiorari, petitioners obtained leave of the trial court in the treble damage action to file a complaint with the Emergency Court under  204(e) of the Act, 58 Stat. 632, 639, 50 U.S.C.App.  924(e), 50 U.S.C.A.Appendix ,  924(e), and on January 10, 1946, that court sustained the validity of the regulation. Collins v. Bowles, Em.App., 152 F.2d 760.
+ The Government contends that the latter decision of the Emergency Court renders moot the judgment of that Court dismissing the complaint, which is the only judgment now before us. This Court is powerless to decide a case if its decision 'cannot affect the rights of the litigants in the case before it.' St. Pierre v. United States, 
+319 
+U.S. 41, 42
+, 63 S. Ct. 910, 911. The decision of this case may affect the rights of the litigants. The Emergency Court sustained the challenged regulation. It refused to pass on the applicability of the regulation to the petitioners. It left that question to the District Court before which the treble damage suit is pending. Had petitioners' contentions come before the Emergency Court through the protest proceedings under  203(a) that court would have adjudicated both issues. Conklin Pen Co. v. Bowles, Em.App., 152 F.2d 764; Collins v. Bowles, supra. And in the event that the Emergency Court had found the regulation inapplicable and such decision had been made before a judgment was rendered in the District Court, its ruling would be binding upon the District Court. Under  204(e)(2) (ii), consideration of a protest under  203(a) is not a ground for staying the proceedings in the District Court, since the protest proceeding did not precede the suit in the District Court; and under the same provisions of the Act determination of the protest 
+
+[328 
+U.S. 46, 49]
+ 
+ proceeding under  203(a) can have no retroactive effect once the District Court has entered its judgment. But the opportunity for securing a decision from the Emergency Court through the protest proceeding before a judgment in the District Court is entered, has practical significance and makes this a living and not a hypothetical controversy.
+ On the merits the case is governed by our decision in Utah Junk Co. v. Porter. The petitioner in this case had a right to have his protest considered by the Administrator and, in case of denial, to resort to the Emergency Court of Appeals. The fact that Congress in 1944 ga e a limited opportunity to go to the Emergency Court by leave of the District Court before which an enforcement proceeding is pending,  204(e), neither repealed nor qualified the protest proceeding originally designed by  203( a). The two modes of securing a hearing on the validity and applicability of the price regulation are cumulative and not alternative. The Administrator advances no argument to distinguish the case from that of Utah Junk Co. v. Porter. His contention that the petitioner is not a 'person subject to ... (the) regulation,'  203(a), is amply refuted by the continuing liability of the petitioners, United States v. Hark, 
+320 
+U.S. 531
+, 64 S.Ct. 359, for some $6,800,000, should their arguments as to the invalidity and inapplicability of the regulation be rejected when the case is considered on the merits.
+ It is superfluous to discuss other issues raised in this case.
+ Judgment reversed.
+ Mr. Justice JACKSON took no part in the consideration or decision of this case. 
+
+
+

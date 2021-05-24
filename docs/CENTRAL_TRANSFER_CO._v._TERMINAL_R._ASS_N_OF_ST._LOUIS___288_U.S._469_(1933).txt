@@ -1,0 +1,107 @@
+Description: CENTRAL TRANSFER CO. v. TERMINAL R. ASS'N OF ST. LOUIS , 288 U.S. 469 (1933)
+Date: 1933-03-13 00:00:00
+Docket: 523
+Opinion
+
+
+United States Supreme Court
+CENTRAL TRANSFER CO. v. TERMINAL R. ASS'N OF ST. LOUIS(1933)
+No. 523
+Argued: February 14, 1933Decided: March 13, 1933
+
+
+
+
+[288 U.S. 469, 470]
+ 
+ Mr. Glendy B. Arnold, of St. Louis, Mo., for petitioner.
+ Messrs. C. S. Burg and H. H. Larimore, both of St. Louis, Mo., for respondents.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Petitioner, a Delaware corporation engaged in the transportation of interstate freight in St. Louis, brought suit in the District Court for Eastern Missouri against respondent, Terminal Railroad Association of St. Louis, and its sixteen constituent members, interstate rail carriers having terminals in St. Louis or East St. Louis, to restrain an alleged violation of the Sherman Anti-Trust Act (15 USCA  1-7, 15 note). The District Court dismissed the suit after a trial on the merits, on the ground that, as the acts complained of involved matters within the jurisdiction of the Interstate Commerce Commission, a suit to enjoin them was unauthorized under section 16 of the Clayton Act, 38 Stat. 737, 15 USCA  26, unless brought by the United States. The Court of Appeals for the Eighth Circuit affirmed. 61 F.(2d) 546. This Court granted certiorari. 
+287 
+U.S. 595
+, 53 S.Ct. 313, 77 L.Ed. --.
+ For many years before the present suit the respondent rail carriers had maintained in St. Louis and East St. Louis certain 'off track' stations for receipt and delivery of less than carload freight and by the employment of transfer companies, including petitioner, had provided for the transportation of such freight by truck between such stations and their 'on track' stations, and between each of the latter in St. Louis and East St. Louis. Tariffs filed with the Interstate Commerce Commission designated all such 'off track' stations and fixed line haul rates for the 
+
+[288 U.S. 469, 471]
+ 
+ transportation of freight in less than carload lots between such stations and points on their lines. The 'off track' stations were generally places of business of local transfer companies, including petitioner, and the Columbia Terminals Company, also named as a defendant.
+ The several carriers, having proposed, in the interest of economy and efficiency, to reduce the number of 'off track' stations and to employ a single transfer company in interchanging freight, the Interstate Commerce Commission, on May 2, 1927, in response to numerous petitions, ordered a general investigation of the lawfulness of this proposal, and of the methods and practices of the respondents in handling less than carload freight in St. Louis and East St. Louis. On May 25, 1927, the rail carriers filed with the Interstate Commerce Commission a proposed tariff under which the number of designated 'off track' stations was to be reduced from twelve to seven in St. Louis, and from two to one in East St. Louis; new schedules of line haul rates, absorbing the allowances paid by the carrier for the interstation haul, were applied between all stations in St. Louis and East St. Louis and points on the lines of the carriers. The only 'off track' stations retained belonged to the Columbia Terminals Company. Those to be abandoned included three operated by petitioner and two operated and one controlled by the Columbia Terminals Company.
+ Thereupon, the Interstate Commerce Commission instituted a proceeding for an investigation of the lawfulness of the proposed tariffs and consolidated it with the proceeding for a general investigation already pending. In the course of the consolidated proceeding the Commission made two reports. The first, of May 13, 1929, 155 I.C.C. 129, upheld as reasonable and lawful the proposed reduction in number of 'off track' stations and the employment by the several rail carriers of a single transfer company to do the interstation hauling. The Commis- 
+
+[288 U.S. 469, 472]
+ 
+ sion found that these changes in method of handling freight under the proposed rate schedules would effect large savings in transportation costs, and that the arrangement entered into to effect them was not a violation of the anti-trust laws of the United States. The proposed rate schedule was suspended, pending a cost study, at the conclusion of which the Commission, by a second report and order of July 27, 1931, 177 I.C.C. 316, approved the rate schedule as filed.
+ Pending the proceedings before the Commission, respondent, the Terminal Railroad Association, acting on behalf of the respondent carriers, on June 1, 1931, entered into a contract with Columbia Terminals Company, embodying the arrangement between the carriers and the Columbia Terminals Company, which is the subject of complaint in this suit. By this contract it was agreed that the reduced number of 'off track' stations named in the filed tariffs, which were places of business of the Columbia Terminals Company, should be designated and maintained as the only 'off track' stations of the carriers; that the Columbia Terminals Company should have the exclusive right to transport less than carload freight between the 'on track' stations and between them and the 'off track' stations; that the carriers should file the necessary amended tarifis with the Interstate Commerce Commission to carry out the agreement and pay for the services rendered at prescribed rates, which were absorbed in the line haul rates ultimately approved by the Commission. The practical effect of the contract was to give the Columbia Terminals Company the exclusive right to operate the 'off track' stations, to haul the interchanged freight, and thus to preclude the employment of petitioner and others in that service.
+ Petitioner assails the contract and the consequent refusal of the carriers to employ it and to use its places of business as stations, as creating a forbidden monopoly in 
+
+[288 U.S. 469, 473]
+ 
+ restraint of interstate commerce. To this the respondents answer that the contract is concerned with matters within the jurisdiction of the Interstate Commerce Commission in respect to which the Clayton Act provides that no one except the United States may maintain a suit for an injunction. The question which we must decide is whether the petitioner is thus precluded from prosecuting the present suit.
+ By the Sherman Anti-Trust Act, the government alone was authorized to maintain a suit to restrain violations of its provisions, Paine Lumber Co. v. Neal, 
+244 
+U.S. 459
+, 37 S.Ct. 718. Private persons were first authorized to bring suits for that purpose by section 16 of the Clayton Act (15 USCA  26), but with the proviso 'that nothing herein contained shall be construed to entitle any person, firm, corporation or association, except the United States, to bring suit in equity for injunctive relief against any common carrier subject to the provisions' of the Interstate Commerce Act 'in respect of any matter subject to the regulation, supervision, or other jurisdiction of the Interstate Commerce Commission.'
+ It is not denied that the respondents are common carriers subject to the provisions of the Interstate Commerce Act. 49 USCA c. 1,  1 et seq. Nor is it denied that by the applicable provisions of the act the maintenance by the carriers of the 'off track' stations, the transportation service rendered in connection with them and between the 'on track' stations, through the exclusive agency of a single transfer company, the restriction of the number of 'off track' stations designated by filed tariffs establishing line haul rates to and from those stations, are all within the jurisdiction of the Commission. 
+1
+ 
+
+[288 U.S. 469, 474]
+ 
+ The petitioner, conceding that the Commission has jurisdiction of the service of the transfer companies in interchanging freight between the stations, insists that the Commission has no jurisdiction or control over the carrier's discretion in selecting their agents to perform that service, and consequently no jurisdiction over a contract by which that discretion is exercised or of a cause of action arising out of its unlawful exercise; that jurisdiction is therefore in the federal court to grant the relief prayed.
+ This argument misconceives both the effect and the purpose of section 16 of the Clayton Act (15 USCA  26). Under that section jurisdiction of the Commission does not delimit the jurisdiction of the federal courts to restrain violations of the 
+
+[288 U.S. 469, 475]
+ 
+ Sherman Anti-Trust Act. Compare United States v. Trans-Missouri Freight Ass'n, 
+166 
+U.S. 290
+, 17 S.Ct. 540; United States v. Joint Traffic Ass'n, 
+171 
+U.S. 505
+, 19 S.Ct. 25. It affects only the capacity of a private party to maintain a suit to restrain violations. See General Investment Company v. New York Central R.R., 
+271 
+U.S. 228
+, 46 S.Ct. 496. Its obvious purpose is to preclude any interference by injunction with any business or transactions of interstate carriers of sufficient public significance and importance to be within the jurisdiction of the Commission, except when the suit is brought by the government itself. Here the relief prayed is that performance of the contract be enjoined. Performance necessarily involves the continued designation in the filed tariffs of the Columbia Terminal Company's 
+
+[288 U.S. 469, 476]
+ 
+ places of business as the 'off track' stations specified in the contract, and the continued exclusive employment of that company to render the stipulated service; both matters within the jurisdiction of the Commission. True, a contract may precede and have existence apart from the several acts required to perform it, and conceivably all of those acts might be done if no contract or agreement to perform them had ever existed. But when they are done in performance of an agreement, there is no way by which the agreement itself can be assailed by injunction except by restraining acts done in performance of it. That, in this case, the statute forbids, not because the contract is within the jurisdiction of the Interstate Commerce Commission, but because the acts done in performance of it, which must necessarily be enjoined if any relief is given, are matters subject to the jurisdiction of the Commission. See Wheeling & Lake Erie Co. v. Pittsburgh & West Virginia Ry. (C.C.A.) 33 F.( 2d) 390, 392; General Investment Co. v. New York Central R.R. Co. (C.C.A.) 23 F.(2d) 822.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Section 12 of the Interstate Commerce Act (section 12, tit. 49, USCA) invests the Commission with broad powers to conduct proceedings to inquire into the management of the business of all carriers subject to the act, and to execute and enforce the provisions of the act. See Smith v. Interstate Commerce Commission, 
+245 
+U.S. 33, 43
+, 38 S.Ct. 30. By paragraph 3 of section 3 of the act (section 3, par. (3), tit. 49 USCA), rail carriers subject to it are required to afford all 'reasonable, proper, and equal facilities for the interchange of traffic between their respective lines, and for the receiving, forwarding, and delivering of passengers or property to and from their several lines and those connecting therewith.' 'Reasonable, proper, and equal facilities' include not only trackage, but all other terminal facilities, all of which are brought under jurisdiction of the Commission. See Pennsylvania Company v. United States, 
+236 
+U.S. 351
+, 35 S.Ct. 370. They include privately owned warehouses designated as such by the owner, acting as the carrier's agent, United States v. Balt. & Ohio R.R. Co., 
+231 
+U.S. 274
+, 34 S.Ct. 75; see Merchants' Warehouse Co. v. United States, 
+283 
+U.S. 501, 506
+, 513 S., 51 S.Ct. 505; cf. Interstate Commerce Commission v. Diffenbaugh, 
+222 
+U.S. 42
+, 32 S.Ct. 22, and motortruck transfer in connection with transportation by rail. In the Matter of Legality of Tariffs Purporting to Embrace Motor Truck Transfer Service, 91 I.C.C. 539; Motor Bus and Motor Truck Operation, 140 I.C.C. 685, 729; Discontinuance of Inland or Off-Track Stations in New York City, 173 I.C.C. 727; Coordination of Motor Transportation, 182 I.C.C. 263, 367; Trucking Less-Than-Carload Freight, 185 I.C.C. 71. 
+ By section 1, par. 6 (section 1, par. (6), tit. 49 USCA), it is made the duty of rail carriers to establish and observe just and reasonable regulations and practices affecting the 'facilities for transportation' and 'all other matters relating to or connected with the receiving, handling, transporting, storing, and delivery of property subject to the provisions of this chapter which may be necessary or proper to secure the safe and prompt receipt, handling, transportation, and delivery of property ... upon just and reasonable terms, and every unjust and unreasonable classification, regulation, and practice is prohibited and declared to be unlawful.' See Director General of Railroads v. Viscose Co., 
+254 
+U.S. 498
+, 41 S.Ct. 151.
+ Section 6(1) (section 6(1), tit. 49, USCA) requires every rail carrier to file schedules of rates applicable between different points on its own route and between points on its own route and on that of any other carrier when a through route has been established. They 'shall plainly state the places between which property and passengers will be carried ... and shall also state separately all terminal charges ... and all other charges which the commission may require, all privileges or facilities granted or allowed and any rules or regulations which ... affect ... any part ... of such aforesaid rates ... or the value of the service rendered to the ... shipper. ...' Tariffs changing the published rates are also required to be filed (section 6(3), and by section 15(7) (section 6(3), 15(7), tit. 49 USCA), the Commission is authorized on its own motion to enter upon a hearing concerning the lawfulness of the rate and of any classification, regulation, or practice specified in the tariff. See Director General of Railroads v. Viscose Co., supra; Texas & Pacific R.R. Co. v. Abilene Cotton Oil Co., 
+204 
+U.S. 426, 437
+, 27 S.Ct. 350, 9 Ann.Cas. 1075; Baltimore & Ohio R.R. Co. v. U.S. of America ex rel. Pitcairn Coal Co., 
+215 
+U.S. 481, 494
+, 30 S.Ct. 164. 
+
+
+
+

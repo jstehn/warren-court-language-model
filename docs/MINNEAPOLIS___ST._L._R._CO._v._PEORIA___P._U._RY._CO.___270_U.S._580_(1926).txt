@@ -1,0 +1,86 @@
+Description: MINNEAPOLIS & ST. L. R. CO. v. PEORIA & P. U. RY. CO. , 270 U.S. 580 (1926)
+Date: 1926-04-12 00:00:00
+Docket: 767
+Opinion
+
+
+United States Supreme Court
+MINNEAPOLIS & ST. L. R. CO. v. PEORIA & P. U. RY. CO.(1926)
+No. 767
+Argued: March 17, 1926Decided: April 12, 1926
+
+
+
+
+[270 U.S. 580, 581]
+ 
+ Messrs. Donald Evans, of Des Moines, Iowa, and M. M. Joyce, of Minneapolis, Minn., for appellants.
+ Mr. Eugene E. Horton, of Peoria, Ill., for appellee.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This suit by the Minneapolis & St. Louis Railroad Company and its receiver against the Peoria & Pekin Union Railway Company was brought on August 6, 1925, in the federal court for Southern Iowa. Its purpose is to enjoin the defendant from refusing to switch cars for the plaintiffs, the claim being that the defendant is directed to perform this service by an order of the Interstate Commerce Commission dated April 13, 1922. The controversy between the parties has been repeatedly before the Commission. One phase was considered by this court in Peoria & Pekin Union Ry. Co. v. United States, 44 S. Ct. 194, 
+263 U.S. 528
+. The case at par presents only questions of jurisdiction and procedure. 
+
+[270 U.S. 580, 582]
+ 
+ The defendant is an Illinois corporation, with its principal place of business in that state. The only service upon it was made there. Appearing specially, it objected both to the service and to the jurisdiction of the court, and moved that the service be quashed and the bill be dismissed. The plaintiffs contended that, under the Act of October 22, 1913, c. 32, 38 Stat. 208, 219, the federal court for Southern Iowa had jurisdiction and the service was good, because the suit is one to enforce an order of the Commission made on petition of the plaintiff company, a resident of that district. The court held, upon final hearing, that the order was no longer in effect when this suit was begun, and that, for this reason, it was without jurisdiction over the defendant. The decree entered set aside the service of process and dismissed the bill for want of jurisdiction. The case is here on direct appeal under paragraph 4 of section 238 of the Judicial Code, as amended by Act of February 13, 1925, c. 229, 43 Stat. 936, 938 (Comp. St. Supp. 1925, s 1215). The Peoria Company concedes that the order was duly entered April 13, 1922. Minneapolis & St. Louis R. R. Co. v. Peoria & Pekin, Union Ry. Co., 68 Interst. Com. Com'n R. 412. The Minneapolis & St. Louis concedes that, unless the order was still in force when the bill was filed, the service was a nullity and the court without jurisdiction over the defendants. Compare Robertson v. Railroad Labor Board, 45 S. Ct. 621, 
+268 U.S. 619
+, 622; Blumenstock Bros. v. Curtis Publishing Co., 40 S. Ct. 385, 
+252 U.S. 436
+. The main question for decision is whether, on the facts to be stated, the order was in force at the time the bill was filed.
+ The Commission had found that the Peoria Company discriminated against the Minneapolis & St. Louis by imposing upon it a switching charge while certain other carriers were not required to pay any charge. By the order of April 13, 1922, the Commission directed that the discrimination be removed. That order left the Peoria Company free to remove the discrimination either by discontinuing 
+
+[270 U.S. 580, 583]
+ 
+ the charge complained of or by making a like charge to the other lines. Compare United States v. Illinois Central R. R. Co., 44 S. Ct. 189, 
+263 U.S. 515
+, 521. It elected to remove the discrimination by making a charge to the other carriers, and filed tariffs to that end. The other carriers protested. The new tariffs were suspended for consideration by the Commission in a new proceeding, known as Investigation and Suspension Docket No. 1596. At the request of the Minneapolis & St. Louis, the proceeding which it had brought was, by order of July 10, 1922, reopened for further hearing in this connection. On December 22, 1922, the Commission concluded that the new tariffs were not justified, and that a still broader investigation involving additional parties must be had before just rates could be established. Intermediate Switching Charges at Peoria, Ill., 77 Interest. Com. Com'n R. 43. On that day, it entered an order in the original proceeding brought by the Minneapolis & St. Louis 'that the complaint in this proceeding be, and it is hereby, dismissed.' On the same day it entered in the later proceeding an order that the new tariffs be canceled.
+ The Peoria Company concluded that the order dismissing the complaint in the proceeding instituted by the Minneapolis & St. Louis had the effect of rescinding the order of April 13, 1922, based thereon, and that its original tariff of charges against the Minneapolis & St. Louis, which had never been canceled, remained in full force. On January 4, 1923, it notified the Commission that it would act accordingly. On January 5, 1923, the chairman of division 5 of the Commission1 telegraphed the Peoria 
+
+[270 U.S. 580, 584]
+ 
+ Company that the order of April 13, 1922, 'still stands unrescinded.' On January 8, 1923, the Commission entered, of its own motion, pursuant to paragraph 2 of section 13 of the Interstate Commerce Act as amended (Comp St. Supp. 1925, s 8581), an order for a general investigation into switching charges at Peoria. With the proceeding so ordered, it reopened and consolidated the earlier ones. On January 18, 1923, the Commission issued the emergency service order requiring the Peoria Company to continue switching, which this court held to be void in Peoria & Pekin Union Ry. Co. v. United States, 44 S. Ct. 194, 
+263 U.S. 528
+, decided January 7, 1924
+
+
+ The Minneapolis & St. Louis contends that the dismissal of its complaint on December 22, 1922, did not operate as a rescission of the order which had been entered thereon April 13, 1922. The argument is that the order by its terms provided that it 'shall continue in force until the further order of the Commission'; that, moreover, paragraph 2 of section 15 of the Interstate Commerce Act as amended (Comp. St. Supp. 1925, s 8583) provides that all orders of the Commission 'shall continue in force until its further order ... unless the same shall be suspended or modified or set aside by the Commission, or be suspended or set aside by a court of competent jurisdiction'; that no order issued in terms rescinding the order of April 13, 1922, had ever been entered; that by section 16a (Comp. St. Supp. s 8585) the mere reopening of the case by the Commission did not so operate; and that, as the Commission in ordering dismissal of the complaint did not refer to the order of April 13, 1922, the latter remained in full force. The contention is unsound. The order of December 22, 1922, dismissed the complaint without making any reservation. It operated, therefore, to rescind the order of April 13, 1922, which rested on that complaint alone. Compare Greenleaf v. Queen, 1 Pet. 138, 148, 149; Gompers v. Buck's Stove & Range Co., 31 S. Ct. 492, 
+221 
+U.S. 418, 451
+, 34 S. L. R. A. (N. S.) 874; Coleman v. Hudson River Bridge Co., Fed. Cas. No. 2,983, 5 Blatchf. 56, 58.
+ The Minneapolis & St. Louis contends, also, that if the dismissal of the complaint operated as a rescission of the 
+
+[270 U.S. 580, 585]
+ 
+ order of April 13, 1922, later action of the Commission restored it. The argument is that the telegram of January 5, 1923, and subsequent action of the Commission show that it was not its intention, when dismissing the complaint, to rescind the order; that paragraph 6 of section 16 of the act as amended (Comp. St. Supp. 1925, s 8584) authorized the Commission to modify 'its orders upon such notice and in such manner as it shall deem proper'; that the order of January 8, 1823, besides providing for the general investigation, provided that the original proceeding of the Minneapolis & St. Louis be 'reopended, consolidated with, and made a part of this investigation'; and that thereby the Commission restored the order of April 13, 1922. This contention, also, is unsound. The Commission did not at any time before the bringing of this suit make any order which purported either to rescind the order of dismissal of December 22, 1922, or to restore the order of April 13, 1922, or which made any reference either to such dismissal or to a restoration. The opinion of a commissioner, expressed in the telegram of January 5, 1923, that the order of April 13, 1922, was in full force despite the dismissal of the complaint was without legal significance. The effect of the order of dismissal entered December 22, 1922, must be determined by the terms of the order, unless and until modified by formal action of the Commission. It cannot be affected by what a member of the Commission may declare informally was intended. The order of January 8, 1923, had the effect of restoring to the docket the original proceeding instituted by the Minneapolis & St. Louis; but by reopening the case for further hearing, the Commission did not indicate a purpose to restore the order of April 13, 1922. Compare Knox County v. Harshman, 10 S. Ct. 8, 
+132 
+U.S. 14, 16
+, 17 S..
+ The Minneapolis & St. Louis seeks, through a motion to remand, to avoid affirmance of the decree which must otherwise result from overruling these contentions. This 
+
+[270 U.S. 580, 586]
+ 
+ motion, which was filed on January 7, 1926, prayed that the case be remanded to the District Court with instructions to allow it to file a supplemental bill in the nature of a bill of review, because of matters arising since the filing of the record in this court. It prayed in the alternative that this court treat the record here as supplemented by incorporating a statement of these later occurrences. They are as follows: On November 2, 1925, the Minneapolis & St. Louis filed in the federal court for Southern Iowa a suit against the United States in which it prayed that the order of December 22, 1922, be annulled in so far as it operated to revoke the order of April 13, 1922. On November 10, 1925, the Commission, on its own motion, ordered that its order of December 22, 1922, dismissing the complaint of the Minneapolis & St. Louis 'be, and it is hereby, vacated and set aside.' Still later, following the proceeding before the Commission known as Rates, Regulations, and Practices of Peoria & Pekin Union Railway Company at Peoria, Ill., and Nearby Points, 93 Interst. Com. Com'n R. 3, the examiner recommended that the original tariff of the Peoria Company complained of by the Minneapolis & St. Louis be canceled. The later facts alleged could not conceivably affect the result of the case before us. The jurisdiction of the lower court depends upon the state of things existing at the time the suit was brought. Mullen v. Torrance, 9 Wheat. 537; Anderson v. Watt, 11 S. Ct. 449, 
+138 U.S. 694
+. The situation is wholly unlike that in Ballard v. Searls, 9 S. Ct. 418, 
+130 U.S. 50
+, upon which the Minneapolis & St. Louis relies. The motion to remand is denied.
+ The Peoria Company makes this further objection. The order of April 13, 1922, directed the removal of the discrimination to which the Minneapolis & St. Louis was subjected, but left the Peoria Company free to select the method of doing so. It elected to impose like switching charges upon the other carriers and to that end filed new tariffs. These were canceled by the order of December 
+
+[270 U.S. 580, 587]
+ 
+ 22, 1922. Thus the method to be pursued in removing the discrimination was left at large. The Peoria Company contends that, even if the order of April 13, 1922, be deemed to have been in force, selection and approval of the method to be pursued in the removal of discrimination present administrative problems, and that further action by the Commission would be required before any court could be called upon to enforce that order. As the District Court for Southern Iowa was without jurisdiction of this suit because that order was not in force, we need not consider this objection.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Pursuant to paragraph 4 of section 17 of the Interstate Commerce Act as amended (Comp. St. Supp. 1925, s 8586), matters relating to common use of terminals and kindred subjects are referred to division 5. The Commissioner in each division, senior in service, is its chairman. See Annual Report of Interstate Commerce Commission for 1920, pp. 4, 5; United States v. Abilene & Southern Ry. Co., 44 S. Ct. 565, 
+265 U.S. 274
+, 281. 
+
+
+
+

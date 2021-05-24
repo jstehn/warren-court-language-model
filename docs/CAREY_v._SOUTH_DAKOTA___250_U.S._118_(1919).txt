@@ -1,0 +1,91 @@
+Description: CAREY v. SOUTH DAKOTA , 250 U.S. 118 (1919)
+Date: 1919-05-19 00:00:00
+Docket: 346
+Opinion
+
+
+United States Supreme Court
+CAREY v. SOUTH DAKOTA(1919)
+No. 346
+Argued: Decided: May 19, 1919
+
+
+
+ W. E. Carey was prosecuted by the State of South Dakota for shipping game birds.
+Judgment of conviction was affirmed by the Supreme Court of the state (39 S. D. 524, 165 N. W. 539), and defendant brings error.
+ Affirmed. 
+
+[250 U.S. 118, 119]
+ 
+ Mr. Joe Kirby, of Sioux Falls, S. D., for plaintiff in error.
+ Messrs. Clarence C. Caldwell and Edwin R. Winans, both of Sioux Falls, S. D., for State of South Dakota.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ By the federal Migratory Bird Act (Act March 4, 1913, c. 145, 37 Stat. 828, 847 [Comp. St.  8837]), Congress provided that:
+'All wild geese, wild swans, brant, wild ducks, snipe, plover, woodcock, rail, wild pigeons, and all other migratory game and insectivorous birds which in their northern and southern migrations pass through or do not remain permanently the entire year within the borders of any state or territory, shall hereafter be deemed to be within the custody and protection of the government of the United States, and shall not be destroyed or taken contrary to regulations hereinafter provided therefor.'
+
+ These regulations relate to the fixing of 'closed seasons, having due regard to the zones of temperature, breeding habits, and times and line of migratory flight.' The act further declared that:
+'Nothing 
+
+[250 U.S. 118, 120]
+ 
+ herein contained shall be deemed to affect or interfere with the local laws of the states and territories for the protection of nonmigratory game or other birds resident and breeding within their borders, nor to prevent the states and territories from enacting laws and regulations to promote and render efficient the regulations of the Department of Agriculture provided under this statute.'
+
+ Regulations were proclaimed October 1, 1913 (38 Stat. 1960), and were amended by the proclamation of August 31, 1914 (38 Stat. 2024), and the proclamation of October 1, 1914 (38 Stat. 2032).
+ Before the passage of the federal law the Legislature of South Dakota had provided (Laws 1909, c. 240,  29) that:
+'No person shall ... ship, convey or cause to be shipped or transported by common or private carrier, to any person, either within or without the state, ... wild duck of any variety. ...'
+
+ For violation of this statute by shipping on November 19, 1915, by express, wild ducks from a point within the state to Chicago, Ill., Carey was prosecuted in a state court. He insisted that the state statute had been abrogated by the federal law. The contention was overruled, and he was convicted by the trial court. Its judgment was affirmed by the Supreme Court of the state (State v. Carey, 39 S. D. 524, 165 N. W. 539). The case comes here on writ of error under section 237 of the Judicial Code (Act March 3, 1911, c. 231, 36 Stat. 1156 [Comp. St.  1214]).
+ It is admitted that, in the absence of federal legislation on the subject, a state has exclusive power to control wild game within its borders and that the South Dakota law was valid when enacted, although it incidentally affected interstate commerce. Geer v. Connecticut, 
+161 U.S. 519
+, 16 Sup. Ct. 600; Silz v. Hesterberg, 
+211 U.S. 31
+, 29 Sup. Ct. 10. The contention made by Carey is that Congress assumed exclusive jurisdiction over this class of migratory birds by the 1913 act; that then existing state laws on the subject were thereby abrogated or suspended; that the power of the states to legislate on the subject was limited to such subsequent 
+
+[250 U.S. 118, 121]
+ 
+ enactments as were designed to render more effective regulations issued by the Department of Agriculture, and that the statute in question was obviously not of that character, both because it antedated the federal act and because the regulations issued under the federal act permitted the killing of wild ducks in South Dakota between September 7 and December 1, during which period the wild ducks shipped on November 19 had presumably been killed. On behalf of the state, it was contended that this provision of its statute is not inconsistent with the federal law; and that its statute is in any event valid, because the federal law is unconstitutional. United States v. McCullagh (D. C.) 221 Fed. 288. The Supreme Court of South Dakota did not pass upon the constitutional question, but upheld the state statute on the ground that it was not inconsistent with the federal law, since it did not appear that the ducks in question had been killed in violation of any regulation adopted under it.
+ The prohibition of the federal act is limited to the provision that the birds 'shall not be destroyed or taken contrary to regulations.' The regulations merely prescribe the closed seasons; that is, neither the federal law nor the regulations deal with shipping. 
+1
+ The prohibition of the state law here in question is limited to forbidding persons to 'ship ... by common or private carrier.' It applies alike whether the shipment is made in open or closed season, and it applies although the birds were lawfully killed or taken. This provision of the state law is obviously not inconsistent with the federal law. The fact that other provisions of this state statute may be so (which we do not consider) is immaterial, as the provision here in question may clearly stand alone. Brazee v. Michigan, 
+241 
+U.S. 340, 344
+, 36 S. Sup. Ct. 561, Ann. Cas. 1917C, 522; Guinn v. United States, 
+238 
+U.S. 347, 366
+, 35 S. Sup. Ct. 926, L. R. A. 1916A, 1124; Louisville & Nashville Railroad Co. v. 
+
+[250 U.S. 118, 122]
+ 
+ Garrett, 
+231 
+U.S. 298, 311
+, 34 S. Sup. Ct. 48; Presser v. Illinois, 
+116 
+U.S. 252, 263
+, 6 S. Sup. Ct. 580.
+ It is, however, urged that Congress has manifested its intention to assume exclusive jurisdiction of the subject; and that the failure to make any provision in the federal act concerning shipping, evidences the purpose of Congress that the shipping of game birds shall not be prohibited. This argument rests upon the clause which declares that the migratory birds 'shall hereafter be deemed to be within the custody and protection of the government of the United States.' But that clause may not be read without its context; and the words immediately following show that the custody and protection is limited to prohibiting their being 'destroyed or taken contrary to regulations' which are to fix the closed seasons in the several zones. If, reading the federal act as a whole, there were room for doubt, two established rules of construction would lead us to resolve the doubt in favor of sustaining the validity of the state law. First. The intent to supersede the exercise by a state of its police powers is not to be implied unless the act of Congress fairly interpreted is in actual conflict with the law of the state. Savage v. Jones, 
+225 
+U.S. 501, 533
+, 32 S. Sup. Ct. 715; Missouri, Kansas & Texas Ry. Co. v. Haber, 
+169 
+U.S. 613, 623
+, 18 S. Sup. Ct. 488. Second. Where a statute is reasonably susceptible of two interpretations, by one of which it would be clearly constitutional and by the other of which its constitutionality would be doubtful, the former construction should be adopted. Harriman v. Interstate Commerce Commission, 
+211 
+U.S. 407, 422
+, 29 S. Sup. Ct. 115; Knights Templars' Indemnity Co. v. Jarman, 
+187 
+U.S. 197, 205
+, 23 S. Sup. Ct. 108.
+ The Supreme Court of South Dakota did not err in its judgment unholding the constitutionality of the provision of the state statute under which the plaintiff in error was convicted; and its judgment is
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] The Migratory Bird Treaty Act (Act July 3, 1918, c. 128, 40 Stat. 755 [Comp. St. 1918,  8837d, Appendix]) deals in section 4 with shipments in interstate commerce. 
+
+
+
+

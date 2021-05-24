@@ -1,0 +1,135 @@
+Description: DAWSON v. KENTUCKY DISTILLERIES & WAREHOUSE CO , 255 U.S. 288 (1921)
+Date: 1921-02-28 00:00:00
+Docket: 439
+Opinion
+
+
+United States Supreme Court
+DAWSON v. KENTUCKY DISTILLERIES & WAREHOUSE CO(1921)
+No. 439
+Argued: January 6, 1920Decided: February 28, 1921
+
+
+
+
+[255 U.S. 288, 289]
+ 
+ Mr. Charles I. Dawson, of Frankfort, Ky., for appellants.
+ Mr. W. Overton Harris, of Louisville, Ky., for an appellant in No. 582.
+ Mr. Wm. Marshall Bullitt, of Louisville, Ky., for appellee Kentucky Distilleries & Warehouse Co.
+ Messrs. T. Kennedy Helm, of Louisville, Ky., and Levi Cooke, of Washington, D. C., for appellee J. & A. Freiberg Co., Inc.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ On March 12, 1920, the Legislature of Kentucky passed and the Governor approved an act (Acts 1920, c. 13) which imposed upon every person engaged in the business of manufacturing whisky or 'in the business of owning and storing' the same in bonded warehouses within the state what was called an 'annual license tax' of 50 cents a gallon upon all whisky either withdrawn from bond or transferred in bond from Kentucky to a point outside that state. 
+
+[255 U.S. 288, 290]
+ 
+ The act took effect, by its terms, on its approval by the Governor. At that time there were stored in such bonded warehouses about 30,000,000 gallons of whisky worth in bond perhaps $1.50 a gallon. Much of this whisky was owned by citizens of other states, their ownership being evidenced by negotiable warehouse receipts. Shortly after the enactment of the statute two suits were brought in the District Courts of the United States for Kentucky to enjoin its enforcement. The first was brought in the Western district, by the J. & A. Freiberg Company, Incorporated, an Ohio corporation; the second in the Eastern district by the Kentucky Distilleries & Warehouse Company, a New Jersey corporation. The Attorney General of the commonwealth and the auditor of public accounts were made defendants in each. In the former, the Louisville Public Warehouse Company was also a defendant; in the latter, the commonwealth's attorney.
+ In the Freiberg case it was alleged that the whisky was in a general bonded warehouse,1 that the owner wished to withdraw it for removal in bond to a general bonded 
+
+[255 U.S. 288, 291]
+ 
+ warehouse in Massachusetts, and that the defendant warehouseman, acting under provisions of the Kentucky statute refused to permit such transfer unless the tax in question was paid by the owner. In the Distilleries Company case the plaintiff alleged that it had in its distillery warehouses large quantities of whisky, most of which was owned by others, that requests were being made daily either to withdraw lots from bond upon paying the government tax or to have them transferred in bond to other states, and that the defendants threatened to enforce heavy penalties if any such withdrawal or transfer was permitted without making payment of the 50 cents a gallon state tax. In each case a motion for an interlocutory injunction was made and heard before three judges under section 266 of the Judicial Code (Comp. St.  1243). The substantial questions presented in the two suits were the same. The plaintiff contended, in each, that the Kentucky statute was void under both the state and federal Constitutions; and in each case the defendants, besides asserting the validity of the act, insisted, among other things, that the suit should be dismissed for want of equity because there was an adequate remedy at law. The District Courts granted plaintiffs the motions, holding that there was no adequate remedy at law and that the statute was invalid under the Constitution of the state because it was a property tax, was not uniform in its operation, and was confiscatory. The case comes here by direct appeal under section 238 of the Judicial Code (Comp. St.  1215). We shall consider first the validity of the tax.
+ First. The Attorney General concedes that the tax, if a property tax, is invalid; since it does not comply with the requirements of a property tax specified in section 171 of the state Constitution. It is not 'uniform upon all property of the same class subject to taxation,'2 and though 
+
+[255 U.S. 288, 292]
+ 
+ called an 'annual' tax was not intended to be such. 
+3
+ He contends, however, that the tax is, as stated in the title of the act, a license tax upon 'the business of manufacturing' disilled spirits and upon 'the business of owning and storing such spirits in bonded warehouses.' Section 181 of the state Constitution authorizes license or occupation taxes, and statutes imposing such taxes measured by the amount of the product have been repeatedly sustained by its highest court. Raydure v. Board of Supervisors of Estill County, 183 Ky. 84, 209 S. W. 19; Strater Bros. Tobacco Co. v. Commonwealth, 117 Ky. 604, 78 S. W. 871. Here we are concerned only with the taxes which are alleged to be on 'the business of owning and storing such spirits in bonded warehouses.' The question is whether as to such this 50 cents a gallon tax is an occupation tax or is a property tax. The question is one of local law, so that a decision of it by the highest court of the state would be accepted by us as conclusive. But the validity of the statute does not appear to have been passed upon by any Kentucky court. We are, therefore, called upon, as were the District Courts, to determine this question of state law.
+ The name by which the tax is described in the statute is, of course, immaterial. Its character must be determined by its incidents; and obviously it has none of the 
+
+[255 U.S. 288, 293]
+ 
+ ordinary incidents of an occupation tax. Unlike the tax of 1 1/4 cents a gallon upon rectifiers sustained in Brown-Forman Co. v. Kentucky, 
+217 U.S. 563
+, 30 Sup. Ct. 578, and the tax of 2 cents a gallon upon distillers and warehousemen sustained in Green, Auditor, v. Taylor, Jr., & Sons, 184 Ky. 739, 212 S. W. 925, this tax is not upon the business or occupation of the warehouseman. A particular lot of whisky may pass through a dozen bonded warehouses without one of them being obliged to pay the tax. For the only warehouseman required to do so, is he who has the whisky on storage at the time of its removal from bond (government) tax paid or when it is transferred in bond to another state. The tax is made primarily payable by the warehouseman and to secure its payment the state is given a lien upon the warehouse and the whisky therein. But the warehouseman is a collection agency merely empowered to get reimbursement through subrogation to the state's lien on the whisky of others which ultimately bears the burden of the tax. Nor is the alleged business of merely owning and storing whisky in bond made taxable. So long as the whisky is stored in bond within the state it is free of the tax. One may own and store the whisky for years in the hope of selling it at a profit, and yet be free from any obligation ever to pay this tax, if, before its removal from bond within the state, the whisky is sold to another, or if, while so owned, it is destroyed or forfeited to the government. Likewise the tax is not one imposed upon the business of owning, storing and removing whisky from bond. For the tax would become payable on account of whisky removed, although there had not been storage for any appreciable time; thus the tax would be payable on whisky if it had been removed from the warehouse immediately after the approval of the act. Nor is the tax one on the business of removing liquor owned. For the tax is payable in respect to any lot of whisky removed; and a single transaction does not constitute 
+
+[255 U.S. 288, 294]
+ 
+ engaging in the business, be it that of buying and selling whisky or in the business of otherwise using it. 
+4
+ In fact the tax is one imposed upon each lot of whisky at the time it is removed from bond within the state. The tax might be said to be upon the act of removal from the bonded warehouse within the state. But, as stated by the lower court, 'the thing really taxed is the act of the owner in taking his property out of storage into his own possession (absolute or qualified) for the purpose of making some one of the only uses of which it is capable; i. e., consumption, sale or keeping for future consumption or sale. ... The whole value of the whisky depends upon the owner's right to get it from the place where the law has compelled him to put it, and to tax the right is to tax the value.' To levy a tax by reason of ownership of property is to tax the property. Compare Thompson, Auditor, v. Kreutzer, 112 Miss. 165, 72 South. 891; Thompson, Auditor, v. McLeod, 112 Miss. 383, 73 South, 193, L. R. A. 1918C, 893, Ann. Cas. 1918A, 674. It cannot be made an occupation or license tax by calling it so. See Flint v. Stone Tracy Co., 
+220 U.S. 107
+, 148-150, 31 Sup. Ct. 342, Ann. Cas. 1912B, 1312; Zonne v. Minneapolis Syndicate, 
+220 U.S. 187
+, 31 Sup. Ct. 361; United States v. Emery, 
+237 U.S. 28
+, 35 Sup. Ct. 499. The language of the emergency clause in the act discloses that the legislature considered that it was, in fact, taxing the whisky. 
+5
+ 
+
+ As we hold the tax to be one on property, and it is conceded that, if it be such, it is invalid under the state Constitution, we have no occasion to consider whether 
+
+[255 U.S. 288, 295]
+ 
+ it would be also invalid under the state Constitution as a license or excise tax, because confiscatory (compare Owen County v. F. & A. Cox Co., 132 Ky. 738, 743, 117 S. W. 296, 21 L. R. A. [N. S.] 83; City of Louisville v. Pooley, 136 Ky. 286, 124 S. W. 315, 26 L. R. A. [N. S.] 582; Sallsbury v. Equitable Purchasing Co., 177 Ky. 348, 351, 354, 197 S. W. 813, L. R. A. 1918A, 1114), or for other reasons. Nor need we consider whether it is not also obnoxious to the federal Constitution as imposing a burden upon interstate commerce. Compare Heyman v. Hays, 
+236 U.S. 178
+, 35 Sup. Ct. 403.
+ Second. The Attorney General insists that these bills in equity should have been dismissed because each plaintiff had a plain, adequate and complete remedy at law. The contention rests upon section 162 of the Kentucky Statutes, which declares that:
+'When it shall appear to the auditor that money has been paid into the treasury for taxes when no such taxes were in fact due, he shall issue his warrant on the treasury for such money so improperly paid, in behalf of the person who paid the same.'
+
+ Greene, Auditor, v. Taylor, Jr., & Sons, 184 Ky. 739, 212 S. W. 925, is cited to show that, if the auditor fails in this duty, a writ of mandamus will issue to compel performance. The plaintiffs, it is said, should have paid the tax under protest and have sued at law to recover the amounts so paid. But when these suits were brought (April and May, 1920) the decisions of the highest court of the state left it at least doubtful whether money so paid could have been recoverd at law by the taxpayer, among other reasons, because the money would not have been paid under compulsion of distraint or of a right of distraint or under a mistake of law or of fact. 
+6
+ It was not until November 16, 1920, which was after these appeals had been entered in 
+
+[255 U.S. 288, 296]
+ 
+ this court, that Craig v. Security Producing & Refining Co., 189 Ky. 565, 568, 225 S. W. 729, settled that money paid under such circumstances could be recovered. The Court of Appeals of Kentucky recognized the doubt arising from its earlier decisions and in order to remove the doubt found it necessary to overrule several of its recent opinions 'so far as they conflict with the construction herein given section 162.'
+ It is well settled that 'if the remedy at law be doubtful, a court of equity will not decline cognizance of the suit.' Davis v. Wakelee, 
+156 
+U.S. 680, 688
+, 15 S. Sup. Ct. 555, 558 (39 L. Ed. 578). But, whatever remedies section 162 is now regarded as conferring, it is clear that at the time this suit was brought they were not regarded in Kentucky as sufficiently adequate to oust the jurisdiction of equity to enjoin the illegal collection of taxes. Gates v. Barrett, 79 Ky. 295; Norman v. Boaz, 85 Ky. 557, 560, 4 S. W. 316; Negley v. Henderson Bridge Co., 107 Ky. 414, 54 S. W. 171; Louisville Trust Co. v. Stone, 107 Fed. 305, 309, 46 C. C. A. 299. And if the equitable remedy was available in the state courts it was not lost by suing in the federal court. Davis v. Gray, 16 Wall. 203, 221; Cowley v. Northern Pacific Ry. Co., 
+159 U.S. 569
+, 16 Sup. Ct. 127. Nor is the equitable jurisdiction lost because since the filing of the bill an adequate legal remedy may have become available. Beedle v. Bennett, 
+122 U.S. 71
+, 7 Sup. Ct. 1090; Busch v. Jones, 
+184 U.S. 598
+, 22 Sup. Ct. 511. We have no occasion, therefore, to consider other reasons urged why the legal remedy, if any, would have been inadequate.
+ Third. The Attorney General moved that these suits be abated, relying upon the amendment to section 266 of the Judicial Code by Act of March 4, 1913, c. 160, 37 Stat. 1013 (Comp. St.  1243), which declares that if before the final hearing of an application to restrain the enforcement of a statute or an order made by an administrative board or commission--
+'a suit shall have been brought in a court of the state having jurisdiction thereof under the laws of such state, 
+
+[255 U.S. 288, 297]
+ 
+ to enforce such statute or order, accompanied by a stay in such state court of proceedings under such statute or order pending the determination of such suit by such state court, all proceedings in any court of the United States to restrain the execution of such statute or order shall be stayed pending the final determination of such suit in the courts of the state.'
+
+ The suit pending in the state court was this: A liquor dealer who owned whisky in a distillery warehouse had, prior to the enactment of the statute here in question, caused it to be bottled in bond and had paid thereon the 2-cent a gallon state tax imposed under the law of 1917. Acts Sp. Sess. Ky. 1917, c. 5,  1. He claimed the right to withdraw the whisky from bond without payment of the 50-cent a gallon tax; and brought suit in a county court to enjoin the warehouseman from preventing his doing so. The latter set up this 1920 act. Thereupon the plaintiff by amended petition joined the Attorney General and the auditor as codefendants and prayed that they be enjoined from compelling the plaintiff or the warehouseman to pay the 50-cent a gallon tax on the plaintiff's whisky. A restraining order to that effect issued.
+ Whether this suit in the county court was of such a character as to entitle the state officials to stay the proceedings in the federal court we do not decide. Strictly speaking it was not 'brought ... to enforce' the statute in question; but it is, at least, arguable that it might have been accepted by the state officials as a means to that end, and so have fulfilled in substance the statutory requirement. See House Report No. 1584, 62d Cong. 3d Sess. But whether this is true or not, it was not 'accompanied by a stay in such state court of proceedings under such statute' within the meaning of the Judicial Code. The stay contemplated by Congress is a general one, which would protect, among others, those who had already sought protection in the federal court. The re- 
+
+[255 U.S. 288, 298]
+ 
+ straining order7 issued in the purely private litigation between third parties in the county court left the plaintiffs in the suits before us subject to all the danger of irreparable injury against which they had sought protection in the federal courts.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Every bonded warehouseman was required to make to the state on June 1, 1920, and monthly thereafter, a report showing all the whisky in bonded storage and the number of proof gallons withdrawn or transferred. The act provided by section 3 that all bonded warehousemen 'shall, at the time said reports herein provided for are made, pay to the auditor of public accounts the tax of fifty cents per proof gallon upon each proof gallon of such spirits removed from the bonded warehouse ... or transferred under bond out of this state, up to the date of making such report; and for the purpose of securing the payment of the license taxes herein provided for, the commonwealth shall have a lien on all such spirits stored in such bonded warehouses, together with the other property of the bonded warehousemen used in connection therewith; and in all cases where the spirits so removed or transferred were owned or controlled by another than the bonded warehouseman, then the bonded warehouseman shall collect and pay the tax due on such spirits so removed or transferred under bond, and shall be subrogated to the lien of the commonwealth.' 
+
+[
+Footnote 2
+] If the tax in question were a property tax there would be double taxation of this property and the uniformity clause would be violated, because the whisky has never been put into a separate class; and under another statute all whisky stored in bonded warehouses was required to be assessed by the State Tax Commission at its fair cash value; and taxes at the rate of 40 cents per $100 of value were payable thereon. Ky. Stat.  4019, as amended March 5, 1918 (Ky. St. Supp. 1918,  4019). Compare Campbell County v. City of Newport, 174 Ky. 712, 723, 193 S. W. 1, L. R. A. 1917D, 791. Raydure v. Board of Supervisors, 183 Ky. 84, 97, 209 S. W. 19. 
+
+[
+Footnote 3
+] It was admitted that it would be clearly void as being confiscatory unless it was assumed that it was to be levied only once-namely, when the whisky is withdrawn from bond or when it is transferred in bond to another state. Compare Sallsbury v. Equitable Purchasing Co., 177 Ky. 348, 351, 353, 197 S. W. 813, L. R. A. 1918A, 1114. 
+
+[
+Footnote 4
+] That an isolated transaction not under the law of Kentucky constitute engaging in a business, see Hays v. Commonwealth, 107 Ky. 655, 658, 55 S. W. 425; Evers v. City of Mayfield, 120 Ky. 74, 77, 85 S. W. 697; Louisville Lozier Co. v. City of Louisville, 159 Ky. 178, 180, 166 S. W. 767. 
+[
+Footnote 5
+] 'And whereas the liquor which they are handling and in which they are dealing is in large quantities being removed from the bonded warehouses and disposed of, without the state securing an adequate license tax thereon an emergency is hereby declared to exist.' 
+
+[
+Footnote 6
+] Compare Louisville City Nat. Bank v. Coulter, 112 Ky. 577, 584, 66 S. W. 427; Couty v. Bosworth, 160 Ky. 312, 169 S. W. 742; Louisville Gas Co. v. Bosworth, 169 Ky. 824, 185 S. W. 125; and the first opinion in Craig v. Security Producing & Refining Co., rendered March 9, 1920. 
+
+[
+Footnote 7
+] 'You are hereby enjoined from requiring from the plaintiff or his agents or distiller in charge payment of the 50-cent per gallon tax on his whiskies described in the petition ... until further orders of this court.' 
+
+
+
+

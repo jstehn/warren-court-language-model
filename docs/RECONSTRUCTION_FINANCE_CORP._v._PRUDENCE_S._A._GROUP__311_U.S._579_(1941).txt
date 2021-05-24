@@ -1,0 +1,81 @@
+Description: RECONSTRUCTION FINANCE CORP. v. PRUDENCE S. A. GROUP, 311 U.S. 579 (1941)
+Date: 1941-01-06 00:00:00
+Docket: 69
+Opinion
+
+
+United States Supreme Court
+RECONSTRUCTION FINANCE CORP. v. PRUDENCE S. A. GROUP(1941)
+No. 69
+Argued: Decided: January 6, 1941
+
+
+
+
+[311 
+U.S. 579, 580]
+ 
+ Messrs. Robert H. Jackson, Atty. Gen., and Charles Fahy, Asst. Sol. Gen., for petitioners.
+ Mr. John Gerdes, of New York City, for respondents.
+
+ Mr. Justice DOUGLAS delivered the opinion of the Court.
+ Dickinson Industrial Site, Inc. v. Cowan, 
+309 
+U.S. 382
+, 60 S.Ct. 595, decided on March 11, 1940, held that appeals from all orders making or refusing to make allowances of compensation or reimbursement under Chapter X of the Chandler Act, 52 Stat. 840, 883, 11 U.S.C.A.  501 et seq., may be had only at the discretion of the Circuit Court of Appeals. Prior to that decision the Circuit Court of Appeals for the Second Circuit had held that appeals from such orders (involving $500 or more) could be had as a matter of right. London v. O'Dougherty, 102 F.2d 524. Subsequent to the decision in the London case and prior to the decision of Dickinson Industrial Site, Inc. v. Cowan, supra, petitioners endeavored to take appeals from compensation orders, which had been entered in reorganization proceedings under former  77B, 48 Stat. 912, 11 U.S.C.A.  207, by filing within the appeal period provided by  25, sub. a, of the Bankruptcy Act, 11 U.S.C.A.  48, sub. a, notices of appeal in the District Court. No application for leave to appeal was made to the Circuit Court of Appeals at any time. Some of the appeals were argued in May, 1939, the balance in February, 1940, some of the notices of appeal having been filed in the District Court in March, 1939, and some in November, 1939. While the matter was under advisement in the Circuit Court of Appeals we decided Dickinson Industrial Site, Inc., v. Cowan, supra. Thereupon certain respondents moved for dismissal of the appeals for want of jurisdiction. All of the appeals were 
+
+[311 
+U.S. 579, 581]
+ 
+ dismissed, some on those motions and some by the court sua sponte. In re Prudence-Bonds Corp., 2 Cir., 111 F.2d 37. The case is here on petition for certiorari which we granted in view of the importance of the procedural problem in administration of the Bankruptcy Act and of the asserted substantial conflict of the decision below with Baxter v. Savings Bank, 92 F.2d 404, and Wilson v. Alliance Life Ins. Co., 102 F.2d 365, decided by the Circuit Court of Appeals for the Fifth Circuit.
+ Section 250 of the Chandler Act, 11 U.S.C.A.  650, provides that appeals from compensation orders 'may, in the manner and within the time provided for appeals by this Act (title), be taken to and allowed by the circuit court of Appeals.' Petitioners contends that when  250 states that such appeals may be taken 'in the manner ... provided for appeals by this Act (title),' it necessarily makes applicable  24, sub. b, 11 U.S. C.A.  47, sub. b, which provides that such appellate jurisdiction shall be exercised 'by appeal and in the form and manner of an appeal'. They argue, therefore, that Rule 73(a) of the Federal Rules of Civil Procedure, 28 U.S.C.A. following section 723c, which allows an appeal to be taken 'by filing with the district court a notice of appeal' in those cases where an 'appeal is permitted by law from a district court to a circuit court of appeals', governs appeals under  250 as well as other appeals, since General Order No. 36, 11 U.S.C.A. following section 53, makes those rules applicable to appeals in bankruptcy, 'except as otherwise provided in the Act'. In our view, however, Rule 73(a) is not applicable to appeals under  250 (see 2 Collier on Bankruptcy, 14th Ed., p. 918) for they are permissive appeals which may be had not as of right but only in the discretion of the Circuit Court of Appeals. Since  250 provides that they may 'be taken to and allowed by the circuit court of appeals', the proper procedure for taking them is by filing in the Circuit Court of Appeals, within the time prescribed in  25 sub. a, applications for leave to appeal, not by filing notices of 
+
+[311 
+U.S. 579, 582]
+ 
+ appeal in the District Court as was done here. As respondents maintain, that is the fair implication from our conclusion in Dickinson Industrial Site, Inc. v. Cowan, supra, 309 U.S. at page 385, 60 S.Ct. page 597, that such appeals 'may be had only at the discretion of the Circuit Court of Appeals.' But while the appeals under  250 must be 'taken to' the Circuit Court of Appeals within the time prescribed in  25 sub. a we do not think it is the fair intendment of that section that they must also be 'allowed' within that time. Cf. In re Foster Const. Corp., 2 Cir., 49 F.2d 213; Price v. Spokane Silver & Lead Co., 8 Cir., 97 F.2d 237. If that were true, the existence of the right to appeal would be subject to contingencies which no degree of diligence by an appellant could control. Ambiguities in statutory language should not be resolved so as to imperil a substantial right which has been granted.
+ The court below was in substantial agreement with the foregoing construction of  250. It went on to hold, however, that since petitioners did not seek an allowance of their appeals in that court within the time prescribed in  25, sub. a, it had no jurisdiction to allow them. We take a different view.
+ The procedure followed by petitioners was irregular. Normally the Circuit Court of Appeals would be wholly justified in treating the mere filing of a notice of appeal in the District Court as insufficient. But the defect is not jurisdictional in the sense that it deprives the court of power to allow the appeal. The court has discretion, where the scope of review is not affected, to disregard such an irregularity in the interests of substantial justice. Cf. Taylor v. Voss, 
+271 
+U.S. 176
+, 46 S.Ct. 461, dealing with appeals and petitions for revision under earlier provisions of the Act. In this case the effect of the procedural irregularity was not substantial. The scope of review was not altered. There was no question of the good faith of petitioners, of dilatory tactics, or of frivolous appeals. Hence it would be extremely harsh to hold that 
+
+[311 
+U.S. 579, 583]
+ 
+ petitioners were deprived of their right to have the court exercise its discretion on the allowance of their appeals by reason of their erroneous reliance upon the permanency of London v. O'Dougherty, supra. This conclusion does not do violence to Shulman v. Wilson-Sheridan Hotel Co., 
+301 
+U.S. 172
+, 57 S.Ct. 680. As we indicated in Dickinson Industrial Site, Inc., v. Cowan, supra, the Shulman case stated the rule of permissive appeals which was carried over into  250. The failure to comply with statutory requirements, however, is not necessarily a jurisdictional defect. Cf. Alaska Packers Ass'n v. Pillsbury, 
+301 
+U.S. 174
+, 57 S.Ct. 682.
+ For the reasons stated, we hold that the Circuit Court of Appeals had the power to allow the appeals.
+REVERSED.
+
+ Mr. Justice REED (concurring).
+ I am of opinion that timely application to the circuit court of appeals for leave to appeal is a jurisdictional requirement, and that the practice followed in this case cannot be reduced to a mere procedural irregularity. Farrar v. Churchill, 
+135 
+U.S. 609, 612
+, 613 S., 10 S.Ct. 771, 772; Old Nick Williams Co. v. United States, 
+215 
+U.S. 541
+, 30 S.Ct. 221; Shulman v. Wilson-Sheridan Hotel Co., 
+301 
+U.S. 172
+, 57 S.Ct. 680. However, when petitioners filed their notices of appeal in the district court the proper procedure was not settled, and petitioners were misled by the decision of the court below in London v. O'Dougherty, 2 Cir., 102 F.2d 524. In these unique circumstances I think that reversal of the judgment is justified by our broad power to make such disposition of the case as justice requires. Watts, Watts & Co. v. Unione Austriaca, 
+248 
+U.S. 9, 21
+, 39 S.Ct. 1, 2, 3 A.L.R. 323; Montgomery Ward & Co. v. Duncan, 
+311 
+U.S. 243
+, 61 S.Ct. 189, 196, decided December 9, 1940. In rare instances such as the case at bar this power is appropriate for curing even jurisdictional defects. Cf. Rorick v. Commissioners, 
+307 
+U.S. 208, 213
+, 59 S.Ct. 808, 811
+
+
+ Mr. Justice ROBERTS joins in this opinion. 
+
+
+

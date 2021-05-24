@@ -1,0 +1,36 @@
+Description: TUTTLE v. HARRIS , 297 U.S. 225 (1936)
+Date: 1936-02-03 00:00:00
+Docket: 428
+Opinion
+
+
+United States Supreme Court
+TUTTLE v. HARRIS(1936)
+No. 428
+Argued: January 17, 1936Decided: February 3, 1936
+
+
+
+ Mr. George T. Buckingham, of Chicago, Ill., for petitioners.
+ Mr. Maurice Walk, of Chicago, Ill., for respondents.
+
+ Mr. Justice CARDOZO delivered the opinion of the Court.
+ The controversy here, as in Duparquet, Huot & Moneuse Co. v. Evans, 
+297 
+U.S. 216
+, 56 S.Ct. 412, decided at the same time, is one as to the meaning of the words 'equity receiverships' in the statute for the reorganization of debtor corporations. Bankruptcy Act  77B(a); 11 U.S. C.  207(a), 11 U.S.C.A.  207(a).
+ A mortgagee brought suit against Granada Hotel Corporation in the superior court of Cook county, Ill., to foreclose a second mortgage upon real property of the corporation located in that state. A receiver was appointed to collect the rents and profits. Thereafter a prior mortgagee, the trustee under a deed of trust to 
+
+[297 U.S. 225, 226]
+ 
+ secure an issue of bonds, brought suit to foreclose the prior mortgage, and in accordance with the law of Illinois laid claim to the possession of the property as owner after condition broken. In response to that claim the state court made an order discharging the receiver, and directing that the prior mortgagee be let into possession.
+ While possession was so held, respondents brought a proceeding under Bankruptcy Act,  77B, contending that the possession of the mortgagee was that of an equity receiver or at least equivalent thereto. The District Court upheld that contention, denying a motion by petitioners, who had intervened in the proceeding to dismiss the application (In re Granada Hotel Corporation, 9 F.Supp. 909); and the Court of Appeals for the Seventh Circuit affirmed. Id., 78 F.(2d) 409. A writ of certiorari issued from this court.
+ An equity receivership within the meaning of the statute does not result from the appointment of a receiver for the collection of the rents in a suit to foreclose a mortgage. Duparquet, Huot & Moneuse Co. v. Evans, 
+297 
+U.S. 216
+, 56 S.Ct. 412. But here there was no receiver either for the collection of rents or for any other purpose. A mortgagee after condition broken under the law of Illinois is the owner of a legal estate, and as such entitled as of right to the possession of the mortgaged premises. Wolkenstein v. Slonim, 355 Ill. 306, 189 N.E. 312. The grantee under the deed of trust was in possession not as receiver, but as owner.
+ The decree should be reversed, and it is so ordered.
+ Mr. Justice VAN DEVANTER took no part in the consideration or decision of this case. 
+
+
+

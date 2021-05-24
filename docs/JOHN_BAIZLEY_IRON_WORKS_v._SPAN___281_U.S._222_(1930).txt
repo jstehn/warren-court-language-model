@@ -1,0 +1,106 @@
+Description: JOHN BAIZLEY IRON WORKS v. SPAN , 281 U.S. 222 (1930)
+Date: 1930-04-14 00:00:00
+Docket: 62
+Opinion
+
+
+United States Supreme Court
+JOHN BAIZLEY IRON WORKS v. SPAN(1930)
+No. 62
+Argued: January 8, 1930Decided: April 14, 1930
+
+
+
+ Mr. Owen J. Roberts, of Philadelphia, Pa., for appellants.[ John Baizley Iron Works v. Span 
+281 U.S. 222
+ (1930) ]
+
+
+[281 U.S. 222, 226]
+ 
+ Mr. William J. Conlen, of Philadelphia, Pa., for appellee.
+
+
+[281 U.S. 222, 228]
+ 
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ By Act of June 2, 1915, P. L. 736, as amended June 26, 1919, P. L. 642 (Pa. St. 1920,  21916 et seq.), the Pennsylvania Legislature provided for payment of compensation by employers to employees accidentally injured, without regard to fault, created an administrative board, and prescribed procedure for carrying the general plan into effect. The statute declares there shall be a conclusive presumption that both employer and employee accept its provisions, unless one of them makes written statement to the contrary. Every employer, liable to pay such compensation, unless exempted by the board, is required to insure payment in the state workmen's insurance fund or some authorized insurance company.
+ Purporting to proceed under the statute, Abraham Span, appellee here, made application to the Workmen's Compensation Board for an award against the John Baizley Iron Works on account of accidental injuries. He alleged that, while employed by that concern, he suffered injury; the accident happened 'on ship Bald Hill on Delaware River, Phila., Pa., January 13, 1926,' when 
+
+[281 U.S. 222, 229]
+ 
+ he was painting angle irons; both his eyes were affected by sparks from an acetylene torch in use by a fellow workman engaged in cutting iron; the business of the employer was 'iron works' and his occupation 'blacksmith helper.'
+ The matter went to a referee, who took evidence, heard the parties, awarded compensation according to the statutory schedule, and directed appellant the Ocean Accident & Guarantee Comapny, Limited, insurer of the iron works, to pay the same. Upon successive appeals this award and judgment were approved by the Compensation Board, court of common pleas, Superior Court, and the Supreme Court of Pennsylvania. For purposes of the appeal to the last, and as permitted by its rule, the parties substituted the following agreed statement of facts for all evidence produced at the hearing before the referee:
+'The claimant, Abraham Span, was at the time of the injuries in question, on January 13, 1926, a resident of Philadelphia and employed at Philadelphia by the defendant, John Baizley Iron Works. The defendant was engaged in performing certain repairs to the steamship 'Bald Hill,' at Philadelphia, including inter alia, the painting of the engine room and repairs to the floor of the engine room. The said vessel had prior thereto steamed to Philadelphia for necessary repairs, and at the time of the alleged accident was tied up to Pier 98 South in the Delaware River. The claimant, in the course of his aforesaid employment by the defendant, was painting angle irons in the engine room of the vessel. Sparks from an acetylene torch being used by a fellow employee working near claimant, entered the claimant's eyes and caused the injuries resulting in the alleged disability of the claimant.'
+
+ The Supreme Court declared: 'In our opinion, the insurance carrier can be held to only such liabilities as may be imposed on the employer.' And it held that 
+
+[281 U.S. 222, 230]
+ 
+ when injured, Span 'was doing work of a nature which had no direct relation to navigation or commerce.'
+ The Bald Hill had steamed to Philadelphia for necessary repairs. She was a completed vessel, lying in navigable waters; the employer, iron works, was engaged in making repairs upon her painting the engine room and repairing the floor; the claimant went aboard in the course of his employment and was there engaged about the master's business when hurt. Obviously, considering what we have often said, unless the State Workmen's Compensation Act (Pa. St. 1920,  21916 et seq.) changed or modified the rules of the general maritime law, the rights and liabilities of both the employer and the employee in respect of the latter's injuries were fixed by those rules, and any cause arising out of them was within the admiralty jurisdiction.
+ The insistence in behalf of appellee, Span, is that when hurt, he was doing work of a nature which had no direct relation to navigation or commerce; and to permit application of the State Workmen's Compensation Act would work no material prejudice to the essential features of the general maritime law as in Grant Smith-Porter Co. v. Rohde, 
+257 
+U.S. 469
+, 42 S. Ct. 157, 25 A. L. R. 1008. But so to hold would conflict with principles which we have often announced. Great Lakes Dredge & Dock Co. v. Kierejewski, 
+261 
+U.S. 479, 480
+, 481 S., 43 S. Ct. 418; Gonsalves v. Morse Dry Dock & Repair Co., 
+266 
+U.S. 171, 172
+, 45 S. Ct. 39; Robins Dry Dock Co. v. Dahl, 
+266 
+U.S. 449, 457
+, 45 S. Ct. 157; Messel v. Foundation Co., 
+274 
+U.S. 427, 434
+, 47 S. Ct. 695, 698; Northern Coal & Dock Co. v. Strand, 
+278 
+U.S. 142, 144
+, 49 S. Ct. 88.
+ What work has direct relation to navigation or commerce must, of course, be determined in view of surrounding circumstances as cases arise.
+ In Grant Smith-Porter Co. v. Rohde, supra, claimant when injured was working upon an incompleted vessel- 
+
+[281 U.S. 222, 231]
+ 
+ a thing not yet placed into navigation and which had not become an instrumentality of commerce. In Millers' Indemnity Underwriters v. Braud, 
+270 
+U.S. 59
+, 46 S. Ct. 194, the decedent met his death while cutting off piles driven into the land under navigable water. This had only remote relation to navigation or commerce. Sultan Ry. Co. v. Dept. of Labor, 
+277 
+U.S. 135, 136
+, 137 S., 48 S. Ct. 505, had relation to the nature of the occupation of men engaged in logging operations.
+ Kierejewski was a boiler maker employed by a Dredge Company to perform services as called upon. When hurt, he was making repairs upon a scow moored in navigable waters. We held this work had direct relation to navigation and commerce. Great Lakes Dredge & Dock Co. v. Kierejewski, supra.
+ In Gonsalves v. Morse Dry Dock & Repair Co., supra, the injured workman was repairing the shell plates of a steamer then in a floating dock. The 'accident did not occur upon land.' and we held the rights of the parties must be determined under the maritime law.
+ Robins Dry Dock & Repair Co. v. Dahl, supra, held that, as the employee was injured while repairing a completed vessel afloat in navigable waters, the right and liabilities of the parties depended upon the general maritime law, and could not be enlarged or impaired by the state statute.
+ In Messel v. Foundation Co., supra, the claimant was injured while repairing a vessel afloat on the Missippi river. We said: 'The principles applicable to Messel's recovery, should he have one, must be limited to those which the admiralty law of the United States prescribes, including the applicable section of the federal Employers' Liability Act, incorporated in the maritime law by section 33, c. 250, 41 Stat. 988, 1007 ( 46 USCA  688).' 
+
+[281 U.S. 222, 232]
+ 
+ See London Co. v. Industrial Commission, 
+279 
+U.S. 109
+, 49 S. Ct. 296.
+ Repairing a completed ship lying in navigable waters has direct and intimate connection with navigation and commerce, as has been often pointed out by this court.
+ The judgment of the court below must be reversed, and the cause remanded for further proceedings not inconsistent with this opinion.
+REVERSED.
+
+ Mr. Justice STONE (dissenting).
+ I think the judgment below should be affirmed on the authority of Rosengrant v. Havard, 
+273 
+U.S. 664
+, 47 S. Ct. 454 (Feb. 28, 1927), which affirmed, without opinion but on the authority of Grant Smith- Porter Ship Co. v. Rohde, 
+257 
+U.S. 469
+, 42 S. Ct. 157, 25 A. L. R. 1008, and Millers' Indemnity Underwriters v. Braud, 
+270 
+U.S. 59
+, 46 S. Ct. 194, a judgment of the Supreme Court of Alabama, Ex parte Rosengrant, 213 Ala. 202, 104 So. 409; Ex parte Havard, 211 Ala. 605, 100 So. 897. In that case one employed as a lumber inspector by a lumber manufacturer, under a nonmaritime contract of employment, was injured in the course of his employment, while temporarily on board a schooner lying in navigable waters near his employer's mill. He was there engaged in checking a cargo of lumber then being discharged from a barge lying nearby, in navigable waters and alongside a wharf. Recovery for this injury under the local compensation law was allowed by the state court, on the ground that the contract of employment had no relation to navigation and was nonmaritime. This, like the Rosengrant Case, seems to differ from Northern Coal & Dock Co. v. Strand, 
+278 
+U.S. 142
+, 49 S. Ct. 88, in that the employee was not a seaman within the meaning of the Jones Act (46 USCA  688).
+ Mr. Justice HOLMES and Mr. Justice BRANDEIS concur. 
+
+
+

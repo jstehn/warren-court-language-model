@@ -1,0 +1,87 @@
+Description: DEAN v. DAVIS , 242 U.S. 438 (1917)
+Date: 1917-01-08 00:00:00
+Docket: 70
+Opinion
+
+
+United States Supreme Court
+DEAN v. DAVIS(1917)
+No. 70
+Argued: Decided: January 8, 1917
+
+
+
+
+[242 U.S. 438, 439]
+ 
+ Messrs. Wyndham R. Meredith and C. V. Meredith for appellant.
+
+
+
+[242 U.S. 438, 441]
+ 
+ Messrs. Richard B. Davis and Bartlett Roper, Jr., for appellee.
+
+ Mr. Justice Brandeis delivered the opinion of the court:
+ The Bankruptcy Act (as amended Feb. 5, 1903 [32 Stat. at L. 800, chap. 487,  13, and Act June 25, 1910, 36 Stat. 842, c. 412,  11, Comp. Stat. 1913,  9644]) provides in  60b that if a debtor has, within four months before the filing of the petition in bankruptcy, made a transfer which the person receiving the same has reason to believe was intended to give a preference, the transfer 
+
+[242 U.S. 438, 442]
+ 
+ shall be voidable, and the trustee in bankruptcy may recover the property or its value. The act also provides in  67e, 30 Stat. at L. 564, chap. 541, Comp. Stat. 1913,  9651, that if a debtor, within four months before the filing of the petition in bankruptcy, makes any transfer 'with the intent and purpose on his part to hinder, delay or defraud his creditors, or any of them,' it shall be null and void except as to purchasers in good faith and for a present fair consideration; and that it shall be the duty of the trustee to recover the same.
+ R. Crawley Jones was a farmer and owner of a country store. A bank, having discounted his notes bearing indorsements which it later concluded had been forged, demanded that Jones take up the notes. Fearing arrest, he appealed through his father to his brother-in-law, Dean, for a loan of $1, 600, promising to secure it by a mortgage of all his property, which he represented was worth more than five times that amount. Dean provided the money, and on September 3, 1909, acting in conjunction with Jones's father, 'took up' the notes. Most of them were not yet due. A mortgage deed of trust dated September 3 was executed September 10, and recorded September 11. It covered practically all of Jones's property, including the stock in trade and accounts, store furnishings and fixtures, household furniture and goods, live stock, crops standing and cut, and the farm itself, the last subject to a prior deed of trust. Four mortgage notes were given, payable respectively in seven, thirty, sixty, and ninety days; with a proviso that upon default on any one all should become payable. The first note-and hence all-was overdue when the mortgage was recorded. On that day Dean directed that possession of the property be taken, which was done on September 13 (the 12th being Sunday). Jones was at the time deeply insolvent and had many unsecured creditors. Some of these immediately challenged the validity of the mortgage. Within a few days an involutary petition in bankruptcy was filed and 
+
+[242 U.S. 438, 443]
+ 
+ Jones was adjudicated a bankrupt. The mortgaged property was converted into cash under an agreement with general creditors that it should be deposited to await the ultimate determination of the rights of the parties. It yielded only $1,634,-leaving nothing for the general creditors if the mortgage is held valid.
+ Davis, the trustee in bankruptcy, brought a bill in equity to set aside the mortgage. The district court granted the relief prayed for; and its decree was affirmed by the circuit court of appeals. Both courts found the facts to be in substance as above stated and held the mortgage void under  67e as having been made by Jones 'with the intent and purpose on his part to hinder, delay or defraud his creditors,' to one not a 'purchaser in good faith' within the meaning of the act. The circuit court of appeals held the mortgage void also as a preference under  60b (128 C. C. A. 658, 212 Fed. 88). The case comes to this court upon appeal; Dean contending that the mortgage is not invalid under either  60b or  67e.
+ The mortgage was not voidable as a preference under  60b. Preference implies paying or securing a pre-existing debt of the person preferred. The mortgage was given to secure Dean for a substantially contemporary advance. The bank, not Dean, was preferred. The use of Dean's money to accomplish this purpose could not convert the transaction into a preferring of Dean, although he knew of the debtor's insolvency. Mere circuity of arrangement will not save a transfer which effects a preference from being invalid as such. National Bank v. National Herkimer County Bank, 
+225 
+U.S. 178, 184
+, 56 S. L. ed. 1042, 1046, 32 Sup. Ct. Rep. 633. But a transfer to a third person is invalid under this section as a preference only where that person was acting on behalf of the creditor, as in Re Beerman, 112 Fed. 663, and Walters v. Zimmerman, 208 Fed. 62, 136 C. C. A. 409, 220 Fed. 805. Here Dean acted on the debtor's behalf in providing the money and taking up the notes. 
+
+[242 U.S. 438, 444]
+ 
+ But under  67e the basis of invalidity is much broader. It covers every transfer made by the bankrupt 'within four months prior to the filing of the petition, with the intent and purpose on his part to hinder, delay or defraud his creditors, or any of them' 'except as to purchasers in good faith and for a present fair consideration.' As provided in  67d, only 'liens given or accepted in good faith and not in contemplation of or in fraud upon this act' are unassailable. A transfer, the intent (or obviously necessary effect) of which is to deprive creditors of the benefits sought to be secured by the Bankruptcy Act, 'hinders, delays or defrauds creditors' within the meaning of  67e. Van Iderstine v. National Discount Co. 
+227 
+U.S. 575, 582
+, 57 S. L. ed. 652, 654, 33 Sup. Ct. Rep. 343, points out the distinction between the intent to prefer and the intent to defraud. A transaction may be invalid both as a preference and as a fraudulent transfer. It may be invalid only as a preference or only as a fraudulent transfer. Making a mortgage to secure an advance with which the insolvent debtor intends to pay a pre-existing debt does not necessarily imply an intent to hinder, delay, or defraud creditors. The mortgage may be made in the expectation that thereby the debtor will extricate himself from a particular difficulty and be enabled to promote the interest of all other creditors by continuing his business. The lender who makes an advance for that purpose with full knowledge of the facts may be acting in perfect 'good faith.' But where the advance is made to enable the debtor to make a preferential payment with bankruptcy in contemplation, the transaction presents an element upon which fraud may be predicated. The fact that the money advance is actually used to pay a debt does not necessarily establish good faith. It is a question of fact in each case what the intent was with which the loan was sought and made.
+ We cannot say that the facts found by the district court and affirmed by the circuit court of appeals were 
+
+[242 U.S. 438, 445]
+ 
+ not supported by the evidence, nor that these courts erred in concluding upon this evidence that the mortgage was made with the purpose and intent to hinder, delay, or defraud Jones's creditors, and that Dean was not, as against general creditors, 'a purchaser in good faith.' Jones knew that he was insolvent. He knew that he was making a preferential payment. He must have known that suspension of his business and bankruptcy would result from giving and recording a mortgage of all his property to secure a note which had matured before the mortgage was executed. The lower courts were justified in concluding that he intended the necessary consequences of his act; that he willingly sacrificed his property and his other creditors to avert a threatened criminal prosecution; and that Dean, who, knowing the facts, cooperated in the bankrupt's fraudulent purpose, lacked the saving good faith.
+ The conclusion reached by the lower courts is supported by many decisions of the several district courts and circuit courts of appeal, which are referred to in the margin. 
+1
+ It is in harmony with both the Van Iderstine 
+
+[242 U.S. 438, 446]
+ 
+ Case, and Coder v. Arts, 
+213 
+U.S. 223, 244
+, 53 S. L. ed. 772, 781, 29 Sup. Ct. Rep. 436, 16 Ann. Cas. 1008, upon which appellant particularly relies. In each of these cases this court refused to hold fraudulent in law a transfer which the circuit court of appeals had found to be innocent in fact. In the Van Iderstine Case, where a pledge was held valid, the circuit court of appeals had expressly found that the pledgee was without knowledge of the debtor's fraudulent intent, if such there was. In Coder v. Arts, where a mortgage was held valid, the circuit court of appeals had found that, in making the mortgage, the debtor had no intent to hinder, delay, or defraud creditors, and this court said that, 'in view of the finding of the circuit court of appeals, it may be that [he] though including in the conveyance a large amount of his property, acted in good faith, with a view to preserving his estate and enabling him to meet his indebtedness.' This court, while declaring the question of invalidity under  67e was to express its dissent from the view 'that the giving of the mortgage and its effect upon other creditors could not be 
+
+[242 U.S. 438, 447]
+ 
+ considered as an item of evidence in determining the question of fraud.'
+ Dean contends also that relief should not have been granted under  67e because the bill was framed under  60b. The objection was not taken in the district court, although the question of invalidity under  67e was elaborately discussed on demurrer to the bill as well as upon final hearing. Twentyfive other errors were assigned on the appeal to the circuit court of appeals. This objection was not raised then. It was insisted only that the evidence did not warrant the finding of fraudulent intent. Section 60b seems to have been mainly in the mind of the pleader when the bill of complaint was drafted, but not exclusively, for it alleges that the plaintiff as trustee was entitled 'to recover property transferred by said bankrupt in fraud of his creditors.' The answer expressly alleges that the mortgage was accepted 'without any intent or purpose of aiding said Jones to defraud, delay, or hinder his creditors, and not in contemplation of or in fraud of the Bankruptcy Act, or any of its provisions, believing him to be solvent, and that he would continue his business.' The issue of fraudulent transfer was presented by the pleadings, was fully tried, and was found against the appellant. No error was committed.
+ Decree affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Cases holding that a mortgage is a fraudulent conveyance where taken as security for a loan which the lender knows is to be used to prefer favored creditors, in fraud of the act: Parker v. Sherman, 129 C. C. A. 437, 212 Fed. 917 (C. C. A. 2d C.); Re Soforenko, 210 Fed. 562 (D. C. Mass.); Johnson v. Dismukes, 122 C. C. A.552, 204 Fed. 382 (C. C. A. 5th C .); Lumpkin v. Foley, 122 C. C. A. 542, 204 Fed. 372 (C. C. A. 5th C.); Re Lynden Mercantile Co. 156 Fed. 713 (D. C. Wash.); Roberts v. Johnson, 81 C. C. A. 47, 151 Fed. 567 (C. C. A. 4th C.); Re Pease, 129 Fed. 446 (D. C. Mich.). See also Walters v. Zimmerman, s. c. on appeal, 208 Fed. 62 (D. C. Ohio), 136 C. C. A. 409, 220 Fed. 805 (C. C. A. 6th C.).
+ Cases upholding the mortgage security because the lender did not know that the insolvent borrower intended to make improper payments to favored creditors-thus indicating that the mortgage would be fraudulent if such additional fact were shown: Grinstead v. Union Sav. & T. Co. 111 C. C. A. 398, 190 Fed. 546 (C. C. A. 9th C.); Powell v. Gate City Bank, 102 C. C. A. 55, 178 Fed. 609 (C. C. A. 8th C.); Re Kullberg, 176 Fed. 585 (D. C. Minn .); Ohio Valley Bank Co. v. Mack, 24 L.R.A.(N.S.) 184, 89 C. C. A. 605, 163 Fed. 155 (C. C. A. 6th C.); Stedman v. Bank of Monroe, 54 C. C. A. 269, 117 Fed. 237 (C. C. A. 8th C.); Re Soudan Mfg. Co. 51 C. C. A. 476, 113 Fed. 804 (C. C. A. 7th C.).
+ In accord with this view are also the decisions which hold that a general assignment for the benefit of creditors, though without preferences, is void under  67e because its necessary effect is to hinder, delay, or defraud creditors in their rights and remedies under the Bankruptcy Act. Re Gutwillig, 90 Fed. 475, 34 C. C. A. 377, 63 U. S. App. 191, 92 Fed. 337; Davis v. Bohle, 34 C. C. A. 372, 92 Fed. 325; Rumsey & S. Co. v. Novelty & Mach. Mfg. Co. 99 Fed. 699. See Randolph v. Scruggs, 
+190 
+U.S. 533, 536
+, 47 S. L. ed. 1165, 1169, 23 Sup. Ct. Rep. 710; George M. West Co. v. Lea Bros. 
+174 
+U.S. 590, 596
+, 43 S. L. ed. 1098, 1100, 19 Sup. Ct. Rep. 836.
+ It is difficult to reconcile the following cases or dicta in them with the great weight of authority and the decisions of this court: Re Baar, 130 C. C. A. 292, 213 Fed. 628 (C. C. A. 2d C.); Re Hersey, 171 Fed. 1004 (D. C. Iowa); Sargent v. Blake, 17 L.R.A.(N.S.) 1040, 87 C. C. A. 213, 160 Fed. 57, 15 Ann. Cas. 58 (C. C. A. 8th C.); Re Bloch, 74 C. C. A. 250, 142 Fed. 674 (C. C. A. 2d C.); Githens v. Shiffier, 112 Fed. 505 (D. C. Ra .). 
+
+
+
+

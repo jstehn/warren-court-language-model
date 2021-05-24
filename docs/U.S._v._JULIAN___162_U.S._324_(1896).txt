@@ -1,0 +1,37 @@
+Description: U.S. v. JULIAN , 162 U.S. 324 (1896)
+Date: 1896-04-13 00:00:00
+Docket: 925
+Opinion
+
+
+United States Supreme Court
+U.S. v. JULIAN(1896)
+No. 925
+Argued: Decided: April 13, 1896
+
+
+ This was a petition for fees as commissioner of the circuit court for the Middle district of Tennessee.
+ The claim included a large number of items, but the only point in controversy before this court is whether petitioner was entitled to 15 cents for each jurat or certificate appended to depositions taken by him as such commissioner. The total number of jurats so appended was 238, and the total charge therefor was $35.70.
+ The court of claims allowed this item, and the government appealed.
+ Asst. Atty. Gen. Doge, for the United States.
+ Geo. A. King, for appellee.
+
+ Mr. Justice BROWN delivered the opinion of the court.
+ This case involves the construction of that paragraph of Rev. St.  847, which allows to commissioners 'for issuing any warrant or writ, and for any other service, the same compensation as is allowed to clerks for like services'; and the paragraphs of section 828 which allow to clerks, 'for taking and certifying depositions to file, twenty cents for each folio of one hundred words,' and, 'for making any record, certificate, return or report, for each folio, fifteen cents.'
+ In the case of U. S. v. Ewing, 
+140 U.S. 142
+, 146, par. 4, 11 Sup. Ct. 743, and in U. S. v. Barber, 
+140 U.S. 164
+, 165, par. 1, 11 Sup. Ct. 749, we held a commissioner to be entitled to 20 cents per 
+
+[162 U.S. 324, 325]
+ 
+ folio for drawing complaints in criminal cases, as for 'taking and certifying depositions to file,' where the local practice required a magistrate to reduce the examination of the complaining witnesses to writing. In the latter case (page 166, 140 U. S. and page 749, 11 Sup. Ct.) we also held that the petitioner should be allowed a fee or 10 cents for each oath administered in connection with these complaints, and 15 cents for each jurat, as for a certificate; and also (page 168, par. 7, 140 U. S ., and page 749, 11 Sup. Ct.) that the charge per folio for depositions taken on examinations of prisoners was allowable, upon the same principle upon which we allowed it for preparing complaints. It follows from this that the commissioner is also entitled to 15 cents per folio for the jurat to each deposition.
+ The certificate referred to in the words 'taking and certifying depositions to file' is that required by sections 863, 864, 865, 866, and 873, to be appended to depositions taken de bene esse in civil cases depending in the district or circuit court, which includes the circumstances with reference to the witness authorizing his deposition to be taken, the official ch racter of the person taking it, the proof of reasonable notice to the opposite party, the fact that the witness was cautioned and sworn to testify to the whole truth, and other similar requirements. It was probably more particularly with reference to this class of depositions that the fee 'for taking and certifying depositions' was inserted. The certificate referred to is always appended to depositions or a series of depositions taken de bene esse, is often of considerable length, and is required by repeated rulings of this and the circuit courts. Bell v. Morrison, 1 Pet. 351; Cook v. Burnley, 11 Wall. 659; Harris v. Wall, 7 How. 693: Whitford v. Clark Co., 
+119 U.S. 522
+, 7 Sup. Ct. 306; Tooker v. Thompson, 3 McLean, 92; Voce v. Lawrence, 4 McLean, 203.
+ The jurat is not a certificate to a deposition in the ordinary sense of the term, but a certificate of the fact that the witness appeared before the commissioner, and was sworn to the truth of what he had stated. We think the design of the statute was to allow a separate fee therefor.
+ The judgment of the court of claims is therefore affirmed. 
+
+
+

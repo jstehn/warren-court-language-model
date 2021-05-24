@@ -1,0 +1,66 @@
+Description: NIELSEN v. STATE OF OREGON , 212 U.S. 315 (1909)
+Date: 1909-02-23 00:00:00
+Docket: 593
+Opinion
+
+
+United States Supreme Court
+NIELSEN v. STATE OF OREGON(1909)
+No. 593
+Argued: Decided: February 23, 1909
+
+
+
+ Plaintiff in error was convicted in a justice's court of the precinct of Astoria, Clatsop county, Oregon, of maintaining 
+
+[212 U.S. 315, 316]
+ 
+ and operating a purse net on the Columbia river, contrary to the statutes of Oregon. This conviction was, by proper proceedings, taken to the supreme court of the state and the judgment affirmed. 95 Pac. 720. From that decision the case has been brought here on error.
+ According to the agreed statement of facts, plaintiff in error was an actual and bona fide resident and inhabitant of the state of Washington and a citizen of the United States. He had a license from the Fish Commissioner of Washington to operate a purse net on the Columbia river, and was on said river, within the limits of the state of Washington, operating such a purse net at the time he was arrested and prosecuted in the courts of Oregon.
+ By  1 of the act of Congress of March 2, 1853 (chap. 90, 10 Stat. at L. 172), all that part of the territory of Oregon lying north of the 'main channel of the Columbia river' was organized into the territory of Washington, and by  21 of the same act it is provided 'that the territory of Oregon and the territory of Washington shall have concurrent jurisdiction over all offense committed on the Columbia river, where said river forms a common boundary between said territories.' Section 1 of the act of Congress admitting Oregon into the Union (act of Feb. 14, 1859, chap. 33, 11 Stat. at L. 383), after describing in detail the boundaries of the state, provides, 'including jurisdiction in civil and criminal cases upon the Columbia river and Snake river, concurrently with states and territories of which those rivers form a boundary in common with this state.' And in  2 it is said, 'the said state of Oregon shall have concurrent jurisdiction on the Columbia and all other rivers and water bordering on the said state of Oregon so far as the same shall form a common boundary to said state and any other state or states now or hereafter to be formed or bounded by the same.'
+ The legislative assembly of Oregon passed an act, the 1st section of which is as follows:
+'Sec. 1. It shall hereafter be unlawful to operate or main- 
+
+[212 U.S. 315, 317]
+ 
+ tain within any of the rivers of this state or of the Columbia river, or in the Pacific ocean within 3 miles of the mouths of any of the rivers of this state, or of the Columbia river, any purse net or other like seine for the purpose of catching or taking salmon or other anadromous fish or sturgeon.'
+
+ The 2d section makes one violating any of the provisions of the act guilty of a misdemeanor, and prescribes the penalty. Or. Sess. Laws 1907, p. 154. On the other hand, Washington passed an act (Wash. Sess. Laws 1899, p. 194) the 2d section of which reads as follows:
+'Sec. 2. The use of pound nets, traps, weirs, fish wheels, and other fixed appliances, and purse nets, drag seines, and other seines for catching salmon, is hereby authorized in all the waters of this state wherein the same is not prohibited by  1, subject to the regulation and license hereinafter provided for or otherwise required by law, and the use of the set nets, gill or drift nets, subject to said license and regulation for said purpose, is authorized in all the waters of this state, except as otherwise provided by law.'
+
+ The prohibition in  1 referred to does not include the Columbia river. Section 6 of the same act fixes the license fees for all first- class purse seines at $50 and all second-class purse seines at $25.
+ Messrs. E. C. Macdonald, C. C. Fulton, John D. Atkinson, S. H. Piles, W. P. Bell, H. M. Brooks, and J. B. Alexander for plaintiff in error. 
+
+[212 U.S. 315, 318]
+ 
+ Messrs. A. M. Crawford, I. H. Van Winkle, and Henry H. Gilfrey for defendant in error.
+
+ Statement by Mr. Justice Brewer: 
+
+[212 U.S. 315, 319]
+ 
+
+ Mr. Justice Brewer delivered the opinion of the court:
+ By the legislation of Congress the Columbia river is made the common boundary between Oregon and Washington, and to each of those states is given concurrent jurisdiction on the waters of that river. How that jurisdiction is to be exercised, what limitations there are, if any, upon the power of either state, is not in terms prescribed. It is true, in the 1st section of the act admitting Oregon, the jurisdiction was apparently limited to 'civil and criminal cases;' but, in the 2d section of that act, there was given in general terms 'concurrent jurisdiction.' In Wedding v. Meyler, 
+192 
+U.S. 573, 584
+, 48 S. L. ed. 570, 575, 66 L.R.A. 833, 840, 24 Sup. Ct. Rep. 322, 324, construing the term 'concurrent jurisdiction,' as given to Kentucky and Indiana over the Ohio river, this court, riversing the court of appeals of Kentucky, said:
+'Concurrent jurisdiction, properly so-called, on rivers, is familiar to our legislation, and means the jurisdiction of two powers over one and the same place. There is no reason to give an unusual meaning to the phrase. See Sanders v. St. Louis & N. O. Anchor Line, 97 Mo. 26, 30, 3 L.R. A. 390, 10 S. W. 595; Opsahl v. Judd, 30 Minn. 126, 129, 130, 14 N. W. 575; J. S. Keator Lumber 
+
+[212 U.S. 315, 320]
+ 
+ Co. v. St. Croix Boom Corp. 72 Wis. 62, 7 Am. St. Rep. 837, 38 N. W. 529, and the cases last cited.
+
+'The construction adopted by the majority of the court of appeals seems to us at least equally untenable. It was held that the words 'meant only that the states should have legislative jurisdiction.' But jurisdiction, whatever else or more it may mean, is jurisdictio, in its popular sense of authority to apply the law to the acts of men. Vicat Vocab., sub v. See Rhode Island v. Massachusetts, 12 Pet. 657, 718, 9 L. ed. 1233, 1258. What the Virginia compact most certainly conferred on the states north of the Ohio was the right to administer the law below low- water mark on the river, and, as part of that right, the right to serve process there with effect. State v. Mullen, 35 Iowa, 199, 205, 206.'
+
+ Undoubtedly one purpose, perhaps the primary purpose, in the grant of concurrent jurisdiction, was to avoid any nice question as to whether a criminal act sought to be prosecuted was committed on one side or the other of the exact boundary in the channel, that boundary sometimes changing by reason of the shifting of the channel. Where an act is malum in se, prohibited and punishable by the laws of both states, the one first acquiring jurisdiction of the person may prosecute the offense, and its judgment is a finality in both states, so that one convicted or acquitted in the courts of the one state cannot be prosecuted for the same offense in the courts of the other. But, as appears from the quotation we have just made, it is not limited to this. It extends to civil as well as criminal matters, and is broadly a grant of jurisdiction to each of the states.
+ The present case is not one of the prosecution for an offense malum in se, but for one simply malum prohibitum. Doubtless the same rule would apply if the act were prohibited by each state separately; but where, as here, the act is prohibited by one state and in terms authorized by the other, can the one state which prohibits, prosecute and punish for the act done within the territorial limits of the other? Obviously, the grant 
+
+[212 U.S. 315, 321]
+ 
+ of concurrent jurisdiction may bring up, from time to time, many and some curious and difficult questions, so we promptly confine ourselves to the precise question presented. The plaintiff in error was within the limits of the state of Washington, doing an act which that state in terms authorized and gave him a license to do. Can the state of Oregon, by virtue of its concurrent jurisdiction, disregard that authority, practically override the legislation of Washington, and punish a man for doing within the territorial limits of Washington an act which that state had specially authorized him to do? We are of opinion that it cannot. It is not at all impossible that, in some instances, the interests of the two states may be different. Certainly, as appears in the present case, the opinion of the legislatures of the two states is different, and the one state cannot enforce its opinion against that of the other; at least, as to an act done within the limits of that other state. Whether, if the act of the plaintiff in error had been done within the territorial limits of the state of Oregon, it would make any difference, we need not determine; nor whether, in the absence of any legislation by the state of Washington authorizing the act, Oregon could enforce its statute against the act done anywhere upon the waters of the Columbia. Neither is it necessary to consider whether the prosecution should be in the names of the two states jointly. It is enough to decide, as we do, that, for an act done within the territorial limits of the state of Washington, under authority and license from that state, one cannot be prosecuted and punished by the state of Oregon.
+ There is little authority upon this precise question, but see Re Mattson, U. S. circuit court for the district of Oregon, 69 Fed. 535, and Ex parte Desjeiro, same court, 152 Fed. 1004. See also Roberts v. Fullerton, 117 Wis. 222, 65 L.R.A. 953, 93 N. W. 1111; Rorer, Interstate Law, p. 438, and following.
+ The judgment of the Supreme Court of the state of Oregon is reversed, and the case remanded for further proceedings not inconsistent with this opinion. 
+
+
+

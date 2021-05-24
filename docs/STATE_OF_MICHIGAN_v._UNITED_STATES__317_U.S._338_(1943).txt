@@ -1,0 +1,63 @@
+Description: STATE OF MICHIGAN v. UNITED STATES, 317 U.S. 338 (1943)
+Date: 1943-01-04 00:00:00
+Docket: 214
+Opinion
+
+
+United States Supreme Court
+STATE OF MICHIGAN v. UNITED STATES(1943)
+No. 214
+Argued: Decided: January 4, 1943
+
+
+
+
+[317 
+U.S. 338, 339]
+ 
+ Mr. John H. Witherspoon, of Detroit, Mich., for petitioners.
+ Mr. J. Louis Monarch, of Washington, D.C., for respondent.
+
+ Mr. Chief Justice STONE delivered the opinion of the Court.
+ This is a companion case to Detroit Bank v. United States, 
+317 
+U.S. 329
+, 63 S.Ct. 297, 87 L.Ed. --, decided this day. It involves the lien for estate taxes asserted by the Government and considered in our opinion in that case.
+ Petitioners, the City of Detroit, the County of Wayne, and the State of Michigan, assert liens for city, county and state taxes on the real estate in question, accruing subsequent to the federal estate tax lien. As defendants in the suit brought by the Government to foreclose the lien, they attack it on all the grounds considered and rejected in our opinion in the Detroit Bank case. They also contend that the state liens are given superiority over the federal lien by virtue of state statutes. Section 3429 of the Compiled Laws of Michigan 1929, as amended by Act No. 38 of the Extra Session of 1934, declares that taxes shall 'become a lien upon such real property' on specified dates following their assessment and, as construed by petitioners, states that they shall be a 'first lien, prior, superior and paramount'. Section 3746 authorizes the filing of notice of liens as provided in R.S.  3186, 26 U.S.C.A. Int.Rev.Code,  3670-3677, in the office of registers 
+
+[317 
+U.S. 338, 340]
+ 
+ of deeds in the counties of Michigan. Petitioners contend that these and other statutory provisions as construed by Michigan courts give superiority to state tax liens over other unrecorded liens, including the present estate tax lien of the federal Government.
+ We do not stop to inquire whether this construction of the state statutes is the correct one for we think the argument ignores the effect of a lien for federal taxes under the supremacy clause of the Constitution. The establishment of a tax lien by Congress is an exercise of its constitutional power 'To lay and collect Taxes'. Article I,  8 of the Constitution. United States v. Snyder, 
+149 
+U.S. 210
+, 13 S.Ct. 846. And laws of Congress enacted pursuant to the Constitution are by Article VI of the Constitution declared to be 'the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.'
+'It is of the very nature and essence of a lien, that no matter into whose hands the property goes, it passes cum onere.' Burton v. Smith, 13 Pet. 464, 483; Rankin v. Scott, 12 Wheat. 177, 179; Howard v. Milwaukee & St. P. Railway Co., 
+101 
+U.S. 837
+, 845. Hence it is not debatable that a tax lien imposed by a law of Congress, as we have held the present lien is imposed, cannot, without the consent of Congress, be displaced by later liens imposed by authority of any state law or judicial decision. United States v. Snyder, supra; United States v. City of Greenville, 4 Cir., 118 F.2d 963. Similarly we held that the priority of payment commanded by R.S.  3466, 31 U.S.C.A.  191, could not be set aside by state legislation. United States v. State of Texas, 
+314 
+U.S. 480, 486
+, 62 S.Ct. 350, 353; County of Spokane v. United States, 
+279 
+U.S. 80
+, 49 S.Ct. 321; People of State of New York v. Maclay, 
+288 
+U.S. 290
+, 53 S.Ct. 323; cf. State of Missouri v. Ross, 
+299 
+U.S. 72
+, 57 S.Ct. 60.
+
+ As the federal lien with which we are here concerned attached to private property prior to the acquisition of 
+
+[317 
+U.S. 338, 341]
+ 
+ any interest in that property by the state, we need not consider the extent to which Congress may give, or intended by  315(a), 26 U.S.C.A. Int.Rev.Acts, page 253, to give, priority to a federal lien over a previously perfected state lien. Compare People of State of New York v. Maclay, supra, 288 U.S. at page 292, 53 S.Ct. at page 323; County of Spokane v. United States, supra, 279 U.S. at page 95, 49 S.Ct. at page 325; United States v. Texas, supra, 314 U.S. at pages 484, 486, 62 S.Ct. at pages 352, 353.
+AFFIRMED.
+ Mr. Justice MURPHY took no part in the consideration or decision of this case. 
+
+
+

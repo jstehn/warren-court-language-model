@@ -1,0 +1,243 @@
+Description: PHILLIPS PETROLEUM CO. v. JENKINS , 297 U.S. 629 (1936)
+Date: 1936-03-30 00:00:00
+Docket: 386
+Opinion
+
+
+United States Supreme Court
+PHILLIPS PETROLEUM CO. v. JENKINS(1936)
+No. 386
+Argued: Decided: March 30, 1936
+
+
+
+ * Rehearing denied 
+298 
+U.S. 691
+, 56 S.Ct. 745, 80 L.Ed. --. 
+
+[297 U.S. 629, 630]
+ 
+ Mr. Rayburn L. Foster, of Bartlesville, Okla., for appellants.
+ Mr. Robert C. Knox, of El Dorado, Ark., for appellee.
+
+
+
+[297 U.S. 629, 631]
+ 
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ Appellee sued the Phillips Petroleum Company and J. H. Myers in an Arkansas court to recover damages for injuries suffered by him while working fr that company. There was a trial by jury. It gave plaintiff a verdict in accordance with which the court entered judgment against both defendants for $50,000. On appeal to the State Supreme Court, the guaranty company became surety on a supersedeas bond. That court reduced the judgment to $30,000 and held plaintiff entitled to recover that amount from the petroleum company and the surety.
+ The petroleum company is a Delaware corporation authorized to do business in Arkansas and engaged in that state in the production and transportation of oil. Crawford and Moses' Digest of the Arkansas Statutes ,  7137, enacted March 8, 1907, declares that all corporations shall be liable for injuries sustained by any employee resulting from negligence of any other employee. 
+1
+ The Arkansas Constitution, art. 12,  6, provides: 'Corporations may be formed under general laws, which 
+
+[297 U.S. 629, 632]
+ 
+ laws may, from time to time, be altered or repealed. The General Assembly shall have the power to alter, revoke or annul any charter of incorporation now existing and revocable at the adoption of this Constitution, or any that may hereafter be created, whenever, in their opinion, it may be injurious to the citizens of the State, in such manner, however, that no injustice shall be done to the corporators.' As to domestic corporations the Supreme Court has repeatedly held section 7137 to be a reasonable exertion of the state's power to prescribe the terms of charters of corporations organized under its laws. 
+2
+ The State Constitution authorizes admission of foreign corporations to do business in the state and declares that, as to contracts made or business there done, they shall be subject to the same regulations and liabilities as like corporations of that state. Article 12,  11. In this case the state court, in harmony with earlier decisions,3 held that section 7137 applies to a foreign corporation carrying on business in Arkansas.
+ The substance of the cause of action alleged is this: April 5, 1934, plaintiff and Myers were fellow servants in the service of the petroleum company. They and other employees were engaged in laying pipe. Plaintiff was injured while he and Myers were carrying a length of pipe. Plaintiff, his back toward Myers, had the forward end upon his shoulder; Myers had the other end 
+
+[297 U.S. 629, 633]
+ 
+ and, while shifting the pipe from one shoulder to the other, negligently jerked it and threw plaintiff to the ground and injured him. The court charged that, if plaintiff's injuries were caused by the negligence of Myers, the verdict should be for plaintiff against both defendants. That instruction was in accordance with section 7137 and the verdict and judgment depend upon it. The sole question is whether by that section the state denies to the petroleum company the equal protection of the laws in violation of the Fourteenth Amendment.
+ Appellant does not suggest discrimination between foreign and domestic corporations or between it and any other corporation. The section by its terms extends to all corporations whether organized in Arkansas or elsewhere. Undoubtedly the power of the state to prescribe the rule of liability as one of the conditions for the admission of foreign corporations is not less than its power to include the rule in the charters of domestic corporations. Appellant's position is the same as, in like circumstances, would be that of an Arkansas corporation. Its complaint is that the state makes corporations liable for personal injuries sustained by an employee through negligence of any other employee while as to individual employers it leaves in force the common-law rule that every servant assumes the risk of injuries through the negligence of his fellow servants.
+ We shall first consider whether consistently with the equal protection clause the state, by exertion of its power to specify provisions of charters of corporations organized under its laws and to impose conditions for the admission of foreign corporations, may prescribe the challenged rule of liability. If, by specifying the terms upon which corporations may be organized under its laws or by the exertion of the reserved power to amend corporate charters, the state may impose the challenged 
+
+[297 U.S. 629, 634]
+ 
+ rule upon domestic corporations, then the petroleum company is subject to the same rule. Arkansas Constitution, art. 12,  11. And, as unquestionably power to prescribe the terms of corporate charters is at least as great as that reserved to change them, the validity of the provision of section 7137 here in question may be tested as if, by the use of reserved power to amend, it was added to the charter of an Arkansas corporation.
+ Arkansas might have refrained from enactment of statutes creating or authorizing organization of corporations and might have denied to foreign corporations admission to the state. But it may not enforce any p rt of the charter of a domestic corporation or any provision of its laws relating to admission of a foreign corporation that is repugnant to the Federal Constitution. 
+4
+ If section 7137 is repugnant to the equal protection clause, it is without force as a part of the charter contract or otherwise.
+ The reservation of power to amend is a part of the contract between the state and the corporation and therefore section 10 of article 1 of the Federal Constitution does not apply. The reserved power is not unlimited and cannot be exerted to defeat the purpose for which the corporate powers were granted, or to take property without compensation, or arbitrarily to make alterations that are inconsistent with the scope and object of the charter 
+
+[297 U.S. 629, 635]
+ 
+ or to destroy or impair any vested property right. 
+5
+ On the other hand, it extends to any alteration or amendment 'which will not defeat or substantially impair the object of the grant, or any right vested under the grant, and which the legislature may deem necessary to carry into effect the purpose of the grant, or to protect the rights of the public or of the corporation, its stockholders or creditors, or to promote the due administration of its affairs.' 
+6
+ As the state may not surrender or bind itself not to exert its police power to guard the safety of workers, the common-law fellow-servant rule may be abrogated by statute even when included in the charter of a corporation. 
+7
+ But we accept the state's determination that the provision of section 7137 here involved is a part of the charters of corporations organized in Arkansas since its enactment and that, through the power to alter or amend, it is included in the charters of corporations earlier organized under the laws of that state.
+ Essential to a just consideration of appellant's contention is a definite understanding of what is denied to it by the construction put upon section 7137 by the State Supreme Court. It was, as described by that court in an earlier case, 'the common-law rule that a servant assumes the 
+
+[297 U.S. 629, 636]
+ 
+ risk of negligence of his fellow servant.' 
+8
+ That assumption, like the assumption of other risks incident to the employee's work, is an implied one and constitutes a part of the contract of employment. The section as construed below operates merely to negative the implication, to eliminate that term of the contract and, in its stead, to insert in charters of corporations the rule that they shall be liable for injuries suffered by an employee through negligence of another employee. It merely substitutes the rule of respondeat superior for the common-law fellow-servant rule. 
+9
+ 
+
+ The power reserved by the State Constitution to the general assembly 'to alter, revoke or annul' any charter of incorporation is not a general authorization. Amendment may only be made whenever in the opinion of the general assembly the charter 'may be injurious to the citizens of this state' and then only 'in such manner, however, that no injustice shall be done to the corporators.' The enactment of section 7137 necessarily implies legislative determinations in accordance with these requirements. There is nothing in the record or of which judicial notice may be taken to negative the conclusions of the general assembly upon the matters specified or to show that the distinction made by the statute is a groundless and arbitrary discrimination against corporations. For aught that appears, conditions in Arkansas do not warrant belief that enforcement of the common-law fellow-servant rule as to employees' claims for damages 
+
+[297 U.S. 629, 637]
+ 
+ on account of personal injuries suffered by them in the service of employers other than those covered by section 7137 might be injurious to citizens of the state or that the abrogation of the rule would not be unjust to that class of employers. And justly, we think, it may be assumed that, if in Arkansas there existed facts sufficient to constitute the specified bases for legislative action in accordance with the constitutional provision, the general assembly would have abrogated the follow-servant rule and extended the one made by section 7137 to all employers. It is therefore plain that the legislative determinations required by the Constitution and presumably made by the general assembly adequately support the challenged classification and that as construed by the State Supreme Court in this case the statute is not repugnant to the equal protection clause of the Fourteenth Amendment. 
+10
+ 
+
+ We need not decide the question whether, independently of the reserved power to amend charters and of the bases for legislative action upon which the State Constitution conditions alterations, the provisions of section 7137 under consideration may be sustained as not repugnant to the equal protection clause.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] 'Hereafter all railroad companies operating within this State, whether incorporated or not, and all corporations of every kind and character, and every company whether incorporated or not, engaged in the mining of coal, who may empl y agents, servants or employees, such agents, servants or employees being in the exercise of due care, shall be liable to respond in damages for injuries or death sustained by any such agent, employee or servant, resulting from the careless omission of duty or negligence of such employer, or which may result from the carelessness, omission of duty or negligence of any other agent, servant or employee of the said employer, in the same manner and to the same extent as if the carelessness, omission of duty or negligence causing the injury or death was that of the employer.' 
+
+[
+Footnote 2
+] Ozan Lumber Co. v. Biddie, 87 Ark. 587, 113 S.W. 796; Soard v. Western Anthracite C. & M. Co., 92 Ark. 502, 123 S.W. 759; Missouri & N.A. R. Co. v. Vanzant, 100 Ark. 462, 466, 467, 140 S.W. 587; see Graham v. Thrall, 95 Ark. 560, 563, 129 S.W. 532. 
+[
+Footnote 3
+] Aluminum Co. v. Ramsey, 89 Ark. 522, 532, 117 S.W. 568; affirmed 
+222 
+U.S. 251
+, 32 S.Ct. 76; Missouri Valley Bridge & Iron Co. v. Malone, 153 Ark. 454, 461, 240 S.W. 719; Postal Telegraph-Cable Co. v. White, 190 Ark. 365, 368, 80 S.W.(2d) 633. 
+
+[
+Footnote 4
+] Western Union Tel. Co. v. Kansas, 
+216 
+U.S. 1, 27
+, 33 S., 30 S.Ct. 190; Ludwig v. Western Union Tel. Co., 
+216 
+U.S. 146
+, 30 S.Ct. 280; Looney v. Crane Co., 
+245 
+U.S. 178, 188
+, 38 S.Ct. 85; Terral v. Burke Const. Co., 
+257 
+U.S. 529
+, 42 S.Ct. 188, 21 A.L.R. 186; Fidelity & Deposit Co. v. Tafoya, 
+270 
+U.S. 426, 434
+, 46 S. Ct. 331; Hanover Ins. Co. v. Harding, 
+272 U.S. 494
+, 507, et seq., 47 S.Ct. 179, 49 A.L.R. 713; Power Mfg. Co. v. Saunders, 
+274 
+U.S. 490
+, 47 S.Ct. 678; Quaker City Cab Co. v. Pennsylvania, 
+277 
+U.S. 389, 400
+, 401 S., 48 S.Ct. 553; Washington v. Superior Court, 
+289 
+U.S. 361
+, 53 S.Ct. 624, 89 A.L.R. 653; Cf. Sioux Remedy Co. v. Cope, 
+235 
+U.S. 197, 203
+, 35 S.Ct. 57; Western Union Tel. Co. v. Foster, 
+247 
+U.S. 105, 114
+, 38 S.Ct. 438, 1 A.L.R. 1278; Frost Trucking Co. v. Railroad Comm., 
+271 U.S. 583
+, 593, et seq., 46 S.Ct. 605, 47 A.L.R. 457; Foster-Fountain Packing Co. v. Haydel, 
+278 
+U.S. 1, 13
+, 49 S.Ct. 1; United States v. Chicago, etc., R. Co., 
+282 
+U.S. 311, 328
+, 51 S. Ct. 159. 
+
+[
+Footnote 5
+] Tomlinson v. Jessup, 15 Wall. 454, 459; Miller v. State of New York, 15 Wall. 478, 488, 493 et seq.; Shields v. Ohio, 
+95 U.S. 319
+, 324; Boston Beer Co. v. Massachusetts, 
+97 U.S. 25
+, 33; Sinking Fund Cases, 
+99 U.S. 700
+, 720; Greenwood v. Union Freight Co., 
+105 U.S. 13
+, 17 et seq.; Close v. Glenwood Cemetery, 
+107 U.S. 466
+, 474-476, 2 S.Ct. 267; Lake Shore, etc., Railway Co. v. Smith, 
+173 
+U.S. 684, 698
+, 19 S.Ct. 565; Fair Haven R. Co. v. New Haven, 
+203 U.S. 379
+, 388 et seq., 27 S.Ct. 74; Berea College v. Kentucky, 
+211 
+U.S. 45, 57
+, 29 S.Ct. 33; Hammond Packing Co. v. Arkansas, 
+212 
+U.S. 322, 345
+, 346 S., 29 S.Ct. 370, 15 Ann.Cas. 645; Missouri Pac. Ry. Co. v. Kansas, 
+216 
+U.S. 262, 274
+, 30 S.Ct. 330; Chicago, Mil. & St. P.R. Co. v. Wisconsin, 
+238 
+U.S. 491, 501
+, 35 S.Ct. 869, L.R.A.1916A, 1133; Sears v. City of Akron, 
+246 
+U.S. 242, 248
+, 38 S. Ct. 245; Coombes v. Getz, 
+285 
+U.S. 434, 441
+, 2 S.Ct. 435; Public Serv. Comm. of Puerto Rico v. Havemeyer, 
+296 
+U.S. 506
+, 56 S.Ct. 360. 
+[
+Footnote 6
+] Looker v. Maynard, 
+179 
+U.S. 46, 52
+, 21 S.Ct. 21. 
+[
+Footnote 7
+] Texas & N.O.R. Co. v. Miller, 
+221 
+U.S. 408, 414
+, 31 S.Ct. 534. 
+
+[
+Footnote 8
+] Aluminum Co. v. Ramsey, 89 Ark. 522, 535, 117 S.W. 568, 573. 
+[
+Footnote 9
+] Union P. Railroad Company v. Fort, 17 Wall. 553, 559; Hough v. Texas & P. Railway Co., 100u.S. 213, 217; Randall v. Baltimore & Ohio R. Co., 
+109 
+U.S. 478, 483
+, 3 S.Ct. 322; Armour v. Hahn, 
+111 
+U.S. 313, 318
+, 4 S.Ct. 433; Chicago, Milwaukee & St. P.R. Co. v. Ross, 
+112 U.S. 377
+, 382 et seq., 5 S.Ct. 184; Northern Pacific R. Co. v. Herbert, 
+116 
+U.S. 642, 647
+, 6 S. Ct. 590; New York Central R. Co. v. White, 
+243 
+U.S. 188, 198
+, 199 S., 37 S.Ct. 247, L.R.A.1917D, 1, Ann.Cas. 1917D, 629. Cf. Standard Oil Co. v. Anderson, 
+212 
+U.S. 215, 220
+, 29 S.Ct. 252. 
+
+[
+Footnote 10
+] Lindsley v. Natural Carbonic Gas Co., 
+220 
+U.S. 61, 78
+, 79 S., 31 S.Ct. 337, Ann.Cas.1912C, 160; Rast v. Van Deman & Lewis Co., 
+240 
+U.S. 342, 357
+, 36 S.Ct. 370, L.R.A.1917A, 421, Ann.Cas.1917B, 455; O'Gorman & Young v. Hartford Ins. Co., 
+282 
+U.S. 251, 257
+, 51 S.Ct. 130, 72 A.L.R. 116 ; Concordia Ins. Co. v. Illinois, 
+292 
+U.S. 535, 547
+, 54 S.Ct. 830. Cf. Quaker City Cab Co. v. Pennsylvania, 
+277 
+U.S. 389, 399
+, 48 S.Ct. 553. 
+
+
+
+

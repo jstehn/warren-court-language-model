@@ -1,0 +1,50 @@
+Description: YATES v. UTICA BANK , 206 U.S. 181 (1907)
+Date: 1907-05-13 00:00:00
+Docket: 231
+Opinion
+
+
+United States Supreme Court
+YATES v. UTICA BANK(1907)
+No. 231
+Argued: Decided: May 13, 1907
+
+
+
+
+[206 U.S. 181, 182]
+ 
+ Messrs. Halleck F. Rose, J. W. Deweese, and Frank E. Bishop for plaintiffs in error.
+ Messrs. Lionel C. Burr, John J. Thomas, Charles L. Burr, Richard S. Norval, and William B. C. Brown for defendant in error.
+
+ Mr. Justice White delivered the opinion of the court:
+ These are the actions referred to in the opinion just announced in No. 230, Yates v. Jones Nat. Bank [
+206 U.S. 158
+, 51 L. ed. 1002, 27 Sup. Ct. Rep. 638], as companion actions with that case and as having been tried with it. The issues raised below and the questions of law which here arise for decision are, therefore, the same as in No. 230, and the reasons given in the opinion in that case require a reversal of the judgments in these.
+ In the Bailey Case (No. 232), however, there is a question not presented in the others, which, if determined in favor of the plaintiffs in error in that case, will finally settle that particular controversy. Referring, therefore, to the opinion in the Jones Nat. Bank Case for the general grounds of reversal in the three cases, we come to consider the particular ground which is additionally relied upon in the Bailey Case as establishing that the decree of reversal in that case should be made conclusive of the entire controversy.
+ By a 'second defense,' the defendants pleaded as res judicata a judgment asserted to have been rendered in their favor in an action brought by the same plaintiff in Lancaster county, Nebraska, which was removed into the circuit court 
+
+[206 U.S. 181, 183]
+ 
+ of the United States, where, upon the sustaining of a demurrer to the petition, a judgment of dismissal was entered which was, by the circuit court of appeals, affirmed. 11 C. C. A. 304, 27 U. S. App. 339, 63 Fed. 488.
+ Despite the introduction in evidence of the judgment roll in the case just referred to, which, for convenience, we term the Lancaster county action, the jury in this case, over the objection and exception of the defendants, were in effect instructed that the judgment in the former action did not operate as a bar to a recovery in the present case. Each defendant, in a motion for a new trial, alleged the commission of error by the court in 'failing to give full faith and credit' to the judgment of the circuit court of appeals in the Lancaster county action. The supreme court of Nebraska considered the subject, and as its conclusion was that the judgment of the circuit court of appeals was not res judicata of the issues in this cause, it therefore decided that, in refusing to give effect of res judicata to such judgment, the trial court had not wrongfully denied the validity of an authority exercised under the United States. The correctness of this conclusion is the particular question to be considered which, as we have said, distinguishes this case from the others.
+ Whilst the court below found that the Lancaster county action was between the same parties, and, in its opinion, was based substantially upon the same facts, as in the present action, it based its ruling denying the effect of res judicata to the prior judgment upon the conclusion that, taking into view both the pleadings and the opinion in the previous action, it must be considered as certain that the case involved a different cause of action from the one presented here. In so concluding we think the court was right.
+ The judgment relied upon was rendered upon a demurrer. This fact, however, does not affect the cogency of the judgment if otherwise efficacious to bring into play the presumption of the thing adjudged. Northern P. R. Co. v. Slaght, 
+205 
+U.S. 122, 133
+, 51 S. L. ed. 738, 27 Sup. Ct. Rep. 442, and authorities there cited. To determine whether the judgment in the former case was conclusive in 
+
+[206 U.S. 181, 184]
+ 
+ this, in view of its uncertainty, we must address ourselves to the pleadings in that case and consider the opinion of the court for the purpose of ascertaining precisely what was concluded by the judgment upon the demurrer. National Foundry & Pipe Works v. Oconto Water Supply Co. 
+183 
+U.S. 216, 234
+, 46 S. L. ed. 157, 169, 22 Sup. Ct. Rep. 111, and cases cited. Coming to do so, we find that the demurrer was sustained on the ground that no cause of action in favor of the plaintiff was stated in the petition, because the circuit court of appeals was of the opinion that the petition only stated a right to recover for violations of the national bank act, causing damage to the bank as such, the right to recover for which was an asset of the bank, enforceable only by its receiver. In so deciding the court expressly held that the averments in the petition relative to the fraud and deceit claimed to have been practised upon the plaintiff through reports to the Comptroller of the Currency were mere matter of inducement or surplusage, and did not constitute averments of a substantive cause of action. In other words, the previous case was decided exclusively upon the ground that, as the plaintiff had not set up any individual wrong suffered by him, but solely an injury sustained in common with all other creditors of the bank, the resulting damage was only recoverable by the receiver. As, adopting the construction given in the Jones Nat. Bank Case to a petition like unto the one in this case, we hold that the petition in this case sets up a right to recover for the individual loss suffered as distinct from the right of the bank, it follows, if we accept the construction given by the circuit court of appeals to the pleadings in the case wherein the judgment relied upon was rendered, that case and this involve different causes of action. But it is insisted that if a correct analysis be made of the facts set out in the previous case the result will be to demonstrate that that case and this are identical, and, therefore, the judgment in the previous case is controlling here. This, however, is but to assert that the previous judgment was wrong, and, therefore, in determining its effect as res judicata we must treat it as embracing matters which it did not include. To 
+
+[206 U.S. 181, 185]
+ 
+ give full force and effect to the judgment we must necessarily exclude those things which the judgment excluded. To hold to the contrary would be to decide that the former judgment must be accepted as correct, and yet it must be extended to controversies which are beyond its reach, because the judgment was wrongfully rendered.
+ The same judgment must therefore be ordered in each of these cases as was directed to be entered in the Jones Nat. Bank Case, viz., as to Mosher and Outcalt, two of the persons named as plaintiffs in the writ of error and citation, the writ of error in each action is dismissed for want of prosecution; as to the other plaintiffs in error, the judgment below in each action is reversed and the case is remanded for further proceedings not inconsistent with this opinion. 
+
+
+

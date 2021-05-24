@@ -1,0 +1,43 @@
+Description: BACON v. RUTLAND R. CO. , 232 U.S. 134 (1914)
+Date: 1914-01-19 00:00:00
+Docket: 760
+Opinion
+
+
+United States Supreme Court
+BACON v. RUTLAND R. CO.(1914)
+No. 760
+Argued: January 9, 1914Decided: January 19, 1914
+
+
+
+
+[232 U.S. 134, 135]
+ 
+ Messrs. Frederic D. McKenney, John Spalding Flannery, William Hitz, and Robert C. Bacon for appellants.
+
+
+
+[232 U.S. 134, 136]
+ 
+ Mr. Edwin W. Lawrence for appellee.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a bill in equity, brought by the appellee, the railroad company, to restrain the Public Service Commission of Vermont from enforcing an order concerning a passenger station of the company at Vergennes. The order is alleged to violate the 14th Amendment. The commission moved to dismiss the bill on the ground that until the appellee had taken the appeal from the order to the supreme court of the state that is provided 
+
+[232 U.S. 134, 137]
+ 
+ for by Pub. Stat. (Vt.) 1906,  4599, 4600, it ought not to be heard to complain elsewhere. The motion was overruled, and the defendants not desiring to pleead, an injunction was issued as prayed.
+ The defendants rely upon Prentis v. Atlantic Coast Line Co. 
+211 
+U.S. 210, 229
+, 230 S., 53 L. ed. 150, 160, 29 Sup. Ct. Rep. 67. The ground of that decision was that by the state Constitution an appeal to the supreme court of appeals from an order of the state corporation commission, fixing rates, was granted, with power to the court to substitute such order as, in its opinion, the commission should have made. The court was given legislative powers, and it was held that in the circumstances it was proper, before resorting to the circuit court of the United States, to make sure that the officials of the state would try to establish an unconstitutional rule. But it was laid down expressly that at the judicial stage the railroads had a right to resort to the courts of the United States at once. p. 228. Therefore before that case can apply it must be established at least that legislative powers are conferred upon the supreme court of the state of Vermont.
+ The appeal in Vermont is given by statute, not by the Constitution, which separates legislative, executive, and judicial powers. Chap. 2,  6. The material provisions are as follows:  4599. 'Any party to a cause who feels himself aggrieved by the final order, judgment, or decree of said . . . [commission] shall have the right to take the cause to the supreme court by appeal, for the correction of any errors excepted to in its proceedings, or in the form or substance of its orders, judgments, and decrees, on the facts found and reported by said . . . [commission].' By  4600 appeals are to be taken in the manner and under the laws and rules of procedure that govern appeals from the court of chancery. 'The supreme court shall have the same power therein as it has over appeals from such court. It may reverse or affirm the judgments, orders, or decrees of said . . . [commission] 
+
+[232 U.S. 134, 138]
+ 
+ and may remand a cause to said . . . [commission] with such mandates as law or equity shall require; and said . . . [commission] shall enter judgment, order, or decree in accordance with such mandates.' Pub. Stat. 1906. It is apparent on the face of these sections that they do not attempt to confer legislative powers upon the court. They only provide an alternative and more expeditious way of doing what might be done by a bill in equity. Whether the alternative is exclusive or concurrent, whether it opens matters that would not be open upon a bill or not, if exceptions are taken (which does not appear in this case), is immaterial; the remedy in any event is purely judicial: to exonerate the appellant from an order that exceeds the law. This, we underatand, is the view taken by the supreme court of the state (Bacon v. Boston & M. R. Co. 83 Vt. 421, 457, 76 Atl. 128; Sabre v. Rutland R. Co. 86 Vt. 347, 368, 369, 85 Atl. 693; and this being so, by the rule laid down in Prentis v. Atlantic Coast Line Co., the railroad company was free to assert its rights in the district court of the United States.
+ Decree affirmed. 
+
+
+

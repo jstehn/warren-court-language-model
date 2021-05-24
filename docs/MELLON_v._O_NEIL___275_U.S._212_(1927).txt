@@ -1,0 +1,69 @@
+Description: MELLON v. O'NEIL , 275 U.S. 212 (1927)
+Date: 1927-11-21 00:00:00
+Docket: 74
+Opinion
+
+
+United States Supreme Court
+MELLON v. O'NEIL(1927)
+No. 74
+Argued: Decided: November 21, 1927
+
+
+
+
+[275 U.S. 212, 213]
+ 
+ Messrs. Clifton P. Williamson and Herbert S. Ogden, both of New York City, for plaintiff in error.
+ Mr. Nathan Ballin, of New York City, for defendant in error.
+
+ Mr. Justice SANFORD delivered the opinion of the Court.
+ The record presents a preliminary question as to our jurisdiction under the writ of error.
+ The writ is brought to review a judgment of the Appellate Division of the Supreme Court of New York, which affirmed, without opinion, a judgment rendered at Trial Term against the plaintiff in error, as Agent designated by the President under the Transportation Act of 1920 (49 USCA  74; Comp. St.  10071 1/4 cc). O'Neill v. Davis, 215 App. Div. 766, 213 N. Y. S. 871. Leave to appeal to the Court of Appeals was denied both by the Appellate Division and by the Court of Appeals; and the judgment of the Appellate Division thereby became the final decision of the highest court of the State in which a decision could be had.
+ This judgment was entered after the Jurisdictional Act of 19251 took effect. The only error assigned here 
+
+[275 U.S. 212, 214]
+ 
+ that presents a ground for the writ of error under section 237 of the Judicial Code as amended by section 1 of this Act (28 USCA  344; Comp. St .  1214),2 is that the provisions of the New York Civil Practice Act relating to the amendment of process and substitution of parties, as applied in allowing the substitution of the predecessor of the plaintiff in error as the party defendant, are invalid because of repugnancy to the laws of the United States.
+ The record, however, does not show that this question was either presented to or passed upon by the Appellate Division. No reference to the Practice Act or challenge to its validity appears in the proceedings either at Trial Term or in the Appellate Division. 
+3
+ 
+
+ It has long been settled that this Court acquires no jurisdiction to review the judgment of a state court of last resort on writ of error, unless it affirmatively appears upon the face of the record that a federal question constituting an appropriate ground for such review was presented in and expressly or necessarily decided by such state court. Whitney v. California, 
+274 
+U.S. 357, 360
+, 47 S. Ct. 641; 
+
+[275 U.S. 212, 215]
+ 
+ and cases cited, It is not enough that there may be somewhere hidden in the record a question which if it had been raised would have been of a federal nature. Dewey v. Des Moines, 
+173 
+U.S. 193, 199
+, 19 S. Ct. 379; Keokuk & Hamilton Bridge Co. v. Illinois, 
+175 
+U.S. 626, 634
+, 20 S. Ct. 205; Whitney v. California, supra, 362 (47 S. Ct. 641).
+ For these reasons the writ of error must be dismissed. And, regarding the writ, under the Jurisdictional Act, as a petition for certiorari, it is denied.
+ Writ of error dismissed for want of jurisdiction; certiorari denied. 
+
+Footnotes
+
+[
+Footnote 1
+] 43 Stat. 936, c. 229, printed as an Appendix to the Revised Rules of this Court, 
+266 U.S. 687
+. 
+
+[
+Footnote 2
+] Section 237(a) of the Judicial Code, as thus amended, now provides that: 'A final judgment or decree in any suit in the highest court of a State in which a decision in the suit could be had, where is drawn in question the validity of a treaty or statute of the United States, and the decision is against its validity; or where is drawn, in question the validity of a statute of any State, on the ground of its being repugnant to the Constitution, treaties, or laws of the United States, and the decision is in favor of its validity, may be reviewed by the Supreme Court upon a writ of error.' 
+[
+Footnote 3
+] In this respect the present case is essentially different from Davis v. Cohen Co., 
+268 
+U.S. 638, 640
+, 45 S. Ct. 633, in which the plaintiff in error had at the outset challenged the validity of any provisions of the Massachusetts laws purporting to authorize the proceeding by which he had been substituted as the party defendant, as being repugnant to the Transportation Act, and had preserved this objection at every stage of the case. 
+
+
+
+

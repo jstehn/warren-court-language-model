@@ -1,0 +1,58 @@
+Description: BANK OF MINDEN v. CLEMENT , 256 U.S. 126 (1921)
+Date: 1921-04-11 00:00:00
+Docket: 238
+Opinion
+
+
+United States Supreme Court
+BANK OF MINDEN v. CLEMENT(1921)
+No. 238
+Argued: Decided: April 11, 1921
+
+
+
+
+[256 U.S. 126, 127]
+ 
+ Mr. Hampden Story, of Shreveport, La., for plaintiffs in error.
+ Mr. J. D. Wilkinson, of Shreveport, La., for defendant in error.
+
+ Mr. Justice McREYNOLDS delivered the opinion of the Court.
+ By Act No. 189 of 1914 the Louisiana Legislature undertook to exempt from debts of the assured the avails of insurance upon his life when payable to his estate.
+ Before passage of that act and while indebted to plaintiffs in error banks by notes which were renewed from time to time until his death, O. P. Clements took out two policies upon his life with loss payable to his executors, administrators or assigns. He died in 1917 and his administratrix collected the stipulated sums amounting to $4,433.33. The succession was insolvent, and the banks sought to subject the insurance money to their claims, maintaining that if construed and applied so as to exempt such funds the act of 1914 would impair the obligations of their contracts and violate section 10, article 1, federal Constitution. The Supreme Court of the state held that acceptance of the renewal notes did not operate as novations, but that the statute protected the insurance money without violating the federal Constitution since the exemption 'impaired the obligation of the pre-existing contract very slightly and remotely.' 146 La. 385, 83 South. 664.
+ Section 10, article 1, of the Constitution-'No state shall ... pass any ... law impairing the obligation of contracts'-has been much considered by this court and often applied to preserve the integrity of contractual obligations. 
+
+[256 U.S. 126, 128]
+ 
+ When the deceased took out the policies of insurance upon his life they became his property, subject to claims of his creditors. N. Y. Mutual Life Ins. Co. v. Armstrong, 
+117 
+U.S. 591, 597
+, 6 S. Sup. Ct. 877; Central National Bank v. Hume, 
+128 
+U.S. 195, 204
+, 9 S. Sup. Ct. 41; Burlingham v. Crouse, 
+228 
+U.S. 459, 471
+, 472 S., 33 Sup. Ct. 564, 46 L. R. A. (N. S.) 148; In re Coleman, 136 Fed. 818, 69 C. C. A. 496; In re Bonvillain (D. C.) 232 Fed. 372; Blinn v. Dame, 207 Mass. 159, 93 N. E. 601, 20 Ann. Cas. 1184; In re Heilbron, 14 Wash. 536, 45 Pac. 153, 35 L. R. A. 602; Rice v. Smith, 72 Miss. 42, 16 South. 417; Skinner v. Holt, 9 S. D. 427, 69 N. W. 595, 62 Am. St. Rep. 878; Joyce on Insurance,  2341
+
+
+ In Sturges v. Crowninshield, 4 Wheat. 197, 198 (4 L. Ed. 529), opinion by Mr. Chief Justice Marshall, it was said:
+'What is the obligation of a contract and what will impair it? It would seem difficult to substitute words which are more intelligible, or less liable to misconstruction, than those which are to be explained. A contract is an agreement in which a party undertakes to do, or not to do, a particular thing. The law binds him to perform his undertaking, and this is, of course, the obligation of his contract. ... Any law which releases a part of this obligation must, in the literal sense of the word, impair it. ... But it is not true that the parties have in view only the property in possession when the contract is formed, or that its obligation does not extend to future acquisitions. Industry, talents, and integrity constitute a fund which is as confidently trusted as property itself. Future acquisitions are, therefore, liable for contracts; and to release them from this liability impairs their obligation.'
+
+ And in Planters' Bank v. Sharp, 6 How. 327, opinion by Mr. Justice Woodbury:
+'One of the tests that a contract has been impaired is that its value has by legislation been diminished. It is not, by the Constitution, to be impaired at all. This is not a question of degree or manner or cause, but of encroaching in any respect on its obligation, dispensing with any part of its force.'
+
+ Ogden v. Saunders, 12 Wheat. 213, 257; 
+
+[256 U.S. 126, 129]
+ 
+ McCracken v. Hayward, 2 How. 608, 612; Edwards v. Kearzey, 
+96 U.S. 594
+, 600.
+ So far as the statute of 1914 undertook to exempt the policies and their proceeds from antecedent debts it came into conflict with the federal Constitution. See Lessley v. Phipps, 49 Miss. 790; Johnson v. Fletcher, 54 Miss. 628, 28 Am. Rep. 388; Rice v. Smith, 72 Miss. 42, 16 South. 417; In re Heilbron, 14 Wash. 536, 45 Pac. 153, 35 L. R. A. 602; Skinner v. Holt, 9 S. D. 427, 69 N. W. 595, 62 Am. St. Rep. 878; Homestead Cases, 22 Grat. (Va.) 266, 12 Am. Rep. 507.
+ The judgment of the court below must be reversed, and the cause remanded for further proceedings not inconsistent with this opinion.
+REVERSED.
+ Mr. Justice CLARKE dissents. 
+
+
+

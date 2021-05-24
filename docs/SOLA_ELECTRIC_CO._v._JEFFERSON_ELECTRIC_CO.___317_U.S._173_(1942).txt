@@ -1,0 +1,111 @@
+Description: SOLA ELECTRIC CO. v. JEFFERSON ELECTRIC CO. , 317 U.S. 173 (1942)
+Date: 1942-12-07 00:00:00
+Docket: 45
+Opinion
+
+
+United States Supreme Court
+SOLA ELECTRIC CO. v. JEFFERSON ELECTRIC CO.(1942)
+No. 45
+Argued: October 23, 1942Decided: December 7, 1942
+
+
+
+ Messrs. J. Bernhard Thiess, Leslie W. Fricke, and Sidney Neuman, all of Chicago, Ill., for petitioner.
+ Mr. Thomas H. Sheridan, of Chicago, Ill., for respondent.
+
+ Mr. Chief Justice STONE delivered the opinion of the Court.
+ The question for our decision is whether a patent licensee, by virtue of his license agreement, is estopped to challenge a price-fixing clause in the agreement by showing that the patent is invalid, and that the price restriction is accordingly unlawful because not protected by the patent monopoly.
+ Respondent brought the present suit in the District Court for the Northern District of Illinois, asserting di- 
+
+[317 
+U.S. 173, 174]
+ 
+ versity of citizenship, and alleging that it was the owner op Patent No. 1777256 for improvements in an electrical transformer; that it had entered into a license contract granting petitioner a nonexclusive license to manufacture and sell the patented transformers throughout the United States, its territories, dependencies and possessions, on payment of a stipulated royalty upon each transformer so manufactured and sold. The contract provided that the license was granted on condition that the 'prices, terms, and conditions of sale, for use or sale' throughout the licensed territory should not be more favorable to petitioner's customers than those prescribed from time to time by respondent for its own sales and those of its other licensees. Respondent sought recovery of unpaid royalties and also an injunction restraining further sales except in conformity to the terms of the license agreement.
+ Petitioner by its answer admitted that it had manufactured two types of transformers, one covered by certain narrow claims of the patent, claims 8, 14 and 19, the validity of which it does not challenge, the other alleged to be covered by certain broader claims. Petitioner also filed a counterclaim alleging that the broad claims are invalid for want of novelty, as it asserted had been recognized in the Sixth Circuit in France Mfg. Co. v. Jefferson Electric Co., 106 F.2d 605; and that respondent by reason of the price control provisions of the licensing contract and the invalidity of the broad claims was not entitled to recover royalties upon those transformers covered only by the broad claims. Petitioner accordingly prayed a declaratory judgment that most of the claims except 8, 14 and 19, are invalid, and for other relief.
+ The Circuit Court of Appeals for the Seventh Circuit affirmed the district court's order dismissing the counterclaim, 125 F.2d 322, ruling that petitioner, having accepted a license under the patent, was estopped to deny its validity. And, treating the patent as valid, it held 
+
+[317 
+U.S. 173, 175]
+ 
+ that the stipulation for control of the sales price of the patented articles manufactured by the licensee was a lawful exercise of the patent monopoly. We granted certiorari, 
+316 
+U.S. 652
+, 62 S.Ct. 946, the question being of importance to the administration of the patent laws and the Sherman Anti-Trust Act, 15 U.S.C.A.  1 et seq.
+ The Circuit court of appeals, in holding that petitioner as a licensee was estopped to challenge the validity of the patent, did not say whether it considered that it was applying a rule of federal or of state law, and it cited no decisions of either the federal or the Illinois courts. Where no pricefixing stipulation was involved in the license contract, this rule of estoppel, which was not questioned by counsel, was applied without discussion in United States v. Harvey Steel Co., 
+196 
+U.S. 310
+, 25 S.Ct. 240; cf. Kinsman v. Parkhurst, 18 How. 289. We need not decide whether in such a case the rule is one of local law, cf. Dale Tile Mfg. Co. v. Hyatt, 
+125 
+U.S. 46, 53
+, 54 S., 8 S.Ct. 756, 758, 759, or whether, if it be regarded as a rule of federal law because the construction and application of the patent laws are involved, it was rightly applied in United States v. Harvey Steel Co., supra. For here a different question is presented-whether the doctrine of estoppel as invoked below is so in conflict with the Sherman Act's prohibition of price-fixing that this Court may resolve the question even though its conclusion be contrary to that of a state court.
+ The present license contract contemplates and requires that petitioner, on sales of the licensed transformers throughout the United States, shall conform to the prices fixed by respondent for the sale of competing patented articles by other licensees and by respondent. Such a restriction on the price of articles entering interstate commerce is a violation of the Sherman Act save only as it is within the protection of a lawfully granted patent monopoly. See United States v. Univis Lens Co., 
+316 
+U.S. 241, 250
+, 62 S.Ct. 1088, 1093, and cases cited; United States v. Masonite Corp., 
+
+[317 
+U.S. 173, 176]
+ 
+ 
+316 
+U.S. 265, 275
+, 277 S., 62 S.Ct. 1070, 1076, 1077. Agreements fixing the competitive sales price of articles moving interstate, not within the protection of a patent, are unlawful because prohibited by the Sherman Act.
+ It is familiar doctrine that the prohibition of a federal statute may not be set at naught, or it benefits denied, by state statutes or state common law rules. In such a case our decision is not controlled by Erie Railroad v. Tompkins, 
+304 
+U.S. 64
+, 58 S.Ct. 817, 114 A.L.R. 1487. There we followed state law because it was the law to be applied in the federal courts. But the doctrine of that case is inapplicable to those areas of judicial decision within which the policy of the law is so dominated by the sweep of federal statutes that legal relations which they affect must be deemed governed by federal law having its source in those statutes, rather than by local law. Royal Indemnity Co. v. United States, 
+313 
+U.S. 289, 296
+, 61 S.Ct. 995, 997; Prudence Realization Corp. v. Geist, 
+316 
+U.S. 89, 95
+, 62 S.Ct. 978, 982; Board of Com'rs of Jackson County v. United States, 
+308 
+U.S. 343, 349
+, 350 S., 60 S. Ct. 285, 287, 288; cf. O'Brien v. Western Union Telegraph Co ., 1 Cir., 113 F.2d 539, 541. When a federal statute condemns an act as unlawful the extent and nature of the legal consequences of the condemnation, though left by the statute to judicial determination, are nevertheless federal questions, the answers to which are to be derived from the statute and the federal policy which it has adopted. To the federal statute and policy, conflicting state law and policy must yield. Constitution, Art. VI, cl. 2; Awotin v. Atlas Exchange Nat. Bank, 
+295 
+U.S. 209
+, 55 S.Ct. 674; Deitrick v. Greaney, 
+309 
+U.S. 190, 200
+, 201 S., 60 S.Ct. 480, 484, 485.
+ The federal courts have been consistent in holding that local rules of estoppel will not be permitted to thwart the purposes of statutes of the United States. See, in the case of federal statutes governing interstate freight rates, Pittsburgh, C.C. & St. L. Ry. Co. v. Fink, 
+250 
+U.S. 577, 582
+, 583 S., 40 S.Ct. 27, 28; Chesapeake & Ohio Ry. v. Martin, 
+283 
+U.S. 209
+, 220-223, 51 S.Ct. 453, 457, 458; cf. Atchison, Topeka & S.F. Ry. v. Harold, 
+
+[317 
+U.S. 173, 177]
+ 
+ 
+241 
+U.S. 371
+, 36 S.Ct. 665; and federal statutes affecting national banks, Awotin v. Atlas Exchange Bank, supra; Deitrick v. Greaney, supra.
+ A state by applying its own law of specific performance may not compel the performance of a contract contemplating violation of the federal land laws, Anderson v. Carkins, 
+135 
+U.S. 483
+, 10 S.Ct. 905. Similarly this Court has declared that anyone sued upon a contract may set up as a defense that it is in violation of the Sherman Act. E. Bement & Sons v. National Harrow Co., 
+186 
+U.S. 70, 88
+, 22 S.Ct. 747, 754. And it has proceeded on the assumption that whether the parties to an agreement in violation of the Act are in pari delicto is a question of federal, not state, law. Harriman v. Northern Securities Co., 
+197 
+U.S. 244
+, 25 S.Ct. 493; Eastman Kodak Co. v. Southern Photo Material Co., 
+273 
+U.S. 359, 376
+, 378 S., 47 S.Ct. 400, 404, 405. It decided in Continental Wall Paper Co. v. Voight & Sons Co., 
+212 
+U.S. 227
+, 29 S.Ct. 280, that a vendee of goods purchased from an illegal combination in pursuance of an illegal agreement, both in violation of the Sherman Act, can plead the illegality in defense to a suit for the purchase price. This decision went much further than it is necessary to go here to conclude that petitioner may assert the illegality of the price-fixing agreement and may offer any competent evidence to establish its illegality, including proof of the invalidity of the patent.
+ Local rules of estoppel which would fasten upon the public as well as the petitioner the burden of an agreement in violation of the Sherman Act must yield to the Act's declaration that such agreements are unlawful, and to the public policy of the Act which in the public interest precludes the enforcement of such unlawful agreements. Cf. Morton Salt Co. v. G. S. Suppiger Co., 
+314 
+U.S. 488, 492
+, 493 S., 62 S.Ct. 402, 405.
+ Reversed. 
+
+
+

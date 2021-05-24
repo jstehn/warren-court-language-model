@@ -1,0 +1,38 @@
+Description: PULLMAN CO. v. ADAMS , 189 U.S. 420 (1903)
+Date: 1903-03-02 00:00:00
+Docket: 138
+Opinion
+
+
+United States Supreme Court
+PULLMAN CO. v. ADAMS(1903)
+No. 138
+Argued: Decided: March 2, 1903
+
+
+
+ Messrs. William Burry and J. S. Runnells for plaintiff in error.
+ Messrs. Marcellus Green, W. R. Harper, and W. H. Potter for defendant in error.
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is an action for taxes, brought by the revenue agent of the state of Mississippi against the Pullman Company. The defendant in due form raised the objection that the tax law 
+
+[189 U.S. 420, 421]
+ 
+ was void as an interference with commerce between the states. Judgment was given for the plaintiff in the local state court, and the judgment was affirmed by the supreme court of the state. 78 Miss. 814, 30 So. 757. The case then was brought here by writ of error.
+ The tax in question was imposed by the following sections of the Mississippi Code of 1892: ' 3317. A tax on privileges is levied as follows, to wit: . . .  3387. Sleeping car companies: On each sleeping and palace car company carrying passengers from one point to another within the state, $100, and 25 cents per mile for each mile of railroad track over which the company runs its cars.' We assume that the last words mean what afterwards was expressed by an amendment, 'over which the company runs its cars in this state.'
+ The Pullman Company is an Illinois corporation. Its sleeping cars were carried by various railroad companies, and all of them were carried into the state from another state, or out of the state to another state, or both. But such cars in their passage also carried passengers from point to point within the state, and a specific fare was collected by the servants of the Pullman Company. The company attempted by pleas and by an offer of evidence to bring before the court the fact that its receipts from this class of passengers did not equal the expenses chargeable against such receipts. It contended that these facts would show that the business within the state was merely a burden on its commerce between the states, while at the same time, it argued, it was compelled to assume that burden by  195 of the state Constitution, which declares sleeping car companies to be common carriers and subject to liability as such. The pleas were held bad on demurrer, the evidence was rejected, and the jury was instructed to find for the plaintiff on the facts admitted. These rulings and the refusal of the court to declare the above-mentioned  3387 unconstitutional are the errors assigned.
+ If the clause of the state Constitution referred to were held to impose the obligation supposed and to be valid, we assume without discussion that the tax would be invalid. For then it 
+
+[189 U.S. 420, 422]
+ 
+ would seem to be true that the state Constitution and the statute combined would impose a burden on commerce between the states analogous to that which was held bad in Crutcher v. Kentucky, 
+141 U.S. 47
+, 35 L. ed. 649, 11 Sup. Ct. Rep. 851. On the other hand, if the Pullman Company, whether called a common carrier or not, had the right to choose between what points it would carry, and therefore to give up the carriage of passengers from one point to another within the state, the case is governed by Osborne v. Florida, 
+164 U.S. 650
+, 41 L. ed. 586, 17 Sup. Ct. Rep. 214. The company cannot complain of being taxed for the privilege of doing a local business which it is free to renounce. Both parties agree that the tax is a privilege tax.
+ As the validity of the tax is thus bound up with the effect of the section of the state Constitution, we think that the Pullman Company was entitled to know how it stood under the latter, and that a judgment against it could not be justified by reasoning which leaves that point obscure. We are somewhat embarrassed in dealing with the case, because we are not quite certain whether we rightly interpret the intimations upon the subject in the judgment under review. If the Constitution of Mississippi should be read as imposing an obligation to take local passengers, the question for us might be which, if not both, the clause of the Constitution or the tax act, is invalid. But we assume that the opinion of the supreme court of Mississippi intends to meet the difficulty frankly, and when it says that the argument against the tax drawn from the above interpretation of the Constitution is fallacious, we take it as meaning that no such interpretation will be attempted in the future, and we take it so the more readily that we can see no ground for a different view. If we are right in our understanding the judgment of the supreme court was correct for the reason sufficiently stated above.
+ Judgment affirmed. 
+
+
+

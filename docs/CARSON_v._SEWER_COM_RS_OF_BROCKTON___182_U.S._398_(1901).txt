@@ -1,0 +1,100 @@
+Description: CARSON v. SEWER COM'RS OF BROCKTON , 182 U.S. 398 (1901)
+Date: 1901-05-27 00:00:00
+Docket: 249
+Opinion
+
+
+United States Supreme Court
+CARSON v. SEWER COM'RS OF BROCKTON(1901)
+No. 249
+Argued: Decided: May 27, 1901
+
+
+
+ This was a petition to the justices of the supreme judicial court for the county of Suffolk, for a writ of certiorari to the board of sewer commissioners of the city of Brockton, directing them to bring up certain proceedings connected with the assessment of taxes upon petitioner's land to the amount of $42.53, for the maintenance and operation of a public sewer, and for an order quashing the proceedings.
+ The petitioner alleged the assessment to be illegal and void:
+
+ 1. 
+Because the city ordinance does not provide for notice to or hearing of persons whose estates are affected thereby, in violation of the state Constitution;
+
+ 2. 
+Because the method of computing the sewer charges is unreasonable and disproportionate;
+
+ 3. 
+Because petitioner, having already paid for the sewers connected with his land, cannot be compelled to pay a special tax for the maintenance and operation of sewers from which he receives no special benefit;
+
+ 4. 
+Because such tax or sewer rental is in violation of the 14th Amendment to the Federal Constitution;
+
+ 5. 
+Because such tax is permissible only when founded upon peculiar and special benefits to the property so taxed, and then only to the amount of such benefits; 
+
+[182 U.S. 398, 399]
+ 
+ 6. Because lands assessed for the construction of sewers cannot be said to receive an additional and special and peculiar benefit from the general oversight and operation of the same.
+ By an act of the legislature of Massachusetts, passed in 1892 [chap. 245], 'to give greater powers to cities and towns in relation to the construction of sewers,' it was enacted as follows:
+'Sec. 1. The city council of any city except Boston, or a town in which common sewers are laid under the provisions of  1, 2, and 3 of chapter 50 of the Public Statutes, or a system of sewerage is adopted under the provisions of  7 of said chapter, may by vote establish just and equitable annual charges or rents for the use of such sewers, to be paid by every person who enters his particular sewer into the common sewer, and may change the same from time to time. Such charges shall constitute a lien upon the real estate using such common sewer, to be collected in the same manner as taxes upon real estate, or in an action of contract in the name of such city or town. Sums of money so received may be applied to the payment of the cost of maintenance and repairs of such sewers or of any debt contracted for sewer purposes.'
+
+ Pursuant to this authority the city council of Brockton, on August 23, 1894, adopted an ordinance, of which the following is the material provision:
+'Sec. 4. Every person or owner of an estate who enters his particular sewer into a common sewer shall pay for the use of such sewer an annual rental determined upon the basis of water service, as follows: For unmetered water service, $8; for metered water service, 30 cents per 1,000 gallons of sewage delivered to the sewer, the quantity so delivered to be determined by the meter readings taken by the water commissioners, but the annual charge shall in no case be less than $8, it being provided, however, that in cases where said commissioners shall deem the same to be equitable, a discount may be made, such discount to be determined by said commissioners and approved by the mayor and aldermen; and it being further provided that any such person or owner may place at his own expense a water meter, which shall be approved 
+
+[182 U.S. 398, 400]
+ 
+ by the said commissioners, to measure the amount of water which does not enter the sewer.
+
+'Such charges shall be collected quarterly, and shall constitute a lien upon the real estate using the sewer, to be collected in the same manner as taxes upon real estate, or in an action of contract in the name of the city of Brockton.'
+
+ The petition was denied, and petitioner sued out this writ of error.
+ Mr. William H. Carson in propria persona.
+ No brief filed for defendants in error.
+
+ Mr. Justice Brown delivered the opinion of the court:
+ This case involves the single question whether a municipal ordinance making an annual assessment upon property owners for the use of a common sewer infringes upon any provision of the Constitution of the United States.
+ The supreme judicial court of Massachusetts held that the petitioner received a special benefit in the use of the sewer for which he might be charged; that the city, by building the sewer and receiving a part of its cost from the petitioner, did not bind itself that the sewer should be maintained forever, or that the petitioner should be at liberty to use it free of further expense; that the charge for using it was a benefit distinct from that originally conferred by building it; that there was no charge unless the sewer were used; that the only questions were whether petitioner's sewer entered the common sewer, and what amount of sewage was delivered to it; and that, if the petitioner wished to be heard on either of these facts, he could resort to the courts; that the city council had a right to fix the charges without notice to the parties interested, unless, under the pretense of fixing an equitable rate, the ordinance should do what amounted to the taking or destruction of property.
+ The ordinance imposes an annual rental of $8 for 
+
+[182 U.S. 398, 401]
+ 
+ unmetered water service, and for metered water service 30 cents per 1,000 gallons for sewage delivered to the sewer,-the quantity to be so delivered to be determined by the meter readings,-with the privilege to the commissioners of making a discount when equitable. As the supreme judicial court held that the municipality had power to adopt this ordinance under the public statutes of the commonwealth, and that such statutes were no violation of the state Constitution, we are concerned only with the question whether the petitioner was thereby deprived of his property without due process of law, or denied the equal protection of the laws within the 14th Amendment.
+ The validity of the legislative act is assailed upon the ground that no notice was required to be given to the property owner, nor provision made for a hearing, and that the authority given to the city council of Brockton to change the rate of sewerage charges and assessments from time to time manifested an intention on the part of the legislature to assess such property without regard to benefits. There is no doubt that, when land is proposed to be taken and devoted to the public service, or any serious burden is laid upon it, the owner of the land must be given an opportunity to be heard with respect to the necessity of the taking and the compensation to be paid by the city. Davidson v. New Orleans, 
+96 U.S. 97
+, 24 L. ed. 616; Palmer v. McMahon, 
+133 U.S. 660
+, 33 L. ed. 772, 10 Sup. Ct. Rep. 324; Stuart v. Palmer, 74 N. Y. 183, 30 Am. Rep. 289, subsequently re-examined in this court in Spencer v. Merchant, 
+125 U.S. 345
+, 31 L. ed. 763, 8 Sup. Ct. Rep. 921.
+ Obviously these cases have no application to an ordinance which fixes beforehand the price to be paid for certain privileges, and leaves it optional with the taxpayer to avail himself of such privileges or not. As well might it be insisted that an ordinance which fixes water rates proportioned to the amount furnished is void because no notice is required to be given before such rate is fixed, or the taxpayer is assessed his proportionate charge under the ordinance. Where the use of such privilege is left optional with the taxpayer by his election to avail himself of it or not, he contracts with the city to pay the rental fixed by its ordinance, if he elect to use it. In such case there is no room for the question of notice. Where notice will 
+
+[182 U.S. 398, 402]
+ 
+ avail nothing, no notice is required. Lower Kings River Reclamation Dist. No. 531 v. Phillips, 108 Cal. 306, 39 Pac. 630, 41 Pac. 335; Amery v. Keokuk, 72 Iowa, 701, 30 N. W. 780; Com. v. Lehigh Valley R. Co. 129 Pa. 429, 18 Atl. 406.
+ Thus in Hagar v. Reclamation Dist. No. 108, 
+111 U.S. 701
+, 28 L. ed. 569, 4 Sup. Ct. Rep. 663, it was said by Mr. Justice Field (p. 708, L. ed. p. 572, Sup. Ct. Rep. p. 667): 'Undoubtedly where life and liberty are involved, due process requires that there be a regular course of judicial proceedings, which imply that the party to be affected shall have notice and an opportunity to be heard; so, also, where title or possession of property is involved. But where the taking of property is in the enforcement of a tax, the proceeding is necessarily less formal, and whether notice to him is at all necessary may depend upon the character of the tax, and the manner in which its amount is determinable. . . . Of the different kinds of taxes which the state may impose, there is a vast number of which, from their nature, no notice can be given to the taxpayer, nor would notice be of any possible advantage to him, such as poll taxes, license taxes (not dependent upon the extent of his business), and, generally, specific taxes on things or persons or occupations. In such cases the legislature, in authorizing the tax, fixes its amount, and that is the end of the matter.' See also Parsons v. District of Columbia, 
+170 U.S. 45
+, 42 L. ed. 943, 18 Sup. Ct. Rep. 521. Under the circumstances of this case no notice was necessary.
+ Similar considerations apply to the defense that petitioner has been, or is about to be, deprived of his property without due process of law. But of what property has he been deprived? None whatever. There has not been, nor is there anything to indicate there ever will be, any taking of his property within the meaning of the law. Assuming that the imposition of a burden which manifestly belongs to the public, upon private property, constitutes a deprivation of such property within the meaning of the 14th Amendment, there is nothing of the kind involved in this case. There is not even compulsory taxation of the property. The act of the legislature ( chap. 245, act of 1892) merely provides that the city council 'may by vote establish just and equitable annual charges or rents for the use of such sewers, to be paid by 
+
+[182 U.S. 398, 403]
+ 
+ every person who enters his particular sewer into the common sewer, and may change the same from time to time.' The municipal ordinance fixes the annual rentals, determinable upon a certain basis of water service, with a provision that the commissioners may make an equitable discount from such rates at their discretion. This was all there was to it. The lot owner could use the sewer or not, as he chose. If he used it, he paid the rental fixed by the ordinance. If he made no use of it, he paid nothing. There is no element of deprivation here or even of taxation, but one of contract, into which the lot owner might or might not enter. There is no allegation in the petition that the petitioner was required by the board of health to discharge into the public sewer. There is no allegation that the particular charges fixed by the commissioners are unreasonable, only that the method is unreasonable, that is, that any charge is unreasonable.
+ The stress of petitioner's argument appears to be laid upon the proposition that his property having been once assessed for the construction of the common sewer, he has a right to the free use of such sewer forever afterwards, and that the expense of its maintenance must be raised by general taxation, and not by special assessment. This, however, is a question of state policy. It was for the legislature to say whether the construction of the sewer entitled the adjoining property owners to the free use of it, or only to the right to a free entrance to it of their particular sewers. As held by the supreme judicial court, there can be no doubt that the adjoining property owners did receive a special benefit in being permitted to discharge their private sewers into it. The amount of such benefit was, under the statutes of the commonwealth, determinable by the city council, which fixed upon a certain rate for unmetered service and a certain other rate per 1,000 gallons of sewage discharged for metered service. We have held in the recent case of Parsons v. District of Columbia, 
+170 U.S. 45
+, 42 L. ed. 943, 18 Sup. Ct. Rep. 521, that it was competent for the legislative power to assess the amount of benefit specially received by abutting property, and so long as such amount is not grossly excessive, or out of all proportion to the benefit received, there is no reason to com- 
+
+[182 U.S. 398, 404]
+ 
+ plain, particularly if, as held by the supreme judicial court in this case, the question of connecting with the public sewer be left optional with the property owner.
+ The case is somewhat analogous to that of Sands v. Manistee River Improv. Co., 
+123 U.S. 288
+, 31 L. ed. 149, 8 Sup. Ct. Rep. 113, wherein we held that the exaction of tolls, under a state statute, for the use of an improved national waterway, is not within the prohibition of the due process of law clause of the Constitution. Said Mr. Justice Field (p. 293, L. ed. p. 151, Sup. Ct. Rep. p. 115): 'The tolls exacted from the defendant are merely compensation for benefits conferred, by which the floating of his logs down the stream was facilitated. . . . Tolls are the compensation for the use of another's property or of improvements made by him, and their amount is determined by the cost of the property or of the improvements, and consideration of the returns which such values or expenditures should yield. The legislature, acting upon information received, may prescribe at once the tolls to be charged, but ordinarily it leaves their amount to be fixed by officers or boards appointed for that purpose.'
+ It is true that in Sears v. Boston Street Comrs. 173 Mass. 350, 53 N. E. 876, decided in May, 1899, construing a similar statute applicable to the city of Boston, the supreme judicial court made a decision which it is difficult to reconcile with its opinion in the case under consideration, and held that 'where lands have paid assessments for special benefits from the construction of all sewers by whose operation they are affected, it cannot be said that they receive an additional special and peculiar benefit from the general oversight and operation of the sewers of Boston, such as to subject them to a second special assessment. Expenses of this kind should be made the subject of general taxation,' citing a number of cases in support of this proposition, none of which appear to be in point. Hammett v. Philadelphia, 65 Pa. 146, 3 Am. Rep. 615, was a case of widening and repaving a public street; Re Washington Avenue, 69 Pa. 352, 8 Am. Rep. 255, one of compelling the owners of farm lands lying within 1 mile on each side of a public highway to pay for grading, macadamizing, and improving it, by an assessment upon their lands by the acre; Williamsport's Appeal, 187 Pa. 565, 41 Atl. 476, one of 
+
+[182 U.S. 398, 405]
+ 
+ reconstructing a sewer originally built by the city; Erie. v. Russell, 148 Pa. 384, 23 Atl. 1102, a similar case, except that the sewer was originally built by local assessments; Dietz v. Neenah, 91 Wis. 422, 64 N. W. 299, a question of want of notice; Dyar v. Farmington, 70 Me. 515, one of assessment for building a railroad; Honscon v. Omaha, 11 Neb. 37, 7 N. W. 739, one of the extent to which property was benefited by constructing a sewer. It needs no argument to show that these cases had no pertinence. The question of notice or want of notice was also considered in the Sears Case, but the court did not decide that question, intimating, however, an opinion somewhat adverse to the validity of the statute upon this ground.
+ We are not required, however, to reconcile these cases. It is sufficient that the supreme judicial court held that this case was 'free from the elements which in Sears v. Boston Street Comrs. led to the conclusion that the petitioner was assessed without regard to the benefits received by him.' Notwithstanding the former case we think the court was correct in holding in this case that the petitioner and other property owners whose lots abutted on this public sewer did receive a benefit not common to the inhabitants of the city generally, in being permitted to discharge into it the contents of their private sewers, that the amount of such benefit was determinable by the city council, and that in its action there was nothing violative of the Federal Constitution. It was properly said by Chief Justice Holmes in this connection: 'No one denies that it was a special benefit to the petitioner to have a sewer built in front of his land. That benefit was the probability that the sewer would be available for use in the future. But the city, by building it and receiving a part of the cost from the petitioner, did not impliedly bind itself or the general taxes that the sewer should be maintained forever, and that the petitioner should be at liberty to use it free of further expense. If building the sewer was a special benefit, keeping the sewer in condition for use by such further expenditure as was necessary was a further special benefit to such as used it.'
+ The judgment of the Supreme Judicial Court is therefore affirmed. 
+
+
+

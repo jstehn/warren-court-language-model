@@ -1,0 +1,39 @@
+Description: DOWER v. RICHARDS , 151 U.S. 658 (1876)
+Date: 1876-02-21 00:00:00
+Docket: 178
+Opinion
+
+
+United States Supreme Court
+DOWER v. RICHARDS(1876)
+No. 178
+Argued: Decided: February 21, 1876
+
+
+ In Republican River Bridge Co. v. Kansas Pac. R. Co., (decided a week later,) in an action at law concerning the title to real estate, in which each party claimed under a grant from congress, a district court of the state of Kansas, to which the case had been submitted without the intervention of a jury, made findings of fact, upon which it declared the law to be for the defendant. Its judgment was affirmed by the supreme court of the state, and the plaintiff sued out a writ of error from this court. Mr. Justice Miller, in delivering the opinion, said: 'The finding by the district court was received by the supreme court of the state as conclusive as to all facts in issue, and it is equally conclusive upon us. Where a right is set up under an act of congress in a state court, any matter of law found in the record, decided by the highest court of the state, bearing on the right so set up under the act of congress, can be re- examined here. In chancery cases, or in any other class of cases where all the evidence becomes part of the record in the highest court of the state, the same record being brought here, this court can review the decision of that court on both the law and the fact, so far as may be necessary to determine the validity of the right set up under 
+
+[151 U.S. 658, 671]
+ 
+ the act of congress; but in cases where the facts are submitted to a jury, and are passed upon by the verdict, in a common-law action, this court has the same inability to review those facts, in a case coming from a state court, that it has in a case coming from a circuit court of the United States. This conclusiveness of the facts found extends to the finding by a state court to whom they have been submitted by waiving a jury, or to a referee, where they are so held by state laws, as well as to the verdict of a jury.' And Boggs v. Mining Co., and Crary v. Devlin, above cited, were referred to as supporting this conclusion. 
+92 U.S. 315
+-317.
+ Whether the suggestion in that opinion as to the power of this court, in chancery cases, to review the decision of a state court on both the law and the fact, is to be limited to cases in which the decree of that court is general upon the whole record, without specifically passing upon any question of fact, and whether the suggestion, especially if more broadly construed, can be reconciled with the earlier opinions of this court, already cited, upon writs of error to the circuit court of the United States in admiralty cases, or in cases tried according to the law of Louisiana, need not now be considered.
+ In Martin v. Marks, (1877,) upon a writ of error to the supreme court of Louisiana in an action in the nature of ejectment, Mr. Justice Miller, speaking for this court, said that the question whether a selection of swamp lands had in fact been filed by the surveyor general of Louisiana in the general land office was 'not of that federal character which authorizes us to review the decision of the supreme court of Louisiana upon it.' 
+97 U.S. 345
+, 348.
+ In Kenney v. Effinger, (1885), this court dismissed a writ of error to the supreme court of appeals of the state of Virginia for reasons stated in the opinion delivered by Mr. Justice Field, as follows: 'The writ of error brought by the trustee raises no federal question which we can consider. Whether the bond of Effinger was or was not executed with reference to Confederate notes is a question of fact for the state court, and not one of law for this court.' 
+115 U.S. 577
+, 6 Sup. Ct. 185. 
+
+[151 U.S. 658, 672]
+ 
+ In Quimby v. Boyd, (1888,) in which various errors were assigned in a judgment of the supreme court of the state of Colorado between two adverse claimants of a lode, this court, speaking by the present chief justice, dismissed the writ of error for want of jurisdiction, because some of the objections made in this court had not been taken below, and 'the other alleged errors involved questions either of fact or of state, and not of federal, law.' 
+128 
+U.S. 488, 489
+, 9 S. Sup. Ct. 147.
+ In California Powder Works v. Davis, supra, in which each party to a suit to quiet title claimed under a patent from the United States confirming a Mexican grant, and the judgment of the supreme court of California rested on the proposition of fact that the grant under which the plaintiff in error deraigned title was simulated and fraudulent, this court dismissed the writ of error for want of jurisdiction.
+ The case now before us is an action of ejectment, which was submitted to the supreme court of the same state, according to the local practice, upon findings of fact and a statement of evidence by an inferior court of the state. From the foregoing reasons and authorities it follows that this court cannot review the decision of the state court upon the question of fact whether the ledge, at the time when the town-site patent took effect, was known to be valuable for mining purposes; and, the only question of federal law in the case having been rightly decided by that court, its judgment is affirmed.
+ Mr Justice HARLAN concurred in the judgment of affirmance, but not in all the reasoning of the opinion. 
+
+
+

@@ -1,0 +1,65 @@
+Description: US v. EVANS , 213 U.S. 297 (1909)
+Date: 1909-04-19 00:00:00
+Docket: 394
+Opinion
+
+
+United States Supreme Court
+U S v. EVANS(1909)
+No. 394
+Argued: Decided: April 19, 1909
+
+
+
+ Solicitor General Hoyt for petitioner.
+
+
+[213 U.S. 297, 298]
+ 
+ No appearance for respondents. 
+
+[213 U.S. 297, 299]
+ 
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ Appellees were tried under an indictment for murder in the supreme court of the District of Columbia on February 1, 1907, and found not guilty. The United States appealed to the court of appeals of the District, and assigned error on exceptions taken during the trial to the exclusion of certain evidence. This right to appeal was claimed under  935 of the Code [31 Stat. at L. 1341, chap. 854], which reads as follows:
+'In all criminal prosecutions the United States or the District of Columbia, as the case may be, shall have the same right of appeal that is given to the defendant, including the right to a bill of exceptions; provided, that if, on such appeal, it shall be found that there was error in the rulings of the court during the trial, a verdict in favor of the defendant shall not be set aside.'
+
+ The appeal was dismissed for want of jurisdiction, and the case brought here on certiorari.
+ The case of United States v. Sanges, 
+144 U.S. 310
+, 36 L. ed. 445, 12 Sup. Ct. Rep. 609, reiterated the then well-settled rule that the right of review in criminal cases was limited to review at the instance of the defendant after a decision in favor of the government. United States v. Dickinson, 
+213 U.S. 92
+, 53 L. ed. -, 29 Sup. Ct. Rep. 485.
+ In United States v. Evans, 28 App. D. C. 264, under 935 of the Code, the right was exercised without question in a case where an indictment had been set aside on demurrer, and Chief Justice Shepard, in delivering the opinion of the court in this case (30 App. D. C. 58), said:
+'It may be assumed also that such a writ of error would lie to review a judgment arresting a judgment of conviction for the insufficiency of the indictment, or one sustaining a special plea in bar, when the defendant has not been put in jeopardy.'
+
+ But the Chief Justice further said that it was contended by appellants that a writ of error lies also 'upon a judgment where there has been a verdict of not guilty; not, however, to obtain 
+
+[213 U.S. 297, 300]
+ 
+ a reversal of that judgment, but to obtain an opinion upon exceptions taken at the trial that may serve as a rule of observance in cases that may hereafter arise.'
+ But this contention was rejected by the court, in view of the objectionable consequences that would result from such an exercise of jurisdiction. 'The appellee in such a case, having been freed from further prosecution by the verdict in his favor, has no interest in the question that may be determined in the proceedings on appeal, and may not even appear. Nor can his appearance be enforced. Without opposing argument, which is so important to the attainment of a correct conclusion, the court is called upon to lay down rules that may be of vital interest to persons who may hereafter be brought to trial. All such persons are entitled to be heard on all questions affecting their rights, and it is a harsh rule that would bind them by decisions made in what are practically 'moot' cases, where opposing views have not been presented.'
+ It was in the light of these considerations that the act of Congress of March 2, 1907 (34 Stat. at L. 1246, chap. 2564, U. S. Comp. Stat. Supp. 1907, p. 209), was subjected to the limitations therein contained. United States v. Keitel, 
+211 
+U.S. 370, 398
+, 53 S. L. ed. -, 29 Sup. Ct. Rep. 123; United States v. Mason, 
+213 U.S. 115
+, 53 L. ed. -, 29 Sup. Ct. Rep. 480.
+ By the Constitutions of several of the states, the justices of the highest judicial tribunals are obliged to give their opinions on important questions of law upon solemn occasions, when required by either branch of the legislature, or the governor, or governor and council, and there are many interesting discussions in the state reports, as well as in articles by the law writers, in respect of such a provision. 
+ But no such requirement obtains in Federal jurisprudence.
+ Such a provision was suggested in the Federal Constitutional Convention, but disappeared in the committee on detail.
+ Thayer, Advisory Opinions, Legal Essays, 43; Dubuque, the Duty of Judges as Constitutional Advisers, 24 Am. L. Rev. 369; Emery, C. J., 2 Maine L. Rev. 1; Cases collected in 6 Am. & Eng. Enc. Law, 2d ed. p. 1065. And see 103 Me. 506, and especially opinion of Savage, J. 
+
+[213 U.S. 297, 301]
+ 
+ In 1793, President Washington sought to take the opinion of the judges of the Supreme Court of the United States as to various questions arising under out treaties with France, but they declined to respond. Marshall thus speaks of the matter in his Life of Washington:
+'About this time it is probable that the difficulties felt by the judges of the Supreme Court in expressing their sentiments on the points referred to them were communicated to the Executive. Considering themselves as merely constituting a legal tribunal for the decision of controversies brought before them in legal form, these gentlemen deemed it improper to enter the field of politics by declaring their opinion on questions not growing out of the case before them.' Story, Constitution,  1571
+
+
+
+ It was long ago held by this court that the discharge of such a function was not an exercise of judicial power. United States v. Ferreira, 13 How. 40, note on page 52, 14 L. ed. 42, note on page 47; Hayburn's Case, 2 Dall. 409; see note, pp. 410-414, 1 L. ed. 436, see note pp. 436-438. And that ruling sustains the conclusion of the court of appeals in the matter of the construction of this act, to which the opinion is confined.
+ Writ of certiorari quashed. 
+
+
+

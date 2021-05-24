@@ -1,0 +1,395 @@
+Description: TAUBEL-SCOTT-KITZMILLER CO. v. FOX , 264 U.S. 426 (1924)
+Date: 1924-04-07 00:00:00
+Docket: 188
+Opinion
+
+
+United States Supreme Court
+TAUBEL-SCOTT-KITZMILLER CO. v. FOX(1924)
+No. 188
+Argued: Decided: April 7, 1924
+
+
+
+
+[264 U.S. 426, 427]
+ 
+ Messrs. Elkan Turk, of New York City, and Frank J. Hogan, of Washington, D. C., for petitioner.
+ Messrs. David W. Kahn and Irving L. Ernst, both of New York City for respondents.
+
+ Mr. Justice BRANDELS delivered the opinion of the Court.
+ Taubel-Scott-Kitzmiller Company, Inc., recovered, in the Supreme Court of the state of New York, a judgment against Cowen Hosiery Company, Inc. Execution thereon was levied upon personal property of the defendant lying upon 
+
+[264 U.S. 426, 428]
+ 
+ premises occupied by it. The levy created a lien upon the property. New York Civil Practice Act,  679. The sheriff took, and thereafter retained, exclusive possession and control of the property. Within four months of the date of the levy, the Cowen Company filed, in the Southern District of New York, a voluntary petition in bankruptcy and was adjudged a bankrupt. Relying upon subdivision 'f'1 of section 67 of the Bankruptcy Act (Comp. St.  9651), the trustees sought, by a summary proceeding before the referee, to have the lien on execution declared void and to obtain possession of the property. The referee ordered that the judgment creditor show cause before him why this should not be done. Before the District Court the judgment creditor seasonably challenged the jurisdiction of the referee and of the bankruptcy court, furnished substantial support for its claim that the debtor was solvent at the date of the entry of judgment and levy of execution thereon, and insisted that, since the bankrupt did not have, and the bankruptcy court did not acquire, possession of the property, the execution lien and the right to possession under 
+
+[264 U.S. 426, 429]
+ 
+ the levy could not be assailed by the trustees, except by a plenary suit in the appropriate forum. The trustees, on the other hand, urged that the referee had jurisdiction, even if the adverse claim by the judgment creditor be deemed a substantial one. The District Court sustained the contention of the judgment creditor and stayed the proceeding before the referee. Upon a petition to revise, its order was reversed by the Circuit Court of Appeals. 286 Fed. 351. The case is here on writ of certiorari. 
+260 U.S. 719
+, 43 Sup. Ct. 250.
+ A trustee seeking to have declared void, under subdivision 'f' of section 67, a lien obtained through legal proceedings, and to recover possession of property, may be confronted with an adverse claim upon several grounds. It may be asserted that the lien attacked is of a character different from those provided for in that subdivision;2 or, although the lien (i. e., that obtained by levy of execution) is clearly one to which subdivision 'f' applies, that it is valid by reason of other facts, for the statute does not, as a matter of substantive law, declare void every lien obtained through legal proceedings within four months of the filing of the petition in bankruptcy. The lien may be valid, because the debtor was, in fact, solvent at the time the levy was made;3 or, although the debtor 
+
+[264 U.S. 426, 430]
+ 
+ was then insolvent, because the property had passed into the hands of a bona fide purchaser;4 or, although the debtor was then insolvent and the levy was made within the four months, because inchoate rights by way of lien had been acquired earlier. 
+5
+ As the establishment of any one of these facts would bar recovery by the trustee, their assertion presents a judicial question. In this case, since the possession of the sheriff was the possession of the state court, the trustees' claim to the property would, under general principles of law, have to be litigated in the state court. 
+6
+ The question for decision is: Has Congress conferred upon the bankruptcy court, under these circumstances, jurisdiction to adjudicate the controverted rights by summary proceedings?
+ Congress has, of course, power to confer upon the bankruptcy court jurisdiction to adjudicate the rights of trustees to property adversely claimed. In matters relating to bankruptcy its power is paramount. 
+7
+ Hence, even if the property is not within the possession of the bankruptcy court, Congress can confer upon it, as upon any other lower federal court, jurisdiction of the controversy, by conferring jurisdiction over the person in 
+
+[264 U.S. 426, 431]
+ 
+ whose possession the property is. Congress has, also (subject to the constitutional guaranties), power to determine to what extent jurisdiction conferred, whether through possession of the res or otherwise, shall be exercised by summary proceedings and to what extent by plenary suit. 
+8
+ But Congress did not, either by section 2, section 23 of the Bankruptcy Act of 1898 (Comp. St.  9586, 9607), or any other provision of the act, confer generally such broad jurisdiction over claims by a trustee against third persons. 
+9
+ Nor has it provided in terms, that a substantial adverse claim to property which is not in the possession of the bankruptcy court, and which is demanded by the trustee under subdivision 'f' of section 67, may be litigated, without consent, by a summary proceeding. To sustain the judgment under review, a specific grant of power to so deal with such a controversy must be shown. The contention is that a specific grant of the power is implied in a clause contained in subdivision 'f.' Before examining the clause, it will be helpful to consider the rules, established by decisions of this court, governing like proceedings under provisions of the Bankruptcy Act cognate to subdivision 'f' of section 67.
+ The Bankruptcy Act provides, in subdivision 'e' of section 67, in subdivision 'b' of section 60 (Comp. St.  9644) and in subdivision 'e' of section 70 (Comp. St.  9654), for the recovery by the trustee of property formerly belonging 
+
+[264 U.S. 426, 432]
+ 
+ to the bankrupt and which, within four months of the commencement of the proceedings in bankruptcy, had been subjected, in some manner, to a lien. The substantive rights of the trustee under these provisions differ according to the nature of the lien or of the infirmity therein. Under subdivision 'e' of section 67, where the lien was created in pais, it is voidable if it was made, within the four months, with the intent to hinder and defraud creditors, or if, within that period, it was made while insolvent under such circumstances that, under the laws of the state where the property is situated, it is void as to creditors. Under subdivision 'b' of section 60, the lien is voidable, whether it was created in pais or through legal proceedings, if it was created within the four months while the debtor was insolvent and the effect of its enforcement would be to give a preference. Under subdivision 'e' of section 70, a lien, however created, although not within the four months, is voidable by the trustee, if any creditor of the bankrupt might have avoided it. But the adjective rights of the trustee to litigate in the bankruptcy court claims incident to the lien were the same under these differing provisions.
+ By the act of 1898 as originally enacted, the power of the bankruptcy court to adjudicate, without consent, controversies concerning the title, arising under either section 67e or section 60b, or section 70e, was confined to property of which it had possession. The possession, which was thus essential to jurisdiction, need not be actual. Constructive possession is sufficient. It exists where the property was in the physical possession of the debtor at the time of the filing of the petition in bankruptcy, but was not delivered by him to the trustee;10 where the property was delivered to the trustee, but was there after wrongfully withdrawn from 
+
+[264 U.S. 426, 433]
+ 
+ his custody;11 where the property is in the hands of the bankrupt's agent or bailee;12 where the property is held by some other person who makes no claim to it;13 and where the property is held by one who makes a claim, but the claim is colorable only. 
+14
+ As every court must have power to determine, in the first instance, whether it has jurisdiction to proceed, the bankruptcy court has, in every case, jurisdiction to determine whether it has possession actual or constructive. 
+15
+ It may conclude, where it lacks actual possession, that the physical possession held by some other persons is of such a nature that the property is constructively within the possession of the court. 
+16
+ 
+
+ Wherever the bankruptcy court had possession, it could, under the act of 1898, as originally enacted, and can now, determine in a summary proceeding controversies involving substantial adverse claims of title under subdivision 'e' of section 67, under subdivision 'b' of section 60 and under subdivision 'e' of section 70.17 But, in no case where it lacked possession, 
+
+[264 U.S. 426, 434]
+ 
+ could the bankruptcy court, under the law as originally enacted, nor can it now (without consent) adjudicate in a summary proceeding the validity of a substantial adverse claim. 
+18
+ In the absence of possession, there was under the Bankruptcy Act of 1898, as originally passed, no jurisdiction, without consent, to adjudicate the controversy even by a plenary suit. 
+19
+ The Act of February 5, 1903, c. 487,  8, 32 Stat. 797, 798, 800, together with the Act of June 25, 1910, c. 412,  7, 36 Stat. 838, 840 (Comp. St.  9607), conferred upon the bankruptcy court jurisdiction, under certain circumstances, against the adverse claimant, in a plenary suit under section 60, subdivision 'b,' section 67, subdivision 'e,' and section 70, subdivision 'e.' But no amendment has conferred upon the bankruptcy court jurisdiction, even in a plenary suit, of proceedings under subdivision 'f' of section 67.
+ The controversy presented when a trustee proceeding under subdivision 'f' of section 67 is confronted with a substantial adverse claim to property not in his possession, does not differ in character from that presented by like proceedings under the other sections discussed. No reason is suggested why the act of 1898 should have granted to the bankruptcy court jurisdiction in cases arising under section 67, subdivision 'f,' while it did not in like cases arising under these other provisions. Nor is any reason suggested why Congress should have granted by that act power to adjudicate the controversy arising under subdivision 'f' of section 67 in 
+
+[264 U.S. 426, 435]
+ 
+ a summary proceeding, while it has never permitted a like controversy arising under any of the other provisions discussed above to be dealt with otherwise than in a plenary suit. 
+20
+ 
+
+ The contention that Congress did confer upon the bankruptcy court the exceptional jurisdiction to determine in a summary proceeding substantial adverse claims arising under subdivision 'f,' concerning the title and possession of property not in its possession, rests wholly on the following clause of that subdivision:
+'The property affected by the levy [held void] shall pass to the trustee as a part of the estate of the bankrupt, unless the court shall, on due notice, order that the right under such levy ... shall be preserved by the trustee for the benefit of the estate as aforesaid. And the court may order such conveyance as shall be necessary to carry the purposes of this section into effect.'
+
+ The argument is that, since the bankruptcy court is expressly empowered to order that a lien void as against the trustee shall be preserved for the benefit of the estate, it was given, by implication, jurisdiction to determine whether the lien is void. The argument proceeds upon a misapprehension of the nature and purpose of the clause in question. It does not confer jurisdiction. It confers substantive and adjective rights. Its grant of substantive rights, effected by means of subrogation, is a grant of property interests which the bankrupt did not own at the 
+
+[264 U.S. 426, 436]
+ 
+ time of filing the petition. 
+21
+ Thus, an execution lien upon property, owned by the debtor at the time of the levy and good as against a subsequent purchaser but void as against the trustee under subdivision 'f,' may be preserved for the benefit of the estate. If the lien were not so preserved, the benefit resulting from nullifying it would enure to the purchaser. Subrogation is the process by which this substantive right is made available. 
+22
+ Where the bankrupt remained owner of the property until the commencement of the bankruptcy proceedings and the void lien remained the only incumbrance on the property, there is no need of preserving it. But in such a case it may be desirable to invoke the strictly adjective powers conferred by the clause, and to apply for an order that a release or conveyance be made so as to remove a could upon title. 
+23
+ 
+
+ The substantive right of subrogation which the clause confers can come into effect only after the invalidity of the lien as against the trustee has been established either by an admission of the holder of the lien or by an adjudication. It is entirely immaterial, so far as concerns the enjoyment of the right of subrogation, in which of 
+
+[264 U.S. 426, 437]
+ 
+ these ways the invalidity is established. It is entirely immaterial, whether it is established by an adjudication, whether it be that of a state court, the bankruptcy court, or of the federal District Court sitting at law or equity. In every case in this court in which this right to subrogation has been exercised (and in most cases in the lower courts), 24 following an adjudication of invalidity made by the bankruptcy court, there had been either consent that jurisdiction be taken for that purpose 25 or there was possession of the res by that court. 
+26
+ 
+
+[264 U.S. 426, 438]
+ 
+ In this case, the sheriff had, before the filing of the petition in bankruptcy, taken exclusive possession and control of the property, and he had retained such possession and control after adjudication and the appointment of the trustees. 
+27
+ The bankruptcy court, therefore, did not have actual possession of the res. The adverse claim of the judgment creditor was a substantial one. The bankruptcy court, therefore, did not have constructive possession of the res. Neither the judgment creditor, nor the sheriff, had become a party to the bankruptcy proceedings. 
+28
+ There was no consent to the adjudication by the bankruptcy court of the adverse claim. The objection to the jurisdiction was seasonably made and was insisted upon throughout. The bankruptcy court, therefore, did not acquire jurisdiction over the controversy in summary proceedings. Nor did it otherwise.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] 'f. That all levies, judgments, attachments, or other liens, obtained through legal proceedings against a person who is insolvent, at any time within four months prior to the filing of a petition in bankruptcy against him, shall be deemed null and void in case he is adjudged a bankrupt, and the property affected by the levy, judgment, attachment, or other lien shall be deemed wholly discharged and released from the same, and shall pass to the trustee as a part of the estate of the bankrupt, unless the court shall, on due notice, order that the right under such levy, judgment, attachment, or other lien shall be preserved for the benefit of the estate; and thereupon the same may pass to and shall be preserved by the trustee for the benefit of the estate as aforesaid. And the court may order such conveyance as shall be necessary to carry the purposes of this section into effect: Provided, that nothing herein contained shall have the effect to destroy or impair the title obtained by such levy, judgment, attachment, or other lien, of a bona fide purchaser for value who shall have acquired the same without notice or reasonable cause for inquiry.' 
+
+[
+Footnote 2
+] Henderson v. Mayer, 
+225 U.S. 631
+, 31 Sup. Ct. 699. Compare City of Richmond v. Bird, 
+249 
+U.S. 174, 175
+, 39 S. Sup. Ct. 186; In re Emslie, 102 Fed. 291, 42 C. C. A. 350; In re Lillington Lumber Co. (D. C.) 132 Fed. 886; In re Robinson & Smith, 154 Fed. 343, 83 C. C. A. 121; Kemp Lumber Co. v. Howard, 237 Fed. 574, 577, 150 C. C. A. 456; American Trust & Savings Bank v. Ruppe, 237 Fed. 581, 150 C. C. A. 463. 
+[
+Footnote 3
+] See Simpson v. Van Etten (C. C.) 108 Fed. 199, 201; Stone-Ordean- Wells Co. v. Mark, 227 Fed. 975, 977, 142 C. C. A. 433; Martin v. Oliver, 260 Fed. 89, 93, 171 C. C. A. 125; In re Community Stores of Iowa (D. C.) 282 Fed. 328, 329. Cases like Cook v. Robinson, 194 Fed. 785, 792, 114 C. C. A. 505, and In re Arizona Smelting Co., 231 Fed. 87, 92, 145 C. C. A. 275, to the contrary, are not consistent with the express words of the act. In Clarke v. Larremore, 
+188 U.S. 486
+, 23 Sup. Ct. 363, it appeared (see original papers) that there was no contention that the bankrupt was solvent at the time of the levy. In Hutchinson v. Otis, 
+190 U.S. 552
+, 23 Sup. Ct. 778, it was agreed (see original papers) that the debtor was insolvent at the date of the attachment. In Chicago, Burlington & Quincy R. Co. v. Hall, 
+229 
+U.S. 511, 514
+, 33 S. Sup. Ct. 885, it is found that the debtor was insolvent at the time of the garnishment. See In re Ann Arbor Machine Co. (D. C.) 278 Fed. 749, 752. As against an adverse claimant, the mere adjudication of bankruptcy does not, even in involuntary proceedings, conclusively establish insolvency at the date of the attachment or levy. Compare Gratiot State Bank v. Johnson, 
+249 U.S. 246
+, 39 Sup. Ct. 263. 
+
+[
+Footnote 4
+] Jones v. Springer, 
+226 U.S. 148
+, 33 Sup. Ct. 64. 
+[
+Footnote 5
+] Metcalf v. Barker, 
+187 U.S. 165
+, 23 Sup. Ct. 67; Pickens v. Roy, 
+187 U.S. 177
+, 23 Sup. Ct. 78. 
+[
+Footnote 6
+] Taylor v. Carryl, 20 How, 583, 595; Covell v. Heyman, 
+111 
+U.S. 176, 179
+, 4 S. Sup. Ct. 355. Compare Lion Bonding & Surety Co. v. Karatz, 
+262 U.S. 77
+, 88-90, 43 Sup. Ct. 480. 
+[
+Footnote 7
+] In re Watts (In re Sachs) 
+190 
+U.S. 1, 27
+, 23 S. Sup. Ct. 178; Robertson v. Howard, 
+299 U.S. 254
+, 33 Sup. Ct. 854. 
+
+[
+Footnote 8
+] It has not done so in terms. In the absence of congressional definition of the scope of summary proceedings, it has been determined by decisions of this court and the General Orders in Bankruptcy. The bankruptcy court may deal by summary proceeding with property in its possession in all matters administrative in their nature, and also with all matters judicial in their nature, to the extent commonly practiced in courts of equity. See United States Fidelity & Guaranty Co. v. Bray, 
+225 
+U.S. 205, 217
+, 32 S. Sup. Ct. 620; Robertson v. Howard, 
+229 
+U.S. 254, 260
+, 33 S. Sup. Ct. 854. 
+[
+Footnote 9
+] Harris v. First National Bank, 
+216 U.S. 382
+, 30 Sup. Ct. 296; Park v. Cameron, 
+237 U.S. 616
+, 35 Sup. Ct. 719; Kelley v. Gill, 
+245 U.S. 116
+, 38 Sup. Ct. 38. Compare Lovell v. Newman, 
+227 U.S. 412
+, 33 Sup. Ct. 375. 
+
+[
+Footnote 10
+] Page v. Edmunds, 
+187 U.S. 596
+, 23 Sup. Ct. 200. 
+
+[
+Footnote 11
+] White v. Schloerb, 
+178 U.S. 542
+, 20 Sup. Ct. 1007; Fairbanks Shovel Co. v. Wills, 
+240 U.S. 642
+, 36 Sup. Ct. 466. Compare Pirie v. Chicago Title & Trust Co., 
+182 
+U.S. 438, 442
+, 445 S., 21 Sup. Ct. 906; Acme Harvester Co. v. Beekman Lumber Co., 
+222 
+U.S. 300, 307
+, 32 S. Sup. Ct. 96. 
+[
+Footnote 12
+] Mueller v. Nugent, 
+184 
+U.S. 1, 15
+, 22 S. Sup. Ct. 269. 
+[
+Footnote 13
+] Babbitt v. Dutcher, 
+216 
+U.S. 102, 105
+, 30 S. Sup. Ct. 372, 17 Ann. Cas. 969. 
+[
+Footnote 14
+] Compare In re Weinger, Bergman & Co. (D. C.) 126 Fed. 875; In re Rudnick & Co. (D. C.) 158 Fed. 223; In re Ransford, 194 Fed. 658, 663, 115 C. C. A. 560; In re Columbia Shoe Co. (C. C. A.) 289 Fed. 465. 
+[
+Footnote 15
+] Hebert v. Crawford, 
+228 U.S. 204
+, 33 Sup. Ct. 484. Compare Noble v. Union River Logging R. R. Co., 
+147 
+U.S. 165, 173
+, 13 S. Sup. Ct. 271; Schweer v. Brown, 
+195 U.S. 171
+, 25 Sup. Ct. 15; In re Kramer (D. C.) 218 Fed. 138, 141. 
+[
+Footnote 16
+] In re Weinger, Bergman & Co. (D. C.) 126 Fed. 875; In re Eddy (D. C.) 279 Fed. 919. Compare In re Rockford Produce & Sales Co. (C. C. A.) 275 Fed. 811; also In re Yorkville Coal Co., 211 Fed. 619, 128 C. C. A. 570; In re Goldstein, 216 Fed. 887, 133 C. C. A. 91; In re Goldstein, 216 Fed. 889, 133 C. C. A. 93. 
+[
+Footnote 17
+] Murphy v. John Hofman Co., 
+211 
+U.S. 562, 569
+, 29 S. Sup. Ct. 154; Hebert v. Crawford, 
+228 U.S. 204
+, 33 Sup. Ct. 484; Weidhorn v. Levy, 
+253 
+U.S. 268, 271
+, 272 S., 40 Sup. Ct. 534; Board of Trade of Chicago v. Johnson, 
+264 U.S. 1
+, 44 Sup. Ct. 232, 68 L. Ed. --, No. 90, October term, 1923, decided February 18, 1924. Compare Whitney v. Wenman, 
+198 
+U.S. 539, 553
+, 25 S. Sup. Ct. 778; Matter of Loving, 
+224 U.S. 183
+, 32 Sup. Ct. 446; Houghton v. Burden, 
+228 U.S. 161
+, 33 Sup. Ct. 491; Lazarus v. Prentice, 
+234 U.S. 263
+, 34 Sup. Ct. 851. 
+
+[
+Footnote 18
+] Louisville Trust Co. v. Comingor, 
+184 U.S. 18
+, 22 Sup. Ct. 293; Jaquith v. Rowley, 
+188 U.S. 620
+; 23 Sup. Ct. 369; First National Bank v. Chicago Title & Trust Co., 
+198 
+U.S. 280, 289
+, 25 S. Sup. St. 693; Galbraith v. Vallely, 
+256 U.S. 46
+, 41 Sup. Ct. 415. In Bryan v. Bernheimer, 
+181 
+U.S. 188, 197
+, 21 S. Sup. Ct. 557, there was consent to the jurisdiction. 
+[
+Footnote 19
+] Bardes v. Hawarden Bank, 
+178 U.S. 524
+, 20 Sup. Ct. 1000; Mitchell v. McClure, 
+178 U.S. 539
+, 20 Sup. Ct. 1000; Wall v. Cox, 
+181 U.S. 244
+, 21 Sup. Ct. 642; Frank v. Vollkommer, 
+205 U.S. 521
+, 27 Sup. Ct. 596; Wood v. Wilbert's Sons Co., 
+226 
+U.S. 384, 389
+, 33 S. Sup. Ct. 125. Compare Hicks v. Knost, 
+178 U.S. 541
+, 20 Sup. Ct. 1006; Bush v. Elliott, 
+202 U.S. 477
+, 26 Sup. Ct. 668; Lovell v. Newman, 
+227 U.S. 412
+, 33 Sup. Ct. 375; Collett v. Adams, 
+249 U.S. 545
+, 39 Sup. Ct. 372; Flanders v. Coleman, 
+250 U.S. 223
+, 39 Sup. Ct. 472. 
+
+[
+Footnote 20
+] The act of 1841 (5 Stat. 440) was said, in Ex parte City Bank, 3 How. 292, 312, to have conferred upon the bankruptcy court jurisdiction over adverse claims, although the property was not in its possession, and it was also said that this jurisdiction might be exercised by summary proceeding. But see Bardes v. Hawarden Bank, 
+178 
+U.S. 524, 533
+, 534 S., 20 Sup. Ct. 1000. The act of 1867 (14 Stat. 517) conferred the jurisdiction upon the federal District and Circuit Courts, but required that the jurisdiction be exercised in a plenary suit. Smith v. Mason, 14 Wall. 419; Marshall v. Knox, 16 Wall. 551; Lathrop v. Drake, 
+91 U.S. 516
+. 
+
+[
+Footnote 21
+] First National Bank v. Staake, 
+202 
+U.S. 141, 148
+, 26 S. Sup. Ct. 580; McHarg v. Staake, 
+202 U.S. 150
+, 26 Sup. Ct. 584. Compare In re Hammond (D. C.) 98 Fed. 845. 
+[
+Footnote 22
+] The void lien is not preserved for the estate, unless the trustee requests that it be done. See Goodnough Mercantile & Stock Co. v. Galloway ( D. C.) 171 Fed. 940; In re Walsh Bros. (D. C.) 195 Fed. 576; In re Prentice (D. C.) 267 Fed. 1019, 1020. Compare Thompson v. Fairbanks, 
+196 
+U.S. 516, 527
+, 528 S., 25 Sup. Ct. 306; Duffy v. Charak, 
+236 
+U.S. 97, 100
+, 35 S. Sup. Ct. 264. The occasion for seeking subrogation under this clause of section 67, subdivision 'f,' has been lessened by the amendment to section 47, clause 2, of subdivision 'a' of the Act of June 25, 1910, c. 412,  8, 36 Stat. 838, 840 (Comp. St.  9631 ), by which a trustee in bankruptcy 'as to all property in the custody or coming into the custody of the bankruptcy court, shall be deemed vested with all the rights, remedies, and powers of a creditor holding a lien by legal or equitable proceedings.' Compare Bailey v. Baker Ice Machine Co., 
+239 
+U.S. 268, 276
+, 36 S. Sup. Ct. 50. 
+[
+Footnote 23
+] Compare Chapman v. Brewer, 
+114 
+U.S. 158, 170
+, 171 S., 5 Sup. Ct. 799; De Friece v. Bryant (D. C.) 232 Fed. 233, 239. 
+
+[
+Footnote 24
+] Invalidity was admitted in First National Bank v. Staake, 
+202 
+U.S. 141, 143
+, 26 S. Sup. Ct. 580; in Rock Island Plow Co. v. Reardon, 
+222 
+U.S. 354, 356
+, 32 S. Sup. Ct. 164; and in Fallows v. Continental & Commercial Trust & Savings Bank, 
+235 U.S. 300
+, 35 Sup. Ct. 29 (see original papers). Compare Miller v. New Orleans Fertilizer Co., 
+211 U.S. 496
+, 29 Sup. Ct. 176. It was admitted or assumed in Re Alabama Coal & Coke Co., 210 Fed. 940, 942; Bell v. Frederick (C. C. A.) 282 Fed. 232, 233. Compare In re Francis- Valentine Co. (D. C.) 93 Fed. 953, 954; In re Hammond (D. C.) 98 Fed. 845, 859; Bear v. Chase, 99 Fed. 920, 924, 40 C. C. A. 182; In re Lesser (D. C.) 100 Fed. 433, 438; In re Kemp (D. C.) 101 Fed. 689, 690; In re Breslauer ( D. C.) 121 Fed. 910, 913, 914; In re Petersen, 200 Fed. 739, 741, 119 C. C. A. 183; In re Obergfoll, 239 Fed. 850, 152 C. C. A. 636; In re Community Stores (D. C.) 282 Fed. 328; In re Chebot (D. C.) 288 Fed. 1006. 
+[
+Footnote 25
+] Objections to the jurisdiction of the bankruptcy court were at first raised, but later withdrawn, and express consent given, in Clarke v. Larremore, 
+188 U.S. 486
+, 23 Sup. Ct. 363 (as the original papers disclose); First National Bank v. Staake, 
+202 U.S. 141
+, 26 Sup. Ct. 580 (see In re Baird [D. C.] 126 Fed. 845, 846); Rock Island Plow Co. v. Reardon, 
+222 
+U.S. 354, 356
+, 32 S. Sup. Ct. 164; Globe Bank & Trust Co. v. Martin, 
+236 
+U.S. 288, 293
+, 35 S. Sup. Ct. 377; also In re Porterfield (D. C.) 138 Fed. 192, 197. In other cases, the objection to the jurisdiction was waived, or the existence of jurisdiction was assumed. See In re Beals (D. C.) 116 Fed. 530, 534; In re Southern Arizona Smelting Co., 231 Fed. 87, 89, 145 C. C. A. 275; Jones v. Ford, 254 Fed. 645, 646, 166 C. C. A. 143; In re Dukes (D. C.) 276 Fed. 724; In re Ann Arbor Machine Co. (D. C.) 278 Fed. 749; 751. Compare Knapp v. Milwaukee Trust Co., 
+216 
+U.S. 545, 552
+, 30 S. Sup. Ct. 412; also Wells v. Sharp, 208 Fed. 393, 396, 125 C. C. A. 609; In re Brantman, 244 Fed. 101, 104, 156 C. C. A. 529; In re Rockford Produce & Sales Co. (C. C. A.) 275 Fed. 811, 814. 
+[
+Footnote 26
+] The property was in the actual possession of the bankruptcy court at the time of the adjudication of the adverse claim in Fallows v. Continental Savings Bank, 
+235 
+U.S. 300, 303
+, 304 S., 35 Sup. Ct. 29. Also In re Fitzhugh Hall Amusement Co. (D. C.) 228 Fed. 169, 171; Id., 230 Fed. 811, 145 C. C. A. 121. Compare Henderson v. Mayer, 
+225 
+U.S. 631, 632
+, 32 S. Sup. Ct. 699. In some other cases where subrogation was ordered, the bankruptcy court was deemed to have constructive possession, because the claim of the person in actual possession was held to be colorable. See In re Weinger, Bergman & Co. (D. C.) 126 Fed. 875; In re Graessler & Reichwald, 154 Fed. 478, 83 C. C. A. 304. 
+
+[
+Footnote 27
+] The fact that the property remained on premises formerly occupied by the bankrupt is, of course, immaterial. Compare Duffy v. Charak, 
+236 
+U.S. 97, 98
+, 35 S. Sup. Ct. 264; In re Rhoads (D. C.) 98 Fed. 399, 400. 
+[
+Footnote 28
+] Compare Gratiot State Bank v. Johnson, 
+249 
+U.S. 246, 249
+, 39 S. Sup. Ct. 263. 
+
+
+
+

@@ -1,0 +1,111 @@
+Description: CITY BANK FARMERS' TRUST CO. v. SCHNADER , 293 U.S. 112 (1934)
+Date: 1934-11-05 00:00:00
+Docket: 30
+Opinion
+
+
+United States Supreme Court
+CITY BANK FARMERS' TRUST CO. v. SCHNADER(1934)
+No. 30
+Argued: October 15, 1934Decided: November 5, 1934
+
+
+
+ Appeal from the District Court of the United States for the Eastern District of Pennsylvania. 
+
+[293 U.S. 112, 113]
+ 
+ Messrs. Henry S. Drinker, Jr., and Leslie M. Swope, both of Philadelphia, Pa., for appellant.
+
+
+[293 U.S. 112, 115]
+ 
+ Mr. Wm. A. Schnader, of Philadelphia, Pa., for appellees. 
+
+[293 U.S. 112, 116]
+ 
+
+ Mr. Justice BUTLER delivered the opinion of the Court.
+ The Pennsylvania inheritance tax law imposes a tax upon the transfer by will or intestate laws of personal property within the commonwealth when the decedent is a nonresident at the time of his death. 
+1
+ Thomas B. Clarke, a resident of New York, loaned paintings to a museum in Pennsylvania and died testate while they were on exhibition there. His will was admitted to probate in New York, and letters testamentary issued to appellant to which, as trustee, the residuary clause transferred the pictures. The appellees, acting respectively as Attorney General and secretary of revenue of Pennsylvania, proceeded to appraise and assess the pictures for the purpose of collecting the inheritance tax.
+ Appellant, maintaining that when the owner died the paintings had no actual situs within Pennsylvania because only temporarily there, brought this suit to enjoin enforcement on the ground that, if the statute be construed to tax the transfer by the death of the nonresident owner, it is repugnant to the due process clause of the Fourteenth Amendment. As the transfer cannot be subjected to taxes imposed by more than one state ( Frick v. 
+
+[293 U.S. 112, 117]
+ 
+ Pennsylvania, 
+268 U.S. 473
+, 488-492, 45 S.Ct. 603, 42 A.L.R. 316; Safe Deposit & T. Co. v. Virginia, 
+280 
+U.S. 83, 93
+, 50 S.Ct. 59, 67 A.L.R. 386; Farmers' Loan & Trust Co. v. Minnesota, 
+280 
+U.S. 204, 210
+, 50 S.Ct. 98, 65 A.L.R. 1000; First National Bank v. Maine, 
+284 
+U.S. 312, 326
+, 327 S., 52 S.Ct. 174, 77 A.L.R. 1401), appellant framed its complaint to call for a decision whether Pennsylvania or New York is entitled to the tax. The New York tax commission as amicus curiae filed briefs below and also in this court supporting the claim that the transfer is subject to the New York tax.
+ The District Court, consisting of three judges, section 266, Jud. Code (28 USCA  380) dismissed the suit on the ground that appellant had an adequate remedy at law. This court reversed and remanded the case, with instructions to reinstate the bill and proceed to a hearing upon the merits. City Bank Farmers' Trust Co. v. Schnader, 
+291 
+U.S. 24
+, 54 S.Ct. 259. Then the case was submitted and tried on the facts alleged in the bill and answer and additional ones that were stipulated by the parties. Upon the circumstances detailed in its findings, the court concluded that 79 portraits belonging to Clarke that were included in the collection on exhibition in the Pennsylvania museum at the time of his death then had an actual situs in that state, and held the transfer subject to the Pennsylvania inheritance tax.
+ The material substance of the findings follows:
+ In March, 1928, Clarke, at the request of the director of the Pennsylvania museum, loaned to it the 79 pictures, together with 85 others owned by a corporation of which he was sole stockholder. At the time of the loan, they were, and long had been kept, in New York City; 5 were at his residence, 10 were on exhibition, and the remaining 64 were in storage. When the pictures were sent to Pennsylvania, Clarke surrendered his lease for the storage space, and thereafter did nothing to secure another place in which to put them. But suitable space was always readily available in New York. 
+
+[293 U.S. 112, 118]
+ 
+ The arrangement with the museum was oral; no consideration was to be paid; and it was understood that at any time on Clarke's request the pictures would be returned to him. In the spring of 1929, Clarke wrote the director, at the latter's solicitation, that he would sell the entire collection at a stated price to any one who would present it to the museum; it being understood that he would allow the pictures to remain at the museum for a reasonable time for the director to find such a donor. In May, 1930, he stated that this arrangement would terminate June 17, 1930. But at the director's request he permitted the pictures to remain, upon the understanding that, whenever he so requested, they would be returned to him in New York. Thereafter, he was willing to sell the collection as a whole for presentation to the Pennsylvania museum or to a substantially similar institution.
+ Clarke made no definite plans or request for the return to New York of the paintings. None was ever removed from the museum except 4, which, at his request, were sent to Virginia in April, 1929, for exhibition and were returned in May. When he died, January 18, 1931, all the paintings were at the museum.
+ The museum was not conducted for profit. It secured through voluntary loans from nonresidents a substantial portion of the works of art which it displayed. None of these was regarded or intended as a permanent loan. It is customary for public museums to secure pictures for exhibition in this manner. The period elapsing until Clarke's death was shorter than the usual period of such loans.
+ The power to regulate the transmission, administration, and distribution of tangible personal property rests exclusively in the state in which the property has an actual situs, regardless of the domicile of the owner. If at the time of his death the actual situs of Clarke's pictures was in Pennsylvania, they were wholly under the jurisdiction 
+
+[293 U.S. 112, 119]
+ 
+ of that state. The fact that, being a resident of New York, he, by will probated in that state, disposed of the pictures, detracted nothing from the exclusive jurisdiction of Pennsylvania to tax the transfer effected by his death. New York laws had no bearing other than that attributable to their implied adoption by Pennsylvania. Assuming actual situs in Pennsylvania, the paintings there on exhibition when the owner died are not to be distinguished, so far as concerns the imposition of the inheritance tax, from land located within that state. Frick v. Pennsylvania, supra, pages 489-493 of 268 U.S., 45 S.Ct. 603.
+ We regard as unimportant and negligible Clarke's suggestions that the pictures be returned because on each occasion he acceded to opposing suggestions of the director and continued his consent that they remain temporarily at the museum subject to his orders. Mere floating intention that some time in the future the pictures would be returned to New York was not sufficient to retain them within the jurisdiction of that state and to keep them without the jurisdiction of Pennsylvania. Cf. Story, Conflict of Laws (8th Ed.)  46. And obviously without weight are the facts that Clarke made the loan without pay, gave up the warehouse in which he had kept some of the pictures, and died without providing a place for them in New York.
+ The significant features of the transaction are these: Prior to the loan, the pictures that went to make up the collection had an actual situs in New York. The loan was not made for a short and definite period, and it was subject to the right of the owner to have the pictures returned to New York at any time. He did not call for their return, but with his consent they were kept in Pennsylvania and there exhibited until he died two years and ten months after the loan. With the exception of the 4 pictures temporarily sent to Virginia, none was taken from Pennsylvania. For nearly two years next preced- 
+
+[293 U.S. 112, 120]
+ 
+ ing his death Clarke was willing-indeed, he authorized the director-to sell the collection to any one who would buy at the specified price and donate them to the Pennsylvania museum. And during the last six months of his life he was willing to sell to any purchaser that would give them to any institution similar to the Pennsylvania museum. It does not appear that Clarke ever intended to have the pictures returned to New York at any definite date or upon the happening of any event or at all. Until his death he permitted the pictures to be kept and used in the Pennsylvania museum merely subject to his right at any time to order them taken to New York or elsewhere.
+ In respect of situs for taxation, the collection of portraits is quite unlike vessels and railway rolling stock that in fulfilling the purpose for which they are created move from place to place and into different states. Cf. Hays v. Pacific Mail Steamship Company, 17 How. 596, 599; Pullman's Palace-Car Co. v. Pennsylvania, 
+141 
+U.S. 18, 23
+, 11 S.Ct. 876; Johnson Oil Refining Co. v. Oklahoma, 
+290 
+U.S. 158, 161
+, 54 S.Ct. 152. Before the loan was made, the pictures had an actual situs in New York, so as to be within the taxing power of that state, though it cannot be said that they were there permanently located in the sense of that phrase when used in respect of land, buildings, or other items of fixed real property. The location of the portraits in Pennsylvania was not merely transient, transitory, or temporary, but it was fixed in an established abiding place in which they remained for a long time. Undoubtedly, they became subject to the taxing power of the state. Cf. Brown v. Houston, 
+114 
+U.S. 622, 632
+, 633 S., 5 S.Ct. 1091; Pittsburgh, etc., Coal Co. v. Bates, 
+156 
+U.S. 577, 589
+, 15 S.Ct. 415; Kelley v. Rhoads, 
+188 
+U.S. 1, 7
+, 23 S.Ct. 259; General Oil Co. v. Crain, 
+209 
+U.S. 211, 230
+, 28 S.Ct. 475. By sending them into Pennsylvania and by his omission to have them returned to New York and his lack of definite intention ever so to do, Clarke failed to 
+
+[293 U.S. 112, 121]
+ 
+ maintain an actual situs in New York and created one for them in Pennsylvania. The principle applied in Frick v. Pennsylvania, supra, pages 490-494 of 268 U.S., 45 S.Ct. 603, and in Blodgett v. Silberman, 
+277 
+U.S. 1, 18
+, 48 S.Ct. 410, governs this case.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Section 1 of the Act of June 20, 1919, P.L. 521, as last amended by the Act of June 22, 1931, P.L. 690, 72 PS  2301, provides in part as follows:
+'Section 1. Be it enacted, etc., That a tax shall be, and is hereby, imposed upon the transfer of any property, real or personal, or of any interest therein or income therefrom in trust or otherwise, to persons or corporations in the following cases: ...
+
+'(b) When the transfer is by will or intestate laws of real property within this Commonwealth, or of goods, wares, or merchandise within this Commonwealth, or of shares of stock of corporations of this Commonwealth or of national banking associations located in this Commonwealth, and the decedent was a nonresident of the Commonwealth at the time of his death.' 
+
+
+
+
+

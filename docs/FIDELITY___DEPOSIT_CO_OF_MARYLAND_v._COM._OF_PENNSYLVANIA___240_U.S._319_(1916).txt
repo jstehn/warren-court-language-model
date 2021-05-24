@@ -1,0 +1,58 @@
+Description: FIDELITY & DEPOSIT CO OF MARYLAND v. COM. OF PENNSYLVANIA , 240 U.S. 319 (1916)
+Date: 1916-02-21 00:00:00
+Docket: 114
+Opinion
+
+
+United States Supreme Court
+FIDELITY & DEPOSIT CO. OF MARYLAND v. COM. OF PENNSYLVANIA(1916)
+No. 114
+Argued: January 6, 1916Decided: February 21, 1916
+
+
+
+ Messrs. Charles Markell and Charles F. Patterson for plaintiff in error.
+ Mr. William M. Hargest and Mr. Francis Shunk Brown, Attorney General of Pennsylvania, for defendant in error. 
+
+[240 U.S. 319, 320]
+ 
+
+ Mr. Justice McReynolds delivered the opinion of the court:
+ We are asked to reverse a judgment of the supreme court of Pennsylvania which denied plaintiff in error's claim that, in becoming surety upon bonds required by the United States, it acted as a Federal instrumentality, and was not subject to taxation on the premiums received. 244 Pa. 67, 90 Atl. 437.
+ Incorporated under the laws of Maryland, the Fidelity & Deposit Company is empowered by its charter to act as surety. It was duty licensed to transact business in Pennsylvania. In pursuance of the act of Congress referred to below, the Attorney General granted it authority to enter into obligations required by laws of the United States.
+ Contracting within Pennsylvania, the company became surety, during 1909, on bonds in the following matters: 'Internal Revenue, customs, United States government officials, United States government contracts and banks for United States deposits, bonds given in courts of the United States in litigation there pending.' Gross premiums thereon amounting to $ 17,646.86 were collected. Within the same period it also became party to other bonds and received therefor $198,199.19. The state demanded 2 per centum of such total receipts, basing its claim on the proviso in  1, act of Assembly, June 28, 1895, P. L. 408, which declares: 'That hereafter the annual tax upon premiums of insurance companies of other states or foreign governments shall be at the rate of 2 per centum upon the gross premiums of every character and description received from business done within this commonwealth within the entire calendar year preceding.' The amount demanded because of premiums on bonds not authorized or required by the United States was paid; but liability for $352.92, assessed in respect of those so authorized, 
+
+[240 U.S. 319, 321]
+ 
+ was denied, and to enforce it the present suit was instituted in the common pleas court, Dauphin county.
+ The act of Congress entitled, 'An Act Relative to Recognizances, Stipulations, Bonds, and Undertakings, and to Allow Certain Corporations to be Accepted as Surety Thereon,' approved August 13, 1894 (chap. 282, 28 Stat. at L. 279, Comp. Stat. 1913,  3293), provided:
+ Sec. 1. 'That whenever any recognizance, stipulation, bond or undertaking conditioned for the faithful performance of any duty, or for doing or refraining from doing anything in such recognizance, stipulation, bond, or undertaking specified, is by the laws of the United States required or permitted to be given with one surety or with two or more sureties, the execution of the same or the guarantying of the performance of the condition thereof shall be sufficient when executed or guaranteed solely by a corporation incorporated under the laws of the United States, or of any state having power to guarantee the fidelity of persons holding positions of public or private trust, and to execute and guarantee bonds and undertakings in judicial proceedings: Provided, That such recognizance, stipulation, bond, or undertaking be approved by the head of department, court, judge, officer, board, or body executive, legislative, or judicial required to approve or accept the same. But no officer or person having the approval of any bond shall exact that it shall be furnished by a guarantee company or by any particular guarantee company.'
+ Sec. 2, that 'no such company shall do business under the provisions of this act beyond the limits of the state or territory under whose laws it was incorporated and in which its principal office is located . . . until it shall, by a written power of attorney, appoint some person residing within the jurisdiction of the court for the judicial district wherein such suretyship is to be undertaken, . . . as its agent, upon whom may be served 
+
+[240 U.S. 319, 322]
+ 
+ all lawful process against such company, . . .' Sec. 3, that every company, before transacting business under the act, shall deposit with the Attorney General of the United State a copy of its charter and a statement showing assets and liabilities, and 'if the said Attorney General shall be satisfied that such company has authority under its charter to do the business provided for in this act, and that it has a paid-up capital of not less than $250,000 in cash or its equivalent, and is able to keep and perform its contracts, he shall grant authority in writing to such company to do business under this act.' Sec. 4, that quarterly statements shall be filed with the Attorney General, who shall have power to revoke the authority of any company 'whenever in his judgment such company is not solvent or is conducting its business in violation of this act.' Sec. 5, that 'any surety company doing business under the provisions of this act may be sued in respect thereof in any court of the United States' which has jurisdiction, in the district in which the instrument was made or guaranteed or the principal office of the company is located. Sec. 6, that 'all right to do business under this act' shall be forfeited upon failure to pay a final judgment against it. Sec. 7, that a company having executed any instrument under the act shall be estopped to deny its corporate power to execute same. Sec. 8, that penalties therein prescribed for failure to comply with the provisions of the act shall be recovered by suit.
+ The court of common pleas held the tax 'is a charge for the privilege of transacting business in the state, measured by the amount of the business done;' there is 'nothing in the act of Congress to support the proposition that the defendant was authorized by it to transact its business in the state of Pennsylvania;' and in executing the specified bonds the surety company 'was in no sense an instrumentality of government.' Judgment was accordingly 
+
+[240 U.S. 319, 323]
+ 
+ rendered for the state; and, on appeal, this was affirmed upon findings and opinion below.
+ In behalf of plaintiff in error, counsel maintained that the taxing power of the state has been so exercised as to collide with operations of the Federal government; that under the act of Congress the surety company became a Federal instrumentality with power to execute bonds within the state, and consequently could not be subjected to a privilege tax therefor.
+ That the challenged tax 'is an exaction for the privilege of doing business' seems plain (Equitable Life Assur. Soc. v. Pennsylvania, 
+238 U.S. 143
+, 59 L. ed. 1239, 35 Sup. Ct. Rep. 829); and undoubtedly a state may not directly and materially hinder exercise of constitutional powers of the United States by demanding in opposition to the will of Congress that a Federal instrumentality pay a tax for the privilege of performing its functions. Farmers' & M. Sav. Bank v. Minnesota, 
+232 U.S. 516
+, 58 L. ed. 706, 34 Sup. Ct. Rep. 354; Choctaw, O. & G. R. Co. v. Harrison, 
+235 U.S. 292
+, 59 L. ed. 234, 35 Sup. Ct. Rep. 27. But mere contracts between private corporations and the United States do not necessarily render the former essential governmental agencies, and confer freedom from state control. Baltimore Shipbuilding & Dry Dock Co. v. Baltimore, 
+195 U.S. 375
+, 49 L. ed. 242, 25 Sup. Ct. Rep. 50. Moreover, whatever may be their status, if the pertinent statute discloses the intention of Congress that such corporations, contracting under it with the Federal government, shall not be exempt from state regulation and taxation, they must submit thereto. First Nat. Bank v. Kentucky, 9 Wall. 353, 362, 19 L. ed. 701, 703; Van Allen v. Assessors (Churchill v. Utica), 3 Wall. 573, 585, 18 L. ed. 229, 235; Cooley, Taxn. 3d ed. pp. 130, 131.
+ As revealed by its title, the purpose of the act of 1894 is 'to allow certain corporations to be accepted as surety, etc.' It does not undertake to endow any corporation with power, but only to permit those complying with specified conditions to exercise their lawful powers, derived from other sources, by contracting with the government 
+
+[240 U.S. 319, 324]
+ 
+ under official approval. 'Power to guarantee,' required by  1, is not the same thing as 'authority under its charter' referred to in  3; and we think the clear intent was that existence of the former should be determined by the laws in force at place of contract. Neither circumstances nor language of the act indicate design or necessity to limit application by the several states of a well-established system of licensing and taxing bonding companies not incorporated under their own statutes. Plaintiff in error's right to carry on business in Pennsylvania depended upon compliance with its laws.
+ We find no error in the judgment of the court below and it is affirmed. 
+
+
+

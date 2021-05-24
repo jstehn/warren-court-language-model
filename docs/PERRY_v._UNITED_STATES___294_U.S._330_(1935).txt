@@ -1,0 +1,191 @@
+Description: PERRY v. UNITED STATES , 294 U.S. 330 (1935)
+Date: 1935-02-18 00:00:00
+Docket: 532
+Opinion
+
+
+United States Supreme Court
+PERRY v. UNITED STATES(1935)
+No. 532
+Argued: Decided: February 18, 1935
+
+
+
+
+
+[294 U.S. 330, 333]
+ 
+ Mr. John M. Perry, of New York City, for Perry.
+
+
+[294 U.S. 330, 341]
+ 
+ Messrs. Homer S. Cummings, Atty. Gen., and Angus D. MacLean, Asst. Sol. Gen., of Washington, D.C., for the United States.
+
+
+[294 U.S. 330, 346]
+ 
+
+ Mr. Chief Justice HUGHES delivered the opinion of the Court.
+ The certificate from the Court of Claims shows the following facts:
+ Plaintiff brought suit as the owner of an obligation of the United States for $10,000, known as 'Fourth Liberty Loan 4 1/4% Gold Bond of 1933- 1938.' This bond was issued pursuant to the Act of September 24, 1917,  1 et seq. (40 Stat. 288), as amended, and Treasury Department circular No. 121 dated September 28, 1918. The bond 
+
+[294 U.S. 330, 347]
+ 
+ provided: 'The principal and interest hereof are payable in United States gold coin of the present standard of value.'
+ Plaintiff alleged in his petition that at the time the bond was issued, and when he acquired it, 'a dollar in gold consisted of 25.8 grains of gold .9 fine'; that the bond was called for redemption on April 15, 1934, and, on May 24, 1934, was presented for payment; that plaintiff demanded its redemption 'by the payment of 10,000 gold dollars each containing 25.8 grains of gold .9 fine'; that defendant refused to comply with that demand; and that plaintiff then demanded '258,000 grains of gold . 9 fine, or gold of equivalent value of any fineness, or 16,931.25 gold dollars each containing 15 5/21 grains of gold .9 fine, or 16,931.25 dollars in legal tender currency'; that defendant refused to redeem the bond 'except by the payment of 10,000 dollars in legal tender currency'; that these refusals were based on the Joint Resolution of the Congress of June 5, 1933, 48 Stat. 113 (31 USCA  462, 463), but that this enactment was unconstitutional, as it operated to deprive plaintiff of his property without due process of law; and that, by this action of defendant, he was damaged 'in the sum of $16,931.25, the value of defendant's obligation,' for which, with interest, plaintiff demanded judgment.
+ Defendant demurred upon the ground that the petition did not state a cause of action against the United States.
+ The Court of Claims has certified the following questions:
+'1. Is the claimant, being the holder and owner of a Fourth Liberty Loan 4 1/4 bond of the United States, of the principal amount of $10,000, issued in 1918, which was payable on and after April 15, 1934, and which bond contained a clause that the principal is 'payable in United States gold coin of the present standard of value', entitled to receive from the United States an amount in legal tender currency in excess of the face amount of the bond? 
+
+[294 U.S. 330, 348]
+ 
+
+'2. Is the United States, as obligor in a Fourth Liberty Loan 4 1/4% gold bond, Series of 1933-1938, as stated in Question One liable to respond in damages in a suit in the Court of Claims on such bond as an express contract, by reason of the change in or impossibility of performance in accordance with the tenor thereof, due to the provisions of Public Resolution No. 10, 73rd Congress, abrogating the gold clause in all obligations?'
+
+
+ First. The Import of the Obligation. The bond in suit differs from an obligation of private parties, or of states or municipalities, whose contracts are necessarily made in subjection to the dominant power of the Congress. Norman v. Baltimore & Ohio R. Co., 
+294 
+U.S. 240
+, 55 S.Ct. 407, decided this day. The bond now before us is an obligation of the United States. The terms of the bond are explicit. They were not only expressed in the bond itself, but they were definitely prescribed by the Congress. The Act of September 24, 1917, both in its original and amended form, authorized the moneys to be borrowed, and the bonds to be issued, 'on the credit of the United States,' in order to meet expenditures needed 'for the national security and defense and other public purposes authorized by law.' Section 1, 40 Stat. 288, as amended by Act April 4, 1918,  1, 40 Stat. 503, 31 USCA  752. The circular of the Treasury Department of September 28, 1918, to which the bond refers 'for a statement of the further rights of the holders of bonds of said series,' also provided that the principal and interest 'are payable in United States gold coin of the present standard of value.'
+ This obligation must be fairly construed. The 'present standard of value' stood in contradistinction to a lower standard of value. The promise obviously was intended to afford protection against loss. That protection was sought to be secured by setting up a standard or measure of the government's obligation. We think that the reasonable import of the promise is that it was intended 
+
+[294 U.S. 330, 349]
+ 
+ to assure one who lent his money to the government and took its bond that he would not suffer loss through depreciation in the medium of payment.
+ The government states in its brief that the total unmatured interest- bearing obligations of the United States outstanding on May 31, 1933 ( which it is understood contained a 'gold clause' substantially the same as that of the bond in suit), amounted to about twenty-one billions of dollars. From statements at the bar, it appears that this amount has been reduced to approximately twelve billions at the present time, and that during the intervening period the public debt of the United States has risen some seven billions (making a total of approximately twenty-eight billions five hundred millions) by the issue of some sixteen billions five hundred millions of dollars 'of non-gold-clause obligations.'
+ Second. The Binding Quality of the Obligation. The question is necessarily presented whether the Joint Resolution of June 5, 1933, 48 Stat. 113 (31 USCA  462, 463), is a valid enactment so far as it applies to the obligations of the United States. The resolution declared that provisions requiring 'payment in gold or a particular kind of coin or currency' were 'against public policy,' and provided that 'every obligation, heretofore or hereafter incurred, whether or not any such provision is contained therein,' shall be discharged 'upon payment, dollar for dollar, in any coin or currency which at the time of payment is legal tender for public and private debts.' This enactment was expressly extended to obligations of the United States and provisions for payment in gold, 'contained in any law authorizing obligations to be issued by or under authority of the United States,' were repealed. 
+1
+ Section 1(a), 31 USCA  463(a). 
+
+[294 U.S. 330, 350]
+ 
+ There is no question as to the power of the Congress to regulate the value of money: that is, to establish a monetary system and thus to determine the currency of the country. The question is whether the Congress can use that power so as to invalidate the terms of the obligations which the government has theretofore issued in the exercise of the power to borrow money on the credit of the United States. In attempted justification of the Joint Resolution in relation to the outstanding bonds of the United States, the government argues that 'earlier Congresses could not validly restrict the 73rd Congress from exercising its constitutional powers to regulate the value of money, borrow money, or regulate foreign and interstate commerce'; and, from this premise, the government seems to deduce the proposition that when, with adequate authority, the government borrows money and pledges the credit of the United States, it is free to ignore that pledge and alter the terms of its obligations in case a later Congress finds their fulfillment inconvenient. The government's contention thus raises a question of far greater importance than the particular claim of the plaintiff. On that reasoning, if the terms of the government's bond as to the standard of payment can be repudiated, it inevitably follows that the obligation as to the amount to be paid may also be repudiated. The contention necessarily imports that the Congress can disregard the obligations of the government at its discretion, and that, when the government borrows money, the credit of the United States is an illusory pledge.
+ We do not so read the Constitution. There is a clear distinction between the power of the Congress to control or interdict the contracts of private parties when they interfere with the exercise of its constitutional authority 
+
+[294 U.S. 330, 351]
+ 
+ and the power of the Congress to alter or repudiate the substance of its own engagements when it has borrowed money under the authority which the Constitution confers. In authorizing the Congress to borrow money, the Constitution empowers the Congress to fix the amount to be borrowed and the terms of payment. By virtue of the power to borrow money 'on the credit of the United States,' the Congress is authorized to pledge that credit as an assurance of payment as stipulated, as the highest assurance the government can give, its plighted faith. To say that the Congress may withdraw or ignore that pledge is to assume that the Constitution contemplates a vain promise; a pledge having no other sanction than the pleasure and convenience of the pledgor. This Court has given no sanction to such a conception of the obligations of our government.
+ The binding quality of the obligations of the government was considered in the Sinking Fund Cases, 
+99 
+U.S. 700, 718
+, 719 S.. The question before the Court in those cases was whether certain action was warranted by a reservation to the Congress of the right to amend the charter of a railroad company. While the particular action was sustained under this right of amendment, the Court took occasion to state emphatically the obligatory character of the contracts of the United States. The Court said: 'The United States are as much bound by their contracts as are individuals. If they repudiate their obligations, it is as much repudiation, with all the wrong and reproach that term implies, as it would be if the repudiator had been a State or a municipality or a citizen.' 
+2
+ 
+
+[294 U.S. 330, 352]
+ 
+ When the United States, with constitutional authority, makes contracts, it has rights and incurs responsibilities similar to those of individuals who are parties to such instruments. There is no difference, said the Court in United States v. Bank of the Metropolis, 15 Pet. 377, 392, except that the United States cannot be sued without its consent. See, also, The Floyd Acceptances, 7 Wall. 666, 675; Cooke v. United States, 
+91 U.S. 389
+, 396. In Lynch v. United States, 
+292 
+U.S. 571, 580
+, 54 S.Ct. 840, 844, with respect to an attempted abrogation by the Act of March 20, 1933,  17, 48 Stat. 8, 11 (38 USCA  717), of certain outstanding war risk insurance policies, which were contracts of the United States, the Court quoted with approval the statement in the Sinking Fund Cases, supra, and said: 'Punctilious fulfillment of contractual obligations is essential to the maintenance of the credit of public as well as private debtors. No doubt there was in March, 1933, great need of economy. In the administration of all government business economy had become urgent because of lessened revenues and the heavy obligations to be issued in the hope of relieving widespread distress. Congress was free to reduce gratuities deemed excessive. But Congress was without power to reduce expenditures by abrogating contractual obligations of the United States. To abrogate contracts, in the attempt to lessen government expenditure, would 
+
+[294 U.S. 330, 353]
+ 
+ be not the practice of economy, but an act of repudiation.'
+ The argument in favor of the Joint Resolution, as applied to government bonds, is in substance that the government cannot by contract restrict the exercise of a sovereign power. But the right to make binding obligations is a competence attaching to sovereignty. 
+3
+ In the United States, sovereignty resides in the people who act through the organs established by the Constitution. Chisholm v. Georgia, 2 Dall. 419, 471; Penhallow v. Doane's Administrators, 3 Dall. 54, 93; McCulloch v. Maryland, 4 Wheat. 316, 404, 405; Yick Wo v. Hopkins, 
+118 
+U.S. 356, 370
+, 6 S.Ct. 1064. The Congress as the instrumentality of sovereignty is endowed with certain powers to be exerted on behalf of the people in the manner and with the effect the Constitution ordains. The Congress cannot invoke the sovereign power of the people to override their will as thus declared. The powers conferred upon the Congress are harmonious. The Constitution gives to the Congress the power to borrow money on the credit of the United States, an unqualified power, a power vital to the government, upon which in an extremity its very life may depend. The binding quality of the promise of the United States is of the essence of the credit which is so pledged. Having this power to authorize the issue of definite obligations for the payment of money borrowed, the Congress has not been vested with authority to alter or destroy those obli- 
+
+[294 U.S. 330, 354]
+ 
+ gations. The fact that the United States may not be sued without its consent is a matter of procedure which does not affect the legal and binding character of its contracts. While the Congress is under no duty to provide remedies through the courts, the contractual obligation still exists, and, despite infirmities of procedure, remains binding upon the conscience of the sovereign. Lynch v. United States, supra, pages 580, 582, of 
+292 U.S. 54
+ S.Ct. 840.
+ The Fourteenth Amendment, in its fourth section, explicitly declares: 'The validity of the public debt of the United States, authorized by law , ... shall not be questioned.' While this provision was undoubtedly inspired by the desire to put beyond question the obligations of the government issued during the Civil War, its language indicates a broader connotation. We regard it as confirmatory of a fundamental principle which applies as well to the government bonds in question, and to others duly authorized by the Congress, as to those issued before the amendment was adopted. Nor can we perceive any reason for not considering the expression 'the validity of the public debt' as embracing whatever concerns the integrity of the public obligations.
+ We conclude that the Joint Resolution of June 5, 1933, in so far as it attempted to override the obligation created by the bond in suit, went beyond the congressional power.
+ Third. The Question of Damages. In this view of the binding quality of the government's obligations, we come to the question as to the plaintiff's right to recover damages. That is a distinct question. Because the government is not at liberty to alter or repudiate its obligations, it does not follow that the claim advanced by the plaintiff should be sustained. The action is for breach of contract. As a remedy for breach, plaintiff can recover no more than the loss he has suffered and of which he may rightfully complain. He is not entitled to be en- 
+
+[294 U.S. 330, 355]
+ 
+ riched. Plaintiff seeks judgment for $16,931.25, in present legal tender currency, on his bond for $10,000. The question is whether he has shown damage to that extent, or any actual damage, as the Court of Claims has no authority to entertain an action for nominal damages. Grant v. United States, 7 Wall. 331, 338; Marion & Rye V. Railway Co. v. United States, 
+270 
+U.S. 280, 282
+, 46 S.Ct. 253; Nortz v. United States, 
+294 
+U.S. 317
+, 55 S.Ct. 428, decided this day.
+ Plaintiff computes his claim for $16,931.25 by taking the weight of the gold dollar as fixed by the President's proclamation of January 31, 1934 (No. 2072, 31 USCA  821 note), under the Act of May 12, 1933,  43(b)( 2), 48 Stat. 52, 53, as amended by the Act of January 30, 1934,  12, 48 Stat. 342, (31 USCA  821), that is, at 15 5/21 grains nine-tenths fine, as compared with the weight fixed by the Act of March 14, 1900,  1, 31 Stat. 46 (31 USCA  314), or 25.8 grains nine-tenths fine. But the change in the weight of the gold dollar did not necessarily cause loss to the plaintiff of the amount claimed. The question of actual loss cannot fairly be determined without considering the economic situation at the time the government offered to pay him the $10,000, the face of his bond, in legal tender currency. The case is not the same as if gold coin had remained in circulation. That was the situation at the time of the decisions under the legal tender acts of 1862 and 1863. Bronson v. Rodes, 7 Wall. 229, 251; Trebilcock v. Wilson, 12 Wall. 687, 695; Thompson v. Butler, 
+95 
+U.S. 694, 696
+, 697 S.. Before the change in the weight of the gold dollar in 1934, gold coin had been withdrawn from circulation. 
+4
+ The Congress had authorized the prohibition of the exportation of gold coin and the placing of restrictions upon transactions in foreign exchange. Acts of March 9, 1933, 
+
+[294 U.S. 330, 356]
+ 
+ 48 Stat. 1 (Emergency Banking Relief Act,  2, amending Trading with the Enemy Act,  5(b), 12 USCA  95a); January 30, 1934, 48 Stat. 337 (Gold Reserve Act of 1934,  12, 31 USCA  824). Such dealings could be had only for limited purposes and under license. Executive Orders of April 20, 1933 ( No. 6111), August 28, 1933 (No. 6260), and January 15, 1934 (No. 6560), 12 USCA  95 note; Regulations of the Secretary of the Treasury, January 30 and 31, 1934. That action the Congress was entitled to take by virtue of its authority to deal with gold coin as a medium of exchange. And the restraint thus imposed upon holders of gold coin was incident to the limitations which inhered in their ownership of that coin and gave them no right of action. Ling Su Fan v. United States, 
+218 
+U.S. 302, 310
+, 311 S., 31 S.Ct. 21, 23, 30 L.R.A.(N.S.) 1176. The Court said in that case: 'Conceding the title of the owner of such coins, yet there is attached to such ownership those limitations which public policy may require by reason of their quality as a legal tender and as a medium of exchange. These limitations are due to the fact that public law gives to such coinage a value which does not attach as a mere consequence of intrinsic value. Their quality as a legal tender is an attribute of law aside from their bullion value. They bear, therefore, the impress of sovereign power which fixes value and authorizes their use in exchange . ... However unwise a law may be, aimed at the exportation of such coins, in the face of the axioms against obstructing the free flow of commerce, there can be no serious doubt but that the power to coin money includes the power to prevent its outflow from the country of its origin.' The same reasoning is applicable to the imposition of restraints upon transactions in foreign exchange. We cannot say, in view of the conditions that existed, that the Congress having this power exercised it arbitrarily or capriciously. And the holder of an obligation, or bond, of the United States, payable in gold coin of the former standard, so far as the restraint upon the right to export gold coin or to engage in transactions in foreign exchange is concerned, was in no better case than the holder of gold coin itself. 
+
+[294 U.S. 330, 357]
+ 
+ In considering what damages, if any, the plaintiff has sustained by the alleged breach of his bond, it is hence inadmissible to assume that he was entitled to obtain gold coin for recourse to foreign markets or for dealings in foreign exchange or for other purposes contrary to the control over gold coin which the Congress had the power to exert, and had exerted, in its monetary regulation. Plaintiff's damages could not be assessed without regard to the internal economy of the country at the time the alleged breach occurred. The discontinuance of gold payments and the establishment of legal tender currency on a standard unit of value with which 'all forms of money' of the United States were to be 'maintained at a parity' had a controlling influence upon the domestic economy. It was adjusted to the new basis. A free domestic market for gold was nonexistent.
+ Plaintiff demands the 'equivalent' in currency of the gold coin promised. But 'equivalent' cannot mean more than the amount of money which the promised gold coin would be worth to the bondholder for the purposes for which it could legally be used. That equivalence or worth could not properly be ascertained save in the light of the domestic and restricted market which the Congress had lawfully established. In the domestic transactions to which the plaintiff was limited, in the absence of special license, determination of the value of the gold coin would necessarily have regard to its use as legal tender and as a medium of exchange under a single monetary system with an established parity of all currency and coins. And, in view of the control of export and foreign exchange, and the restricted domestic use, the question of value, in relation to transactions legally available to the plaintiff, would require a consideration of the purchasing power of the dollars which the plaintiff could have received. Plaintiff has not shown, or attempted to show, that in relation to buying power he has sustained any loss whatever. On 
+
+[294 U.S. 330, 358]
+ 
+ the contrary, in view of the adjustment of the internal economy to the single measure of value as established by the legislation of the Congress, and the universal availability and use throughout the country of the legal tender currency in meeting all engagements, the payment to the plaintiff of the amount which he demands would appear to constitute, not a recoupment of loss in any proper sense, but an unjustified enrichment.
+ Plaintiff seeks to make his case solely upon the theory that by reason of the change in the weight of the dollar he is entitled to $1.69 in the present currency for every dollar promised by the bond, regardless of any actual loss he has suffered with respect to any transaction in which his dollars may be used. We think that position is untenable.
+ In the view that the facts alleged by the petition fail to show a cause of action for actual damages, the first question submitted by the Court of Claims is answered in the negative. It is not necessary to answer the second question.
+ Question No. 1 is answered 'No.'
+
+ Mr. Justice STONE (concurring).
+ I agree that the answer to the first question is 'No,' but I think our opinion should be confined to answering that question, and that it should essay an answer to no other.
+ I do not doubt that the gold clause in the government bonds, like that in the private contracts just considered, calls for the payment of value in money, measured by a stated number of gold dollars of the standard defined in the clause, Feist v. Socie te Intercommunale Belge d'Electricite , (1934) A.C. 161, 170-173; Serbian and Brazilian Bond Cases, P.C.I.J., series A., Nos. 20, 21, pp. 32-34, 109-119. In the absence of any further exertion of governmental power, that obligation plainly could not be 
+
+[294 U.S. 330, 359]
+ 
+ satisfied by payment of the same number of dollars, either specie or paper, measured by a gold dollar of lesser weight, regardless of their purchasing power or the state of our internal economy at the due date.
+ I do not understand the government to contend that it is any the less bound by the obligation than a private individual would be, or that it is free to disregard it except in the exercise of the constitutional power 'to coin money' and 'regulate the value thereof.' In any case, there is before us no question of default apart from the regulation by Congress of the use of gold as currency.
+ While the government's refusal to make the stipulated payment is a measure taken in the exercise of that power, this does not disguise the fact that its action is to that extent a repudiation of its undertaking. As much as I deplore this refusal to fulfill the solemn promise of bonds of the United States, I cannot escape the conclusion, announced for the Court, that in the situation now presented, the government, through the exercise of its sovereign power to regulate the value of money, has rendered itself immune from liability for its action. To that extent it has relieved itself of the obligation of its domestic bonds, precisely as it has relieved the obligors of private bonds in Norman v. Baltimore & Ohio R. Co., 
+294 
+U.S. 240
+, 55 S.Ct. 407, decided this day.
+ In this posture of the case it is unnecessary, and I think undesirable, for the Court to undertake to say that the obligation of the gold clause in government bonds is greater than in the bonds of private individuals, or that in some situation not described, and in some manner and in some measure undefined, it has imposed restrictions upon the future exercise of the power to regulate the currency. I am not persuaded that we should needlessly intimate any opinion which implies that the obligation may so operate, for example, as to interpose a serious obstacle to the adoption of measures for stabilization of 
+
+[294 U.S. 330, 360]
+ 
+ the dollar, should Congress think it wise to accomplish that purpose by resumption of gold payments, in dollars of the present or any other gold content less than that specified in the gold clause, and by the re- establishment of a free market for gold and its free exportation.
+ There is no occasion now to resolve doubts, which I entertain, with respect to these questions. At present they are academic. Concededly they may be transferred wholly to the realm of speculation by the exercise of the undoubted power of the government to withdraw the privilege of suit upon its gold clause obligations. We have just held that the Court of Claims was without power to entertain the suit in Nortz v. United States, 
+294 
+U.S. 317
+, 55 S.Ct. 428, because, regardless of the nature of the obligation of the gold certificates, there was no damage. Here it is declared that there is no damage because Congress, by the exercise of its power to regulate the currency, has made it impossible for the plaintiff to enjoy the benefits of gold payments promised by the government. It would seem that this would suffice to dispose of the present case, without attempting to prejudge the rights of other bondholders and of the government under other conditions which may never occur. It will not benefit this plaintiff, to whom we deny any remedy, to be assured that he has an inviolable right to performance of the gold clause.
+ Moreover, if the gold clause be viewed as a gold value contract, as it is in Norman v. Baltimore & Ohio R. Co., supra, it is to be noted that the government has not prohibited the free use by the bondholder of the paper money equivalent of the gold clause obligation; it is the prohibition, by the Joint Resolution of Congress, of payment of the increased number of depreciated dollars required to make up the full equivalent, which alone bars recovery. 
+
+[294 U.S. 330, 361]
+ 
+ In that case it would seem to be implicit in our decision that the prohibition, at least in the present situation, is itself a constitutional exercise of the power to regulate the value of money.
+ I therefore do not join in so much of the opinion as may be taken to suggest that the exercise of the sovereign power to borrow money on credit, which does not override the sovereign immunity from suit, may nevertheless preclude or impede the exercise of another sovereign power, to regulate the value of money; or to suggest that, although there is and can be no present cause of action upon the repudiated gold clause, its obligation is nevertheless, in some manner and to some extent not stated, superior to the power to regulate the currency which we now hold to be superior to the obligation of the bonds.
+ Mr. Justice McREYNOLDS, Mr. Justice VAN DEVANTER, Mr. Justice SUTHERLAND and Mr. Justice BUTLER, dissent. For opinion, see Norman v. Baltimore & O.R. Co., 
+294 
+U.S. 240
+, 55 S.Ct. 407, at page 419. 
+
+Footnotes
+
+[
+Footnote 1
+] And subdivision (b) of section 1 of the Joint Resolution of June 5, 1933, provided: 'As used in this resolution, the term 'obligation' means an obligation (including every obligation of and to the United States, excepting currency) payable in money of the United States; and the term 'coin or currency' means coin or currency of the United States, including Federal Reserve notes and circulating notes of Federal Reserve banks and national banking associations.' 31 USCA  463(b). 
+
+[
+Footnote 2
+] Mr. Justice Strong, who had written the opinion of the majority of the Court in the Legal Tender Cases (Knox v. Lee), 12 Wall. 457, dissented in the Sinking Fund Cases, 99 U.S. page 731, because he thought that the action of the Congress was not consistent with the government's engagement, and hence was a transgression of legislative power. And, with respect to the sanctity of the contracts of the government, he quoted, with approval, the opinion of Mr. Hamilton in his communication to the Senate of January 20, 1795 (citing 3 Hamilton's Works, 518, 519), that 'when a government enters into a contract with an individual, it deposes, as to the matter of the contract, its constitutional authority, and exchanges the character of legislator for that of a moral agent, with the same rights and obligations as an individual. Its promises may be justly considered as excepted out of its power to legislate, unless in aid of them. It is in theory impossible to reconcile the idea of a promise which obliges, with a power to make a law which can vary the effect of it.' 
+
+[
+Footnote 3
+] Oppenheim, International Law (4th Ed.) vol. 1,  493, 494. This is recognized in the field of international engagements. Although there may be no judicial procedure by which such contracts may be enforced in the absence of the consent of the sovereign to be sued, the engagement validly made by a sovereign state is not without legal force, as readily appears if the jurisdiction to entertain a controversy with respect to the performance of the engagement is conferred upon an international tribunal. Hall, International Law (8th Ed.)  107; Oppenheim, loc. cit.; Hyde, International Law, vol. 2,  489. 
+
+[
+Footnote 4
+] In its Report of May 27, 1933, it was stated by the Senate Committee on Banking and Currency: 'By the Emergency Banking Act and the existing Executive Orders gold is not now paid, or obtainable for payment, on obligations public or private.' Sen. Rep. No. 99, 73d Cong., 1st Sess. 
+
+
+
+

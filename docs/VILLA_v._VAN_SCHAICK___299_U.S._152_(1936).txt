@@ -1,0 +1,65 @@
+Description: VILLA v. VAN SCHAICK , 299 U.S. 152 (1936)
+Date: 1936-12-07 00:00:00
+Docket: 54
+Opinion
+
+
+United States Supreme Court
+VILLA v. VAN SCHAICK(1936)
+No. 54
+Argued: October 23, 1936Decided: December 7, 1936
+
+
+
+ Appeal from the Supreme Court of the State of New York.
+ Mr. Hartwell Cabell, of New York City, for appellants.
+ Messrs. Walter B. Herendeen and Louis H. Pink, both of New York City, for appellee. 
+
+[299 U.S. 152, 153]
+ 
+
+ PER CURIAM.
+ The Southern Surety Company, an insurance company organized under the laws of New York and doing business there and in other States, is being liquidated by the state superintendent of insurance. In the course of its business, the company acted as an insurance carrier for employers in relation to claims under the compensation laws of New York and other States. Upon his first report, the liquidator sought the direction of the state court to pay in full, as preferred under section 34 of the Workmen's Compensation Law of New York (Consol. Laws N.Y. c. 67), all compensation claimants who had filed preferred claims under the New York law and whose claims the liquidator had allowed.
+ Appellants are holders of awards of compensation against the company under the laws of Minnesota. They appeared in the proceedings for liquidation and objected to the preference of the New York claimants. The Supreme Court of the State sustained the preference and ordered distribution accordingly. The Court of Appeals affirmed the order. In re People, by Van Schaick, 266 N.Y. 589, 195 N.E. 213, 214. Appeal to this Court was dismissed. Villa v. Van Schaick, 
+296 
+U.S. 544
+, 56 S.Ct. 153. The Court of Appeals amended its remittitur so as to recite that a federal question was presented and necessarily passed upon, in that the court held that section 34 of the Workmen's Compensation Law of New York was not repugnant to section 2 of article 4 and section 1 of the Fourteenth Amendment of the Constitution of the United States. The Court of Appeals thereupon vacated the judgment 
+
+[299 U.S. 152, 154]
+ 
+ previously entered and directed the entry of a new judgment which, after a further amendment of the remittitur, was entered on April 1, 1936, and from which this appeal was taken within the time allowed by law.
+ It appears from the record that the business had its origin with the Southern Surety Company of Oklahoma which was incorporated in that State in 1907; that the Oklahoma company took over the business of other companies in Missouri, Michigan, Indiana, and New Mexico; that in 1918 the Southern Surety Company of Iowa was organized and took over the business of the Oklahoma company; that in 1928 the Southern Surety Company of New York was incorporated, assuming the liabilities and receiving most of the assets of the Iowa company; that the business of the New York company grew rapidly, but that in March, 1932, it was found to be insolvent and the liquidator took charge.
+ The Court of Appeals stated in its order that 'In this case the New York assets are concededly more than sufficient for the payment of the preferences allowed. See Clark v. Williard, 
+294 
+U.S. 211
+, 55 S.Ct. 356 (98 A.L.R. 347) decided February 5, 1935. We pass on no other situation.' The record discloses that when the liquidator took possession of the assets in March, 1932, the aggregate 'was sufficient to pay the New York compensation claims in full without resorting to any assets received by the liquidator thereafter from sources outside the State of New York,' but that the assets so taken over 'had been derived from the general conduct of the insurance business during the preceding years throughout the United States.'
+ Appellants contend that 'the New York assets' to which the Court of Appeals referred were the commingled assets owned by the company at the time the liquidator took possession and derived from the operations of the company throughout the country, and not simply assets which had been derived from the business of the company in the State of New York. The liquidator appear 
+
+[299 U.S. 152, 155]
+ 
+ ently contends that while the preference does not apply to assets from other States brought to New York after the liquidation proceeding was instituted, it does apply to all the assets, however derived, which were in the State of New York at the time of the liquidation order, aside from the statutory deposit held in trust for the policyholders under section 71 of the state insurance law (Consol. Laws N.Y. c. 28).
+ The condensed statement in the record leaves doubt as to the determination of the state court upon points bearing upon the federal question which that court has decided in upholding the preference. It does not clearly appear whether the court has determined that upon a segregation of assets there would be sufficient assets derived from the business done within the State of New York to pay the preferred claims, or whether that preference is to be satisfied out of assets resulting from operations in other States. Nor does it appear whether assets derived from business in Minnesota will be sufficient to discharge appellants' claims.
+ We express no opinion as to the merits of the federal question and we think that the facts should be more fully elucidated before that question is decided here. We have frequently said that in the exercise of our appellate jurisdiction we have power not only to correct errors in the judgment under review but to make such disposition of the case as justice requires. In determining what justice does require we have considered changes, either in fact or law, supervening since the judgment was entered and in such cases we have set aside the judgment and remanded the cause so that the state court might be free to act. We think that the fundamental principle involved in such action applies as well to cases where the record before us does not adequately show the facts underlying the decision of the state court of the federal question and opportunity should be given for their appropriate presentation either through amendment of the record or by further proof as the state 
+
+[299 U.S. 152, 156]
+ 
+ court may be advised. See Gulf, C. & S.F.R. Co. v. Dennis, 
+224 U.S. 503
+, 506-509, 32 S.Ct. 542; Watts, Watts & Co. v. Unione Austriaca, 
+248 
+U.S. 9, 21
+, 39 S.Ct. 1, 3 A.L.R. 323; Dorchy v. Kansas, 
+264 
+U.S. 286, 289
+, 44 S.Ct. 323, 324; Missouri ex rel. Wabash R. Co. v. Public Service Commission of Missouri, 
+273 
+U.S. 126, 131
+, 47 S.Ct. 311, 313; Patterson v. Alabama, 
+294 
+U.S. 600, 607
+, 55 S.Ct. 575, 578. To afford this opportunity we vacate the judgment and remand the cause for further proceedings.
+ It is so ordered.
+ Mr. Justice STONE took no part in the consideration or decision of this case. 
+
+
+

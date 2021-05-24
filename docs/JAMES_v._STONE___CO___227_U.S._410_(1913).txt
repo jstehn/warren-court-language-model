@@ -1,0 +1,45 @@
+Description: JAMES v. STONE & CO , 227 U.S. 410 (1913)
+Date: 1913-02-24 00:00:00
+Docket: 142
+Opinion
+
+
+United States Supreme Court
+JAMES v. STONE & CO(1913)
+No. 142
+Argued: Decided: February 24, 1913
+
+
+
+ Messrs. H. L. Stevens and Henry R. Miller for appellant.
+ No appearance for appellees.
+
+ Mr. Justice Day delivered the opinion of the court:
+ This is an appeal from the judgment of the circuit court of appeals for the fourth circuit, affirming the judgment of the district court of the United States for the eastern district of North Carolina, refusing to grant a discharge in bankruptcy to John L. James, bankrupt.
+ So much of  14 of the bankruptcy act, which provides for the granting of discharges in bankruptcy, as is applicable to this case, reads as follows:
+'The judge shall hear the application for a discharge, . . . and discharge the applicant unless he has . . . at any time subsequent to the first day of the four months immediately preceding the filing of the petition transferred, removed, destroyed, or concealed . . . 
+
+[227 U.S. 410, 411]
+ 
+ any of his property with intent to hinder, delay, or defraud his creditors.' [30 Stat. at L. 550, chap. 541, as amended, 32 Stat. at L. 797, chap. 487 ,  4, U. S. Comp. Stat. Supp. 1911, p. 1496.]
+
+ The district court held that the bankrupt had concealed property with intent to hinder and delay his creditors subsequently to the first day of the four months immediately preceding the filing of the petition, and entered an order refusing to grant the discharge. 175 Fed. 894. Upon appeal, the circuit court of appeals affirmed that order. 104 C. C. A. 224, 181 Fed. 476. The case was then brought to this court by appeal.
+ We are unable to discover anything in the bankruptcy act which permits an appeal in such a case from the circuit court of appeals to this court. Under  24a this court is given appellate jurisdiction of controversies arising in bankruptcy proceedings from the courts of bankruptcy from which there is appellate jurisdiction in other cases. This section has been the subject of adjudication in this court in a number of cases, and it is held that controversies in bankruptcy proceedings, as the terms are therein used, do not mean mere steps in proceedings in bankruptcy, but embrace controversies which are not of that inherent character, although arising in the course of proceedings in bankruptcy. Hewit v. Berlin Mach. Works, 
+194 
+U.S. 296, 300
+, 48 S. L. ed. 986, 987, 24 Sup. Ct. Rep. 690; Coder v. Arts, 
+213 
+U.S. 223, 234
+, 53 S. L. ed. 772, 777, 29 Sup. Ct. Rep. 436, 16 Ann. Cas. 1008; Tefft, W. & Co. v. Munsuri, 
+222 
+U.S. 114, 118
+, 56 S. L. ed. 118, 119, 32 Sup. Ct. Rep. 67.
+ Subdivision b of  24 gives the circuit courts of appeal jurisdiction to superintend and revise in matters of law the proceedings of courts of bankruptcy within their jurisdiction. Section 25 concerns appeals in bankruptcy proceedings of which an application for discharge is one. By the terms of subdivision a of that section an appeal is given to the circuit court of appeals, first, from a judgment adjudging or refusing to adjudge the defendant a bankrupt; second, from a judgment granting or denying a discharge; and third, from a judgment allowing or 
+
+[227 U.S. 410, 412]
+ 
+ rejecting a claim of $500 or over. Subdivision b of  25 regulates appeals from the circuit court of appeals to this court, and is confined to decisions of the circuit courts of appeals allowing or rejecting a claim under the act, first, where the amount in controversy exceeds the sum of $ 2,000 and the question involved is one which might have been taken on appeal or error to this court from the highest court of a state; or, second, where a justice of this court shall certify that, in his opinion, the determination of the question involved in the allowance or rejection of the claim is essential to a uniform construction of the act. Section 25 further provides that controversies may be certified to the Supreme Court from other courts of the United States, and that the Supreme Court may exercise jurisdiction thereof and issue writs of certiorari pursuant to the laws of the United States.
+ It will be noticed that the only appeal in bankruptcy proceedings from a judgment granting or refusing a discharge is from the bankruptcy court to the circuit court of appeals. The present appeal must therefore be dismissed. 
+
+
+

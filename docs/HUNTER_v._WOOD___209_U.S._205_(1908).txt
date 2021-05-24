@@ -1,0 +1,69 @@
+Description: HUNTER v. WOOD , 209 U.S. 205 (1908)
+Date: 1908-03-23 00:00:00
+Docket: 474
+Opinion
+
+
+United States Supreme Court
+HUNTER v. WOOD(1908)
+No. 474
+Argued: Decided: March 23, 1908
+
+
+
+ James H. Wood, the appellee, being one of the ticket agents of the Southern Railway Company, was, on July 17, 1907, charged in the police justice's court of the city of Asheville, in the county of Buncombe, in the state of North Carolina, with unlawfully and wilfully overcharging one T. J. Harmon for a railroad ticket from Asheville, North Carolina, to Canton, North Carolina, in violation of the state law. He was arrested and brought before the court, and, on the trial, July 18, 1907, was convicted and sentenced by the court to imprisonment in the county jail of Buncombe county for the term of thirty days, to be worked on the public roads of that county for that time, and to pay all costs.
+ The appellee applied to the United States circuit judge in the western district of North Carolina for a writ of habeas corpus, to be directed to Hunter, appellant, as sheriff of Buncombe 
+
+[209 U.S. 205, 206]
+ 
+ county, to inquire into the cause of his detention and to obtain his discharge. The writ was issued, and, after a hearing, the circuit judge discharged the appellee from imprisonment, and directed that a copy of the order of the discharge should be certified to the police justice's court of the city of Asheville and to the sheriff of Buncombe county, in whose custody the petitioner then was. Ex parte Wood, 155 Fed. 190.
+ It appeared that prior to the passage, in 1907, of the acts of the North Carolina legislature in relation to passenger and freight rates on railroads within the state, the Southern Railway Company was charging the rates then allowed by law. After the passage of the acts above mentioned, which greatly reduced the rates of compensation for the transportation of both passengers and freight, the Southern Railway Company commenced a suit in equity in the circuit court of the United States for the western district of North Carolina against the corporation commission and the attorney general and assistant attorney general of the state, to enjoin the taking of any proceedings or the commencement of any suits or actions to enforce the acts in question, or to recover penalties for the disobedience of such acts by the company. The bill alleged that the acts were unconstitutional, and that, if the rates were enforced, the result would be to prevent the company earning anything upon its investment, and deprive it of its property without due process of law, and deny it the equal protection of the laws, contrary to the 14th Amendment to the Constitution of the United States. The bill also averred that a duty rested upon the corporation commission and the attorney general and assistant attorney general to take such proceedings as they might deem expedient for the enforcement of the acts, and that the corporation commission would, for the purpose of putting the acts into effect, do those things which it was provided should be done, and, in case of continuous refusal on the part of the company to charge only the rate specified, the attorney general and his assistant would proceed to enforce the same as prescribed in the acts.
+ * 
+
+[209 U.S. 205, 207]
+ 
+ The circuit judge, upon this bill, granted an interlocutory injunction, until the further order of the court, against the members of the corporation commission and the attorney general and assistant attorney general, restraining them from taking any proceedings towards the enforcement of the acts, or putting the acts in respect to freight charges or passenger rates, or any part or either of the acts, into effect, and from prosecuting any suit or action, civil or criminal, against the railway company, its officers, agents, or employees. The order also provided for the execution of a bond on the part of the railway company in the sum of $325,000, conditioned to pay into the registry of the court, from time to time, as the court might order, such sums of money as should be equal to the difference between the aggregate freight and passenger rates and excess baggage charges, charged and received by the company for intrastate service on its lines in the state of North Carolina, and what would have been the aggregate amounts for such service at the rates fixed in or under the acts of the assembly, above mentioned. The order provided a method of procedure by giving to each purchaser of a ticket a coupon for the payment of the difference stated, on presenting the coupon to the registry clerk, if the act should be finally held valid.
+ Section 4 of the act of the legislature, prescribing the maximum charges for the transportation of passengers in North Carolina, enacted that any railroad company violating the provisions of the act should be liable to a penalty of $500 for each violation, payable to the person aggrieved, recoverable in an action in his name in any court of competent jurisdiction in the state; and any agent, servant, or employee of a railroad company violating the act was declared guilty of a misdemeanor, and, upon conviction, was to be punished by fine or imprisonment, or both, in the discretion of the court. The act in relation to freight, by the 2d section, provided that, if the company should make charges for the shipment of freight in violation of the act, it should be guilty of a misdemeanor, and, upon conviction, fined not less than $100, 
+
+[209 U.S. 205, 208]
+ 
+ and the officer or agent should be fined or imprisoned, or both, in the discretion of the court.
+ Upon the hearing of the motion for an injunction, after granting the same, the circuit judge wrote an opinion (Southern R. Co. v. McNeill, 155 Fed. 756), in which he reached the conclusion that  4 of the act in regard to passenger rates was, on its face, unconstitutional and void.
+ Notwithstanding the fact that an injunction had been granted, proceedings were thereafter taken against the appellee, a ticket agent of the company, to punish him for not complying with the act in relation to the sale of tickets, resulting in his conviction, as already stated.
+ The sheriff of Buncombe county, in whose custody the appellee was restrained, duly appealed to this court from the order discharging the appellee from his custody.
+ Messrs. E. J. Jnstice, J. H. Merrimon, and C. B. Aycock for appellant.
+
+
+[209 U.S. 205, 209]
+ 
+ Messrs. Alfred P. Thom, Walker D. Hines, and Alexander Pope Humphrey, for appellee.
+
+
+
+[209 U.S. 205, 210]
+ 
+
+ Mr. Justice Peckham, after making the foregoing statement, delivered the opinion of the court:
+ After the jurisdiction of the circuit court of the United States had attached by the filing of the bill of complaint in the case already mentioned, of the Southern R. Co. v. McNeill, members of the corporation commission, and after the issuing and service of the injunction, as above stated, the defendant Wood, acting under and in obedience to the provisions of such injunction, sold the railroad tickets at the usual price, and, at the same time, complied with the conditions contained in the injunction, by giving the coupons for the difference in price, and, while so complying with the terms of such injunction, was arrested and proceeded against criminally for disobedience of the act fixing rates. Being detained in custody by virtue of this conviction by one of the police courts of the state, he had the right to apply for a writ of habeas corpus to the United States circuit judge, and that judge had power to issue the writ and discharge the prisoner under  753 of the Revised Statutes of the United States (U. S. Comp. Stat. 1901, p. 592), as he was then in custody for an act done pursuant to an order, process, or decree of a court or judge of the United States. See Re Neagle (Cunningham v. Neagle) 
+135 U.S. 1
+, 34 L. ed. 55, 10 Sup. Ct. Rep. 658. The writ being properly issued, the judge had the right, and it was his duty, to examine into the facts, and had jurisdiction to discharge the petitioner under the circumstances stated.
+ The other questions raised herein have been sufficiently discussed in Ex parte Young, just decided [
+209 U.S. 123
+, 52 L. ed. -, 28 Sup. Ct. Rep. 441], and require no further attention. 
+
+[209 U.S. 205, 211]
+ 
+ For the reasons given in that opinion, the order appealed from herein must be affirmed.
+
+ Mr. Justice Harlan, dissenting:
+ In my judgment the appellee should have been put to his writ of error for the review of the judgment against him in the highest court of the state, competent under the state laws to re-examine that judgment, thence to this court to inquire whether any right belonging to him under the Federal Constitution had been violated. He should not have been discharged on habeas corpus. Ex parte Royall, 
+117 U.S. 241
+, 29 L. ed. 868, 6 Sup. Ct. Rep. 734; Minnesota v. Brundage, 
+180 U.S. 499
+, 45 L. ed. 639, 21 Sup. Ct. Rep. 455; Urquhart v. Brown, 
+205 U.S. 179
+, 51 L. ed. 760, 27 Sup. Ct. Rep. 459; and authorities cited in each case.
+ Upon the question as to what is and what is not a suit against the state within the meaning of the 11th Amendment, my views are fully expressed in my dissenting opinion in Ex parte Young, just decided. For the reasons there stated I dissent from the opinion and judgment of the court in this case. 
+
+
+

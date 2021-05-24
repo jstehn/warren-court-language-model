@@ -1,0 +1,42 @@
+Description: SHROPSHIRE, WOODLIFF & CO v. BUSH , 204 U.S. 186 (1907)
+Date: 1907-01-07 00:00:00
+Docket: 416
+Opinion
+
+
+United States Supreme Court
+SHROPSHIRE, WOODLIFF & CO. v. BUSH(1907)
+No. 416
+Argued: Decided: January 7, 1907
+
+
+
+ Messrs. Charles F. Benjamin and Rutherford Lapsley for Shropshire, Woodliff, & Co. 
+
+[204 U.S. 186, 187]
+ 
+ Messrs. George D. Lancaster, John P. Tillman, J. H. Beal, and Williams & Lancaster for Bush et al.
+
+ Mr. Justice Moody delivered the opinion of the court:
+ The appellees are trustees of the bankrupt estate of the Southern Car & Foundry Company. The appellants, before the commencement of the proceedings in bankruptcy, acquired by purchase and assignment a large number of claims for wages of workmen and servants, none exceeding $300 in amount, and all earned within three months before the date of the commencement of the proceedings in bankruptcy. The district court for the eastern district of Tennessee rendered a judgment disallowing priority to these claims, because, when filed, they were not 'due to workmen, clerks, or servants.'
+ On appeal to the circuit court of appeals for the sixth circuit that court duly certified here for instructions the following question:
+'Is an assignee of a claim for wages earned within three months before the commencement of proceedings in bankruptcy against the bankrupt debtor entitled to priority of payment, under  64 (4) of the bankrupt act [ 30 Stat. at L. 563, chap. 541, U. S. Comp. Stat. 1901, p. 3447], when the assignment occurred prior to the commencement of such bankruptcy proceedings?'
+
+ The question certified has never been passed upon by any 
+
+[204 U.S. 186, 188]
+ 
+ circuit court of appeals, and in the district courts the decisions upon it are conflicting. Re Westlund, 99 Fed. 399; Re St. Louis Ice Mfg. & Storage Co. 147 Fed. 752; Re North Carolina Car Co. [semble], 127 Fed. 178, where the right of the assignee to priority was denied; Re Brown, 4 Ben. 142, Fed. Cas. No. 1,974 [act of 1867, 14 Stat. at L. 517, chap. 176]; Re Harmon, 128 Fed. 170, where, on facts slightly but not essentially different, the right of the assignee to priority was affirmed.
+ The bankruptcy law (act July 1, 1898, 30 Stat. at L. pp. 544, 563, chap. 541, U. S. Comp. Stat. 1901, p. 3447), in  1, defines 'debt' as including 'any debt, demand, or claim, provable in bankruptcy.' Section 64, under which priority is claimed in this case, is, in the parts material to the determination of the question, as follows:
+'Sec. 64. Debts which have priority.-. . . b. The debts to have priority, except as herein provided, and to be paid in full, out of bankrupt estates and the order of payment, shall be . . . (4) wages due to workmen, clerks, or servants which have been earned within three months before the date of the commencement of proceedings, not to exceed three hundred dollars to each claimant; . . .'
+
+ The precise inquiry is whether the right of prior payment thus conferred is attached to the person or to the claim of the wage-earner; if to the person, it is available only to him; if to the claim, it passes with the transfer to the assignee. In support of the proposition that the right is personal to the wage-earner, and enforceable only by him, it is argued that it is not wages earned within the prescribed time which are given priority, but wages 'due to workmen, clerks, or servants;' that when the claim is assigned to another it is no longer 'due to workmen, clerks, or servants,' but to the assignee; and therefore, when presented by him, lacks one of the characteristics which the law makes essential to priority. In this argument it is assumed that the wages must be 'due' to the earner at the time of the presentment of the claim for proof, or, at least, at the time of the commencement of the proceedings in bankruptcy. Without that assumption the argument fails to support the conclusion. 
+
+[204 U.S. 186, 189]
+ 
+ But the statute lends no countenance to this assumption. It nowhere expressly or by fair implication says that the wages must be due to the earner at the time of the presentment of the claim, or of the beginning of the proceedings, and we find no warrant for supplying such a restriction. Regarding, then, the plain words of the statute, and no more, they seem to be merely descriptive of the nature of the debt to which priority is given. When one has incurred a debt for wages due to workmen, clerks, or servants, that debt, within the limits of time and amount prescribed by the act, is entitled to priority of payment. The priority is attached to the debt, and not to the person of the creditor; to the claim, and not to the claimant. The act does not enumerate classes of creditors and confer upon them the privilege of priority in payment, but, on the other hand, enumerates classes of debts as 'the debts to have priority.'
+ In this case the Southern Car & Foundry Company had incurred certain debts for wages due to workmen, clerks, or servants, which were earned within three months before the date of the commencement of proceedings in bankruptcy. These debts were exactly within the description of those to which the bankruptcy act gives priority of payment, and they did not cease to be within that description by their assignment to another. The character of the debts was fixed when they were incurred, and could not be changed by an assignment. They were precisely of one of the classes of debts which the statute says are 'debts to have priority.'
+ The question certified is answered in the affirmative, and it is so ordered. 
+
+
+

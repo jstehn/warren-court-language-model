@@ -1,0 +1,58 @@
+Description: BALTIMORE SHIPBUILDING & DRY DOCK CO. v. CITY OF BALTIMORE , 195 U.S. 375 (1904)
+Date: 1904-11-28 00:00:00
+Docket: 39
+Opinion
+
+
+United States Supreme Court
+BALTIMORE SHIPBUILDING & DRY DOCK CO. v. CITY OF BALTIMORE(1904)
+No. 39
+Argued: Decided: November 28, 1904
+
+
+
+ Messrs. E. P. Keech, Jr., Leon E. Greenbaum, and Archibald H. Taylor for plaintiff in error.[ Baltimore Shipbuilding & Dry Dock Co. v. City of Baltimore 
+195 U.S. 375
+ (1904) ]
+
+
+[195 U.S. 375, 378]
+ 
+ Messrs. Edgar Allan Poe and W. Cabell Bruce for defendants in error.
+
+
+[195 U.S. 375, 380]
+ 
+
+ Mr. Justice Holmes delivered the opinion of the court:
+ This is a writ of error to the court of appeals of the state of Maryland, brought to reverse a judgment sustaining a tax upon certain land. The plaintiff in error filed a petition and appeal from an assessment by the appeal tax court of Baltimore in the Baltimore city court, alleging that its land was not subject to taxation, and, if subject, was taxed too high. The city court reduced the tax, but held the land liable, and its judgment was affirmed by the court of appeals. 97 Md. 97, 54 Atl. 623. The land in question formerly belonged to the United States, being part of the property known as Fort McHenry, and is admitted not to have been taxable at that time. Under an act of Congress of June 19, 1878 (20 Stat. at L. 167, chap. 310), it was conveyed to the plaintiff in error on March 26, 1879. By the terms of the deed, following the requirements of the act, the consideration of the conveyance and the condition upon which it was made was that the dock company should construct a dry dock upon the land as specified, which it did, and that it should 'accord to the United States the right to the use forever of the said dry dock at any time for the prompt examination and repair of vessels belonging to the United States, free from charge for docking, and if at any time said property hereby conveyed shall be diverted to any other use 
+
+[195 U.S. 375, 381]
+ 
+ than that herein named, or if the said dry dock shall be at any time unfit for use for a period of six months or more, the property hereby conveyed, with all its privileges and appurtenances, shall revert to, and become the absolute property of, the United States.' This condition is relied upon as still keeping the land outside the taxing power of the state.
+ It is argued that the United States has such an interest in the land as to prevent the tax, and also that the land is an agency of the government by the terms of the grant. It is noted that this tax originally was levied upon the land, not upon the dock company's interest, and although the language of the final judgment was 'the property concerned in the appeal in this case,' that is supposed to mean the same thing.
+ We will deal with the argument drawn from the last consideration first. It is true that commonly taxes on land create a lien paramount to all interest, and that a tax sale often has been said to extinguish all titles, and to start a new one. Hefner v. Northwestern Mut. L. Ins. Co. 
+123 
+U.S. 747, 751
+, 31 S. L. ed. 309, 311, 8 Sup. Ct. Rep. 337; Textor v. Shipley, 86 Md. 424, 438, 38 Atl. 932; Emery v. Boston Terminal Co. 178 Mass. 172, 184, 86 Am. St. Rep. 473, 59 N. E. 763. Perhaps it was assumed that this always was the effect of tax sales, in Northern P. R. Co. v. Traill County, 
+115 U.S. 600
+, 29 L. ed. 477, 6 Sup. Ct. Rep. 201. But it needs no argument to show that a state may do less. It may tax a life estate to one and a remainder to another, and sell only the interest of the party making default. With regard to what the state of Maryland has done and what are the purport and attempted effect of the tax in this case, we follow the court of appeals. That court treated the tax and the lien as going only to the dock company's interest in the land, although, probably by an oversight, it neglected to modify the judgment according to its own suggestion so as to show the fact. That only the company's interest was taxed is shown by the reduction of the assessment on account of the condition. Of course it does not matter what form of words the judgment employs when its meaning is thus declared by the court having the matter under its control. 
+
+[195 U.S. 375, 382]
+ 
+ In the next place, as to the interest of the United States in the land. This is a mere condition subsequent. There is no easement or present right in rem. The obligation to keep up the dock and to allow the United States to use it carries active duties, and is purely personal. The property is subject to forfeiture, it is true, if the obligation is not fulfilled. But it is only by forfeiture that the rights of the United States can be enforced against the res. It would be a very harsh doctrine that would deny the right of the states to tax lands because of a mere possibility that they might lapse to the United States. The contrary is the law. The condition cannot be extinguished by the state, but the fee is in the dock company, and that can be taxed and, if necessary, sold, subject to the condition. See Northern P. R. Co. v. Myers, 
+172 
+U.S. 589, 598
+, 43 S. L. ed. 564, 567, 19 Sup. Ct. Rep. 276; Maish v. Arizona, 
+164 U.S. 599
+, 607-609, 41 L. ed. 567, 570, 571, 17 Sup. Ct. Rep. 193; Central P. R. Co. v. Nevada, 
+162 
+U.S. 512, 525
+, 40 S. L. ed. 1057, 1061, 16 Sup. Ct. Rep. 885. The title of the dock company was not inalienable, as that of the railroad was held to be in Northern P. R. Co. v. Townsend, 
+190 U.S. 267
+, 47 L. ed. 1044, 23 Sup. Ct. Rep. 617.
+ Finally, we are of opinion that the land is not exempt as an agency of the United States. The dock company disclaimed that position for itself as a corporation, but asserts it for the land. The position is answered technically, perhaps, by what we have said already. The United States has no present right to the land, but merely a personal claim against the corporation, reinforced by a condition. But, furthermore, it seems to us extravagant to say that an independent private corporation for gain, created by a state, is exempt from state taxation, either in its corporate person or its property, because it is employed by the United States, even if the work for which it is employed is important and takes much of its time. Thomson v. Union P. R. Co. 9 Wall. 579, 19 L. ed. 792; Union P. R. Co. v. Peniston, 18 Wall. 5, 21 L. ed. 787.
+ Judgment affirmed. 
+
+
+

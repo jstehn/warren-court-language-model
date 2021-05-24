@@ -1,0 +1,80 @@
+Description: UNION STEAMBOAT CO, EX PARTE , 178 U.S. 317 (1900)
+Date: 1900-05-28 00:00:00
+Docket: 12
+Opinion
+
+
+United States Supreme Court
+UNION STEAMBOAT CO, EX PARTE(1900)
+No. 12
+Argued: Decided: May 28, 1900
+
+
+
+ This was a petition for a writ of mandamus to the district court for the eastern district of Michigan, commanding it to set aside a decree entered in the case of The New York, 
+175 U.S. 187
+, 44 L. ed. 126, 20 Sup. Ct. Rep. 67, and enter a decree dividing the damages equally, so that petitioner would not be decreed to pay more than one half the total damages arising out of the collision between the New York and the Conemaugh, with interest thereon not exceeding 5 per cent per annum.
+ Upon the opinion of this court in the case of the New York being filed, a mandate issued that the decre of the court of appeals be reversed, and the case remanded to the district court, with direction 'to enter a decree in conformity with the opinion of this court, with interest at the same rate per annum that decrees bear in the state of Michigan.' Upon the case coming on to be heard in the district court, the petitioner, the Union Steamboat Company, owner of the propeller New York, submitted a decree to the effect that both vessels were in fault for the collision, and that the damages resulting therefrom be equally divided between the Erie & Western Transportation Company, owner of the Conemaugh, and the Union Steamboat Company, owner of the New York; that such damages amounted in all to the sum of $74,319.49, of which certain intervening underwriters of the cargo were entitled to, and recovered from the steamboat company, $ 19,841.56; that 
+
+[178 U.S. 317, 318]
+ 
+ the transportation company, as trustees for the underwriters and owners of the cargo of the Conemaugh, not intervening, suffered damages in the sum of $19,627.67; that, as owner of the propeller, it had suffered damages in the sum of $30,508.46, aggregating the sum of $50,136.13; that the transportation company recover of the petitioner one half of $50,136.13, less one half the sum of $19,841.56, decreed to be paid to the intervening petitioners, etc.
+ The court, however, declined to enter this decree; refused to permit the petitioner to recoup any sum that it might pay to the owners or underwriters of the cargo of the Conemaugh, from any sum that was due from the steamboat company for damages sustained by the Conemaugh, so that such company was compelled to pay of the total damages about 76 per cent instead of 50 per cent thereof.
+ Messrs. C. E. Kremer, F. C. Harvey, H. C. Wisner, and W. O. Johnson for petitioner.
+ Messrs. F. H. Canfield, Harvey D. Goulder, F. S. Masten, and S. H. Holding for respondent.
+
+ Mr. Justice Brown delivered the opinion of the court:
+ Petitioner applies for this writ of mandamus upon the ground that the district court refused to enter a decree in conformity with the opinion of this court dividing the damages, but in effect entered a decree imposing upon the Union Steamboat Company, the petitioner, about 76 per cent of the damages occasioned by the collision.
+ The duty of an inferior court upon receiving the mandate of this court is nowhere better described than by Mr. Justice Baldwin in an early case upon that subject (Sibbald v. United States, 12 Pet. 488, 492, 9 L. ed. 1167, 1169): 'Whatever,' said he, 'was before the court, and is disposed of, is considered as finally 
+
+[178 U.S. 317, 319]
+ 
+ settled. The inferior court is bound by the decree as the law of the case, and must carry it into execution according to the mandate. They cannot vary it or examine it for any other purpose than execution; or give any other or further relief; or review it upon any matter decided on appeal for error apparent; nor intermeddle with it, further than to settle so much as has been remanded. . . . If the special mandate directetd by the 24th section [of the judiciary act] is not obeyed or executed, then the general power given to 'all the courts of the United States to issue any writs which are necessary for the exercise of their respective jurisdictions, and agreeable to the principles and usages of law,' by the 14th section of the judiciary act, fairly arises, and a mandamus or other appropriate writs will go,' although an appeal will also sometimes lie. Perkins v. Fourniquet, 14 How. 328, 330, 14 L. ed. 441, 442; Milwaukee & M. R. Co. v. Soutter, 2 Wall. 440, 443, 17 L. ed. 860, 861. See also Boyce v. Grundy, 9 Pet. 275, 9 L. ed. 127; Ex parte Dubuque & P. R. Co. 1 Wall. 69, sub nom. Dubuque & P. R. Co. v. Litchfield, 17 L. ed. 514; Durant v. Essex Co. 
+101 U.S. 555
+, 25 L. ed. 961; Re Washington & G. R. Co. 
+140 U.S. 91
+, 35 L. ed. 339, 11 Sup. Ct. Rep. 673; City Bank v. Hunter, 
+152 U.S. 512
+, 38 L. ed. 534, 14 Sup. Ct. Rep. 675; Re City Nat. Bank, 
+153 U.S. 246
+, 38 L. ed. 705, 14 Sup. Ct. Rep. 804; Re Sanford Fork & Tool Co. 
+160 U.S. 247
+, 40 L. ed. 414, 16 Sup. Ct. Rep. 291; Re Potts, 
+166 U.S. 263
+, sub nom. R C . & A. Potts & Co. 41 L. ed. 994, 17 Sup. Ct. Rep. 520.
+ It is equally well settled, however, that such writ, as a general rule, lies only where there is no other adequate remedy, and that it cannot be availed of as a writ of error. Re Pennsylvania Co. 
+137 U.S. 451
+, 34 L. ed. 738, 11 Sup. Ct. Rep. 141; Re Morrison, 
+147 
+U.S. 14, 26
+, 37 S. L. ed. 60, 65, 13 Sup. Ct. Rep. 246; Ex parte Des Moines & M. R. Co. 
+103 U.S. 794
+, 26 L. ed. 461; Ex parte Baltimore & O. R. Co. 
+108 U.S. 566
+, 27 L. ed. 812, 2 Sup. Ct. Rep. 876; Re Atlantic City R. Co. 
+164 U.S. 633
+, 41 L. ed. 579, 17 Sup. Ct. Rep. 208. The inferior court is justified in considering and deciding any question left open by the mandate and opinion of this court, and its decision upon such matter can only be reviewed upon a new appeal to the proper court (Re Sanford Fork & Tool Co. 
+160 
+U.S. 247, 256
+, 40 S. L. ed. 414, 416, 16 Sup. Ct. Rep. 291); and the opinion of this court may be consulted to ascertain exactly what was decided and settled. West v. Brashear, 13 Pet. 51, 10 L. ed. 350; Wayne County Supers. v. Kennicott, 
+94 U.S. 498
+, 24 L. ed. 260; Gaines v. Rugg, 
+148 
+U.S. 228, 238
+, 244 S., 37 L. ed. 432, 435, 437, 13 Sup. Ct. Rep. 611; Re Sanford Fork & Tool Co. 
+160 
+U.S. 247, 256
+, 40 S. L. ed. 414, 416, 16 Sup. Ct. Rep. 291.
+ The libel in this case was for a collision between the 
+
+[178 U.S. 317, 320]
+ 
+ Conemaugh and the New York. The only questions decided were as to the respective faults of the two vessels, and the claim of the underwriters upon the Conemaugh's cargo, that they were entitled to a recovery to the full amount of their damages against the New York, notwithstanding the Conemaugh was also in fault for the collision. This claim was sustained, and directions given to enter a decree in conformity to the opinion of this court. Such decree was entered, dividing the damages between the two vessels, and awarding to the underwriters of the cargo a full recovery against the New York. It may be true that the decree holds the New York liable for 76 per cent of the entire damages, and not 50 per cent, but this results from the fact that she was primarily held for the entire value of the cargo. The equal division applied only to the vessels, and, upon the other hand, if petitioner be entitled to the recoupment claimed, it would apparently result in an affirmative decree in its favor. But no question of recouping one half of such damages to the cargo from the moiety of damages awarded the Conemaugh was made by counsel or passed upon by this court. It is now insisted that, under the cases of The Chattahoochee, 
+173 U.S. 540
+, 43 L. ed. 801, 19 Sup. Ct. Rep. 491; and The Albert Dumois, 
+177 U.S. 240
+, 20 Sup. Ct. Rep. 595, 44 L. ed. -, this should have been done. This may be so; but it is an entirely new question, quite unaffected by the case of the New York, and if the court erred in refusing to allow such recoupment, the remedy is by appeal, and not by mandamus. Perhaps a mandamus might lie to review the allowance of interest, but that may also be considered on appeal.
+ No disobedience of the mandate having been shown, the petition must be denied. 
+
+
+

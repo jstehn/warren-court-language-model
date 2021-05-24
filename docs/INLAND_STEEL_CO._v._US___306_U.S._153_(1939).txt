@@ -1,0 +1,198 @@
+Description: INLAND STEEL CO. v. US , 306 U.S. 153 (1939)
+Date: 1939-01-30 00:00:00
+Docket: 227
+Opinion
+
+
+United States Supreme Court
+INLAND STEEL CO. v. U.S.(1939)
+No. 227
+Argued: Decided: January 30, 1939
+
+
+
+
+[306 
+U.S. 153, 154]
+ 
+ Messrs. John S. Burchmore and Nuel D. Belnap, both of Chicago, Ill., for appellants.
+ Messrs. Edward M. Reidy, of Washington, D.C., and J. R. Barse, of Chicago, Ill., for appellees the United States and the Interstate Commerce Commission.
+
+ Mr. Justice BLACK delivered the opinion of the Court.
+ In No. 227, after full hearings the Interstate Commerce Commission, on July 11, 1935, found and reported1 that the Indiana Harbor Belt Railroad was engaged in the practice of paying an allowance for appellant's service in spotting cars in appellant's plant;2 that appellant was performing this plant service for its own convenience; that the Railroad was under no legal obligation to spot the cars and therefore the allowance was paid for service for which the Railroad was not compensated under line-haul rates; that the allowance was unlawful and afforded appellant a preferential service, not accorded to shippers generally, amounting to refund or remission of part of the rates charged or collected as compensation for transporting freight. On the same date, an order of the Commission incorporated its report and findings, including the finding that 'by the payment of said allowances the Indiana Belt Railroad Company violates the Interstate Commerce Act.' This order also directed the Railroad 
+
+[306 
+U.S. 153, 155]
+ 
+ to 'cease and desist on or before September 3, 1935, and thereafter to abstain from such unlawful practice.'
+ August 28, 1935, upon petition of appellant, the District Court, three judges sitting, granted an interlocutory injunction by which the Commission's report and order were 'suspended, stayed, and set aside'- 'pending the further order of the court'; the Commission was restrained and enjoined from enforcing them; and, the Railroad having previously given public notice that its published tariff providing for the allowance would be cancelled as of September 3, 1935, in accordance with the Commission's order, the injunction suspended the effective date of the cancellation. But the interlocutory injunction also provided 'that until the further order of the Court, any and all sums due and payable to plaintiff (appellant), under the ... tariff providing said allowance, shall be set up by defendant Indiana Harbor Belt Railroad Company on its books of account, which sums so set up shall be paid over to ... ( appellant), or canceled, only upon the further order of this Court, ( appellant) ... by its counsel having agreed in open court to such arrangement, without prejudice.'
+ February 26, 1937, the Commission entered an order purporting to extend the effective date of its command to 'cease and desist' to June 15, 1937, but specifically provided that its order of July 11, 1935, should 'in all other respects remain in full force and effect.'
+ April 27, 1938, the District Court dismissed appellant's petition for want of equity, dissolved the interlocutory injunction, and ordered the accrued allowances that had been set aside in a special account by the Railroad as required by the interlocutory injunction to 'be retained by ... (the Railroad) as a part of its general funds and said account canceled.'
+ Appellant concedes the correctness of the District Court's decree holding the Commission's order valid, dismissing the petition and denying a permanent injunc- 
+
+[306 
+U.S. 153, 156]
+ 
+ tion. 
+3
+ The appeal only seeks a review of the Court's action in ordering that the unlawful allowances accumulated after the date of the interlocutory injunction be retained by the Railroad and not paid to appellant.
+ First. In granting the interlocutory injunction, the District Court proceeded under a jurisdictional Act which provides that '... the court, in its discretion, may restrain or suspend, in whole or in part, the operation of the commission's order pending the final hearing and determination of the suit.' 4 Appellant invoked the Court's equity powers. 
+ 5
+ 
+
+ A Court of equity 'in the exercise of its discretion, frequently resorts to the expedient of imposing terms and conditions upon the party at whose instance it proposes to act. The power to impose such conditions is founded upon, and arises from, the discretion which the court has in such cases, to grant, or not to grant, the injunction applied for. It is a power inherent in the court, as a court of equity, and has been exercised from time immemorial.' 
+6
+ 
+
+ In the exercise of its discretion, the District Court imposed conditions in its decree granting appellant's petition for an interlocutory injunction. Appellant neither objected to the conditions nor sought review of the Court's action in imposing them, but under the interlocutory injunction enjoyed for three years the suspension-which it had sought-of the Commission's order, pending litigation. Now, the litigation ended, appellant insists that the District Court lacked jurisdiction to do more 
+
+[306 
+U.S. 153, 157]
+ 
+ than vacate its interlocutory injunction and dismiss the petition, since no pleadings of the Railroad or the Commission sought the creation of the special allowance account. But this overlooks the governing principle that it is the duty of a court of equity granting injunctive relief to do so upon conditions that will protect all-including the public-whose interests the injunction may affect. 
+7
+ And the Commission, in defending its report and order, acted under its statutory duty as the representative of the interest which the public, as well as the railroads, have in the maintenance of fair, reasonable and non-discriminatory transportation practices. 
+8
+ Moreover, in intervening the Commission prayed that it have 'the benefit of such ... decrees or relief as may be just and proper.'
+ The Interstate Commerce Commission has primary jurisdiction to determine whether the granting of allowances for services performed by shippers constitutes a discriminatory practice. 
+9
+ Here, in the exercise of its primary jurisdiction, the Commission considered the technical questions involved and made findings that the Railroad's practice was unlawfully preferential and discriminatory. In doing so, the Commission was acting in the interest of shippers generally and in behalf of the public and the national railroad system. The District Court, at the behest of this appellant, restrained the enforcement of the Commission's report and order embodying these findings. While thus acting in the interest of 
+
+[306 
+U.S. 153, 158]
+ 
+ a single shipper, the Court properly took steps to protect the other interests-represented by the Commission-from injuries that the injunction might cause. It did so by ordering the payments, which the Commission had found unlawful, to be continued-on condition that they be segregated or paid into a separate account, pending the Court's review of the Commission's finding of illegality. This segregated account thus accrued as a result of judicial restraint of administrative proceedings in which the payments had been declared unlawful. When the Court finally determined that the administrative findings and order were correct, appellant could claim an interest in the fund only by asserting a right to payments forbidden by law, and it became the duty of the Court promptly to allocate the fund to its lawful owner.
+ An Equity Court having lawful control of a fund, in which there may be interests represented only by a duly authorized governmental agency, has the power and is charged with the duty of protecting those interests in disposing of the fund. 
+10
+ Otherwise, rights (such as the right of this Railroad to restitution) might be impaired or cut off while an interlocutory injunction is in effect, as for instance by statutes of limitation. Here, the Court had the power and it was its duty so to fashion its equitable decree that appellant should not be the beneficiary of unlawful payments, and to prevent the dissipation of the Railroad's assets through unlawful preferences.
+ Second. Appellant further insists that the Court had no power to impose the particular conditions here, because the Railroad was ordered to retain (in a special account) allowances provided for in its published tariff. This contention rests on the statutory requirement that published tariffs must be observed. 
+11
+ However, before the Court 
+
+[306 
+U.S. 153, 159]
+ 
+ acted, the Commission had found and reported-and had incorporated its findings and report in an order-that these allowances provided in the published tariff were unlawful preferences violating the Interstate Commerce Act. The Commission had also ordered that payment of the unlawful allowances cease, and the Railroad had already-in obedience to the Commission's order-published a new tariff eliminating the allowance provision. But, six days before the new tariff would by its terms have become effective, appellant sought and obtained the preliminary injunction which did not destroy, but tentatively suspended the Commission's report and order and also tentatively suspended the Railroad's tariff canceling the unlawful allowance. The Railroad then republished the old tariff, thus- under court order-restoring the unlawful allowance. When the Court subsequently dismissed appellant's petition and vacated the interlocutory injunction 'in all respects', it thereby found the Commission's report and order valid and they were then in effect as though the injunction had never been granted. Thus, during the period the injunction was pending ( save for the first six days), the published tariff had contained the unlawful allowance solely because of the Court's injunction. To sustain the contention of appellant that the provision for allowances in the published tariff limited the authority of the court to prevent their payment would be to clothe a published tariff, in existence solely by reason of equitable intervention, with an immunity from equity itself. The Interstate Commerce Act grants no such immunity. 
+12
+ 
+
+ Third. The appellant takes the position that the Commission's purported postponement of its command to cease and desist (eighteen months after the interlocutory 
+
+[306 
+U.S. 153, 160]
+ 
+ injunction was granted) deprived the Court of authority to enforce the conditions of its interlocutory injunction. However, since the Court had exercised jurisdiction to review and suspend the Commission's report and order, the administrative body was without power to act inconsistently with the Court's jurisdiction, had it attempted to do so.13 But, since the Commission had already been enjoined from enforcing its report and order when it entered its postponement, there is no reason to construe the Commission's action as anything more than a recognition of the postponement actually effected by the Court's interlocutory injunction.
+ In addition, there were two separate aspects to the action of the Commission. It found an illegal practice in existence that involved unlawful disbursement of the Railroad's funds, contrary to the public interest. The Commission also entered a cease and desist order to operate prospectively. Even if the Commission's postponement of the cease and desist portion of its order had been operative, the Commission specifically left in effect its ruling that the allowance was unlawful. 
+14
+ 
+
+ The Commission had exercised its primary jurisdiction and had found the allowances unlawful; upon review, the District Court properly approved this finding; the 
+
+[306 
+U.S. 153, 161]
+ 
+ amount in the special allowance account was exactly known and undisputed; this fund could have belonged only to the Railroad or to appellant; the Railroad was in possession of the fund and in equity and good conscience was entitled to retain it. Therefore, there was no necessity to take evidence, and the action of the District Court in disposing of the fund required no additional findings. The final decree of the District Court properly directed that the unlawful allowances should not be paid to appellant, and should be retained by the Railroad.
+ The questions presented in No. 228 are governed by our conclusions here, and the judgments in both cases are
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] 209 I.C.C. 747; 216 I.C.C. 8 (No. 228). 
+[
+Footnote 2
+] 'Spotting' involves handling of cars between the point of interchange between the Railroad and appellant and the points at which such cars are unloaded or loaded in appellant's plant. 
+
+[
+Footnote 3
+] See, United States v. American Sheet & Tin Plate Co., 
+301 
+U.S. 402
+, 57 S.Ct. 804; United States of America et al. v. Pan- American Petroleum Corp., 
+304 
+U.S. 156
+, 58 S.Ct. 771. 
+[
+Footnote 4
+] 28 U.S.C.  46, 28 U.S.C.A.  46. 
+[
+Footnote 5
+] Cf., Ford Motor Co. v. National Labor Relations Board, 
+305 
+U.S. 364
+, 59 S.Ct. 301. 
+[
+Footnote 6
+] Russell v. Farley, 
+105 
+U.S. 433
+, 438; Meyers v. Block, 
+120 
+U.S. 206, 214
+, 7 S.Ct. 525, 529. 
+
+[
+Footnote 7
+] Central Kentucky Natural Gas Co. v. Railroad Comm., 
+290 
+U.S. 264, 271
+, 54 S.Ct. 154, 157. 
+[
+Footnote 8
+] Arkadelphia Co. v. St. Louis S.W. Railway Co., 
+249 
+U.S. 134, 146
+, 39 S.Ct. 237, 242; Smith v. Interstate Com. Comm., 
+245 
+U.S. 33, 42
+, 43 S., 45, 38 S.Ct. 30, 32; cf., Ex parte Lincoln Gas & Electric Co., 
+256 
+U.S. 512, 517
+, 41 S.Ct. 558, 560; 49 U.S. C.  15a, 43, 49 U.S.C.A.  15a, 43. 
+[
+Footnote 9
+] Mitchell Coal & Coke Co. v. Penn. R.R. Co., 
+230 
+U.S. 247
+, 33 S.Ct. 916; St. Louis, B. & M. Ry. v. Brownsville Nav. Dist., 
+304 
+U.S. 295
+, 58 S.Ct. 868; Texas & Pac. Ry. v. Abilene Cotton Oil Co., 
+204 
+U.S. 426
+, 27 S.Ct. 350, 9 Ann.Cas. 1075. 
+
+[
+Footnote 10
+] Central Kentucky Co. v. Railroad Comm., supra. 
+[
+Footnote 11
+] 49 U.S.C.  6(7), 49 U.S.C.A.  6(7). 
+
+[
+Footnote 12
+] Cf., Merchants' Warehouse Co. v. United States, 
+283 
+U.S. 501, 511
+, 51 S.Ct. 505, 509. 
+
+[
+Footnote 13
+] Cf., Ford Motor Co. v. Nat. Labor Relations Board, supra. It is, therefore, immaterial that in No. 228 there were consecutive purported postponements of the command to cease and desist, each entered by the Commission before the expiration of the postponement immediately preceding. 
+[
+Footnote 14
+] Cf. Terminal Warehouse Co. v. Penn. R. Co., 
+297 
+U.S. 500, 507
+, 508 S., 56 S.Ct. 546, 548. A suit at law based on a past alleged discriminatory practice may be stayed in order to permit the plaintiff to obtain the necessary preliminary ruling by the Commission. See Morrisdale Coal Co. v. Penna. R. Co., 
+230 
+U.S. 304
+, 33 S.Ct. 938; Mitchell Coal & Coke Co. v. Penn. R.R. Co., supra; Southern Ry. Co. v. Tift, 
+206 
+U.S. 428
+, 27 S.Ct. 709, 11 Ann.Cas. 846. 
+
+
+
+

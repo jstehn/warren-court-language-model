@@ -1,0 +1,60 @@
+Description: JACOBI v. STATE OF ALABAMA , 187 U.S. 133 (1902)
+Date: 1902-11-17 00:00:00
+Docket: 341
+Opinion
+
+
+United States Supreme Court
+JACOBI v. STATE OF ALABAMA(1902)
+No. 341
+Argued: November 7, 1902Decided: November 17, 1902
+
+
+
+ Messrs. A. A. Hoehling, Jr., Jeremiah M. Wilson and Charles S. Wilson for appellants.
+ Messrs. William M. Springer and George P. Rush for appellee. 
+
+[187 U.S. 133, 134]
+ 
+ Messrs. Henry L. Lazarus, Lionel Adams, J. N. Luce, and H. Michel for plaintiff in error.
+ Mr. Charles Gayle Brown for defendant in error.
+
+ Mr. Chief Justice Fuller delivered the opinion of the court:
+ Jacobi was convicted in the city court of Montgomery, Montgomery county, Alabama, on an indictment for criminal assault, and the judgment against him was affirmed by the supreme court of that state. 32 So. 158. To revise that judgment this writ of error was brought.
+ The conviction was the result of a second trial of the case, and the alleged victim of the assault, who had testified at the first trial, was not present at the second. But evidence of her previous testimony was admitted against defendant's objection, and it is contended that thereby defendant was deprived of rights secured by the Federal Constitution, and denied due process of law. The question for us to decide at the outset is whether such a claim was specially set up at the proper time and in the proper way.
+ The rule is firmly established by the decisions of the highest court of Alabama, that when a witness is beyond the jurisdiction of the court, whether he has removed from the state per- 
+
+[187 U.S. 133, 135]
+ 
+ manently or for an indefinite time, his testimony on a former trial for the same offense may be given in evidence against defendant on a subsequent trial. Lowe v. State, 86 Ala. 47, 5 So. 435; Perry v. State, 87 Ala. 30, 6 So. 425; Pruitt v. State, 92 Ala. 41, 9 So. 406; Matthews v. State, 96 Ala. 62, 11 So. 203; Burton v. State, 115 Ala. 1, 22 So. 585.
+ In this case, evidence was introduced before the trial judge that the witness was not in the state at the time of the trial, and that her absence was of a permanent or indefinite nature. There was no pretense of absence by procurement, and there was evidence of diligence in attempting to serve process upon her. It was held that sufficient foundation for the admission of evidence of her former testimony had been laid, and the supreme court concurred in that conclusion. Defendant objected to this preliminary proof, and moved to exclude it on several grounds, one of which was 'that the defendant has the constitutional right to be confronted by' the witness. These objections having been overruled, evidence was introduced of the testimony given by the absent witness on direct and cross examination on the former trial, to which defendant objected on the ground, among others, 'that the defendant, Jacobi, has the constitutional right to be confronted by the witnesses against him.' The trial judge overruled defendant's objections, and each ground thereof, and admitted the evidence, and defendant duly excepted. No reference to the Constitution of the United States was made in the objections. The Constitution of Alabama provided that [art. 1,  7] in all criminal prosecutions the accused has a right . . . to be confronted by the witnesses against him;' and it is plain that the constitutional right asserted was under the state Constitution. Miller v. Cornwall R. Co. 
+168 U.S. 131
+, 42 L. ed. 409, 18 Sup. Ct. Rep. 34; Endowment & Benev. Asso. v. Kansas, 
+120 U.S. 103
+, 30 L. ed. 593, 7 Sup. Ct. Rep. 499.
+ After the case reached the state supreme court, error was assigned to the admission of the evidence, as being in violation of the 14th Amendment. The supreme court did not refer to that contention, presumably because of the settled rule in Alabama in criminal cases, that when specific grounds of objection to the admission of evidence are assigned, all others 
+
+[187 U.S. 133, 136]
+ 
+ are waived (McDaniel v. State, 97 Ala. 14, 12 So. 241); and that the supreme court will not decide a question relating to the admission of evidence, not made and acted on in the trial court (Freeman v. Swan, 22 Ala. 106; Robertson v. Robinson, 65 Ala. 610, 39 Am. Rep. 17). The supreme court was therefore not called upon to revise the judgment of the city court for error not committed, and we cannot interfere with its action in adhering to the usual course of its judgments. If the court, however, had passed upon the question, our jurisdiction might have been maintained. Mallett v. North Carolina, 
+181 U.S. 589
+, 45 L. ed. 1015, 21 Sup. Ct. Rep. 730; Dreyer v. Illinois, 
+187 U.S. 71
+, ante, p. 28, 23 Sup. Ct. Rep. 28.
+ In Spies v. Illinois, 
+123 U.S. 131
+, sub nom. Ex parte Spies, 31 L. ed. 80, 8 Sup. Ct. Rep. 21, where objection to the admission of a certain letter, because obtained in violation of the Constitution of the United States, was made in the supreme court of the state for the first time, and that court declined to consider the constitutional question supposed to be involved, on the ground that it was not raised in the trial court, Mr. Chief Justice Waite said: 'To give us jurisdiction under  709 of the Revised Statutes,1 because of the denial by a state court of any title, right, privilege, or immunity claimed under the Constitution, or any treaty or statute of the United States, it must appear on the record that such title, right, privilege, or immunity was 'specially set up or claimed' at the proper time in the proper way. To be reviewable here, the decision must be against the right so set up or claimed. As the supreme court of the state was reviewing the decision of the trial court, it must appear that the claim was made in that court, because the supreme court was only authorized to review the judgment for errors committed there, and we can do no more. This is not, as seems to be supposed by one of the counsel for the petitioners, a question of a waiver of a right under the Constitution, laws, or treaties of the United States, but a question of claim. If the right was not set up or claimed in the proper court below, the judgment of the highest court of the state in the action is conclusive, so far as the right of review here is concerned.' And see Brooks v. Missouri, 
+124 U.S. 394
+, 31 L. ed. 454, 8 Sup. Ct. Rep. 443; Baldwin v. Kansas, 
+129 U.S. 52
+, 32 L. ed. 640, 9 Sup. Ct. Rep. 193. The result is that the writ of error must be dismissed, and it is so ordered. 
+
+Footnotes
+
+[
+Footnote 1
+] U. S. Comp. St. 1901, p. 575. 
+
+
+
+

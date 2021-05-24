@@ -1,0 +1,64 @@
+Description: CARTER v. ROBERTS , 177 U.S. 496 (1900)
+Date: 1900-04-23 00:00:00
+Docket: 570
+Opinion
+
+
+United States Supreme Court
+CARTER v. ROBERTS(1900)
+No. 570
+Argued: Decided: April 23, 1900
+
+
+
+ Messrs. Abram J. Rose and Benjamin F. Tracy for Carter.
+ Solicitor General Richards for Roberts.
+
+ Mr. Chief Justice Fuller delivered the opinion of the court: 
+
+[177 U.S. 496, 497]
+ 
+ Carter was a captain of the United States Army, assigned to the corps of engineers. He was arraigned and tried before a court martial in Savannah, Georgia, convened according to law, upon certain charges and specifications; found guilty; sentenced to dismissal; to suffer a fine; to be imprisoned; and to publication of crime and punishment. This sentence was approved by the Secretary of War and confirmed by the President of the United States, September 29, 1899, and the Secretary of War took the necessary action for the execution of the sentence. October 2, 1899, Carter obtained from the circuit court of the United States for the southern district of New York a writ of habeas corpus, directed to the military authority having him in custody, for his production before the court, together with the time and cause of his detention. He was accordingly produced, and due return made, setting up that he was lawfully held in custody by authority of General Orders No. 172, of September 29, 1899. During the pendency of the habeas corpus proceedings the fine imposed was paid. The circuit court dismissed the writ, and Carter was remanded to custody. 97 Fed. Rep. 496.
+ From this final order, as appears from the records of this court, and is conceded, petitioner prosecuted an appeal to the United States circuit court of appeals for the second circuit. The case having been there heard, that court, on January 24, 1900, entered judgment affirming the judgment of the circuit court, with costs. On February 5, 1900, an application for the writ of certiorari to the circuit court of appeals was made to this court, which, on February 26, 1900, was denied. 
+176 U.S. 684
+, 20 Sup. Ct. Rep. 1026, 44 L. ed. --.
+ On the same day an appeal from the final order of the circuit court directly to this court was allowed by a judge of the circuit court, as also a writ of error.
+ The 8th section of art. 1 of the Constitution provides that the Congress shall have power 'to make rules for the government and regulation of the land and naval forces,' and in the exercise of that power Congress has enacted rules for the regulation of the army known as the Articles of War. Rev. Stat.  1342. Every officer, before he enters on the duties of his 
+
+[177 U.S. 496, 498]
+ 
+ office, subscribes to these articles, and places himself within the power of courts martial to pass on any offense which he may have committed in contravention of them. Courts Martial are lawful tribunals, with authority to finally determine any case over which they have jurisdiction, and their proceedings, when confirmed as provided, are not open to review by the civil tribunals, except for the purpose of ascertaining whether the military court had jurisdiction of the person and subjectmatter, and whether, though having such jurisdiction, it had exceeded its powers in the sentence pronounced.
+ The ground for an appeal directly to this court is said in the briefs to be that the case involved the construction or application of the Constitution, in that by the sentence petitioner was twice punished for the same offense. But if the statutes authorized the penalties in question to be inflicted in one and the same proceeding as punishment for the offenses charged, then there was no double punishment. And, as this was a case arising in the land forces, it is hardly to be conceded that the suggested constitutional objection was raised below as such by the bare averment in the petition that petitioner, having suffered the punishment of dismissal and of publication, his 'imprisonment is without authority of law,' and 'his further punishment and detention,' and 'the carrying out of said sentence, is contrary to law and the provisions of the Constitution of the United States, and is illegal.'
+ The circuit court stated the questions thus: 'The contention of the relator is that, conceding that the court martial had jurisdiction of the person of the accused and of the offenses charged, and conceding, further, the regularity of its proceeding and the propriety of its findings, it was without power to impose the four separate punishments of dismissal, fine, imprisonment, and degradation (special publication of sentence), although it might have imposed either one of them. When application was made for the writ, it appeared that the first punishment (dismissal from the service of the United States) and the fourth (publication of sentence) had been carried out; and the relator contended that, having thus paid a penalty which the court had power to inflict, he could not be held to submit to another pen- 
+
+[177 U.S. 496, 499]
+ 
+ alty, which the court had no power to add to the one already by it selected. Since the return was made the relator has also paid the fine, and, although that fact does not appear upon the face of the original papers, it has been discussed in the briefs of both sides, and is now embodied in a stipulation, thus completing the case.
+'If the relator's premises be sound, viz., that punishments have been imposed in the aggregate, when the statute authorized their imposition only in the alternative, his conclusion is supported by high authority. Ex parte Lange, 18 Wall. 163, 21 L. ed. 872. In that case it was held that when a court has imposed fine and imprisonment, where the statute only conferred power to punish by fine or imprisonment, and the fine has been paid, and the judgment of the court thus executed so as to be a full satisfaction of one of the alternative penalties of the law, the power of the court as to that offense is at an end. The important question in the case, therefore, is whether, under the statutes of the United States, the court martial had the power, under its findings, to impose a sentence inflicting these four penalties.' And the court, after considering that question at length, held that the court martial had such power.
+
+ We need not discuss, however, whether a direct appeal could have been taken in the first instance, as we are of opinion that, even if so, the present appeal cannot be maintained. It falls directly within the ruling in Robinson v. Caldwell, 
+165 U.S. 359
+, 41 L. ed. 745, 17 Sup. Ct. Rep. 343. It was there held that the judiciary act of March 3, 1891, does not give a defeated party in a circuit court the right to have his case finally determined both in this court and in the circuit court of appeals on independent appeals. That case was heard in the circuit court of the United States for the district of Idaho upon its merits, which included the consideration of questions involving the construction of a treaty and the validity of an act of Congress. Judgment passed for plaintiff, and defendant was allowed a direct appeal to this court. Pending this, defendant had also prosecuted an appeal to the circuit court of appeals, and the case was there again heard and determined. 29 U. S. App. 468, 67 Fed. Rep. 391 14 C. C. A. 448. When subsequently the appeal to this court was heard, it was dismissed, because we held that 
+
+[177 U.S. 496, 500]
+ 
+ we could not properly retain cognizance thereof in face of the fact that the case had been adjudicated by the court of appeals, whose judgment remained undisturbed.
+ Pullman's Palace Car Co. v. Central Transp. Co. 
+171 U.S. 138
+, 43 L. ed. 108, 18 Sup. Ct. Rep. 808, is not to the contrary. The Pullman Company had taken an appeal directly from the circuit court to this court, on the theory that the case involved the construction or application of the Constitution, and had also taken an appeal to the circuit court of appeals for the third circuit. The circuit court of appeals overruled a motion to dismiss, but postponed further argument until the appeal to this court was disposed of. 39 U. S. App. 307, 76 Fed. Rep. 401, 22 C. C. A. 246. A motion to dismiss was also made in this court, whereupon an application was made for a writ of certiorari to the circuit court of appeals, and, by reason of the circumstances, was granted, and the record returned by virtue of that writ. And we proceeded to dispose of the case on the merits without passing on the question, which had become immaterial, whether the direct appeal could have been maintained or not.
+ The case before us presents no such fearures. It has been regularly heard and gone to judgment in the circuit court of appeals, and an application duly made to this court for certiorari has been denied. These prior proceedings cannot be ignored and the cause brought here as if they had not been had.
+ When cases arise which are controlled by the construction or application of the Constitution of the United States, a direct appeal, lies to this court, and if such cases are carried to the circuit courts of appeals, those courts may decline to take jurisdiction, or where such construction or application is involved with other questions, may certify the constitutional question and afterwards proceed to judgment, or may decide the whole case in the first instance. Holt v. Indiana Mfg. Co. 46 U. S. App. 717, 80 Fed. Rep. 1, 25 C. C. A. 301, 
+176 U.S. 68
+, 20 Sup. Ct. Rep. 272, 44 L. ed. --; United States v. Jahn, 
+155 U.S. 109
+, 39 L. ed. 87, 15 Sup. Ct. Rep. 39; New Orleans v. Benjamin, 
+153 U.S. 411
+, 38 L. ed. 764, 14 Sup. Ct. Rep. 905; Benjamin v. New Orleans, 
+169 U.S. 161
+, 42 L. ed. 700, 18 Sup. Ct. Rep. 298. But when the circuit court of appeals has acted on the whole case its judgment stands unless revised by certiorari to or appeal from that court in accordance with the act of March 3, 1891
+
+
+ Appeal and writ of error dismissed. 
+
+
+

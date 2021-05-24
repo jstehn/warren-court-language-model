@@ -1,0 +1,111 @@
+Description: CHRISTOPHER v. BRUSSELBACK , 302 U.S. 500 (1938)
+Date: 1938-01-03 00:00:00
+Docket: 108
+Opinion
+
+
+United States Supreme Court
+CHRISTOPHER v. BRUSSELBACK(1938)
+No. 108
+Argued: December 16, 1937Decided: January 3, 1938
+
+
+
+
+[302 
+U.S. 500, 501]
+ 
+ Mr. Wellmore B. Turner, of Dayton, Ohio, for petitioners.
+ Messrs. J. Arthur Miller, of Chicago, Ill., and Roy G. Fitzgerald, of Dayton, Ohio, for respondents.
+
+ Mr. Justice STONE delivered the opinion of the Court.
+ Respondents, creditors of a Federal Joint Stock Land Bank located in Illinois, brought the present suit in the District Court for Southern Ohio to collect a 100 per cent. assessment of the statutory double liability of its shareholders, which had previously been decreed in a suit brought by respondents in the District Court for Northern Illinois. In the Illinois suit the bank and all its stockholders were named as parties defendant, but the present defendants, petitioners here, who are stockholders residing in Ohio, were not served with process. A motion in the District Court to dismiss the present suit raised the question whether the bill of complaint, which sets up the decree of the court in the Illinois suit in which it states petitioners were not served with process, but does not allege that the bank is insolvent or show any necessity for the assessment, states a cause of action. The District Court gave judgment for petitioners which the Circuit Court of Appeals for the Sixth Circuit reversed. Brusselback v. Arnovitz, 87 F.2d 761. We granted certiorari, Christopher v. Brusselback, 
+302 
+U.S. 672
+, 58 S.Ct. 16, 82 L.Ed. --, to resolve a conflict between the decision of the court below and that of the Circuit Court of Appeals for the Second Circuit in Holmberg v. Carr, 86 F.2d 727. Compare Brusselback v. Cago Corporation, 2 Cir., 85 F.2d 20.
+ The question decisive of the case is whether petitioners are bound by the Illinois adjudication, in their absence, 
+
+[302 
+U.S. 500, 502]
+ 
+ of the bank's insolvency, and the amount of the assessment. Section 16, Federal Farm Loan Act, July 17, 1916, c. 245, 39 Stat. 374, 12 U.S.C.  812, 12 U.S.C.A.  812, provides, 'Shareholders of every joint-stock land bank organized under this Act (chapter) shall be held individually responsible, equally and ratably, and not one for another, for all contracts, debts, and engagemnts of such bank to the extent of the amount of stock owned by them at the par value thereof, in addition to the amount paid in and represented by their shares.'
+ Before respondents had brought the Illinois suit this Court in Wheeler v. Greene, 
+280 
+U.S. 49
+, 50 S.Ct. 21, had before it the provisions of the Federal Farm Loan Act which authorize the Farm Loan Board to declare a joint-stock land bank insolvent, and to place it in the hands of a receiver. Section 29, Federal Farm Loan Act, July 17, 1916, c. 245, 39 Stat. 381, 12 U.S.C.  931, 963, 12 U.S.C.A.  961, 963 and notes. We held that those provisions do not confer upon the Federal Farm Loan Board any power to levy an assessment on the stockholders, or give to the receiver authority to maintain suit for the enforcement of their statutory liability, or otherwise set up any machinery comparable to that of the National Banking Act, 12 U.S.C.A.  21 et seq., for enforcing the stockholders' liability. Compare Rankin v. Barton, 
+199 
+U.S. 228, 232
+, 26 S. Ct. 29; Casey v. Galli, 
+94 
+U.S. 673
+; Id., 
+94 
+U.S. 680
+, 681. The only means of enforcing the liability left to creditors of a joint-stock land bank, as the Court pointed out in the Wheeler Case, is an adversary suit in equity against the stockholders wherever they may be found.
+ The obligation which the statute imposes upon the stockholders is personal, and petitioners can be held to respond to it only by a suit maintained in a court having jurisdiction to render a judgment against them in personam. As the liability of the stockholders is to pay the debts of the bank to creditors 'equally and ratably,' judicial determination of the inability of the bank to pay 
+
+[302 
+U.S. 500, 503]
+ 
+ its debts and the amount to be assessed against the stockholders to meet the deficiency are prerequisites to the enforcement of liability, and are essential parts of the only cause of action which the statute gives to the creditors. It is plain that in such a suit the existence and extent of insolvency are facts, the allegation and proof of which cannot be dispensed with as to any stockholder unless, as between the parties to the suit, they are matters already adjudicated.
+ A stockholder is so far an integral part of the corporation of which he is a member, that he may be bound and his rights foreclosed by authorized corporate action taken without his knowledge or participation. Sanger v. Upton, 
+91 
+U.S. 56
+, 58. The subscriber to corporate stock, whose subscription is payable on call of the directors, as required for corporate purposes, is bound by the action of the board in making the call as he is bound by a valid decree of a court against the corporation, although made in his absence, which directs performance of the corporate duty to make the call. Hawkins v. Glenn, 
+131 
+U.S. 319, 329
+, 9 S.Ct. 739; Great Western Telegraph Co. v. Purdy, 
+162 
+U.S. 329, 336
+, 16 S.Ct. 810; cf. Kerrison v. Stewart, 
+93 
+U.S. 155
+. Similarly, where a procedure is authorized by statute, under which a corporation may be brought into court for determination of its insolvency and the amount to be assessed against stockholders for the payment of its debts, and the judgment is declared by statute to be binding upon them, they are deemed by virtue of their membership in the corporation to have so far subjected themselves to the prescribed procedure and its consequences as to be bound by the determination although not nominal parties to the proceeding. Bernheimer v. Converse, 
+206 
+U.S. 516
+, 27 S.Ct. 755; Converse v. Hamilton, 
+224 
+U.S. 243
+, 32 S.Ct. 415, Ann.Cas.1913D, 1292; Selig v. Hamilton, 
+234 
+U.S. 652
+, 34 S.Ct. 926; Marin v. Augedahl, 
+247 
+U.S. 142
+, 38 S.Ct. 452; Chandler v. Peketz, 
+297 
+U.S. 609
+, 56 S.Ct. 602.
+ Whether it be said that by purchasing or retaining his stock in the face of such a procedure the stockholder has 
+
+[302 
+U.S. 500, 504]
+ 
+ consented that the corporation represent him for the purposes of the adjudication, Bernheimer v. Converse, supra, 
+206 
+U.S. 516, 529
+, 532 S., 533, 27 S.Ct. 755; Marin v. Augedahl, supra, 
+247 
+U.S. 142, 150
+, 38 S.Ct. 452, or more realistically that as stockholder he has voluntarily assumed a corporate relationship which is subject to the local regulatory power, in the exercise of which the procedure has been attached as an incident, to his membership in the corporation, Converse v. Hamilton, supra, 
+224 
+U.S. 243, 260
+, 32 S.Ct. 415, Ann.Cas. 1913D, 1292, in either case the procedure conforms to accepted principles, involves no want of due process, Converse v. Hamilton, supra; Selig v. Hamilton, supra; Chandler v. Peketz, supra, and at least when it ripens into a judgment is entitled to full faith and credit. Marin v. Augedahl, supra. It is enough that in every case the stockholder has assumed or retained his membership in the corporation after the warning of the statute, or of rules governing the corporation, of which he knew or had opportunity to know, that the benefits of membership carry with them the risk that the corporation may stand in judgment for him.
+ In the present case no such warning has been given, for no such procedure has been prescribed. The statutes have fixed only the conditions on which liability of the stockholders is to attach, leaving to creditors as their only recourse the usual procedure of courts as the means of asserting the liability. There is nothing in the statute relating to the organization of federal land banks and the imposition of the stockholders' liability to suggest that by virtue of their membership in the corporation the stockholders can be said to have subjected themselves to a procedure for determining in their absence the essential conditions of liability, or to have relinquished their right to contest, as in any other litigation, every step essential to its establishment. As we cannot say that petitioners' membership in the bank was conditioned upon their surrender of the benefits of a procedure which would other- 
+
+[302 
+U.S. 500, 505]
+ 
+ wise be required, there is no basis for a court to dispense with it more than in other cases in which a personal judgment is sought.
+ Equity Rule 38, 28 U.S.C.A. following section 723, providing that in a class suit 'one or more (of a class) may sue or defend for the whole,' was adopted in the exercise of the authority conferred on this Court by Rev.St.  913, 28 U.S.C.A.  723, and of its own inherent power to regulate by rules 'the ... modes of proceeding in suits of equity.' Their purpose was to prescribe the procedure in equity to be followed in cases within the jurisdiction of the federal courts and not to enlarge their jurisdiction. The omission from old Rule 48 amended and promulgated as Rule 38 in 1914, 
+226 
+U.S. 659
+, of the phrase '... the decree shall be without prejudice to the rights and claims of all absent parties' preserved unimpaired the jurisdiction of federal courts of equity in a class suit to render a decree binding upon absent defendants affecting their interest in property within the jurisdiction of the court. Smith v. Swormstedt, 16 How. 288; cf. Hartford Life Insurance Co. v. Ibs, 
+27 
+U.S. 662, 672
+, 35 S.Ct. 692, L.R.A.1916A, 765.
+ In the circumstances the decree in the Illinois suit was not res adjudicata as to petitioners in any respect. For that reason the bill of complaint failed to state a cause of action, and the decree is reversed.
+ Mr. Justice BRANDEIS and Mr. Justice CARDOZO took no part in the consideration or decision of this case. 
+
+
+

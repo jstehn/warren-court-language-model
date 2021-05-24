@@ -1,0 +1,135 @@
+Description: BURNRITE COAL BRIQUETTE CO. v. RIGGS , 274 U.S. 208 (1927)
+Date: 1927-05-02 00:00:00
+Docket: 227
+Opinion
+
+
+United States Supreme Court
+BURNRITE COAL BRIQUETTE CO. v. RIGGS(1927)
+No. 227
+Argued: Decided: May 2, 1927
+
+
+
+
+[274 U.S. 208, 209]
+ 
+ Messrs. James J. Lynch, of Chattanooga, Tenn., and George W. C. McCarter, of Newark, N. J., for petitioner.
+ Mr. Merritt Lane, of Newark, N. J., for respondents.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This suit was brought in the federal court for New Jersey against the Burnrite Coal Briquette Company, a Delaware corporation, by Riggs, a stockholder. The bill charged gross mismanagement; prayed for the appointment of a receiver to conserve the assets; and asked, that 'if deemed advisable' the court 'proceed under the statutes of the state of New Jersey ... and that the 
+
+[274 U.S. 208, 210]
+ 
+ receiver be given all the powers and be charged with all the duties imposed upon such a receiver by the statutes.' Upon the filing of the bill, receivers were appointed, action by the corporation was enjoined, and an issue of receivers' certificates was authorized, all ex parte. After an elaborate hearing upon an order to show cause, the receivers were continued until final hearing. Upon final hearing, the charges of mismanagement were sustained and the receivership was again ordered continued-
+'with all the powers vested in them by previous orders by this court made, and with all of the powers conferred upon receivers by an act of the state of New Jersey, entitled 'An act concerning corporations,' revision of 1896, its amendments and supplements thereto, and that the receivers continue to operate the business of said defendant corporation upon a reorganization or readjustment of the affairs of said corporation or such disposition as may be hereafter directed to be made of the affairs of said corporation by this court.'
+
+ The Court of Appeals reversed the decree entered upon the final hearing and directed that the bill be dismissed for want of jurisdiction. The decision was not rested upon the ground that a state cannot enlarge the remedial right to proceed in a federal court sitting in equity, see Pusey & Jones Co. v. Hanssen, 
+261 
+U.S. 491
+, 43 S. Ct. 454; nor upon the ground that a state cannot modify the substantive rights of a stockholder as against a foreign corporation merely because it happens to have property within the state. Compare Maguire v. Mortgage Co. (C. C. A.) 203 F. 858. The reversal was placed solely upon the ground that the corporation had been found by the District Court solvent at the time of the filing of the bill; that the statute of New Jersey, as interpreted by its courts, conferred no power upon its own courts to appoint receivers of foreign corporations unless they were insolvent; and that the juris- 
+
+[274 U.S. 208, 211]
+ 
+ diction of the federal court was determined by that of the state courts. ( C. C. A.) 291 F. 754.
+ After the coming down of the mandate, directing dismissal for want of jurisdiction, the District Court allowed the account of the receivers who had been active during a period of nearly two years; directed payment by the corporation of the receivers' obligations then outstanding, their expenses, the costs, and compensation for their own services and those of their counsel, amounting in all to nearly $80,000; declared these amounts a lien upon the corporation's property; and ordered that, in default of payment, the property be sold to satisfy the charges. Upon a second appeal, that decree was affirmed by the Circuit Court of Appeals. 6 F.(2d) 226. The corporation contended that since the District Court was held to be without jurisdiction, it had no power to allow the account and order the payment out of the fund. Lion Bonding and Surety Co. v. Karatz, 
+262 
+U.S. 640, 642
+, 43 S. Ct. 641. This court granted a writ of certiorari. 
+269 
+U.S. 547
+, 46 S. Ct. 106.
+ The main question for decision is whether, in view of the Court of Appeals' direction to dismiss the bill for want of jurisdiction, it was error to allow thereafter the receivers' account and direct the payment. There was an objection to the jurisdiction, which, if it had been seasonably taken, must have prevailed. Camp v. Gress, 
+250 
+U.S. 308
+, 39 S. Ct. 478. The plaintiff was a citizen of New York; the defendant a Delaware corporation; the federal jurisdiction rested wholly on diversity of citizenship; and neither party was a citizen of New Jersey. Thus there was a sound objection to the venue. If that objection had been duly made, and had been insisted upon, an error of the lower court in overruling it could not justify charging the corporation now with payment of any charge on account of the receivership. But that objection to the jurisdiction, being to the venue, could be waived. 
+
+[274 U.S. 208, 212]
+ 
+ Central Trust Co. v. McGeorge, 
+151 
+U.S. 129
+, 14 S. Ct. 286; Kreigh v. Westinghouse & Co., 
+214 
+U.S. 249, 252
+, 253 S., 29 S. Ct. 619. And, before it was taken by the answer, it had been waived by a general appearance and other action. This was conceded.
+ The reversal with direction to dismiss for want of jurisdiction, ordered on the first appeal, was put upon an entirely different ground. The Court of Appeals held that there was lack of jurisdiction of the subjectmatter. It assumed that the jurisdiction of the federal court was dependent upon the state statute. This was error. A federal district court may, under its general equity powers independently of any state statute, entertain a bill of a stockholder against the corporation for the appointment of at least a temporary receiver in order to prevent threatened diversion or loss of assets through gross fraud and mismanagement of its officers. 
+1
+ There were allegations in the bill adequate to support a suit of that character; and there was nothing in the bill inconsistent with its being entertained as such. The only reference in the bill to the state statute was in one of its eleven prayers. After the waiver of the objection to the venue, there was federal jurisdiction over the parties and of the subject-matter; and there was equity jurisdiction.
+ The fact that a bill seeking appointment of a receiver of a corporation is brought in a state other than that of the incorporation may lead the court to decline to interfere as a matter of comity or for want of equity; or it may require the court to limit the scope of the relief 
+
+[274 U.S. 208, 213]
+ 
+ granted. 
+2
+ But the fact of incorporation under the laws of another state does not preclude jurisdiction. 
+3
+ If the dismissal directed by the Court of Appeals on the first appeal was proper (as to which we have no occasion to express an opinion), it must be justified on the ground that, in view of the facts, the District Court erred in its judgment in appointing and continuing the receivers. Compare Chicago Title & Trust Co. v. Newman (C. C. A.) 187 F. 573, 576. In other words, the dismissal must rest on the ground that there was want of equity, not on lack of jurisdiction.
+ The District Court, assuming erroneously that it was without jurisdiction of the cause, based the order of payment solely on a supposed exception to the rule which denies to a court lacking jurisdiction the power to allow receivers' charges. According to the supposed exception, a party who has acquiesced and has thereby joined in misleading the court into an erroneous exercise of jurisdiction, may not complain when he is, thereafter, saddled with the charges. And he will be held to have acquiesced, despite a challenge of the jurisdiction, if his challenge was placed wholly upon an untenable ground; for, by objecting only on the untenable ground, he may have misled the court as much as if he had not objected at all. The trial court rested its finding of acquiescence on the fact that, while vigorously opposing continuance of the receiver- 
+
+[274 U.S. 208, 214]
+ 
+ ship on other grounds, the corporation did not intimate a lack of jurisdiction until months after the appointment; that, aside from failing to object to the venue, it failed to appeal from the decree continuing the appointment of the receivers, when the case was heard upon the order to show cause; and that it stood by in silence while the receivers were borrowing and spending money upon its property, thus taking the benefit of their action. The assumption of the District Court in matter of law and its finding of fact were affirmed by the Court of Appeals.
+ We have no occasion to determine whether a federal district court which appoints a receiver in a case in which it necessarily lacks jurisdiction of the subject-matter, so that jurisdiction cannot be acquired by acquiescence, may nevertheless impose upon the corporation, because of acquiescence, the usual charges incident to a receivership. For in the case at bar, the District Court had throughout jurisdiction of the subject-matter. It is settled that where a receiver is appointed in a stockholders' suit by a federal court having jurisdiction, and the appointment is held on review to have been wrongly made, the court may, in the exercise of its judicial discretion, require that the receivers' charges be paid either by the corporation or by the unsuccessful plaintiff. 4 See Palmer v. Texas, 
+212 
+U.S. 118, 132
+, 29 S. Ct. 230; Lion Bonding & Surety Co. v. Karatz, 
+262 
+U.S. 640, 642
+, 43 S. Ct. 641. Compare Atlantic Trust Co. v. Chapman, 
+208 
+U.S. 360
+, 28 S. Ct. 406. And where a court, in the exercise of jurisdiction, has erroneously appointed a receiver, the acquiescence of the defendant may influence the court, in its discretion, to make the receivership expenses a charge 
+
+[274 U.S. 208, 215]
+ 
+ upon the fund. 
+5
+ It was well within the discretion of the District Court to charge the fund in the case at bar.
+ We have no occasion to consider the contention, made as to a part of the charges, that they were incurred after the acquiescence had ceased and, hence, do not fall within the supposed exception above referred to. For the waiver of the objection to venue conferred upon the District Court complete jurisdiction of the cause, and the power to impose upon the corporation payment of the receivers' charges does not rest on acquiescence. There is no serious contention that any particular charge allowed was, in its nature or in amount, improper, or that in allowing it as a charge against the fund there was an abuse of discretion.
+ The contention that the first decision of the Circuit Court of Appeals directing dismissal of the bill for want of jurisdiction had become 'the law of the case' and that, therefore, this court must assume that the dismissal of the bill directed was properly a dismissal for want of jurisdiction, is groundless. Messinger v. Anderson, 
+225 
+U.S. 436, 444
+, 32 S. Ct. 739; Diaz v. Patterson, 
+263 
+U.S. 399, 402
+, 44 S. Ct. 151; Davis v. O'Hara, 
+266 
+U.S. 314, 321
+, 45 S. Ct. 104.
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] See Dodge v. Woolsey, 18 How. 331, 341, 344; Zeckendorf v. Steinfeld, 
+225 
+U.S. 445, 459
+, 32 S. Ct. 728; Citizens' Savings & Trust Co. v. Ill. Cent. R. R. Co., 
+205 
+U.S. 46
+, 27 S. Ct. 425; Clark v. National Linseed Oil Co. (C. C. A.) 105 F. 787; New Albany Waterworks Co. v. Louisville Banking Co. (C. C. A.) 122 F. 776; Collins v. Williamson (C. C. A.) 229 F. 59. 
+
+[
+Footnote 2
+] See Leary v. Columbia River Nav. Co. (C. C.) 82 F. 775; Sidway v. Missouri Land Co. (C. C.) 101 F. 481; Parks v. Bankers' Corporation (C. C.) 140 F. 160; Pearce v. Sutherland (C. C. A.) 164 F. 609; Maguire v. Mortgage Co. (C. C. A.) 203 F. 858. 
+[
+Footnote 3
+] Compare Central Trust Co. v. McGeorge, 
+151 
+U.S. 129
+, 14 S. Ct. 286; Lewis v. American Naval Stores (C. C.) 119 F. 391; Scattergood v. American Pipe Co. (C. C. A.) 249 F. 23; Ward v. Foulkrod (C. C. A.) 264 F. 627; Kynerd v. McCarthy (C. C. A.) 3 F.(2d) 32; See & Depew, Inc., v. Fisheries Products Co. (C. C. A.) 9 F.(2d) 235. Compare also North American Land Co. v. Watkins (C. C. A.) 109 F. 101. 
+
+[
+Footnote 4
+] See Ferguson v. Dent (C. C.) 46 F. 88, 96, 99; Clark v. Brown (C. C. A.) 119 F. 130; Beach v. Macon Grocery Co. (C. C. A.) 125 F. 513; In re Lacov (C. C. A.) 142 F. 960; In re T. E. Hill Co. (C. C. A.) 159 F. 73; In re Aschenbach Co. (C. C. A.) 183 F. 305; In re Wentworth Lunch Co. (C. C. A.) 191 F. 821; In re Wilkes-Barre Light Co. (D. C.) 235 F. 807; In re Independent Machine Corp. (C. C. A.) 251 F. 484. 
+
+[
+Footnote 5
+] See Clark v. Brown (C. C. A.) 119 F. 130; In re Wilkes-Barre Light Co. (D. C.) 235 F. 807; In re Independent Machine Corp. (C. C. A.) 251 F. 484. Compare Dillingham v. Moran (C. C. A.) 81 F. 759; Id. (C. C. A.) 101 F. 933; Pennsylvania Steel Co. v. New York City Ry. Co. (C. C. A.) 198 F. 721, 725, 734. 
+
+
+
+

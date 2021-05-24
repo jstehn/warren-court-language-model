@@ -1,0 +1,52 @@
+Description: US v. R F DOWNING & CO , 201 U.S. 354 (1906)
+Date: 1906-04-02 00:00:00
+Docket: 104
+Opinion
+
+
+United States Supreme Court
+U S v. R F DOWNING & CO(1906)
+No. 104
+Argued: March 2, 1906Decided: April 2, 1906
+
+
+
+ Assistant Attorney General McReynolds and Solicitor General Hoyt for petitioner.
+
+
+[201 U.S. 354, 355]
+ 
+ Messrs. J. Stuart Tompkins and Comstock & Washburn for respondents.
+
+
+
+[201 U.S. 354, 356]
+ 
+
+ Mr. Justice McKenna delivered the opinion of the court:
+ This case involves the rate of duty under the tariff act of 1897 (30 Stat. at L. 156, 205, chap. 11, U. S. Comp. Stat. 1901, pp. 1633, 1693) upon certain sticks of carbon used for electric lighting. The collector of customs of the port of New York held them to be dutiable at 90 cents per one hundred sticks, under paragraph 98 of the act of 1897, which provides as follows:
+'Gas retorts, three dollars each; lava tips for burners, ten cents per gross and fifteen per centum ad valorem; carbons for electric lighting, ninety cents per hundred; filter tubes, 
+
+[201 U.S. 354, 357]
+ 
+ forty-five per centum ad valorem; porous carbon pots for electric batteries without metallic connections, twenty per centum ad valorem.'
+
+ On protest and review by the board of appraisers the decision of the collector was affirmed. The board of appraisers, however, held that the sticks were not within the terms of paragraph 98, basing the ruling on United States v. Reisinger, 36 C. C. A. 626, 94 Fed. 1002, nor within paragraph 97, under the rule in United States v. Gabriel, 99 Fed. 716. And held further, that while the articles in question were not enumerated in the act of 1897, they were 'similar in material, texture, and use to carbons for electric lighting,' and dutiable under paragraph 98 by virtue of the similitude clause ( 7) of the act of 1897. The circuit court for the southern district of New York held that the articles were dutiable under paragraph 97, and reversed the ruling of the board of appraisers upon the authority of United States v. Reisinger, supra, and the circuit court of appeals affirmed the circuit court.
+ It appears from the evidence that the carbon sticks are from 12 1/2 to 20 inches in length, and to render them ready for use 1/2 inch must be cut off from the shorter ones and their ends burnished or smoothed, the process costing about 1-10 of 1 per cent. The longer sticks must be cut in two, and sharpened at both ends, and it is stipulated that those steps for their completion being done the only use for the sticks 'is as carbons for electric lighting.' They are undoubtedly 'carbons' and their use is 'for electric lighting.' In a general sense they come within the description of paragraph 98. It is contended, however, that they are not covered by that paragraph, because they must undergo a process of manufacture, though slight that process need be. The contention virtually is that the articles imported are not 'carbons,' either in the trade or popular sense, and do not become such until fit for use in lamps. In other words, it is the finished stick that constitutes the entity contemplated and made dutiable at 90 per cent under paragraph 98, 
+
+[201 U.S. 354, 358]
+ 
+ and that the articles imported are accurately described and enumerated only in paragraph 97, as articles composed of carbon, not specially provided for. Paragraph 97 is as follows:
+'Articles and wares composed wholly or in chief value of earthy or mineral substances, or carbon, not specially provided for in this act, if not decorated in any manner, thirty-five per centum ad valorem; if decorated, forty-five per centum ad valorem.'
+
+ There is much to justify the contention of respondents as to paragraph 98. The act of 1897 recognizes in many places the difference between finished and unfinished articles of manufacture, but it also recognizes in many places use as determining the duty. The words 'electric lighting' are very general, and it is the effect of the stipulation of the parties that the imported articles have no useful purpose except for electric lighting, though something further may be required for exact adaptation. However, we may put our decision on another ground, which will be best developed in considering the contention of respondents under paragraph 97.
+ The contention encounters a serious difficulty. As was decided in Dingelstedt v. United States, 33 C. C. A. 395, 62 U. S. App. 306, 91 Fed. 112, the paragraph covers articles which are susceptible of decoration, and not, as contended by respondents, articles decorated or not decorated, irrespective of their capability of being decorated. If the articles in question do not fall within paragraph 98, because not finshed, and do not fall within paragraph 97, because not susceptible of decoration, where do they fall? They would seen necessarily to fall under that part of  6, which provides that 'on all articles manufactured, in whole or in part, not provided for,' and subject to a duty of 20 per cent ad valorem. But there is a circumstance to be considered that arrests this effect. Section 7 provides 'that each and every imported article, not enumerated in this act, which is similar, either in material, quality, texture, or the use to which it may be applied, to any article enumerated in this act as chargeable with duty, shall pay the same rate of duty which 
+
+[201 U.S. 354, 359]
+ 
+ is levied on the enumerated article which it most resembles in any of the particulars before mentioned.'
+ The imported merchandise are undoubtedly manufactured articles and do not miss by a great deal being identical with 'carbons for electric lighting' in the most restricted sense of that description. They have, therefore, similarity in all the particulars mentioned in  7 to such carbons.
+ The judgments of the Circuit Court of Appeals and of the Circuit Court are reversed, and the case remanded to the Circuit Court with directions to sustain the decision of the board of general appraisers. 
+
+
+

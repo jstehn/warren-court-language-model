@@ -1,0 +1,99 @@
+Description: MISSOURI-KANSAS PIPE LINE CO. v. UNITED STATES , 312 U.S. 502 (1941)
+Date: 1941-03-03 00:00:00
+Docket: 268
+Opinion
+
+
+United States Supreme Court
+MISSOURI-KANSAS PIPE LINE CO. v. UNITED STATES(1941)
+No. 268
+Argued: Decided: March 3, 1941
+
+
+
+ As Modified on Denial of Rehearing Mar. 17, 1941. 
+
+[312 
+U.S. 502, 503]
+ 
+ Messrs. Arthur G. Logan, of Wilmington, Del., and Robert J. Bulkley, of Washington, D.C., for appellants.
+ Mr. Douglas M. Moffat, of New York City, for appellee Columbia Gas & Electric Corp.
+ Mr. William H. Button, of New York City, for appellee Columbia Oil & Gasoline Corp.
+ Mr. James H. Lee, of Detroit, Mich., for City of Detroit as amicus curiae by Special leave of Court.
+ Messrs. Robert H. Jackson, Atty. Gen., and Thurman W. Arnold, Asst. Atty. Gen'l, for appellee United States.
+
+ Mr. Justice FRANKFURTER delivered the opinion of the Court.
+ These proceedings grow out of a suit in equity brought by the Attorney General in 1935 to enforce the anti- 
+
+[312 
+U.S. 502, 504]
+ 
+ trust laws. That suit was terminated by a consent decree the terms of which specifically reserved certain rights to the Panhandle Eastern Pipe Line Company. The issues here revolve around the scope of those provisions of the decree.
+ In its bill the Government charged that Columbia Gas & Electric Corporation and its controlled instrumentality, Columbia Oil & Gasoline Corporation, together with individual defendants, had conspired, for the benefit of Columbia Gas, to shut out operation in the Indiana-Ohio- Michigan area by the Panhandle Company, which had built a natural gas pipe line from the Texas fields to the border of Indiana. Panhandle was an offspring of Missouri-Kansas Pipe Line Company (hereafter called Mokan), which, at the inception of the Government's suit, still owned half of Panhandle's stock and held half its junior debt. Columbia Gas, it was charged, had a practical monopoly of natural gas in the market which Panhandle proposed to enter, and to maintain this monopoly Columbia Gas acquired domination of Panhandle through the acquisition by Columbia Oil of half of Panhandle's stock and junior debt and its whole senior debt. These acts stifled, so it was claimed, Panhandle's potential competition, rendered it insolvent, and forced Mokan into receivership.
+ The consent decree sought to assure opportunities for competition by Panhandle. Deeming the terms of the decree inadequate for its purpose, the Government in 1939 reopened the proceedings. The defendants proposed modifications of the decree by a plan which the district court referred to a master. After the master's report approving the plan had been submitted but before the district court had acted upon it, two attempts to intervene were made on bahalf of Panhandle. The de- 
+
+[312 
+U.S. 502, 505]
+ 
+ nial of these two motions by the district court is the basis of the appeals here which come to us directly under the Expediting Act, 32 Stat. 823, as amended, 15 U.S.C.  29, 15 U.S.C.A.  29. In No. 268 Mokan, as a stockholder of Panhandle, made the appropriate allegations as to the unwillingness of those responsible for the actions of the corporation to protect its interests, and moved to intervene on behalf of Panhandle. In No. 269, the motion purported to be made in Panhandle's name. In addition to the formal parties, the City of Detroit was heard here as amicus curiae because of its interest in the supply of gas by Panhandle.
+ For clarity's sake, we shall first dispose of No. 268.
+ Numerous arguments were pressed upon us challenging our jurisdiction over the appeal, or, in the alternative, insisting on the propriety of the action of the district court. Treating Rule 24(a) of the Rules of Civil Procedure, 28 U.S.C.A. following section 723c, as a comprehensive inventory of the allowable instances for intervention, it is insisted that the present case is not one for intervention as of right, and as an exercise of the district court's discretion is not reviewable here. In any event, the order of the district court is said not to be a 'final decree' within the Expediting Act, compare United States v. California Canneries, 
+279 
+U.S. 553, 556
+, 49 S.Ct. 423, and on this score not reviewable. If the merits be here open, the order was correct because there was not 'timely application', as required by Rule 24(a). Finally, various considerations of controlling public interest are invoked to sustain the district court: the Attorney General is the guardian of the public interest in enforcing the anti-trust laws, compare New York City v. New York Telephone Co., 
+261 
+U.S. 312
+, 43 S.Ct. 372; injection of new issues ought not to be allowed to delay disposition of the main litigation, see United States v. Northern Securities Co., C.C., 128 F. 808, 813; a decree already entered should not be 
+
+[312 
+U.S. 502, 506]
+ 
+ impeached by intervention, see United States v. California Canneries, supra, 279 U.S. at page 556, 49 S.Ct. at page 424.
+ All of these arguments misconceive the basis of the right now asserted. Its foundation is the consent decree. We are not here dealing with a conventional form of intervention, whereby an appeal is made to the court's good sense to allow persons having a common interest with the formal parties to enforce the common interest with their individual emphasis. Plainly enough, the circumstances under which interested outsiders should be allowed to become participants in a litigation is, barring very special circumstances, a matter for the nisi prius court. But where the enforcement of a public law also demands distinct safeguarding of private interests by giving them a formal status in the decree, the power to enforce rights thus sanctioned is not left to the public authorities nor put in the keeping of the district court's discretion.
+ That is the present case. Panhandle's right to economic independence was at the heart of the controversy. An important aspect of that independence was the extension of its operations to permit sales in Detroit. The assurance of this extension was deemed so vital that it was safeguarded by explicit provisions in the decree. Section IV, which is in full in the margin,1 contained 
+
+[312 
+U.S. 502, 507]
+ 
+ those provisions, and by Section V, also set out below,2 Panhandle, 'upon proper application', could 'become a party' to the suit 'for the limited purpose of enforcing the rights conferred by Section IV'. Mokan, on behalf of Panhandle, claimed that Columbia Gas had made financial arrangements, which we need not detail, that would in practice defeat the free enterprise of Panhandle. 
+
+[312 
+U.S. 502, 508]
+ 
+ We are not concerned with the substantiality of this claim. The sole question before us is whether there was standing to make the claim before the district court. We hold there was such standing. To enforce the rights conferred by Section IV was the purpose of the motion. Therefore, the codification of general doctrines of intervention contained in Rule 24(a) does not touch our problem. And since the protection afforded Panhandle by Section IV of the decree could only be secured by the remedy designed by Section V, to wit, active participation in the suit, the denial of that protection is a definitive adjudication, and so appealable. See Credits Commutation Co. v. United States, 
+177 
+U.S. 311, 316
+, 20 S.Ct. 636, 638; cf. Cobbledick v. United States, 
+309 
+U.S. 323
+, 60 S.Ct. 540. Nor can the enforcement of this protection be deemed remotely in conflict with the public duties of the Attorney General, nor to bring in digressive issues, nor to impeach the existing decree. It is a vindication of the decree.
+ A final contention in support of the order remains. It is based on two prior denials of motions by Mokan to intervene. Treating Mokan's motions as made on its own behalf on the score of its ownership of more than forty per cent of Panhandle's stock, the District Court denied the motions. Appeals from these denials were dismissed by the Circuit Court of Appeals, 108 F.2d 614, and we denied certiorari, 
+309 
+U.S. 687
+, 60 S.Ct. 887. The denials are now urged as res judicata. But they were a rejection of Mokan's attempt to intervene in its own behalf. In neither instance was the relief denied deemed a mode of enforcing Panhandle's rights under Sections IV and V of the decree. The earlier denials involved different legal claims from that now asserted, and, therefore are no bar to the present proceeding.
+ In No. 269 Panhandle's intervention was sought by a different route. At a meeting of the stockholders of Panhandle a resolution was introduced authorizing this 
+
+[312 
+U.S. 502, 509]
+ 
+ proceeding. It was defeated because Columbia Oil's holding of Panhandle stock was voted against it. Mokan claimed that this stock was disqualified from being voted on a matter so deeply touching the self-interest of the Columbia companies. If this stock be not counted, so runs the argument, Mokan's votes constituted a majority and the resolution carried. But we need not pass on these problems of corporate control, because under our decision in No. 268, Panhandle's participation, derivatively asserted by Mokan, is secured.
+ In a memorandum filed by the Attorney General we are advised that on January 18, 1941, the District Court filed an opinion, 36 F.Supp. 488, approving the plan for modifying the original decree subject to some suggestions by the Government. This, we are told, 'is believed to satisfy the public interest', and so the Government desires to sustain the action of the court below without further litigation. We recognize the duty of expeditious enforcement of the anti-trust laws. But expedition cannot be had at the sacrifice of rights which the original decree itself established. We assume that the district court will adjust the right which belongs to Panhandle with full regard to that public interest which underlay the original suit.
+ The order in No. 268 is reversed, and that in No. 269 is affirmed. So ordered.
+ Mr. Justice ROBERTS is of opinion that both judgments should be affirmed.
+ Mr. Justice DOUGLAS and Mr. Justice MURPHY took no part in the consideration or disposition of this case. 
+
+Footnotes
+
+[
+Footnote 1
+] 'That the defendants be and they are hereby perpetually enjoined from restraining or interfering in any manner in the freedom of Panhandle Eastern to contract or to finance or arrange the financing of all contracts, extensions (including the proposed new line to Detroit, whether or not built and owned by it), repairs, maintenance, service, or improvements necessary in its business through or with any firm, person, or corporation with whom it may choose to deal (and to that end any such financial or contractual arrangements made by Panhandle Eastern to consummate its contract dated August 31, 1935, with the Detroit City Gas Company shall be subject to the approval of the trustee who shall receive, and consider the advisability of, alternative methods of financing from any responsible under-writer);
+'That if such contracts be made with or financial assistance be secured from Columbia Gas, such contracts may be made or financial assistance furnished only upon terms or conditions which do not in any way, directly or indirectly, presently or potentially, confer upon Columbia Gas any voting rights, control or participation in the management of Panhandle Eastern or confer any rights of ownership in the works or properties of Panhandle Eastern except as security for the investment; and in the event that Columbia Gas shall, with respect to any contract or any contractual rights of any kind whatsoever or any property held as security or used in connection with any contract, in any way prevent the free transportation, sale, and distribution of gas by Panhandle Eastern, then upon application to this Court or any court of competent jurisdiction Panhandle Eastern shall have the right (1) to the immediate appointment of a trustee to hold such contract rights or property subject to the purposes and provisions of this decree; (2) to immediate specific performance of any and all contracts with Columbia Gas; and (3) to immediate injunction, both temporary and final, as well as any other appropriate remedy at law or in equity, including any remedy hereunder.' 
+
+
+[
+Footnote 2
+] 'That jurisdiction of this cause and of the parties hereto is retained for the purpose of giving full effect to this decree and for the enforcement of strict compliance herewith and the punishment of evasions hereof, and for the further purpose of making such other and further orders and decrees or taking such other action as may from time to time be necessary to the carrying out hereof; and that Panhandle Eastern, upon proper application, may become a party hereto for the limited purpose of enforcing the rights conferred by Section IV hereof.' 
+
+
+
+

@@ -1,0 +1,73 @@
+Description: FRIDAY v. HALL & KAUL CO , 216 U.S. 449 (1910)
+Date: 1910-02-21 00:00:00
+Docket: 68
+Opinion
+
+
+United States Supreme Court
+FRIDAY v. HALL & KAUL CO(1910)
+No. 68
+Argued: January 10, 1910Decided: February 21, 1910
+
+
+
+
+[216 U.S. 449, 450]
+ 
+ The Monongahela Construction Company, a corporation organized under the law of Pennsylvania, was, in an involuntary proceeding, adjudged a bankrupt in the district court for the western district of Pennsylvania. Upon a petition for review, filed by a judgment creditor, the adjudication was set aside upon the ground that the construction company was not 'a corporation engaged principally in manufacturing,' as found by the bankrupt court. The opinion of the circuit court of appeals is reported in 87 C. C. A. 23, 158 Fed. 593.
+ From the agreed statement of facts it appears:
+ 1st. That the Monongahela Construction Company's charter sets out that it was organized 'for the purpose of constructing, erecting, and repairing railroads, traction lines, duly incorporated, and streets, roads, buildings, structures, works or improvements of public or private use or utility.'
+ 2d. That its principal business had been 'making and constructing arches, walls, and abutments, bridges, buildings, etc., out of concrete.'
+ 3d. That, 'in carrying on its business, it buys and combines together raw materials, such as cement, gravel, and sand in the making of concrete, and supplies labor, machinery, and appliances necessary for the proper carrying on of said business, of constructing and erecting concrete arches, piers, buildings, and structures, and excavating therefor at such time and place as its contracts call for.'
+ 4th. It has no permanent shop or factory, but has a warehouse. 
+
+[216 U.S. 449, 451]
+ 
+ Messrs. Alexander J. Barron and Richard A. Ford for petitioners.
+
+
+
+[216 U.S. 449, 452]
+ 
+ Messrs. George l. roberts and Eugene H. Baird for respondent.
+
+ Statement by Mr. Justice Lurton: 
+
+[216 U.S. 449, 453]
+ 
+
+ Mr. Justice Lurton, after stating the facts as above, delivered the opinion of the court:
+ Section 4 of the bankrupt act, as amended by the act of February 5, 1930 [32 Stat. at L. 797, chap. 487, U. S. Comp. Stat. Supp. 1909, p. 1309 ], reads thus:
+'Any natural person, except a wage earner, or a person engaged chiefly in farming or the tillage of the soil, any unincorporated company, and any corporation engaged principally in manufacturing, trading, printing, publishing, mining or mercantile pursuits, owing debts to the amount of one thousand dollars or over, may be adjudged an involuntary bankrupt upon default or an impartial trial, and shall be subject to the provisions and entitled to the benefits of this act. Private bankers, but not national banks or banks incorporated under state or territorial laws, may be adjudged involuntary bankrupts.'
+
+ The single question is whether the Monongahela Construction Company, upon the facts stated above, was a corporation principally engaged in the business of 'manufacturing,' within the meaning of the act. If it was, the adjudication should stand.
+ The corporate powers of the company were very broad. It 
+
+[216 U.S. 449, 454]
+ 
+ is possible that it might have so limited its functions as not to have come under any reasonable definition of manufacturing; but at last the question of whether it was principally engaged in manufacturing must turn more upon what it was actually doing than upon what it was authorized to do.
+ It must be conceded that the word 'manufacturing,' as used in the bankrupt act, has no definite legislative meaning by reason of adoption from other bankrupt acts, as is the case with the words 'trader' or 'trading,' and perhaps other words with wellunderstood common-law meanings.
+ Though British bankrupt acts were in existence from the time of Henry VIII.; they applied only to 'traders' until 1860, when they were extended to other persons. Our own original act, that of 1800 [2 Stat. at L. 19, chap. 19], applied only to traders, bankers, brokers, and underwriters. The act of 1841 [5 Stat. at L. 440, chap. 9] added 'merchants.' The act of 1867 [14 Stat. at L. 517, chap. 176] extended practically to all persons and corporations. That of 1898 [30 Stat. at L. 544, chap. 541, U. S. Comp. Stat. 1901, p. 3418] limited the wide application of the act of 1867 to the class of business coporations enumerated. Thus it is that the words 'manufacture' and 'manufacturing' have no meaning derived from adjudications of any former law.
+ Undoubtedly Congress intended that that class of business corporations engaged in any class of manufacturing, as its principal business, and not as a mere minor incident to some larger work, should be subject to the law; and this intention should be regarded by giving to doubtful words and terms a liberal rather than a narrow meaning. 'Manufacturing' has no technical meaning. It is not limited by the means used in making, nor by the kind of product produced. In Kidd v. Pearson, 
+128 
+U.S. 1, 20
+, 32 S. L. ed. 346, 350, 2 Inters. Com. Rep. 232, 9 Sup. Ct. Rep. 6, Mr. Justice Lamar said that 'manufacture is transformation,-the fashioning of raw materials into a change of form for use.'
+ In Tide Water Oil Co. v. United States, 
+171 
+U.S. 210, 216
+, 43 S. L. ed. 139, 140, 18 Sup. Ct. Rep. 837, Mr. Justice Brown, referring to the expansion of the meaning of the word 'manufacture,' said that 'the word is now ordinarily used to denote an article upon the material of which labor has been expended to make the finished product.' 
+
+[216 U.S. 449, 455]
+ 
+ Concrete is an artificial stone. It is a product resulting from a combination of sand or gravel or broken bits of limestone, with water and cement; a combination which requires ordinarily the use of both skill and machinery. It is not denied that if concrete in a shape adapted to use and in finished form is supplied to others for the making of a house, bridge, pier, arch, or abutment, that the corporation making such blocks or shapes would be, in the most narrow sense, one engaged in manufacture. But it is urged that this corporation made these blocks or shapes at the place where used; and that, as finished, they became a part of a principal structure and affixed to the realty; and that therefore they were not engaged in manufacturing, which, say counsel, is a business confined to those who make articles which may be 'transported and sold at some other place than that where made.'
+ The production of concrete arches or piers or abutments is the result of successive steps. The combination of raw material-the sand, the limestone, the cement, and the water-produced a product which undoubtedly was 'manufactured.' This concrete had then to be given shape. That required the manufacture of moulds, which remain in place until hardening occurs. If the concrete is reinforced, as is the case where great strength is required, then the adjustment of the bars of steel within the moulds was another step. Do all of these steps, each a step in 'manufacturing,' cease to be 'manufacturing' because the moulds into which the concrete is poured, when in a fluid state, are upon the spot where the finished product is to remain? That the operation of making and shaping the concrete is done at the place used seems rather a matter of convenience, due to the quick hardening in moulds and difficulties of transportation. But, as we may take notice, the operation which, in the end, is to produce an arch or abutment or pier or house, is not necessarily a single operation, but one of successive repetitions of the process. The business is not identical with that of a mere builder or constructor who puts together the brick or stone or wood or 
+
+[216 U.S. 449, 456]
+ 
+ iron, as finished by another. If the builder made his brick, shaped his timbers, and joined them all together, he would plainly be a manufacturer as well as a builder; and if the former was the principal part of the business, he would be within the definition of the bankrupt act. To say that one who makes, and then gives form and shape to the product made, is not engaged in manufacturing because he makes his product and gives it form and shape in the place where it is to remain, is too narrow a construction.
+ In a case styled Re First Nat. Bank, 81 C. C. A. 260, 152 Fed. 64, 11 A. & E. Ann. Cas. 355, the circuit court of appeals for the eighth circuit, in an opinion by Sanborn, Circuit Judge, sustained an adjudication of bankruptcy against a precisely similar corporation.
+ In Columbia Ironworks v. National Lead Co. 64 L.R.A. 645, 63 C. C. A. 99, 127 Fed. 99, the sixth circuit court of appeals adjudged that a corporation engaged principally in the business of building and repairing large steel ships for sale and upon order, who prepared and gave shape to much of the raw material, was engaged in manufacturing.
+ The judgment of the Circuit Court of Appeals must be reversed and that of the District Court affirmed. 
+
+
+

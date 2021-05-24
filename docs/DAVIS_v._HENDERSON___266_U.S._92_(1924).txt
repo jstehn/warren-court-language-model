@@ -1,0 +1,36 @@
+Description: DAVIS v. HENDERSON , 266 U.S. 92 (1924)
+Date: 1924-10-27 00:00:00
+Docket: 44
+Opinion
+
+
+United States Supreme Court
+DAVIS v. HENDERSON(1924)
+No. 44
+Argued: Decided: October 27, 1924
+
+
+
+ Messrs. A. A. McLaughlin, of Washington, D. C., Thomas B. Pryor and Vincent M. Miles, both of Ft. Smith, Ark., and Sidney F. Andrews, of Washington, D. C., for plaintiff in error and petitioner. 
+
+[266 U.S. 92, 93]
+ 
+
+ Mr. Justice BRANDEIS, delivered the opinion of the Court.
+ Henderson, a shipper of cattle, brought this suit in a state court of Arkansas against an interstate carrier then under federal control. The cause of action alleged was failure to furnish a car within a reasonable time after notice. The carrier defended on the ground that the shipper had not complied with a rule, approved by the Interstate Commerce Commission, and contained in its tariff, which provided that orders for cars must be placed with the local agent in writing. Written notice was not given. The plaintiff was permitted to testify that he had notified the station agent orally and that the latter had accepted his oral notice. The trial court refused to instruct the jury that the shipper could not recover without proving a notice in writing. Exceptions were duly taken. The plaintiff got the verdict; and the judgment entered thereon was affirmed by the highest court of the state. 157 Ark. 43, 247 S. W. 1070. The carrier brought this writ of error, and also filed a petition for a writ of certiorari, consideration of which was postponed until the hearing on the writ of error. The former must be dismissed. Act Sept. 6, 1916, c. 448,  2, 39 Stat. 726 (Comp. St.  1214). The writ of certiorari is now granted.
+ There is no claim that the rule requiring written notice was void. The contention is that the rule was waived. It could not be. The transportation service to be performed was that of common carrier under published tariffs. The rule was a part of the tariff. Georgia, Florida & Alabama Ry. Co. v. Blish Milling Co., 
+241 
+U.S. 190, 197
+, 36 S. Ct. 541; Missouri, Kansas & Texas Ry. Co. v. Ward, 
+244 
+U.S. 383, 388
+, 37 S. Ct. 617; Davis v. Cornwell, 
+264 
+U.S. 560, 562
+, 44 S. Ct. 410.
+ Writ of error dismissed.
+ Writ of certiorari granted.
+ Judgment reversed. 
+
+
+

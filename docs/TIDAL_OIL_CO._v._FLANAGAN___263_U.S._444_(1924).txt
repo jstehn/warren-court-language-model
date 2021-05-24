@@ -1,0 +1,224 @@
+Description: TIDAL OIL CO. v. FLANAGAN , 263 U.S. 444 (1924)
+Date: 1924-01-07 00:00:00
+Docket: 179
+Opinion
+
+
+United States Supreme Court
+TIDAL OIL CO. v. FLANAGAN(1924)
+No. 179
+Argued: Decided: January 7, 1924
+
+
+
+
+[263 U.S. 444, 445]
+ 
+ Messrs. Preston C. West, A. A. Davidson, Wallace C. Franklin, and Arthur J. Biddison, all of Tulsa, Okl., for plaintiffs in error, in opposition to the motion.
+ Messrs. Edward H. Chandler and Wm. O. Beall, both of Tulsa, Okl., for defendant in error, in support of the motion.
+
+
+
+[263 U.S. 444, 448]
+ 
+
+ Mr. Chief Justice TAFT delivered the opinion of the Court.
+ J. P. Flanagan sued the Tidal Oil Company and Eleanor Arnold in the district court of Creek county, Oklahoma, to quiet his title to two tracts of land therein of 80 acres each. His title was based on a quitclaim deed of Robert Marshall, an allottee and citizen of the Creek Nation, executed in October, 1916, after Marshall had attained his majority and had been discharged from guardianship. The defendants derived their title from the same allottee, but the deed under which they claimed was made by Marshall when he was 14 years old and married, and after he had been granted majority rights by the district court. He subsequently sought to have this deed canceled in a suit in the same court brought by his guardian, but judgment went against him. Defendants insisted that this judgment was conclusive in the case at bar against the plaintiff as subsequent 
+
+[263 U.S. 444, 449]
+ 
+ grantee of Marshall. After this judgment, and by way of compromise, gas and oil leases and contracts to convey were made in favor of defendants or their grantors by the guardian and approved by the county court, and these were also relied on to defeat plaintiff's title. The district court gave judgment in favor of Flanagan for the lands and included a heavy recovery for mesne profits. The Supreme Court of Oklahoma affirmed this, but somewhat reduced the amount of recovery. It held that the deed and agreements and leases under which defendants claimed were void because Marshall was a minor when they were made; that the judgment of the district court against him and his guardian in their suit to cancel the first deed was void because it appeared on the face of the record that Marshall was then a minor and that these were allotted lands, of the title to which he could not be divested except in a probate court under procedure required by a state statute and not complied with. The errors here assigned are, first, that the judgment deprived the defendants of their property without due process of law contrary to the Fourteenth Amendment; and, second, that the Supreme Court of the state in holding the judgment and confirmations of the district and county courts to be void, reversed its previous decisions and changed a rule of property of the state upon the faith of which the deed, leases and other contracts set up by defendants were made, and thus impaired their obligation in violation of section 10, article 1, of the federal Constitution.
+ A motion to dismiss is made by the defendant in error, because the federal questions were too late, in that they were raised for the first time in petitions for rehearing which the court denied without opinion. The record does not sustain this ground in respect to the objection based on the Fourteenth Amendment, because that appears in the assignment of errors filed on the appeal from 
+
+[263 U.S. 444, 450]
+ 
+ the district court to the state Supreme Court. The assignment, however, has no substance in it. The parties to this action have been fully heard in the state court in the regular course of judicial proceedings and in such a case the mere fact that the state court reversed a former decision to the prejudice of one party does not take away his property without due process of law. This was expressly held in the case of Central Land Co. v. Laidley, 
+159 
+U.S. 103, 112
+, 16 S. Sup. Ct. 80. See, also, Morley v. Lake Shore Railway Co., 
+146 
+U.S. 162, 171
+, 13 S. Sup. Ct. 54; Patterson v. Colorado, 
+205 
+U.S. 454, 461
+, 27 S. Sup. Ct. 556, 10 Ann. Cas. 689; Delmar Jockey Club v. Missouri, 
+210 
+U.S. 324, 335
+, 28 S. Sup. Ct. 732; Bonner v. Gorman, 
+213 
+U.S. 86, 91
+, 29 S. Sup. Ct. 483; Milwaukee Electric Ry. Co. v. Milwaukee, 
+252 
+U.S. 100, 106
+, 40 S. Sup. Ct. 306, 10 A. L. R. 892.
+ A ground for dismissal urged is that the validity of no federal or state statute or authority exercised under the United States or the state, was drawn in question in the state court on the ground of a repugnance to the federal Constitution and hence there is no right to a writ of error under section 237 of the Judicial Code as amended by the Act of September 6, 1916 (39 Stat. 726 [Comp St.  1214]), and that the only remedy available to the plaintiffs in error was an application to this court for certiorari because they had been denied a right, title, privilege or immunity granted by the federal Constitution. In answer the plaintiffs in error invite attention to an Act of Congress of February 17, 1922 (42 Stat. 366), again amending section 237, reading as follows:
+'In any suit involving the validity of a contract wherein it is claimed that a change in the rule of law or construction of statutes by the highest court of a state applicable to such contract would be repugnent to the Constitution of the United States, the Supreme Court shall, upon writ of error, re-examine, reverse, or affirm the final judgment of the highest court of a state in which a decision in the suit could be had, if said claim is made in said 
+
+[263 U.S. 444, 451]
+ 
+ court at any time before said final judgment is entered and if the decision is against the claim so made.' Comp. St. Ann. Supp. 1923,  1214
+
+
+
+ The case before us seems clearly within the foregoing. It does involve the validity of a contract, it is claimed that a change in the rule of law by the highest court of the state applicable to the contract is repugnant to the federal Constitution, and the decision of that court was against the claim.
+ It has been settled by a long line of decisions,1 that the provision of section 10, article 1, of the federal Constitution, protecting the obligation of contracts against state action, is directed only against impairment by legislation and not by judgments of courts. The language-'No state shall ... pass any ... law impairing the obligation of contracts'-plainly requires such a conclusion. However, the fact that it has been necessary for this court to decide the question so many times is evidence of persistent error in regard to it. Among the cases relied on to sustain the error, are Gelpcke v. Dubuque, 1 Wall. 175; Butz v. Muscatine, 8 Wall. 575; Douglass v. Pike County, 
+101 U.S. 677
+; Anderson v. Santa Anna Twp., 
+116 U.S. 356
+, 6 Sup. Ct. 413; German Savings Bank v. Franklin County, 
+128 U.S. 526
+, 9 Sup. Ct. 159; Rowan v. Runnels, 5 How. 134, 139; and Los Angeles v. 
+
+[263 U.S. 444, 452]
+ 
+ Los Angeles City Water Co., 
+177 U.S. 558
+, 20 Sup. Ct. 736. These cases were not writs of error to the Supreme Court of a state. They were appeals or writs of error to federal courts where recovery was sought upon municipal or county bonds or some other form of contracts, the validity of which had been sustained by decisions of the Supreme Court of a state prior to their execution, and had been denied by the same court after their issue or making. In such cases the federal courts exercising jurisdiction between citizens of different states held themselves free to decide what the state law was, and to enforce it as laid down by the state Supreme Court before the contracts were made rather than in later decisions. They did not base this conclusion on article 1, section 10, of the Federal Constitution, but on the state law as they determined it, which, in diverse citizenship cases, under the third article of the federal Constitution they were empowered to do. Burgess v. Seligman, 
+107 U.S. 20
+, 2 Sup. Ct. 10. In such cases, as a general rule, they, in the interest of comity and uniformity, followed the decisions of state courts as to the state law, but, where gross injustice would be otherwise done, they followed the earlier rather than the later decisions as to what it was. Had such cases been decided by the state courts however, and had it been attempted to bring them here by writ of error to the state Supreme Court, they would have presented no federal question, and this court must have dismissed the writs for lack both of power and jurisdiction. This is well illustrated by the case of Gelpcke v. Dubuque, 1 Wall. 175, and Railroad Co. v. McClure, 10 Wall. 511. In the former, bonds sued on in the Circuit Court of the United States, were collected under judgment of this court. In the latter, like bonds sued on in a state court were held invalid, and a writ of error to the state Supreme Court was dismissed.
+ Other cases cited are Louisiana v. Pilsbury, 
+105 U.S. 278
+, and Muhlker v. New York & Harlem R. R. Co., 197 
+
+[263 U.S. 444, 453]
+ 
+ U. S. 544, 25 Sup. Ct. 522, but in each of them a statute had been passed subsequently to the contract involved and was held to impair it. In such a case this court accepts the meaning put upon the impairing statute by the state court as authoritative, but it is the statute as enforced by the state through its courts which impairs the contract, not the judgment of the court.
+ There is another class of cases relied on to maintain this writ of error. They are those in which this court has held that in determining whether a state law has impaired a contract, it must decide for itself whether there was a contract and whether the law as enforced by the state court impairs it. It often happens that a law of the state constitutes part of the contract and to make the constitutional inhibition effective, this court must exercise an independent judgment in deciding as to the validity and construction of the law and the existence and terms of the contract. Jefferson Branch Bank v. Skelly, 1 Black, 436, 443; Bridge Proprietors v. Hoboken Co., 1 Wall. 116, 145; Wright v. Nagle, 
+101 U.S. 791
+, 793; and McGahey v. Virginia, 
+135 
+U.S. 662, 667
+, 10 S. Sup. Ct. 972.
+ Then there are cases like McCullough v. Virginia, 
+172 U.S. 102
+, 19 Sup. Ct. 134, Houston & Texas Central Railroad v. Texas, 
+177 
+U.S. 66, 76
+, 77 S., 20 Sup. Ct. 545, Hubert v. New Orleans, 
+215 
+U.S. 170, 175
+, 30 S. Sup. Ct. 40, Carondelet Canal Co. v. Louisiana, 
+233 
+U.S. 362, 376
+, 34 S. Sup. Ct. 627, and Louisiana Railway & Nav. Co. v. New Orleans, 
+235 
+U.S. 164, 171
+, 35 S. Sup. Ct. 62. In each of them the judgment of the state Supreme Court seemed from its opinion merely to be a reversal of a previous construction by it of a statute upon the faith of which the contract had been made. In fact, however, the judgment merely gave effect to an existing subsequent statute impairing the obligation of the contract which was thus a law passed in violation of article 1, section 10.
+ The difference between all these classes of cases and the present one wherein it is claimed that a state court judgment 
+
+[263 U.S. 444, 454]
+ 
+ alone, and without any law, impairs the obligation of a contract, has been carefully pointed out in Central Land Co. v. Laidley, 
+159 
+U.S. 103, 111
+, 120 S., 16 Sup. Ct. 80, in Bacon v. Texas, 
+163 
+U.S. 207, 221
+, 223 S., 16 Sup. Ct. 1023, and in Ross v. Oregon, 
+227 
+U.S. 150, 161
+, 33 S. Sup. Ct. 220, Ann. Cas. 1914C, 224. Certain unguarded language in Gelpcke v. Dubuque, 1 Wall. 175, 206; Butz v. City of Muscatine, 8 Wall. 575, 583, and in Douglass v. Pike County, 
+101 U.S. 677
+, 686-687, and in some other cases has caused confusion, although those cases did not really involve the contract impairment clause of the Constitution.
+ We come, then, to the last point made on behalf of plaintiffs in error. It may be best stated in the words of their brief. After referring to Gelpcke v. Dubugue, supra, Douglass v. Pike County, supra, Anderson v. Township, supra, and German Savings Bank v. Franklin County, supra, counsel say:
+'The court has held, however, under the Codes prior to the amendment of February 17, 1922, that it had no appellate jurisdiction to review this character of question on a writ of error to a state court. This, as we understand it, is the rule announced in the cases cited by defendant in error, such as Central Land Co. v. Laidley, 
+159 U.S. 103
+, Bacon v. State, 
+163 U.S. 207
+, and Rooker v. Fidelity Trust Co., 
+261 U.S. 114
+.
+
+'Evidently the amendment of February 17, 1922, to section 237 of the Judicial Code, was for the express purpose of extending the appellate jurisdiction of this court to cover cases involving the impairment of contract obligations by change of judicial decision in the construction of applicable statutes. This is the plain language of the act.'
+
+ The intention of Congress was not, we think, to add to the general appellate jurisdiction of this court existing under prior legislation, but rather to permit a review on writ of error in a particular class of cases in which the defeated party claims that his federal constitutional rights 
+
+[263 U.S. 444, 455]
+ 
+ have been violated by the judgment of the state court itself, and further to permit the raising of the objection after the handing down of the opinion. This court has always held it a prerequisite to the consideration here of a federal question in a case coming from a state court that the question should have been raised in that court before decision, or that it should have been actually entertained and considered upon petition to rehear. A mere denial of the petition by the state court without opinion, is not enough. Godchaux Co. v. Estopinal, 
+251 
+U.S. 179, 181
+, 40 S. Sup. Ct. 116; Bilby v. Stewart, 
+246 U.S. 255
+, 38 Sup. Ct. 264; Missouri Pacific Ry. Co. v. Taber, 
+244 U.S. 200
+, 37 Sup. Ct. 522; St. Louis & San Francisco R. R. Co. v. Shepherd, 
+240 
+U.S. 240, 241
+, 36 S. Sup. Ct. 274; Consolidated Turnpike Co. v. Norfolk, etc., Railway, 
+228 
+U.S. 326, 334
+, 33 S. Sup. Ct. 510; Forbes v. State Council of Virginia, 
+216 
+U.S. 396, 399
+, 30 S. Sup. Ct. 295; McCorquodale v. Texas, 
+211 
+U.S. 432, 437
+, 29 S. Sup. Ct. 146; Mutual Life Ins. Co. v. McGrew, 
+188 
+U.S. 291, 308
+, 23 S. Sup. Ct. 375, 63 L. R. A 33; Mallett v. North Carolina, 
+181 
+U.S. 589, 592
+, 21 S. Sup. Ct. 730; Pim v. St. Louis, 
+165 U.S. 273
+, 17 Sup. Ct. 322.
+ It was the purpose of the Act of 1922 to change the rule established by this formidable array of authorities as to the class of cases therein described. The question in such cases could not well be raised until the handing down of the opinion indicating that the objectionable judgment was to follow. This act was intended to secure to the defeated party the right to raise the question here if the state court denied the petition for rehearing without opinion.
+ We cannot assume that Congress attempted to give to this court appellate jurisdiction beyond the judicial power accorded to the United States by the Constitution. The mere reversal by a state court of its previous decision, as in this case before us, whatever its effect upon contracts, does not, as we have seen, violate any clause of the federal Constitution. Plaintiff's claim, therefore, does not raise a substantial federal question. This has been 
+
+[263 U.S. 444, 456]
+ 
+ decided in so many cases that it becomes our duty to dismiss the writ of error for want of jurisdiction. 
+
+Footnotes
+
+[
+Footnote 1
+] Commercial Bank v. Buckingham's Executors, 5 How. 317, 343; Railroad Company v. Rock, 4 Wall. 177, 181; Railroad Company v. McClure, 10 Wall. 511; Knox v. Exchange Bank, 12 Wall. 379, 383; Lehigh Water Co. v. Easton, 
+121 U.S. 388
+, 7 Sup. Ct. 916; New Orleans Waterworks Co. v. Louisiana Sugar Refining Co., 
+125 
+U.S. 18, 30
+, 8 S. Sup. Ct. 741; Brown v. Smart, 
+145 
+U.S. 454, 458
+, 12 S. Sup. Ct. 958; Central Land Co. v. Laidley, 
+159 
+U.S. 103, 111
+, 112 S., 16 Sup. Ct. 80; Bacon v. Texas, 
+163 
+U.S. 207, 221
+, 223 S., 16 Sup. Ct. 1023; Hanford v. Davies, 
+163 
+U.S. 273, 278
+, 16 S. Sup. Ct. 1051; Turner v. Wilkes Co., 
+173 
+U.S. 461, 463
+, 19 S. Sup. Ct. 464; National Association v. Brahan, 
+193 
+U.S. 635, 647
+, 24 S. Sup. Ct. 532; Hubert v. New Orleans, 
+215 
+U.S. 170, 175
+, 30 S. Sup. Ct. 40; Fisher v. New Orleans, 
+218 U.S. 438
+, 31 Sup. Ct. 57; Cross Lake Shooting & Fishing Club v. Louisiana, 
+224 
+U.S. 632, 638
+, 32 S. Sup. Ct. 577; Ross v. Oregon, 
+227 
+U.S. 150, 161
+, 33 S. Sup. Ct. 220, Ann. Cas. 1914C, 224; Kryger v. Wilson, 
+242 
+U.S. 171, 177
+, 37 S. Sup. Ct. 34; Rooker v. Fidelity Trust Co., 
+261 
+U.S. 114, 118
+, 43 S. Sup. Ct. 288; Columbia Ry. v. South Carolina, 
+261 
+U.S. 236, 244
+, 43 S. Sup. Ct. 306. 
+
+
+
+

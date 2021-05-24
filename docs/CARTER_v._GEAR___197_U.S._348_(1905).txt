@@ -1,0 +1,66 @@
+Description: CARTER v. GEAR , 197 U.S. 348 (1905)
+Date: 1905-04-03 00:00:00
+Docket: 442
+Opinion
+
+
+United States Supreme Court
+CARTER v. GEAR(1905)
+No. 442
+Argued: Decided: April 3, 1905
+
+
+
+ This was a writ of error to review a judgment of the supreme court of the Territory of Hawaii denying a writ of prohibition.
+ The facts of the case are substantially as follows: On July 27, 1904, one Low, as next friend of Annie T. K. Parker, a minor, filed a petition before the defendant, George D. Gear, judge of the first judicial circuit, in probate, at chambers, asking for the removal of Alfred W. Carter, plaintiff in error, as guardian of the estate of said minor. He had been originally 
+
+[197 U.S. 348, 349]
+ 
+ appointed such guardian September 29, 1899. The petition was entitled 'In the Circuit Court of the First Judicial Circuit, Territory of Hawaii. In Probate. At Chambers,' and was in fact filed before the circuit judge sitting at chambers. A demurrer was interposed to the petition upon the ground that the circuit judge had no jurisdiction of the proceedings, for the reason that the statute conferring judicial powers upon the judges at chambers was in conflict with the organic act of the territory.
+ The demurrer was overruled, and the jurisdiction of the court sustained, apparently with some doubt, by the circuit judge.
+ This petition for a writ of prohibition was then filed by Carter in the supreme court of the territory against the defendant, Gear, as circuit judge, and Low, the next friend of Annie T. K. Parker, praying that the said circuit judge be prohibited from taking further cognizance of the petition for the removal of Carter, or proceeding therein until the further order of the supreme court. After a full hearing the supreme court affirmed the judgment of the circuit court, and dismissed the petition.
+ Messrs. Joseph J. Darlington and William F. Mattingly for plaintiff in error.
+
+
+[197 U.S. 348, 350]
+ 
+ Mr. John S. Low, guardian, in propria persona.
+
+
+
+[197 U.S. 348, 352]
+ 
+
+ Mr. Justice Brown delivered the opinion of the court:
+ The writ of prohibition was demanded upon the ground that there was no cause pending in the circuit court of the first circuit, to which the motion and petition of Low, as next friend, was incidental or ancillary, and that Judge Gear, sitting at chambers, was hearing questions of a judicial nature entirely independent of any cause pending in that court.
+ The single question presented by the record is whether the statutes of the territory of Hawaii, purporting to confer upon the judges of the several courts, at chambers, within their respective jurisdictions, judicial power not incident or ancillary to some cause pending before a court, were in conflict with  81 of the act of Congress approved April 30, 1900 
+
+[197 U.S. 348, 353]
+ 
+ (31 Stat. at L. 141, chap. 339), commonly known as the organic act of the territory. This section, page 157, enacts that 'the judicial power of the territory shall be vested in one supreme court, circuit courts, and in such inferior courts as the legislature may from time to time establish. And, until the legislature shall otherwise provide, the laws of Hawaii heretofore in force concerning the several courts and their jurisdiction and procedure shall continue in force, except as herein otherwise provided.'
+ At the time the act of Congress was passed there was in force in the territory of Hawaii an act known as chapter 57 of the Laws of 1892, the 37th section of which gave to the judges of the several circuit courts, at chambers, very ample powers in admiralty, equity, bankruptcy, and probate causes, among which were proceedings 'to remove any executor, administrator, or guardian.' This act was conceded to be sufficient to justify the action of Judge Gear in removing the guardian in this case. It was substantially re-enacted with amendments in 1903
+
+
+ The argument is made that  81 of the organic act is identical with the constitutional provisions of many states, under which similar statutes purporting to confer judicial powers upon circuit judges at chambers, not incident to, or ancillary to, any cause pending in any court, have usually been declared unconstitutional; citing Spencer Creek Water Co. v. Vallejo, 48 Cal. 70; Risser v. Hoyt, 53 Mich. 185, 18 N. W. 611; Toledo, A. A. & G. T. R. Co. v. Dunlap, 47 Mich. 456, 11 N. W. 271; Rowe v. Rowe, 28 Mich. 353; Pittsburg, Ft. W. & C. R. Co. v. Hurd, 17 Ohio St. 144, 146; State ex rel. Ballew v. Woodson, 161 Mo. 444, 61 S. W. 252. We are also referred to McKnight v. James, 
+155 U.S. 685
+, 15 Sup. Ct. Rep. 248, in which we held that a writ of error could not go to an order of a judge of a circuit court, made at chambers.
+ But, conceding the correctness of these decisions under the constitutions of the several states, and also conceding that the organic act stands in the place of a constitution for the territory of Hawaii, to which its laws must conform, does it follow that the laws respecting proceedings at chambers 
+
+[197 U.S. 348, 354]
+ 
+ are in excess of the powers conferred under the organic act?
+ Bearing in mind that  81 of the organic act is but one of a hundred sections, all of which are entitled to equal respect, it is evident that to obtain a comprehensive view of the intention of Congress we are bound to consider the whole act so far as it relates to the disposition of judicial power. To segregate  81 from all the other provisions of the act must necessarily result in giving it undue prominence.
+ By  6 'the laws of Hawaii not inconsistent with the Constitution or laws of the United States, or the provisions of this act, shall continue in force, subject to repeal or amendment by the legislature of Hawaii, or the Congress of the United States.' By  7 the Constitution of the Republic of Hawaii and a large number of its laws, specially enumerated, are repealed; but the statutes giving probate and equity jurisdiction to the circuit courts are not mentioned.
+ By  10 all actions at law, suits in equity, and other proceedings then pending in the courts of the Republic of Hawaii shall be carried on to final judgment and execution in the corresponding courts of the territory of Hawaii. As petitioner, Carter, was appointed guardian of the minor's estate in 1899 by the then judge of the first circuit, and was still proceeding to wind up the estate, we think the petition for his removal was filed in a pending proceeding within the meaning of this section.
+ Now, as it appears that the powers of judges at chambers had been fixed since 1892, eight years before the organic act was passed, that by  6 and the final clause of  81 the laws of Hawaii theretofore in force concerning the several courts and their jurisdiction and procedure were continued in force, except as therein otherwise provided, it would seem that these provisions were especially intended to apply to cases like the present, where a system of procedure which had previously existed was recognized as valid and still existing. In Hawaii v. Mankichi, 
+190 U.S. 197
+, 47 L. ed. 1016, 23 Sup. Ct. Rep. 787, a similar provision in the resolu- 
+
+[197 U.S. 348, 355]
+ 
+ tion of annexation was held not to abrogate a system of trials by information and convictions by a non-unanimous jury, as applied to cases prior to the organic act of April 30, 1900.
+ But we do not think it necessary to go further than  81 itself to find authority for a recognition of the laws previously existing in Hawaii concerning the constitution of its courts and their method of procedure. Whether a petition to a circuit court acting as a court of probate shall be addressed to and passed upon by the judge while sitting in court at chambers is, after all, much more a matter of form than of substance. Com. v. McLaughlin, 122 Mass. 449. The petition for the removal of the guardian in this case is entitled: 'In the Circuit Court of the First Judicial Circuit, Territory of Hawaii. In Probate. At Chambers.' It appears to have been heard by the circuit judge without a jury, his decision being entitled 'Before a Judge of the Circuit Court, of the First Circuit, Territory of Hawaii.' It must doubtless be treated as a proceeding at chambers, but, for reasons already given, we think the power to act of chambers was saved by  81 continuing in force the previous laws of Hawaii concerning the courts and their procedure. It would be too narrow a construction to hold that this did not include the procedure before judges of those courts sitting at chambers.
+ The decree dismissing the writ is affirmed. 
+
+
+

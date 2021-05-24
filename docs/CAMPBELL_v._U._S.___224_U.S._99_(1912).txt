@@ -1,0 +1,50 @@
+Description: CAMPBELL v. U. S. , 224 U.S. 99 (1912)
+Date: 1912-03-18 00:00:00
+Docket: 161
+Opinion
+
+
+United States Supreme Court
+CAMPBELL v. U. S.(1912)
+No. 161
+Argued: March 6, 1912Decided: March 18, 1912
+
+
+
+
+[224 U.S. 99, 100]
+ 
+ Messrs. Aldis B. Browne, Gerald Hughes, Alexander Britton, Evans Browne, Clayton C. Dorsey, and Barnwell S. Stuart for plaintiffs in error.
+
+
+
+[224 U.S. 99, 102]
+ 
+ Assistant Attorney General Denison for defendant in error.
+
+
+[224 U.S. 99, 104]
+ 
+
+ Mr. Justice Van Devanter delivered the opinion of the court:
+ This was an action at law against the sureties on the official bond of a receiver of public moneys to recover for a default of their principal. The answer set forth that the defendants had not and could not obtain sufficient information upon which to base a belief respecting the default charged, and therefore denied the same, and also interposed an affirmative defense, which need not be 
+
+[224 U.S. 99, 105]
+ 
+ specially noticed. The action was begun in the district court, and was tried to the court without a jury. There was a special finding of the facts, accompanied by conclusions of law, and upon these there was a judgment for the defendants. The plaintiff took the case on writ of error to the circuit court of appeals, which held that the facts found were insufficient to support the judgment, and reversed the latter, with a direction to enter a judgment for the plaintiff upon the finding. -- L.R.A.( N.S.) --, 95 C. C. A. 114, 170 Fed. 318. The defendants then sued out the present writ of error.
+ At the outset we are confronted with the question of the power of the circuit court of appeals to consider the sufficiency of the facts found to support the judgment. Section 566, Rev. Stat. (U. S. Comp. Stat. 1901, p. 461) provided that the trial of issues of fact in the district courts, in all cases except cases in equity and cases of admiralty and maritime jurisdiction, and except as otherwise provided in proceedings in bankruptcy, should be by jury. This was not one of the excepted cases. Sections 649 and 700, Rev. Stat. (U. S. Comp. Stat. 1901, pp. 525, 570), made special provision for the trial by the court, without a jury, of the issues of fact in actions at law in the circuit courts, and for the review of the rulings of the court in the progress of such a trial, including the question of the sufficiency of the facts found to support the judgment; but those sections were in terms limited to cases in the circuit courts, and there was no similar provision in respect of cases in the district courts. In this state of the statute law, the trial to the district court without a jury was in the nature of a submission to an arbitrator,-a mode of trial not contemplated by law, and the court's determination of the issues of fact and of the questions of law supposed to arise upon its special finding was not a judicial determination, and therefore was not subject to re-examination in an appellate court. Campbell v. Boyreau, 21 How. 223, 16 L. ed. 96; Rogers v. United States, 
+141 U.S. 548
+, 35 L. ed. 853, 12 Sup. Ct. Rep. 91. It follows that the 
+
+[224 U.S. 99, 106]
+ 
+ circuit court of appeals was without power to consider the sufficiency of the facts found to support the judgment.
+ The power of that court was limited to a consideration of such questions of law as may have been presented by the record proper, independently of the special finding; such as whether the pleadings were sufficient to support the judgment. It is now said that such a question was presented, and that its right solution required that the judgment of the district court be reversed. If the answer did not put in issue the allegation of the complaint respecting the default of the principal in the bond, this claim is well founded; otherwise it is not. The denial of that allegation was predicated upon a statement that the defendants had not and could not obtain 'sufficient information' upon which to base a belief respecting its truth. This, it is said, was not an adequate denial, because the state statute (Colo. Code,  56) required that such a denial be based upon a disavowal of 'sufficient knowledge or information.' But of this it is enough to say that no such objection was raised in the district court, but, on the contrary, the answer was treated as sufficient in that respect. This being so, the plaintiff was not at liberty to raise the objection in an appellate court. Had it been made seasonably, it could, and doubtless would, have been avoided by an amendment. Roberts v. Graham, 6 Wall. 578, 581, 18 L. ed. 791, 792; Nashua Sav. Bank v. Anglo-American Land, Mortg. & Agency Co. 
+189 
+U.S. 221, 231
+, 47 S. L. ed. 782, 786, 23 Sup. Ct. Rep. 517.
+ It results that the Circuit Court of Appeals erred in not affirming the judgment of the District Court.
+ Judgment reversed. 
+
+
+

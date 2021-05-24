@@ -1,0 +1,192 @@
+Description: SANCHO v. YABUCOA SUGAR CO. , 306 U.S. 505 (1939)
+Date: 1939-03-27 00:00:00
+Docket: 498
+Opinion
+
+
+United States Supreme Court
+SANCHO v. YABUCOA SUGAR CO.(1939)
+No. 498
+Argued: March 7, 1939Decided: March 27, 1939
+
+
+
+ As Amended on Denial of Rehearing May 22, 1939
+
+
+ Mr. William C. Rigby, of Washington, D.C., for petitioner.
+ Mr. Earle T. Fiddler, of San Juan, P.R., for respondent. 
+
+[306 
+U.S. 505, 506]
+ 
+
+ Mr. Justice BLACK delivered the opinion of the Court.
+ Respondent sued the Treasurer of Porto Rico in a local district court for recovery of 1927 income taxes paid under the laws of the Island. By construction of the local Porto Rican statutes permitting suits for refunds, the local district court found that no right had been granted to sue at law for taxes voluntarily paid. The bill of complaint was then dismissed for lack of jurisdiction, because it disclosed that the tax in question had been paid voluntarily and without protest. The Supreme Court of Porto Rico affirmed, but was reversed by the United States Circuit Court of Appeals. 
+1
+ 
+
+ As conceded by respondent, this suit cannot be maintained unless authorized by a Porto Rican law, because Porto Rico cannot be sued without its consent. 
+2
+ It is also conceded that the Porto Rican legislature is not obligated to provide a judicial remedy for tax refunds. 
+3
+ Respondent's contentions here are that the governing statutes of the Island do authorize the present suit 'either by express language or by necessary implication,' and that the Porto Rican courts erroneously construed the local statutes.
+ Section 75 of the controlling Income Tax Act of Porto Rico, approved August 6, 1925,4 authorizes the Treasurer 'to remit, refund, and pay back all taxes erroneously or illegally assessed or collected, ... and all taxes that appear to be unjustly assessed or excessive in amount, or in 
+
+[306 
+U.S. 505, 507]
+ 
+ any manner wrongfully collected,' and requires him to 'report to The Legislature of Porto Rico at the beginning of each regular session ... all transactions under this section.'
+ The courts of Porto Rico construed Section 75 to mean that the Treasurer's refusal to refund taxes not paid under protest is final; that the local statutes grant the courts no jurisdiction to review this refusal; and that after the Treasurer's report to the legislature, a voluntary taxpayer's complaint must be addressed to the legislature. Disagreeing with this construction given the statute by the courts of Porto Rico, the Circuit Court of Appeals (one Judge dissenting) found that the 1925 Act plainly provided a resort to the courts, even in suits to recover taxes voluntarily paid without protest.
+ It is necessary that we examine some of the considerations which led to the Porto Rican courts' construction of Section 75 of the 1925 Act. For illustration, Section 66 of the Porto Rican Income Tax Law of 19195 imposed upon the Treasurer the duty of making tax refunds (as in Section 75 of the 1925 Act), but Section 66 contained an express provision for 'appeal to the courts' if a taxpayer's claim were denied by the Treasurer. 6 The omission of this express provision from Section 75 and all other Sections of the 1925 
+
+[306 
+U.S. 505, 508]
+ 
+ Act was logically considered by the Porto Rican courts to be of significance in the construction of that Act. The right of appeal to the courts contained in Section 66 of the 1919 Law was first omitted from the 1921 Porto Rican Law, 7 and this led the Supreme Court of Porto Rico to declare in the present case that 'since 1921, ... the right to bring suits for the recovery of taxes other than those paid under protest has been abrogated.' 
+8
+ 
+
+ Furthermore, four different sections of the 1925 Act (57, 60, 62 and 76(a) constitute a statutory plan under which a taxpayer who pays under protest is granted the right to sue in the courts for refund. Such a taxpayer can sue at law under these sections only if he has been denied relief by both the Treasurer and the Board of Review and Equalization of the Island. But these sections nowhere expressly authorize appeal from the Treasurer to the Board by one who paid taxes without protest. And Section 76(b), which the Circuit Court of Appeals interpreted as authorizing suit by a taxpayer who paid without protest, expressly prohibits suit in court 'until a claim for refund or credit has been duly filed with ... the Board of Review and Equalization on appeal, according to the provisions of law in that regard, and the regulations established in pursuance thereof.' ( Italics supplied.) Since a voluntary taxpayer is given no express right of appeal from the Treasurer to the Board by the 'provisions of law in ... regard' to such appeals, he is not expressly authorized to comply with the condition precedent to right of suit under Section 76(b). Rights denied by the statutes could not be granted by regulations. 
+
+[306 
+U.S. 505, 509]
+ 
+ In addition, Section 76(b) of the 1925 Act is practically identical in language with Section 3226 of United States Revised Statutes governing suits for refunds of United States taxes. 
+9
+ But the legislature of Porto Rico-while apparently using Section 3226 as a model-omitted from 76(b) the clause of Section 3226 reading 'suit or proceeding (for tax refund) may be maintained, whether or not such tax ... has been paid under protest or duress.' This substantial adoption of Section 3226, omitting the clause authorizing suit without protest (as well as the similar omission from the 1921 Act), could hardly represent accidental oversight, but instead indicate a deliberate legislative purpose. 
+10
+ 
+
+ Congress first granted local authority to the government of Porto Rico in 190011 and comprehensively revised the original plan in 1917.12 Both enactments manifest a congressional purpose to preserve-consistently with our system of government-the then existing governmental practices. Laws and ordinances then in effect and not contrary to our laws or Constitution were continued in full force, subject to alteration by the Porto Rican legislature or Congress. Original and appellate local courts, their jurisdiction and procedure, were preserved by Congress, and local officials were left in office. 13 And this Court has declared its unwillingness to overrule Porto Rican tribunals upon matters of purely local concern14 or to decide against the local understanding of a local matter, not believed by this Court to be clearly wrong;15 and a disposition to accept the construction 
+
+[306 
+U.S. 505, 510]
+ 
+ placed by a local court upon a local statute16 and to sustain such a construction in the absence of clear or manifest error. 
+17
+ 
+
+ Taxing acts of Porto Rico are purely local and the traditional reluctance of this Court to overturn constructions of such local statutes by local courts is particularly applicable to interpretations of Porto Rican statutes by Porto Rican tribunals. 
+18
+ Orderly development of the government of Porto Rico as an integral part of our governmental system is well served by a careful and consistent adherence to the legislative and judicial policy of deferring to the local procedure and tribunals of the Island.
+ The judgments of the Porto Rican courts in this case are not unsupported by logic or reason. They embody a recognition of our constitutional division of powers between the legislative and judicial branches of government. Believing the legislature had declined to give the right to sue to a taxpayer who computed his own tax from his own records and voluntarily paid it without protest, the Porto Rican courts properly declined to read implications into a statute which they could not fairly find there. In passing upon a previous construction of a Porto Rican statute by the Supreme Court of Porto Rico, this Court said, 'The construction adopted in Porto Rico at least does no violence to the words of the statute; it concerns local affairs under a system with which the court of the Island is called on constantly to deal, and we are not prepared, as against the weight properly attributed to the local decision, to say that it is wrong.' 
+19
+ So 
+
+[306 
+U.S. 505, 511]
+ 
+ here, we cannot say the Porto Rican courts were wrong. In failing to uphold their construction of the local statutes, the Circuit Court of Appeals was in error.
+ The judgment of the Court of Appeals is reversed and the complaint in the district court of Porto Rico must stand dismissed, as ordered by that court and affirmed by the Supreme Court of Porto Rico.
+ It is so ordered.
+ Reversed. 
+
+Footnotes
+
+[
+Footnote 1
+] 1 Cir., 98 F.2d 398. The opinion of the Supreme Court of Porto Rico, and its opinion on rehearing, have as yet been reported only in Spanish. 50 D.P.R. 962, 51 D.P.R. 135. 
+[
+Footnote 2
+] See People of Porto Rico v. Rosaly, 
+227 
+U.S. 270, 274
+, 33 S.Ct. 352, 353; Puerto Rico v. Shell Co., 
+302 
+U.S. 253, 262
+, 58 S.Ct. 167, 171. 
+[
+Footnote 3
+] Cf., Dismuke v. United States, 
+297 
+U.S. 167, 171
+, 172 S., 56 S.Ct. 400, 403. 
+[
+Footnote 4
+] Laws of Porto Rico 1925, No. 74, pp. 400, 536. 
+
+[
+Footnote 5
+] Laws, 1919, p. 612, 666. 
+[
+Footnote 6
+] Section 66: 'That the Treasurer be, and he is hereby, authorized to remit, reimburse or make restitution for any tax or duty erroneously or unlawfully imposed or collected, as well as of the amount of any fine collected by error or without legal authority therefor.
+'That when proper claim has been made to the Treasurer of Porto Rico for the return, reimbursement or remittal of any duties or taxes erroneously or illegally levied or collected, as well as for the amount of any fines collected by error or without legal authority, if he refuses without reason to grant such a claim, the aggrieved party may appeal to the courts of justice, following therefor the procedure authorized and the proceedings established by Section 63 of this Act.' 
+
+
+[
+Footnote 7
+] Laws, 1921, p. 312. 
+[
+Footnote 8
+] Compania Agricola de Cayey, Ltd. v. Domenech, Treasurer, 47 D.P.R. 535 (Spanish Ed.), decided prior to the present case, is to the same effect. 
+
+[
+Footnote 9
+] 43 Stat. 253, 343, 26 U.S.C.A.  1672-1673. 
+[
+Footnote 10
+] Cf., United States v. McClure, 
+305 
+U.S. 472
+, 59 S.Ct. 335. 
+[
+Footnote 11
+] Act of April 12, 1900, c. 191, 31 Stat. 77. 
+[
+Footnote 12
+] Act of March 2, 1917, c. 145, 39 Stat. 951, 48 U.S.C.A.  731 et seq. 
+[
+Footnote 13
+] See, Garzot v. Rios de Rubio, 
+209 
+U.S. 283, 302
+, 28 S.Ct. 548, 556. 
+[
+Footnote 14
+] Nadal v. May, 
+233 
+U.S. 447, 454
+, 34 S.Ct. 611, 612. 
+[
+Footnote 15
+] Santa Fe Cent. R. v. Friday, 
+232 
+U.S. 694, 700
+, 34 S.Ct. 468, 469. 
+
+[
+Footnote 16
+] Phoenix R. Co. v. Landis, 
+231 
+U.S. 578, 579
+, 34 S.Ct. 179, 180. 
+[
+Footnote 17
+] De Villanueva v. Villanueva, 
+239 
+U.S. 293, 299
+, 36 S.Ct. 109, 111; Waialua Co. v. Christian, 
+305 
+U.S. 91, 109
+, 59 S.Ct. 21, 30; Inter-Island Co. v. Hawaii, 
+305 
+U.S. 306, 311
+, 59 S.Ct. 202. 
+[
+Footnote 18
+] Diaz v. Gonzalez, 
+261 
+U.S. 102, 105
+, 106 S., 43 S.Ct. 286, 287. 
+[
+Footnote 19
+] Cordova v. Folgueras Y Rijos, 
+227 
+U.S. 375, 378
+, 379 S., 33 S.Ct. 350, 351. 
+
+
+
+

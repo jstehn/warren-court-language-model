@@ -1,0 +1,92 @@
+Description: STALLINGS v. SPLAIN , 253 U.S. 339 (1920)
+Date: 1920-06-01 00:00:00
+Docket: 534
+Opinion
+
+
+United States Supreme Court
+STALLINGS v. SPLAIN(1920)
+No. 534
+Argued: April 23, 1920Decided: June 1, 1920
+
+
+
+
+[253 U.S. 339, 340]
+ 
+ Mr. William B. Jaynes, of Washington, D. C., for appellant.
+ Mr. Solicitor General King, for appellee.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ Stallings was indicted in the District Court of the United States for the District of Wyoming for embezzling moneys intrusted to him as United States commissioner. Being in the District of Columbia, he was arrested there by Splain, marshal for the District, and was detained to await the institution of proceedings for his removal. In making the arrest Splain had relied, not upon a warrant issued by a commissioner for the District, but upon a bench warrant issued to the marshal for the district of Wyoming on the indictment. Stallings filed immediately in the Supreme Court of the District of Columbia a petition for writ of habeas corpus, contending, for this reason apparently, that the arrest and detention were illegal. The writ issued, Splain produced the body, the hearing on the writ was postponed, and Stallings was admitted to bail.
+ While he was at large on bail, awaiting a hearing in the habeas corpus proceedings, an affidavit of complaint was filed before a United States commissioner for the District, setting forth the same offenses charged in the indictment. A warrant issued thereon, but Stallings was not arrested. He appeared voluntarily before the commissioner, admitted his identity and that he held the office named at the times the offenses were charged to have been committed, declined to offer any evidence, and moved that he be discharged. The commissioner denied the motion. Then, certified copies of the indictment and other papers having been introduced, he found probable cause. No order was made that Stallings be held to await an application for his removal. He requested that he be admitted to bail for his appearance in Wyoming to answer the charges 
+
+[253 U.S. 339, 341]
+ 
+ against him. The bail was fixed at $2,000 and was furnished.
+ After this Splain filed a return to the petition for writ of habeas corpus, setting up the above facts, and Stallings demurred. He also secured, in aid of the habeas corpus proceeding, a writ of certiorari, by which all proceedings before the United States commissioner were certified to the Supreme Court of the District. The case was then heard both upon the demurrer to the petition for writ of habeas corpus and upon the return to the writ of certiorari. The demurrer was overruled; and, Stallings electing to stand thereon, the court dismissed the petition for a writ of habeas corpus and discharged the writ issued thereon. The petition for a writ of certiorari and the writ issued thereon were also dismissed, and the proceedings were remanded to the commissioner for further action. Stallings appealed to the Court of Appeals for the District, which affirmed the final order below. 49 App. D. C. 38, 258 Fed. 510. It is contended here that Stallings should be discharged: (a) Because the original arrest and detention on the bench warrant were illegal and the later proceedings before the commissioner were without jurisdiction, since he could not legally be rearrested for the same offense until the habeas corpus proceeding had been disposed of; (b) because the affidavit and the indictment fail to charge a crime against the United States.
+ First. The original arrest and detention were lawful. A person, duly charged with a felony in one state, may, if he flees to another, be arrested, without a warrant, by a peace officer in the state in which he is found, and be detained for the reasonable time necessary to enable a requisition to be made. Burton v. New York Central Railroad, 
+245 
+U.S. 315, 318
+, 38 S. Sup. Ct. 108. See Kurtz v. Muffitt, 
+115 
+U.S. 487, 504
+, 6 S. Sup. Ct. 148. The rule is not less liberal where the fugitive stands charged by an indictment found in one federal district and flees to another. See 
+
+[253 U.S. 339, 342]
+ 
+ 2 Moore on Extradition,  540. If the bench warrant issued in Wyoming was not effective as a warrant wt hin the District of Columbia, the possession of it did not render illegal an arrest which could lawfully have been made without it. It would, at least, serve as evidence that Splain had reasonable cause to believe that a felony had been committed by Stallings. Commonwealth v. Phelps, 209 Mass. 396, 404, 95 N. E. 868, Ann. Cas. 1912B, 566.
+ Second. The pendency of the habeas corpus proceeding did not deprive the commissioner of jurisdiction to entertain the application for arrest on the affidavit of complaint. When Splain, in obedience to the writ, brought Stallings before the court, he passed from thr custody of the marshal into that of the court, and he remained under its protection and control, although enlarged on bail. Barth v. Clise, 12 Wall. 400. But he did not thereby become immune from all other process until the habeas corpus proceedings should been finally disposed of. Commonwealth v. Hall, 9 Gray (Mass.) 262, 69 Am. Dec. 285. Lack of jurisdiction in the commissioner did not follow from the fact that the court had acquired, by virtue of the habeas corpus proceedings, the custody of and control over Stallings. Even if the affidavit of complaint had related to another indictment brought in a different district, the commissioner would have had jurisdiction to entertain it. The question would merely have been whether a second arrest could properly be made where it conflicted with the first. Peckham v. Henkel, 
+216 U.S. 483
+, 30 Sup. Ct. 255; In re Beavers (D. C.) 125 Fed. 988; Id. (C. C.) 131 Fed. 366. Here there could be no conflict; for the second arrest, if it had been made, would have been merely for the purpose of carrying out the first. The government was not precluded from taking such additional proceedings as it might deem necessary or advisable to supplement or perfect those originally instituted. If the original arrest was lawful, the detention would remain legal only for the reasonable time required to enable 
+
+[253 U.S. 339, 343]
+ 
+ appropriate removal proceedings to be instituted. Unless the lawful arrest was promptly followed by such proceedings, the prisoner would be entitled to his discharge. In the Matter of Fetter, 23 N. J. Law, 311, 321, 57 Am. Dec. 382. On the other hand, if the original arrest and detention had been illegal, Stallings would not be entitled to his discharge, if before final hearing in the habeas corpus proceedings legal cause for detaining him had arisen through the institution of removal proceedings. Where it appears that sufficient ground for detention exists a prisoner will not be discharged for defects in the original arrest or commitment. Nishimura Ekiu v. United States, 
+142 U.S. 651
+, 12 Sup. Ct. 336; Iasigi v. Van de Carr, 
+166 U.S. 391
+, 17 Sup. Ct. 595; Kelly v. Griffin, 
+241 
+U.S. 6, 13
+, 36 S. Sup. Ct. 487.
+ Third. The admission to bail by the commissioner to answer the indictment in the district of Wyoming was upon this own request on advice of counsel. When this bail was given no application had been made to the court for his removal, and there had not even been an order of the commissioner that he be held to await such application. He ceased, therefore, to be in the position ordinarily occupied by one who is contesting the validity of his detention and who has been released on bail pending the habeas corpus proceeding. Sibray v. United States, 185 Fed. 401, 107 C. C. A. 483. Stallings' position was thereafter no better than if he had applied for the writ after he had given bail. It is well settled that under such circumstances a petitioner is not entitled to be discharged on habeas corpus. Respublica v. Arnold, 3 Yeates (Pa.) 263; Dodge's Case, 6 Mart. O. S. (La.) 569; State v. Buyck, 1 Brev. (S. C.) 460. Being no longer under actual restraint within the District of Columbia he was not entitled to the writ of habeas corpus. Wales v. Whitney, 
+114 U.S. 564
+, 5 Sup. Ct. 1050.
+ Furthermore by voluntarily giving bail to appear in Wyoming, the purpose of h e removal proceedings had been accomplished, and all questions in controversy in the habeas corpus and in the removal proceedings terminated. 
+
+[253 U.S. 339, 344]
+ 
+ Whether his arrest and detention had originally been valid was thereby rendered immaterial. In re Esselborn (C. C.) 8 Fed. 904. And likewise the question whether there was a right then to remove him. Compare Cheong Ah Moy v. United States, 
+113 U.S. 216
+, 5 Sup. Ct. 431; Ex parte Baez, 
+177 U.S. 378
+, 30 Sup. Ct. 673.
+ Fourth. Stallings' contention that he should be discharged, because the indictment failed to charge a crime under the laws of the United States, is also unfounded. He was indicted under section 97 of the Penal Code,1 which declares that any officer of the United States who shall embezzle any money which may have come into his possession in the execution of such office or under claim of authority as such officer shall be punished. The indictment charges Stallings with having received as commissioner divers sums of money from persons named, to be paid over to the receiver of the land office at Cheyenne, and embezzling the same. It is contended that the money could not have been received as commissioner for transmission, because it is not among the statutory duties of a commissioner. But section 2294 of the Revised Statutes, as amended by Act March 4, 1904, c. 394, 3 Stat. 59 (Comp. St.  4546), provides that, where applicants for the benefit of the homestead and other land laws make the required affidavits before commissioners of the United States, the proof so made shall have the same effect as if made before the register and receiver, 'when transmitted to them with the fees and commissions allowed and required by law.' The circular issued by the Land Office in 1905 (33 Land Dec. 480, 481), containing 'Suggestions to United States Commissions,' etc., directs that the proofs so taken be 'transmitted to the register and receiver with the necessary fees and commissions.' And the circular issued in 1915 (44 Land Dec. 350, 352) directs that in 'no case should the transmittal thereof be left to the claimant.'
+ Duties of an officer may be prescribed by rule. If the validity of the indictment was open to reasonable doubt, 
+
+[253 U.S. 339, 345]
+ 
+ it was to be resolved, not by the committing magistrate, but, after the removal, by the court which found the indictment. Beavers v. Henkel, 
+194 
+U.S. 73, 83
+, 24 S. Sup. Ct. 605; Benson v. Henkel, 
+198 
+U.S. 1, 10
+, 11 S., 12, 25 Sup. Ct. 569; Haas v. Henkel, 
+216 
+U.S. 462, 481
+, 30 S. Sup. Ct. 249, 17 Ann. Cas. 1112
+
+
+ Affirmed. 
+
+Footnotes
+
+[
+Footnote 1
+] Comp. St.  10265. 
+
+
+
+

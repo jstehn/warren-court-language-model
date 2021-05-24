@@ -1,0 +1,185 @@
+Description: EX PARTE BALDWIN , 291 U.S. 610 (1934)
+Date: 1934-03-19 00:00:00
+Docket: 19
+Opinion
+
+
+United States Supreme Court
+EX PARTE BALDWIN(1934)
+No. 19
+Argued: Decided: March 19, 1934
+
+
+
+
+
+[291 U.S. 610, 612]
+ 
+ Messrs. Robert H. Kelley and Harry R. Jones, both of Houston, Tex., Edward J. White, of St. Louis, Mo., and Frank Andrews, of Houston, Tex., for petitioners.
+ Mr. Lon E. Blankenbecker, of Houston, Tex. (Mr. Richard W. Franklin, of Houston, Tex., of counsel), for respondents.
+
+ Mr. Justice BRANDEIS delivered the opinion of the Court.
+ This petition for a writ of mandamus, filed in this Court by leave, prays that the federal court for Southern Texas and Thomas M. Kennerly, judge thereof, be commanded to take jurisdiction, on a petition for removal, of a suit instituted in a state court of Texas by Tyrrell-Garth Investment Company. The petitioners are the defendants in that suit. 
+1
+ Two of them, Baldwin and Thompson, are the trustees in bankruptcy of the Missouri Pacific Railroad system and are operating it. They were appointed by orders of the federal court for Eastern Missouri entered in proceedings for reorganization under section 77 of the Bankruptcy Act as amended March 3, 1933, c. 204,  1, 47 Stat. 1474 (11 USCA  205). The other two petitioners are Texas corporations-Houston North Shore Railway Company and Beaumont, Sour Lake & Western Railway Company-and are parts of the Missouri Pacific system. 
+2
+ 
+
+[291 U.S. 610, 613]
+ 
+ The federal court entered an order denying the petition for removed and returned the papers to the petitioners, on the ground that it appears from the petition for removal that the suit is not one in which it is sought to hold the trustees 'responsible in their own person and/or property but only in their representative capacity. See Ruff v. Gay (D.C.) 3 F.Supp. 264; Id. (C.C.A.) 67 F.(2d) 684.' The trustees claim that they are entitled to a writ of mandamus, because the suit in the state court is removable under section 33 of the Judicial Code as amended by Act of August 23, 1916, c. 399, 39 Stat. 532 (28 USCA  76), being an action against officers of a court 'of the United States on account of acts done under color of their office and in performance of their duties as such officers.' 
+3
+ 
+
+ The petition for mandamus alleges that among the properties of which the trustees took possession is an interurban railway in Texas, owned by the Houston North Shore Railway and leased to the Beaumont, Sour Lake & Western Railway; that they had taken possession of this property prior to the institution of the suit in the state court; and that the necessary effect of the institution and prosecution of the suit in the state court 'is and will be to materially interfere with and obstruct the jurisdiction and powers of the federal court for eastern Missouri, with respect to the properties and assets of said debtors, the Beaumont, Sour Lake & Western Railway Company and Houston North Shore Railway Company, and each of them.'
+ The petition for mandamus shows further, by reference to the complaint of the investment company, that a part 
+
+[291 U.S. 610, 614]
+ 
+ of the interurban railway's right of way had been acquired by mesne conveyance from the predecessor in title of the investment company; that, after the trustees took possession of this interurban railway, the investment company brought the suit in the state court in which it claims that it is the owner of the fee of a part of the land over which the railway extends, and that the easement of right of way has been forfeited by failure of the Texas corporations and the trustees to operate trains thereon in accordance with the conditions contained in a contract which accompanied the grant of the right of way,4 and prayed as follows: That the deeds conveying the right of way be canceled; that they be 'annulled and held for naught as an existing cloud upon plaintiff's title to the lands and properties therein conveyed'; that the two railways and the trustees be enjoined from making further use of the lands for the operation of the interurban railway or otherwise; and that the complainant recover from Houston North Shore Railway and the trustees 'in their capacity as trustees' damages in the sum of $150,000.
+ We are of opinion that the trustees may be entitled to have their controversy with the investment company adjudicated in the federal court, but are not entitled to the remedy of mandamus, because, to secure adjudication in the federal court of their rights and duties, they could have applied, and still can apply so far as now appears, either in the original bankruptcy proceeding, or by an ancillary bill in Texas, for an injunction to restrain the investment company from prosecuting its suit in the state court. 
+
+[291 U.S. 610, 615]
+ 
+ First. All property in the possession of a bankrupt of which he claims the ownership passes, upon the filing of a petition in bankruptcy, into the custody of the court of bankruptcy. To protect its jurisdiction from interference, that court may issue an injunction. The power is not peculiar to bankruptcy or to the federal courts. It is an application of the general principle that, where a court of competent jurisdiction has, through its officers, taken property into its possession, the property is thereby withdrawn from the jurisdiction of other courts. Having possession, the court may not only issue all writs necessary to protect its possession from physical interference, but is entitled to determine all questions respecting the same. Julian v. Central Trust Co., 
+193 
+U.S. 93, 112
+, 24 S. Ct. 399; compare Riehle v. Margolies, 
+279 
+U.S. 218, 223
+, 49 S.Ct. 310; Straton v. New, 
+283 
+U.S. 319
+, 51 S.Ct. 465. The jurisdiction in such cases is exclusive of the jurisdiction of other courts, although otherwise the controversy would be cognizable in them. Murphy v. John Hofman Co., 
+211 
+U.S. 562, 569
+, 29 S.Ct. 154. In bankruptcy, this rule applies regardless of whether the property is located in the district in which the bankruptcy proceeding originated. The injunction to protect its possession may issue either from the court of original jurisdiction or from the fedeal court for the district in which the state court suit is brought or in which the plaintiff in that suit resides. Isaacs v. Hobbs Tie & Timber Co., 
+282 
+U.S. 734, 737
+, 738 S., 51 S.Ct. 270.5
+ Second. It is immaterial that the investment company, after the petition for removal had been presented to the federal court, amended its complaint in the state court by striking therefrom so much of the prayer as sought to enjoin the two railways and the trustees from 
+
+[291 U.S. 610, 616]
+ 
+ making further use of the lands for operation of the interurban railway or otherwise. 
+6
+ The purpose of the amendment was evidently to confine the litigation in the state court to the issue of the right and title to the property, as distinguished from its use during the pendency of the bankruptcy proceedings, in the hope of thereby removing the obvious interference with the jurisdiction of the bankruptcy court. But the exclusive jurisdiction acquired by the bankruptcy court through taking possession of the interurban railway under claim of title was not limited to the prevention of interference with the use of the land. Compare Board of Trade of City of Chicago v. Johnson, 
+264 
+U.S. 1, 11
+, 44 S.Ct. 232; Taubel-Scott-Kitzmiller Co. v. Fox, 
+264 
+U.S. 426, 433
+, 44 S.Ct. 396. The jurisdiction extends also to the adjudication of questions respecting the title. White v. Schloerb, 
+178 
+U.S. 542
+, 20 S.Ct. 1007; In re Eppstein (C.C.A.) 156 F. 42, 17 L.R.A.(N.S.) 465. Compare Wabash Railroad v. Adelbert College, 208 U.S 38, 54, 28 S.Ct. 182; Security Mortgage Co. v. Powers, 
+278 
+U.S. 149, 153
+, 49 S.Ct. 84. 7
+ Third. The inherent power of the bankruptcy court to protect its jurisdiction, over property of which it has taken possession, from interference by suit thereafter begun in a state court, has not been abridged by any legis- 
+
+[291 U.S. 610, 617]
+ 
+ lation of Congress. The power is expressly reserved to the bankruptcy court in Judicial Code  265 (28 USCA  379), which contains the general prohibition against staying proceedings in state courts. Nor is this power of the bankruptcy court affected by section 23(a) of the Bankruptcy Act of 1898, c. 541, 30 Stat. 552, 11 USCA 46(a), which declares:
+'The United States district courts shall have jurisdiction of all controversies at law and in equity, as distinguished from proceedings in bankruptcy, between trustees as such and adverse claimants concerning the property acquired or claimed by the trustees, in the same manner and to the same extent only as though bankruptcy proceedings had not been instituted and such controversies had been between the bankrupts and such adverse claimants.'
+
+ That section relates only to suits in which the trustees are plaintiffs. It has no restrictive effect on the right of trustees or receivers to protect their possession or title through proceedings in the bankruptcy court. 
+8
+ 
+
+ Nor is the inherent power of the bankruptcy court to protect its jurisdiction in respect to property of which it has taken possession abridged by Judicial Code  66 (28 USCA  125), which declares:
+'Every receiver or manager of any property appointed by any court of the United States may be sued in respect of any act or transaction of his in carrying on the business connected with such property, without the previous leave of the court in which such receiver or manager was appointed; but such suit shall be subject to the general equity jurisdiction of the court in which such manager or receiver was appointed so far as the same may be necessary to the ends of justice.' 
+
+[291 U.S. 610, 618]
+ 
+ That section does not abridge the exclusive jurisdiction of the court over property of which it has taken possession. In re Tyler, 
+149 
+U.S. 165, 182
+, 184 S., 13 S.Ct. 785.9
+
+ Fourth. It is true that the investment company seeks, in addition to the adjudication of the forfeiture of the right of way, damages 'in the sum of $150,000' from the two railways and 'from the trustees in their said capacity as trustees' for failure to maintain the daily schedule of passenger trains set forth in the contract. This prayer of the complaint is no bar to staying the suit in the state court. The exclusive jurisdiction of the bankruptcy court is determined by the main purpose of the suit, which is to have the forfeiture declared and the alleged cloud upon title removed. The claim for damages is merely an incident. Moreover, the breach of contract for which damages are claimed is not 'an act or transaction of the 'trustees' in carrying on the business connected with such property.' The breach alleged is that of 'wholly' ceasing to maintain the passenger train schedule. It is alleged that this breach had occurred months before the commencement of the bankruptcy proceeding. The only wrong with which the trustees are charged is in not 'now maintaining' the service. Such nonfeasance is not an 'act or transaction' within the meaning of section 66 (28 USCA  125).10
+ We have no occasion to determine otherwise the scope of Judicial Code  33, as amended (28 USCA  76). Nor need we consider whether the federal court, if it had entertained the petition for removal, would have been obliged to dismiss the suit on the ground that the state court was without jurisdiction because the bankruptcy court had possession of the res. 
+
+[291 U.S. 610, 619]
+ 
+ Compare Isaacs v. Hobbs Timber & Tie Co., 
+282 
+U.S. 734, 738
+, 739 S., 51 S.Ct. 270; Lambert Run Coal Co. v. Baltimore & Ohio R.R. Co., 
+258 
+U.S. 377, 382
+, 42 S.Ct. 349.11 It is sufficient that the extraordinary remedy of mandamus should be denied, because the trustees may by the common remedy of injunction prevent any interference with the jurisdiction of the bankruptcy court. Compare Ex parte Park Square Automobile Station, 
+244 
+U.S. 412, 414
+, 37 S.Ct. 732; Ex parte Riddle, 
+255 
+U.S. 450
+, 41 S.Ct. 370; Ex parte Krentler- Arnold Hinge Last Co., 
+286 
+U.S. 533
+, 52 S.Ct. 621. Moreover, the bankruptcy court might, in the exercise of its discretion, conclude that it is desirable to have the litigation proceed in the state court. 
+12
+ 
+
+ Rule discharged. 
+
+Footnotes
+
+[
+Footnote 1
+] There is another defendant in the state court suit (Johnson) who did not join in the petition for removal. The allegations concerning him are not here material. 
+[
+Footnote 2
+] All the stock of these corporations is owned by New Orleans, Texas & Mexico Railway Company; and nearly all of the latter's voting stock is owned by the Missouri Pacific. 
+
+[
+Footnote 3
+] Judicial Code  33 as amended (28 USCA  76) provides: 'When any civil suit ... is commenced in any court of a State ... against any officer of the courts of the United States for or on account of any act done under color of his office or in the performance of his duties as such officer ... the said suit ... may at any time before the trial or final hearing thereof be removed for trial into the district court ... in the district where the same is pending.'
+
+
+[
+Footnote 4
+] The contract provided for an easement subject to forfeiture for nonuser for the purpose of an interurban railroad. 'Nonuser' is defined as failure to operate the railroad for 30 successive days; and 'operation' as involving a passenger schedule over which first-class coaches must run over the entire line by electric or gas engines on a regular schedule of at least one train not less than every two hours of each day from 6 o'clock a.m. until 12 o'clock midnight.
+
+
+[
+Footnote 5
+] See In re Patterson Lumber Co. (D.C.) 228 F. 916; Id. (D.C.) 247 F. 578; In re Lookout Mountain Co. (D.C.) 50 F.(2d) 421. As to railroads, see section 77 added to the Bankruptcy Act by Act of March 3, 1933, c. 204,  1, 47 Stat. 1467, 1474 (11 USCA  205).
+
+
+[
+Footnote 6
+] From the answer to the petition for removal filed by the investment company in the federal court it appears that, after the filing of the petition for removal, and before action thereon by the federal court, the investment company had moved in the state court to dismiss so much of the prayer in its suit as seeks an injunction against the trustees in their official capacity and the two railway companies; and that the state court granted the motion 'without prejudice to the plaintiff hereafter to seek such injunction against said defendant railway companies when and if they shall be discharged from jurisdiction and control of' the federal court for Eastern Missouri. We have no occasion to consider the effect of the amendment so far as concerns the right of removal. 
+[
+Footnote 7
+] Whitney v. Wenman, 
+198 
+U.S. 539
+, 25 S.Ct. 778; In re Rochford (C.C.A.) 124 F. 182, 186; In re Moody (D.C.) 131 F. 525; Fidelity Trust v. Gaskell (C.C.A.) 195 F. 865; In re Dialogue (D.C.) 241 F. 290; cases in note 8, infra.
+
+
+[
+Footnote 8
+] J.I. Case Plow Works v. Finks (C.C.A.) 81 F. 529; In re McCallum (D. C.) 113 F. 393; In re Lipman (D.C.) 201 F. 169; In re Williams (D.C.) 53 F.( 2d) 486.
+
+
+[
+Footnote 9
+] See, also, New River Coal Co. v. Ruffner Bros. (C.C.A.) 165 F. 881; Dickinson v. Willis (D.C.) 239 F. 171. 
+[
+Footnote 10
+] Compare Buckhannon & N.R. Co. v. Davis (C.C.A.) 135 F. 707, 711; Love v. Louisville R. Co. (C.C.) 178 F. 507; Dickinson v. Willis (D.C.) 239 F. 171; Field v. Kansas City Refining Co. (C.C.A.) 296 F. 800; Id. (C. C.A.) 9 F.(2d) 213.
+
+
+[
+Footnote 11
+] Compare In re Zehner (D.C.) 193 F. 787; First Trust Co. v. Baylor ( C.C.A.) 1 F.(2d) 24, 27. See note 12, infra. 
+[
+Footnote 12
+] McHenry v. La Socie te Francaise, 
+95 U.S. 58
+; In re Johnson (D.C.) 127 F. 618; In re Zehner (D.C.) 193 F. 787; First Trust Co. v. Baylor (C.C.A.) 1 F.(2d) 24, 27; In re Schulte-United (D.C.) 50 F.(2d) 243; In re Gas Products Co. (D.C.) 57 F.(2d) 342; compare In re Schermerhorn (C.C.A.) 145 F. 341; In re Locust Bldg. (D.C.) 272 F. 988; Field v. Kansas City Refining Co. (C.C.A.) 296 F. 800; Id. (C.C.A.) 9 F.( 2d) 213. 
+
+
+
+

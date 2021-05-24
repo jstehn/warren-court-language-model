@@ -1,0 +1,69 @@
+Description: GLICKSTEIN v. US , 222 U.S. 139 (1911)
+Date: 1911-12-04 00:00:00
+Docket: 486
+Opinion
+
+
+United States Supreme Court
+GLICKSTEIN v. U S(1911)
+No. 486
+Argued: Decided: December 4, 1911
+
+
+
+ Messrs. N. P. Bryan and John E. Hartridge for Glickstein.
+ Solicitor General Lehmann for the United States. 
+
+[222 U.S. 139, 140]
+ 
+
+ Mr. Chief Justice White delivered the opinion of the court:
+ Glickstein, an adjudicated bankrupt, was indicted for perjury in having falsely sworn in the bankruptcy proceeding, while under examination before a referee, as required by the 7th section, subdiv. 9, of the bankrupt act of 1898 [30 Stat. at L. 548, chap. 541, U. S. Comp. Stat. 1901, p. 3425]. The indictment was demurred to on the following grounds: '( a) A prosecution for perjury against a bankrupt at a meeting of his creditors will not lie; (b) The indictment was based upon testimony given by the bankrupt, affecting the administration and settlement of his estate ; (c) A person cannot be compelled in any criminal case to be a witness against himself.' At the trial which followed the overruling of the demurrer, the testimony of Glickstein, which was the subject of the indictment, was offered and objected to on the same grounds upon which the demurrer was based, and exceptions were taken to the admission of the testimony in evidence.
+ When the legality of a conviction and sentence of Glickstein was before the court below, as the result of error prosecuted by him, the court, stating the facts which we have recited, certified the following question: 'Is subsec. 9 and the immunity afforded by it applicable to a prosecution for perjury committed by the bankrupt when examined under it?'
+ Section 7, subdiv. 9, which we are required to consider in order to solve the question, is as follows:
+'The bankrupt shall . . . (9) when present at the first meeting of his creditors, and at such other times as the court shall order, submit to an examination concerning the conducting of his business, the cause of his bankruptcy, his dealings with his creditors and other persons, the amount, kind, and whereabouts of his property, and, in addition, all matters which may affect the administration and settlement of his estate; but no testimony given 
+
+[222 U.S. 139, 141]
+ 
+ by him shall be offered in evidence against him in any criminal proceeding.'
+
+ It is difficult to determine from the contentions urged in favor of an affirmative answer, whether it is deemed the solution of the problem requires us to decide a question of constitutional right, or simply calls for an interpretation of the provision of the bankrupt act to which the question relates. To exclude irrelevant matter, and to confine our attention to the precise subject to be passed upon, we state certain propositions which are not open to controversy, because foreclosed by decisions of this court, or which, if not expressly foreclosed, are so indubitably the result of settled principles as to cause them also to be not subject to reasonable dispute.
+ 1st. It is undoubted that the constitutional guaranty of the 5th Amendment does not deprive the lawmaking authority of the power to compel the giving of testimony, even although the testimony, when given, might serve to incriminate the one testifying, provided immunity be accorded, the immunity, of course, being required to be complete; that is to say, in all respects commensurate with the protection guaranteed by the constitutional limitation. The authorities which establish this elementary proposition are too numerous to be cited, and we therefore simply refer to a few of the leading cases on the subject: Counselman v. Hitchcock, 
+142 U.S. 547
+, 35 L. ed. 1110, 3 Inters. Com. Rep. 816, 12 Sup. Ct. Rep. 195; Brown v. Walker, 
+161 U.S. 591
+, 40 L. ed. 819, 5 Inters. Com. Rep. 369, 16 Sup. Ct. Rep. 644; Burrell v. Montana, 
+194 
+U.S. 572, 578
+, 48 S. L. ed. 1122, 1123, 24 Sup. Ct. Rep. 787; Jack v. Kansas, 
+199 U.S. 372
+, 50 L. ed. 234, 26 Sup. Ct. Rep. 73, 4 A. & E. Ann. Cas. 689; Ballmann v. Fagin, 
+200 
+U.S. 186, 195
+, 50 S. L. ed. 433, 437, 26 Sup. Ct. Rep. 212; Hale v. Henkel, 
+201 
+U.S. 43, 66
+, 50 S. L. ed. 652, 662, 26 Sup. Ct. Rep. 370; and Heike v. United States, 
+217 U.S. 423
+, 54 L. ed. 821, 30 Sup. Ct. Rep. 539.
+ 2d. As the authority which the proposition just stated embraces exists, and as the sanction of an oath and the imposition of a punishment for false swearing are inherently a part of the power to compel the giving of testimony, they are included in that grant of authority, and are not prohibited by the immunity as to self-incrimination. Of 
+
+[222 U.S. 139, 142]
+ 
+ course, this proposition is essentially the resultant of the first, since, unless it be well founded, the first also must be wanting in foundation. This must be the result, as it cannot be conceived that there is power to compel the giving of testimony where no right exists to require that the testimony shall be given under such circumstances and safeguards as to compel it to be truthful. In other words, this is but to say that an authority which can only extend to the licensing of perjury is not a power to compel the giving of testimony. Of course, these propositions being true, it is also true that the immunity afforded by the constitutional guaranty relates to the past, and does not endow the person who testifies with a license to commit perjury. That this is not disputable is shown by the fact that it has been accepted as self-evident in providing for immunity for one compelled to testify, as shown by the reservation in Rev. Stat.  860 (U. S. Comp. Stat. 1901, p. 661), declaring that the immunity shall not extend to 'exempt any party or witness from prosecution and punishment for perjury committed in discovering or testifying as aforesaid,' and by a like provision, contained in the act of February 11, 1893 (27 Stat. at L. p. 443, chap. 83, U. S. Comp. Stat. 1901, p. 3173). The first of these provisions was considered in Counselman v. Hitchcock, supra, and the second in Brown v. Walker, supra, where it was expressly decided that the statute containing it complied with the constitutional guaranty.
+ With these propositions in hand, it follows that the precise question for decision is, Did the guaranty of immunity contained in the 9th subdivision of  7 of the bankrupt act bar a prosecution for perjury for false swearing in giving testimony under the command of the section? In other words, the sole question is, Does the statute, in compelling the giving of testimony, confer an immunity wider than that guaranteed by the Constitution? The argument to maintain that it does is that, as the statute provides for immunity, and does not contain the 
+
+[222 U.S. 139, 143]
+ 
+ reservation found in either  860, Rev. Stat., or that embodied in the act of 1893, therefore, under the rule that the inclusion of one is the exclusion of the other, such reservation cannot be implied. Or, to state the proposition in another form, it is that as the statute in the immunity clause says, 'But no testimony given by him (the witness who is compelled to be examined) shall be offered in evidence against him in any criminal proceeding,' and as these words are unambiguous, there is no room for limiting the language so as to cause the immunity provision not to prohibit the offer of the testimony in a criminal prosecution for perjury. But the contention assumes the question for decision, since it excludes the possibility of construction when, on the face of the statute, the meaning attributed to the immunity clause cannot be given to it without destroying the words of the statute and frustrating its obvious object and intent. This may not be denied, since the statute expressly commands the giving of testimony, and its manifest purpose is to secure truthful testimony, while the limited and exclusive meaning which the contention attributes to the immunity clause would cause the section to be a mere license to commit perjury, and hence not to command the giving of testimony in the true sense of the word.
+ The argument that because the section does not contain an expression of the reservation of a right to prosecute for perjury in harmony with the reservations in Rev. Stat., 860, and the act of 1893, therefore it is to be presumed that it was intended that no such right should exist, we think, simply begs the question for decision, since it is impossible in reason to conceive that Congress commanded the giving of testimony, and at the same time intended that false testimony might be given with impunity, in the absence of the most express and specific command to that effect.
+ Bearing in mind the subject dealt with, we think the reservation of the right to prosecute for perjury, made in the 
+
+[222 U.S. 139, 144]
+ 
+ statutes to which we have referred, was but the manifestation of abundant caution; and hence, the absence of such reservation in the statute under consideration may not be taken as indicative of an intention on the part of Congress that perjury might be committed at pleasure.
+ Some of the considerations which we have pointed out were accurately expounded in Edelstein v. United States, 9 L.R.A.(N.S.) 236, 79 C. C. A. 328, 149 Fed. 636, by the circuit court of appeals for the eighth circuit, and in Wechsler v. United States, 86 C. C. A. 37, 158 Fed. 579, by the circuit court of appeals for the second circuit. And this leads us to observe that the necessary result of the conclusion now reached is to disapprove the opinions in Re Marx, 102 Fed. 676, and Re Logan, 102 Fed. 876.
+ It follows that the question propounded must receive a negative answer, and our order will be, question certified answered 'No.' 
+
+
+
